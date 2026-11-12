@@ -432,35 +432,35 @@
       }
 
       .cd-primary-nav .cd-nav-icons .cd-nav-item.item-1::before {
-         background-image: url(img/line-icon-1.php)
+         background-image: none
       }
 
       .cd-primary-nav .cd-nav-icons .cd-nav-item.item-2::before {
-         background-image: url(img/line-icon-2.php)
+         background-image: none
       }
 
       .cd-primary-nav .cd-nav-icons .cd-nav-item.item-3::before {
-         background-image: url(img/line-icon-3.php)
+         background-image: none
       }
 
       .cd-primary-nav .cd-nav-icons .cd-nav-item.item-4::before {
-         background-image: url(img/line-icon-4.php)
+         background-image: none
       }
 
       .cd-primary-nav .cd-nav-icons .cd-nav-item.item-5::before {
-         background-image: url(img/line-icon-5.php)
+         background-image: none
       }
 
       .cd-primary-nav .cd-nav-icons .cd-nav-item.item-6::before {
-         background-image: url(img/line-icon-6.php)
+         background-image: none
       }
 
       .cd-primary-nav .cd-nav-icons .cd-nav-item.item-7::before {
-         background-image: url(img/line-icon-7.php)
+         background-image: none
       }
 
       .cd-primary-nav .cd-nav-icons .cd-nav-item.item-8::before {
-         background-image: url(img/line-icon-8.php)
+         background-image: none
       }
 
       @media only screen and (max-width:1169px) {
@@ -13107,13 +13107,6 @@
          background-repeat: no-repeat;
          background-color: #dbdbdb;
          background-position: 20px 0
-      }
-
-      @media (-webkit-min-device-pixel-ratio:2),
-      (min-resolution:192dpi) {
-         .iti__flag {
-            background-image: url(../frameworks/public/images/flags@2x.png)
-         }
       }
 
       .iti__flag.iti__np {
