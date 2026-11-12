@@ -1,54 +1,40 @@
-import type { Metadata } from "next";
-import { Montserrat } from "next/font/google";
-import "./globals.css";
-import { CookieBanner } from "@/components/layout/CookieBanner";
-import { Footer } from "@/components/layout/Footer";
-import { Header } from "@/components/layout/Header";
-import { QuoteProvider } from "@/components/layout/QuoteProvider";
-import { site } from "@/lib/site";
-
-const montserrat = Montserrat({
-  subsets: ["latin"],
-  display: "swap",
-  variable: "--font-montserrat",
-  weight: ["400", "500", "600", "700", "800"],
-});
+import type { Metadata, Viewport } from "next";
+import SiteHeader from "@/components/home/SiteHeader";
+import SiteFooter from "@/components/home/SiteFooter";
+import TemplateScripts from "@/components/home/TemplateScripts";
 
 export const metadata: Metadata = {
-  title: {
-    default: `${site.name} — Web & Mobile App Development`,
-    template: `%s | ${site.name}`,
-  },
-  description: site.description,
-  openGraph: {
-    type: "website",
-    siteName: site.name,
-    title: `${site.name} — Web & Mobile App Development`,
-    description: site.description,
-  },
+  title: "Website & Mobile App Development Company in Lahore, Pakistan | KeyDevs",
+  description:
+    "KeyDevs Technologies: a website and mobile app development company in Lahore, Pakistan that offers the best Website and app development services to startups & companies.",
+  openGraph: { siteName: "KeyDevs Technologies", type: "website" },
+  icons: { icon: "/assets/favicon.png" },
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{ children: React.ReactNode }>) {
-  return (
-    <html lang="en" className={montserrat.variable}>
-      <body className="flex min-h-dvh flex-col">
-        <a
-          href="#main-content"
-          className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[110] focus:rounded-md focus:bg-brand focus:px-4 focus:py-2 focus:text-sm focus:font-semibold focus:text-white"
-        >
-          Skip to content
-        </a>
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  themeColor: "#008080",
+};
 
-        <QuoteProvider>
-          <Header />
-          <main id="main-content" className="flex-1">
-            {children}
-          </main>
-          <Footer />
-          <CookieBanner />
-        </QuoteProvider>
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en">
+      <head>
+        {/* Order matters: Font Awesome → Bootstrap → template CSS (same as the original page) */}
+        {/* eslint-disable-next-line @next/next/no-css-tags */}
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+        {/* eslint-disable-next-line @next/next/no-css-tags */}
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" />
+        {/* eslint-disable-next-line @next/next/no-css-tags */}
+        <link rel="stylesheet" href="/css/template.css" />
+      </head>
+      <body>
+        <SiteHeader />
+        <div>{children}</div>
+        <SiteFooter />
+        <TemplateScripts />
       </body>
     </html>
   );
