@@ -1,14 +1,14 @@
-import { SiteHeader } from '@/components/layout/SiteHeader';
-import { HomepageSections } from '@/components/sections/HomepageSections';
-import { getHomepageContent } from '@/lib/cms/homepage';
+import { HeaderSection } from '@/components/layout/Header/Header';
+import { PageContent } from '@/components/layout/PageContent/PageContent';
+import { LegacyScripts } from '@/components/layout/LegacyScripts/LegacyScripts';
 
-export default async function HomePage() {
-  const homepage = await getHomepageContent();
-
+export default function HomePage() {
   return (
     <>
-      <SiteHeader html={homepage.headerHtml} />
-      <HomepageSections sections={homepage.sections} />
+      <a className="scroll-top fas fa-angle-up"></a>
+      <HeaderSection />
+      <PageContent />
+      <LegacyScripts />
     </>
   );
 }
