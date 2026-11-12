@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import type { ReactNode } from 'react';
 import './globals.css';
-import { LegacyScripts } from '@/components/LegacyScripts';
+import { LegacyScripts } from '@/components/layout/LegacyScripts';
 
 export const metadata: Metadata = {
   title: 'KeyDevs Technologies | Web & Mobile App Development',

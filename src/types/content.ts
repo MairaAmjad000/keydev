@@ -1,3 +1,4 @@
+/** Content contracts shared by the CMS adapter and presentation components. */
 export interface CmsSection {
   key: string;
   title: string;
@@ -12,4 +13,10 @@ export interface HomepageContent {
   description: string;
   headerHtml: string;
   sections: CmsSection[];
+  source?: string;
+}
+
+export interface CmsApiError {
+  message: string;
+  status?: number;
 }

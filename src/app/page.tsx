@@ -1,6 +1,6 @@
-import { HomepageSections } from '@/components/HomepageSections';
-import { SiteHeader } from '@/components/SiteHeader';
-import { getHomepageContent } from '@/lib/cms';
+import { SiteHeader } from '@/components/layout/SiteHeader';
+import { HomepageSections } from '@/components/sections/HomepageSections';
+import { getHomepageContent } from '@/lib/cms/homepage';
 
 export default async function HomePage() {
   const homepage = await getHomepageContent();
