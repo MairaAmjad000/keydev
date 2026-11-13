@@ -5,7 +5,7 @@ import { LegacyScripts } from '@/components/layout/LegacyScripts/LegacyScripts';
 export default function HomePage() {
   return (
     <>
-      <a className="scroll-top fas fa-angle-up"></a>
+      <a className="scroll-top fas fa-angle-up" href="#home" aria-label="Back to top"></a>
       <HeaderSection />
       <PageContent />
       <LegacyScripts />

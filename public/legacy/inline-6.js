@@ -228,7 +228,6 @@ $(".lazybg").length && $(".lazybg").lazy(),
             }),
             $(".cd-overlay").on("click", function () {
                 e(),
-                    toggleSearch("close"),
                     $(".cd-overlay").removeClass("is-visible");
             }),
             $(".cd-primary-nav")

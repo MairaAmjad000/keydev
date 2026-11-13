@@ -28701,3 +28701,6 @@ src:
 }
 
 
+
+/* ---- production additions ---- */
+section[id] { scroll-margin-top: 80px; } /* keep anchored sections clear of the fixed header */
