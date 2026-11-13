@@ -201,8 +201,8 @@ export function ScheduleCall({ data, forms }: { data: ScheduleCallContent; forms
                         name="phone"
                         className="form-control contact-phone"
                         required
-                        minLength="10"
-                        maxLength="11"
+                        minLength={10}
+                        maxLength={11}
                         placeholder={data.formControl.placeholder}
                         clearPlaceholderOnFocus
                         restorePlaceholderOnBlur
@@ -272,7 +272,7 @@ export function ScheduleCall({ data, forms }: { data: ScheduleCallContent; forms
                     <textarea
                       name="message"
                       className="form-control"
-                      rows="10"
+                      rows={10}
                       placeholder={data.formControl3.placeholder}
                     />
                     {' '}

@@ -57,7 +57,7 @@ export function CallBackSidebar({ data, forms }: { data: CallBackSidebarContent;
                     <InteractiveInput
                       type="text"
                       className="form-control request-a-all-contact-phone"
-                      maxLength="12"
+                      maxLength={12}
                       placeholder={data.formControl.placeholder}
                       clearPlaceholderOnFocus
                       restorePlaceholderOnBlur

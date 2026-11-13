@@ -43,7 +43,7 @@ export function QuotePopup({ data, forms }: { data: QuotePopupContent; forms: Fo
                     name="phone"
                     className="form-control get-quote-contact-phone"
                     required
-                    maxLength="12"
+                    maxLength={12}
                     placeholder={data.formControl.placeholder}
                     clearPlaceholderOnFocus
                     restorePlaceholderOnBlur
@@ -104,7 +104,7 @@ export function QuotePopup({ data, forms }: { data: QuotePopupContent; forms: Fo
               <textarea
                 name="message"
                 className="form-control"
-                rows="8"
+                rows={8}
                 placeholder={data.formControl3.placeholder}
               />
             </div>
