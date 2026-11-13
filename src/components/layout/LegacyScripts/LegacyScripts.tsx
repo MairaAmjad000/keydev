@@ -42,9 +42,51 @@ function loadAllInOrder(): Promise<void> {
   return loading;
 }
 
+/**
+ * Fallback for `<img class="lazy" data-src="...">`. The jQuery Lazy plugin normally fills in `src`,
+ * but it depends on several CDN scripts loading first. If any of them is blocked or slow, images
+ * would stay blank, so this also promotes `data-src` -> `src` natively as images near the viewport.
+ */
+function setupLazyImageFallback(): () => void {
+  const promote = (img: HTMLImageElement) => {
+    const src = img.getAttribute('data-src');
+    if (src && img.getAttribute('src') !== src) img.setAttribute('src', src);
+  };
+  const pending = () => Array.from(document.querySelectorAll<HTMLImageElement>('img[data-src]'));
+
+  if (typeof IntersectionObserver === 'undefined') {
+    pending().forEach(promote);
+    return () => {};
+  }
+
+  const observer = new IntersectionObserver(
+    (entries) => {
+      for (const entry of entries) {
+        if (!entry.isIntersecting) continue;
+        promote(entry.target as HTMLImageElement);
+        observer.unobserve(entry.target);
+      }
+    },
+    { rootMargin: '300px 0px' },
+  );
+  pending().forEach((img) => observer.observe(img));
+
+  // Carousels (slick) clone slides after load; watch for images added later.
+  const mutations = new MutationObserver(() => {
+    pending().forEach((img) => observer.observe(img));
+  });
+  mutations.observe(document.body, { childList: true, subtree: true });
+
+  return () => {
+    mutations.disconnect();
+    observer.disconnect();
+  };
+}
+
 export function LegacyScripts() {
   useEffect(() => {
     void loadAllInOrder();
+    return setupLazyImageFallback();
   }, []);
   return null;
 }
