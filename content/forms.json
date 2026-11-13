@@ -1,0 +1,130 @@
+{
+  "service": [
+    {
+      "value": "",
+      "label": "-- Select the Service --"
+    },
+    {
+      "value": "Mobile App Development",
+      "label": "Mobile App Development"
+    },
+    {
+      "value": "AR Development",
+      "label": "AR Development"
+    },
+    {
+      "value": "VR Development",
+      "label": "VR Development"
+    },
+    {
+      "value": "Web Development",
+      "label": "Web Development"
+    },
+    {
+      "value": "Game Development",
+      "label": "Game Development"
+    },
+    {
+      "value": "Enterprise Solutions",
+      "label": "Enterprise Solutions"
+    },
+    {
+      "value": "Startup MVP",
+      "label": "Startup MVP"
+    },
+    {
+      "value": "Other",
+      "label": "Other"
+    }
+  ],
+  "region": [
+    {
+      "value": "",
+      "label": "Your Region"
+    },
+    {
+      "value": "Europe",
+      "label": "Europe"
+    },
+    {
+      "value": "North America",
+      "label": "North America"
+    },
+    {
+      "value": "South America",
+      "label": "South America"
+    },
+    {
+      "value": "Asia",
+      "label": "Asia"
+    },
+    {
+      "value": "Africa",
+      "label": "Africa"
+    },
+    {
+      "value": "Australia",
+      "label": "Australia"
+    }
+  ],
+  "budget": [
+    {
+      "value": "",
+      "label": "-- Your Budget --"
+    },
+    {
+      "value": "£0 - £1000",
+      "label": "£0 - £1000"
+    },
+    {
+      "value": "£1000 - £5000",
+      "label": "£1000 - £5000"
+    },
+    {
+      "value": "£5000 - £10000",
+      "label": "£5000 - £10000"
+    },
+    {
+      "value": "£10000 - £20000",
+      "label": "£10000 - £20000"
+    },
+    {
+      "value": "£20000+",
+      "label": "£20000 +"
+    }
+  ],
+  "reference": [
+    {
+      "value": "",
+      "label": "Where Did You Hear About Us?"
+    },
+    {
+      "value": "Google",
+      "label": "Google"
+    },
+    {
+      "value": "Clutch",
+      "label": "Clutch"
+    },
+    {
+      "value": "People Per Hour",
+      "label": "People Per Hour"
+    },
+    {
+      "value": "GoodFirms",
+      "label": "GoodFirms"
+    },
+    {
+      "value": "Personal Reference",
+      "label": "Personal Reference"
+    },
+    {
+      "value": "Social Media",
+      "label": "Social Media"
+    },
+    {
+      "value": "Other",
+      "label": "Other"
+    }
+  ]
+}

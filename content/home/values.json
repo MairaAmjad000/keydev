@@ -1,0 +1,27 @@
+{
+  "text": "Our Value",
+  "heading": "What Sets Us Apart",
+  "text2": "At the core of KeyDevs Technologies lies a team of dreamers and doers, dedicated to delivering exceptional value to our clients. With a unified can-do attitude, the expertise to tackle any challenge, and unwavering integrity, we are committed to doing the right thing at all times.",
+  "items": [
+    {
+      "icon": "svg-968b59",
+      "subheading": "Solution-Oriented Innovators",
+      "text": "For the team at KeyDevs Technologies, every challenge is an opportunity waiting to be conquered."
+    },
+    {
+      "icon": "svg-5c56fc",
+      "subheading": "Deadline-Driven Professionals",
+      "text": "We operate with clockwork precision, ensuring timely delivery of our work as promised."
+    },
+    {
+      "icon": "svg-090fd7",
+      "subheading": "Value Contributors",
+      "text": "We empower our clients to maximize value by selecting the ideal technology for their web and mobile app development needs."
+    },
+    {
+      "icon": "svg-e62fbe",
+      "subheading": "Creators & Innovators",
+      "text": "When traditional methods fall short, innovation becomes essential. Our mobile app developers excel in creating and implementing new solutions."
+    }
+  ]
+}

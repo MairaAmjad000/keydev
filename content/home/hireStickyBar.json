@@ -1,0 +1,26 @@
+{
+  "image": {
+    "src": "/images/footer/handshake.png",
+    "alt": "mobile app development company Pakistan",
+    "width": "300",
+    "height": "136"
+  },
+  "ttl1s": [
+    {
+      "className": "ttl1",
+      "text": "Looking to Hire Developers for Your Next Project?"
+    },
+    {
+      "className": "ttl2",
+      "text": "Talk to KeyDevs Technologies, a recognised Web and Mobile App Development Agency in the Pakistan."
+    }
+  ],
+  "link": {
+    "href": "contact",
+    "text": "Get in Touch Now!"
+  },
+  "close": {
+    "href": "javascript:void(0);",
+    "ariaLabel": "btn close"
+  }
+}

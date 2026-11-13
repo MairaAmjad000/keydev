@@ -1,0 +1,267 @@
+{
+  "text": "Our Offerings",
+  "heading": "Our Tailored Services to Your Needs",
+  "text2": "Explore our web and mobile app development services designed to launch your business, enhance your digital presence, and boost brand awareness. We utilize cutting-edge digital technologies to empower our clients to become leading digital enterprises.",
+  "items": [
+    {
+      "link": {
+        "className": "active",
+        "id": "app-tab",
+        "href": "#app",
+        "ariaControls": "app",
+        "icon": "svg-e15716",
+        "text": "App <span>Development</span>"
+      }
+    },
+    {
+      "link": {
+        "id": "web-tab",
+        "href": "#web",
+        "ariaControls": "web",
+        "icon": "svg-ae0895",
+        "text": "Web <span>Development</span>"
+      }
+    },
+    {
+      "link": {
+        "id": "ar-vr-tab",
+        "href": "#ar-vr",
+        "ariaControls": "ar-vr",
+        "icon": "svg-81d815",
+        "text": "E-Commerce <span>Development</span>"
+      }
+    },
+    {
+      "link": {
+        "id": "game-tab",
+        "href": "#game",
+        "ariaControls": "game",
+        "icon": "svg-514d7b",
+        "text": "Game <span>Development</span>"
+      }
+    },
+    {
+      "link": {
+        "id": "ui-ux-tab",
+        "href": "#ui-ux",
+        "ariaControls": "ui-ux",
+        "icon": "svg-c1ef0b",
+        "text": "UI/UX <span>Design</span>"
+      }
+    }
+  ],
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Mobile App Development",
+    "width": "458",
+    "height": "399"
+  },
+  "link": {
+    "href": "mobile-application-development",
+    "text": "Mobile App Development"
+  },
+  "text3": "Embrace the future of mobility with our expert solutions.",
+  "texts": [
+    {
+      "text": "From setting alarms to playing favorite tunes, users rely on mobile apps for nearly everything. Is your business ready to cater to those living in a mobile-centric world?"
+    },
+    {
+      "text": "For nearly a decade, KeyDevs Technologies has been a leading mobile app development agency, creating apps for various industries. From the start-up social media app Chatagram to the Art of Works Ecommerce app for Alghazi tractors, we have collaborated with a diverse range of partners."
+    },
+    {
+      "text": "Our team of expert app developers has a proven track record in developing mobile applications for Android, iOS, and hybrid solutions."
+    },
+    {
+      "text": "Want to learn more about our mobile app development services? Check out the links below."
+    }
+  ],
+  "items2": [
+    {
+      "link": {
+        "href": "/android-application-development",
+        "ariaLabel": "Android App",
+        "title": "Android App",
+        "icon": "svg-964e31"
+      }
+    },
+    {
+      "link": {
+        "href": "/iphone-app-development",
+        "ariaLabel": "iPhone App",
+        "title": "iPhone App",
+        "icon": "svg-6a7a32"
+      }
+    },
+    {
+      "link": {
+        "href": "/flutter-application-development",
+        "ariaLabel": "Flutter App",
+        "title": "Flutter App",
+        "icon": "svg-4ae67e"
+      }
+    },
+    {
+      "link": {
+        "href": "/cross-platform-mobile-app-development",
+        "ariaLabel": "Cross Platform",
+        "title": "Cross Platform",
+        "icon": "svg-e691d0"
+      }
+    }
+  ],
+  "link2": {
+    "href": "app-development-cost-calculator",
+    "text": "Calculate App Development Cost"
+  },
+  "image2": {
+    "src": "/images/services/web-application-development.webp",
+    "alt": "Web Application Development"
+  },
+  "link3": {
+    "href": "web-development",
+    "text": "Web Development"
+  },
+  "text4": "Elevate your business with our expert web development solutions.",
+  "texts2": [
+    {
+      "text": "From the very beginning, the web has been the driving force behind digital transformation. Accelerate your business growth with our expert web engineering solutions."
+    },
+    {
+      "text": "As one of the leading web app development companies in Pakistan, our developers have extensive experience across various web frameworks, programming languages, and protocols, ensuring all your web development needs are met under one roof."
+    },
+    {
+      "text": "Whether you're building a custom web product, launching an app, or opening an online store, our web development team can bring your vision to life."
+    },
+    {
+      "text": "Want to learn more? Check the links below."
+    }
+  ],
+  "link4": {
+    "href": "php-web-development"
+  },
+  "items3": [
+    {
+      "link": {
+        "href": "/wordpress-development",
+        "icon": "svg-b913de"
+      }
+    },
+    {
+      "link": {
+        "href": "/php-codeigniter-development",
+        "icon": "svg-d419a6"
+      }
+    },
+    {
+      "link": {
+        "href": "/laravel-development",
+        "icon": "svg-75ebd4"
+      }
+    }
+  ],
+  "link5": {
+    "href": "app-development-cost-calculator",
+    "text": "Calculate Web App Development Cost"
+  },
+  "image3": {
+    "src": "/images/services/ecommerce-development.png",
+    "alt": "E-Commerce website and Mobile App Development"
+  },
+  "link6": {
+    "href": "/augmented-reality-app-development",
+    "text": "E-Commerce Development"
+  },
+  "text5": "Transform your business with eCommerce solutions that connect you to customers anytime, anywhere.",
+  "texts3": [
+    {
+      "text": "E-commerce has the potential to revolutionize the way businesses connect with their customers, offering a seamless shopping experience from anywhere, at any time, through just a few clicks on a mobile screen."
+    },
+    {
+      "text": "Retail, fashion, electronics, and even the food industry can all harness the power of eCommerce app development to reach wider audiences and streamline operations."
+    },
+    {
+      "text": "KeyDevs Technologies is proud to be recognized as one of the top eCommerce app developers in Pakistan. We've supported numerous businesses with our expertise and are excited to help make yours our next success."
+    },
+    {
+      "text": "Want to know why KeyDevs Technologies is the best eCommerce app development company in Pakistan? Check the links below."
+    }
+  ],
+  "link7": {
+    "href": "ecommerce-web-development"
+  },
+  "or": "OR",
+  "link8": {
+    "href": "app-development-cost-calculator",
+    "text": "Calculate E-Commerce Development Cost"
+  },
+  "image4": {
+    "src": "/images/services/mobile-game-development.png",
+    "alt": "Mobile Game Development"
+  },
+  "link9": {
+    "href": "/game-development",
+    "text": "Game Development"
+  },
+  "text6": "Build mobile apps that excel in strategy, tackle challenges, and deliver nonstop entertainment.",
+  "texts4": [
+    {
+      "text": "Games have transformed computers into the ultimate entertainment hub. Over time, they have evolved to become incredibly intelligent, intricately detailed, and remarkably challenging. Developing a game is a whole different ball game compared to creating any other digital product."
+    },
+    {
+      "text": "At KeyDevs Technologies, gaming is more than just entertainment; it’s a passion that fuels our entire team. We are dedicated gamers ourselves, constantly analyzing the latest titles to understand their mechanics and what makes them successful. We take these insights and infuse them into the games we create, ensuring your users receive nothing short of the best gaming experience."
+    },
+    {
+      "text": "But don’t just take our word for it—connect with our experts to explore the diverse range of games we’ve developed so far."
+    },
+    {
+      "text": "Want to learn more? Check the links below."
+    }
+  ],
+  "items4": [
+    {
+      "link": {
+        "href": "/ios-game-development",
+        "title": "iOS Game",
+        "icon": "svg-5e47a0"
+      }
+    },
+    {
+      "link": {
+        "href": "/android-game-development",
+        "title": "Android Game",
+        "icon": "svg-b99206"
+      }
+    }
+  ],
+  "link10": {
+    "href": "app-development-cost-calculator",
+    "text": "Calculate Game Development Cost"
+  },
+  "image5": {
+    "src": "/images/services/ux-ui-design.jpg",
+    "alt": "KeyDevs Technologies offers mobile user interface design services in the Pakistan and across the world"
+  },
+  "link11": {
+    "href": "/ui-ux-design-development",
+    "text": "UX & UI Design"
+  },
+  "text7": "Our designs not only look stunning but also ensure seamless, intuitive functionality.",
+  "texts5": [
+    {
+      "text": "Good design goes beyond aesthetics; it enhances functionality and user experience. Whether it’s a mobile app, web application, software, or online store, great design can transform any platform into an exceptional experience."
+    },
+    {
+      "text": "At KeyDevs Technologies, our UI/UX designers are masters of style, form, and color, capable of transforming any interface into an engaging and intuitive surface. They adopt the user’s perspective to create designs that elevate the experience and boost app engagement."
+    },
+    {
+      "text": "Boost your app usage, downloads, retention, and user satisfaction while driving business growth with our UI/UX design expertise."
+    },
+    {
+      "text": "As a leading web and mobile app development agency, would you like to learn more about our UI/UX services? Check the links below."
+    }
+  ],
+  "link12": {
+    "href": "app-development-cost-calculator",
+    "text": "Calculate UX & UI Design Cost"
+  }
+}

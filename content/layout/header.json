@@ -1,0 +1,475 @@
+{
+  "estimateBtn": {
+    "ariaLabel": "Request a Call Back",
+    "href": "javascript:;",
+    "text": "Request a Call Back"
+  },
+  "link": {
+    "href": "/client-review",
+    "image": {
+      "src": "/images/header/clutch-rating-badge.svg",
+      "alt": "KeyDevs Technologies is top rated mobile app Software Company in Lahore, Paksitan, with offices in Islamabad and Multan. Specialising in website and  mobile app design and development for Laravel , iOS and Android.",
+      "width": "88",
+      "height": "25"
+    },
+    "icons": [
+      {
+        "className": "fas fa-star"
+      },
+      {
+        "className": "fas fa-star"
+      },
+      {
+        "className": "fas fa-star"
+      },
+      {
+        "className": "fas fa-star"
+      },
+      {
+        "className": "fas fa-star-half-alt"
+      }
+    ],
+    "strong": "Excellent",
+    "text": "5 out of 5"
+  },
+  "text": "Email us on <a href=\"mailto:sales@keydevs.com\"><strong>sales@keydevs.com</strong></a> or Speak to our expert",
+  "link2": {
+    "href": "tel:+442034677741",
+    "strong": "+92 339 5393387"
+  },
+  "or": "or",
+  "headRequetBtn": {
+    "href": "javascript:;",
+    "image": {
+      "src": "/images/header/consultant-avatar.webp",
+      "width": "30",
+      "height": "26",
+      "alt": "Syed Yaseer is Website and mobile app development consultant in the Lahore, Paksitan."
+    },
+    "text": "Request a Call Back"
+  },
+  "link3": {
+    "href": "/",
+    "image": {
+      "src": "/images/header/keydevs-logo.png",
+      "alt": "KeyDevs Technologies is top rated mobile app development company in Lahore, Paksitan, with offices in Multan and Islamabad. Specialising in website and mobile app design and development for iOS and Android.",
+      "width": "300",
+      "height": "94"
+    }
+  },
+  "link4": {
+    "href": "/",
+    "text": "Home"
+  },
+  "link5": {
+    "href": "javascript:;",
+    "html": "Company <span class=\"fas fa-caret-down\"></span>"
+  },
+  "items": [
+    {
+      "link": {
+        "href": "/aboutUs",
+        "text": "Who We are"
+      }
+    },
+    {
+      "link": {
+        "href": "/process",
+        "text": "How we Work"
+      }
+    },
+    {
+      "link": {
+        "href": "/client-review",
+        "text": "Client Review"
+      }
+    },
+    {
+      "link": {
+        "href": "/technologies",
+        "text": "Technologies"
+      }
+    }
+  ],
+  "link6": {
+    "href": "javascript:;",
+    "html": "Our Service <span class=\"fas fa-caret-down\"></span>"
+  },
+  "link7": {
+    "href": "/mobile-application-development",
+    "text": "Mobile App Development"
+  },
+  "items2": [
+    {
+      "link": {
+        "href": "/iphone-app-development",
+        "icon": "svg-8e0ee3",
+        "text": "iPhone App Development"
+      }
+    },
+    {
+      "link": {
+        "href": "/androidAppDevelopment",
+        "icon": "svg-3ce919",
+        "text": "Android App Development"
+      }
+    },
+    {
+      "link": {
+        "href": "/flutter-application-development",
+        "icon": "svg-647207",
+        "text": "Flutter App Development"
+      }
+    },
+    {
+      "link": {
+        "href": "/cross-platform-mobile-app-development",
+        "icon": "svg-9159da",
+        "text": "Cross Platform App Development"
+      }
+    },
+    {
+      "link": {
+        "href": "/ios-game-development",
+        "icon": "svg-8e0ee3",
+        "text": "iOS Game Development"
+      }
+    },
+    {
+      "link": {
+        "href": "/android-game-development",
+        "icon": "svg-2f5f8c",
+        "text": "Android Game Development"
+      }
+    }
+  ],
+  "link8": {
+    "href": "/web-development",
+    "text": "Web Development"
+  },
+  "items3": [
+    {
+      "link": {
+        "href": "/php-web-development",
+        "icon": "svg-3b512d",
+        "text": "PHP Web Development"
+      }
+    },
+    {
+      "link": {
+        "href": "/wordpress-development",
+        "icon": "svg-4fd5d5",
+        "text": "Wordpress Development"
+      }
+    },
+    {
+      "link": {
+        "href": "/php-codeigniter-development",
+        "icon": "svg-f84258",
+        "text": "Codeigniter Development"
+      }
+    },
+    {
+      "link": {
+        "href": "/laravel-development",
+        "icon": "svg-d32aaa",
+        "text": "Laravel Development"
+      }
+    },
+    {
+      "link": {
+        "href": "/angularjs-development",
+        "icon": "svg-9a7529",
+        "text": "AngularJS Development"
+      }
+    },
+    {
+      "link": {
+        "href": "/nodejs-development",
+        "icon": "svg-c48fbc",
+        "text": "NodeJS Development"
+      }
+    }
+  ],
+  "link9": {
+    "href": "/game-development",
+    "text": "Digital Marketing"
+  },
+  "items4": [
+    {
+      "link": {
+        "href": "/ios-game-development",
+        "icon": "svg-8e0ee3",
+        "text": "Search Engine Optimization"
+      }
+    },
+    {
+      "link": {
+        "href": "/android-game-development",
+        "icon": "svg-2f5f8c",
+        "text": "Social Media Marketing"
+      }
+    },
+    {
+      "link": {
+        "href": "/unity-2d-3d-game-development",
+        "icon": "svg-39e9ed",
+        "text": "Facebook Ads"
+      }
+    },
+    {
+      "link": {
+        "href": "/augmented-reality-game-development",
+        "icon": "svg-8585d3",
+        "text": "Google Ads"
+      }
+    },
+    {
+      "link": {
+        "href": "/virtual-reality-game-development",
+        "icon": "svg-98c0e2",
+        "text": "E-commerce Ads"
+      }
+    },
+    {
+      "link": {
+        "href": "/mac-game-development",
+        "icon": "svg-c82c19",
+        "text": "Youtube Pormotion"
+      }
+    }
+  ],
+  "link10": {
+    "href": "javascript:;",
+    "text": "Enterprise Solutions"
+  },
+  "link11": {
+    "href": "/startup-mvp-development",
+    "text": "Startup MVP Development"
+  },
+  "items5": [
+    {
+      "link": {
+        "href": "/erp-development",
+        "icon": "svg-a1dbcf",
+        "text": "ERP Solutions"
+      }
+    },
+    {
+      "link": {
+        "href": "/crm-development",
+        "icon": "svg-5c779d",
+        "text": "CRM Solutions"
+      }
+    },
+    {
+      "link": {
+        "href": "/cms-development",
+        "icon": "svg-cc0fb0",
+        "text": "CMS Solutions"
+      }
+    },
+    {
+      "link": {
+        "href": "/ecommerce-web-development",
+        "icon": "svg-3e1b19",
+        "text": "Ecommerce Solutions"
+      }
+    },
+    {
+      "link": {
+        "href": "/ui-ux-design-development",
+        "icon": "svg-1ba420",
+        "text": "UI-UX Design"
+      }
+    }
+  ],
+  "big": "Let's Create Something Together!",
+  "text2": "Call Us at:",
+  "link12": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link13": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387",
+    "or": "OR"
+  },
+  "link14": {
+    "href": "javascript:;",
+    "text": "Request Free Quote"
+  },
+  "link15": {
+    "href": "javascript:;",
+    "html": "Solution <span class=\"fas fa-caret-down\"></span>"
+  },
+  "items6": [
+    {
+      "link": {
+        "href": "javascript:;",
+        "icon": "svg-318d73",
+        "text": "On-demand Solutions"
+      },
+      "items": [
+        {
+          "link": {
+            "href": "/taxi-app-development",
+            "icon": "svg-39bfa2",
+            "text": "Taxi Book"
+          }
+        },
+        {
+          "link": {
+            "href": "/food-delivery-app-development",
+            "icon": "svg-e2d0e8",
+            "text": "Food Delivery"
+          }
+        },
+        {
+          "link": {
+            "href": "/car-wash-app-development",
+            "icon": "svg-dae781",
+            "text": "Car Wash"
+          }
+        },
+        {
+          "link": {
+            "href": "/seo-services",
+            "icon": "svg-369e84",
+            "text": "SEO Services"
+          }
+        }
+      ]
+    },
+    {
+      "link": {
+        "href": "javascript:;",
+        "icon": "svg-3b5308",
+        "text": "Industry Solutions"
+      },
+      "items": [
+        {
+          "link": {
+            "href": "/real-estate-app-development",
+            "icon": "svg-d7618a",
+            "text": "Real Estate"
+          }
+        },
+        {
+          "link": {
+            "href": "/finance-app-development",
+            "icon": "svg-b68e51",
+            "text": "Banking and Finance"
+          }
+        },
+        {
+          "link": {
+            "href": "/travel-app-development",
+            "icon": "svg-f95d40",
+            "text": "Travel and Tourism"
+          }
+        },
+        {
+          "link": {
+            "href": "/health-fitness-app-development",
+            "icon": "svg-1a5ee6",
+            "text": "Health and Fitness"
+          }
+        }
+      ]
+    },
+    {
+      "link": {
+        "href": "javascript:;",
+        "icon": "svg-38bcc5",
+        "text": "Social Solutions"
+      },
+      "items": [
+        {
+          "link": {
+            "href": "/social-media-app-development",
+            "icon": "svg-1ac9ab",
+            "text": "Social Media"
+          }
+        },
+        {
+          "link": {
+            "href": "/dating-app-development",
+            "icon": "svg-af7dd9",
+            "text": "Dating"
+          }
+        },
+        {
+          "link": {
+            "href": "/chat-instant-messaging-app-development",
+            "icon": "svg-d16673",
+            "text": "Instant Messaging"
+          }
+        },
+        {
+          "link": {
+            "href": "/media-entertainment-app-development",
+            "icon": "svg-662a5a",
+            "text": "Media and Entertainment"
+          }
+        }
+      ]
+    },
+    {
+      "link": {
+        "href": "javascript:;",
+        "icon": "svg-218779",
+        "text": "Other Solutions"
+      },
+      "items": [
+        {
+          "link": {
+            "href": "/fantasy-sports-app-development",
+            "icon": "svg-2858cc",
+            "text": "Fantasy Sports"
+          }
+        },
+        {
+          "link": {
+            "href": "/chatbot-development",
+            "icon": "svg-1e8a6a",
+            "text": "Chatbot"
+          }
+        }
+      ]
+    }
+  ],
+  "big2": "Let's Create Something Together!",
+  "text3": "Call Us at:",
+  "link16": {
+    "href": "tel:+923217851671",
+    "text": "+923217851671"
+  },
+  "or2": "OR",
+  "link17": {
+    "href": "javascript:;",
+    "text": "Request Free Quote"
+  },
+  "link18": {
+    "href": "/portfolio",
+    "text": "Portfolio"
+  },
+  "items7": [
+    {
+      "link": {
+        "href": "/blog",
+        "text": "Blog"
+      }
+    },
+    {
+      "link": {
+        "href": "/contact",
+        "text": "Contact"
+      }
+    }
+  ],
+  "estimateBtn2": {
+    "href": "/app-development-cost-calculator",
+    "text": "Estimate Your Project"
+  }
+}

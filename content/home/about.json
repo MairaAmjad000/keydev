@@ -1,0 +1,88 @@
+{
+  "image": {
+    "src": "/images/about/about-background.png"
+  },
+  "image2": {
+    "src": "/images/about/about-team.png",
+    "alt": "KeyDevs Technologies is one of the prominent mobile application development companies in the Lahore, Pakistan, offering iPhone (iOS) & Android app development services.",
+    "width": "600",
+    "height": "550"
+  },
+  "text": "Who We Are",
+  "heading": "About KeyDevs Technologies",
+  "heading2": "Web & Mobile App Developers in Lahore, empowering startups & SMEs to achieve 3X ROI with tailored solutions!",
+  "texts": [
+    {
+      "text": "KeyDevs Technologies, a web and mobile app development company based in Lahore, Pakistan, began with humble origins—a small team of three, including the two founders and a dedicated mobile app developer. Nearly a decade later, through determination and a relentless passion for innovation, we have grown into a globally recognized digital agency, known for excellence in web and mobile app development across Pakistan and worldwide."
+    },
+    {
+      "text": "Our services include mobile app development, eCommerce solutions, and cutting-edge virtual and augmented reality applications, all backed by a team of expert developers. What sets us apart from other mobile app development companies is our commitment to delivering custom, state-of-the-art solutions. At KeyDevs Technologies, perfection isn't just a goal—it's a habit. When you collaborate with us, you partner with a trusted ally dedicated to turning your digital visions into reality."
+    }
+  ],
+  "items": [
+    {
+      "image": {
+        "src": "/images/about/counter-projects.svg",
+        "alt": "The mobile app development services Lahore, Pakistan of KeyDevs Technologies has been successful and helped businesses achieve their transformation goals",
+        "width": "50",
+        "height": "50"
+      },
+      "counter": {
+        "dataCount": "150",
+        "text": "110"
+      },
+      "icon": {
+        "className": "fas fa-plus"
+      },
+      "text": "Successfully<br> Developed Projects"
+    },
+    {
+      "image": {
+        "src": "/images/about/counter-ideas.svg",
+        "alt": "KeyDevs Technologies is a leading web and app development companies in the Pakistan, helping entrepreneurs with unique startup ideas",
+        "width": "50",
+        "height": "50"
+      },
+      "counter": {
+        "dataCount": "150",
+        "text": "110"
+      },
+      "icon": {
+        "className": "fas fa-plus"
+      },
+      "text": "Unique <br>Ideas Submitted"
+    },
+    {
+      "image": {
+        "src": "/images/about/counter-reviews.svg",
+        "alt": "the mobile application development company in Lahore Paksitan, offering ios and Android app development solutions for small to large businesses",
+        "width": "50",
+        "height": "50"
+      },
+      "counter": {
+        "dataCount": "90",
+        "text": "90"
+      },
+      "icon": {
+        "className": "fas fa-percent"
+      },
+      "text": "Verified <br>5 Star Client Reviews"
+    },
+    {
+      "image": {
+        "src": "/images/about/counter-team.svg",
+        "alt": "Are you looking for app development Lahore, Pakistan? We're an expereinced team of mobile app developers and designers.",
+        "width": "50",
+        "height": "50"
+      },
+      "counter": {
+        "dataCount": "40",
+        "text": "40"
+      },
+      "icon": {
+        "className": "fas fa-plus"
+      },
+      "text": "Professionals <br>in Our Team"
+    }
+  ]
+}

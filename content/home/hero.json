@@ -1,0 +1,20 @@
+{
+  "image": {
+    "src": "/images/hero/hero-banner.jpg",
+    "alt": "Web and mobile App Development Company in the Lahore, Pakistan"
+  },
+  "heading": "Bespoke Web & Mobile App Development Company",
+  "text": "Expertly crafted, innovative, and creative solutions for Web, Android, and iPhone app Development.",
+  "links": [
+    {
+      "href": "mobile-application-development",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Explore More"
+    },
+    {
+      "href": "contact",
+      "className": "btn waves-effect waves-light btn-custome  mb-3",
+      "text": "Get in Touch"
+    }
+  ]
+}

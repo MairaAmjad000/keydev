@@ -1,0 +1,38 @@
+{
+  "link": {
+    "href": "javascript:"
+  },
+  "subheading": "Request the <span class=\"text-color\">Quote!</span>",
+  "formGroups": [
+    {
+      "label": {
+        "for": "name"
+      },
+      "formControl": {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Name"
+      }
+    },
+    {
+      "label": {
+        "for": "email"
+      },
+      "formControl": {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email"
+      }
+    }
+  ],
+  "formControl": {
+    "placeholder": "Contact No"
+  },
+  "formControl2": {
+    "placeholder": "Company Name"
+  },
+  "formControl3": {
+    "placeholder": "Message"
+  },
+  "contactCustomeBtn": "<i class=\"fa fa-spinner fa-spin start-loader\"></i>Send Message"
+}

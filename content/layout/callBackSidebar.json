@@ -1,0 +1,32 @@
+{
+  "image": {
+    "src": "/images/author/yasir.jpg",
+    "alt": "Do you have a startup idea and looking for a mobile app development company in Lahore, Paksitan? Get in touch, we've successfully helped more than 50 startups in the Lahore, Paksitan and Worldwide."
+  },
+  "headCallBackContentTitle": "Request a Call Back",
+  "text": "Enter your contact details and one of our friendly team member will be in touch soon!.",
+  "formGroups": [
+    {
+      "label": {
+        "for": "name"
+      },
+      "formControl": {
+        "type": "text",
+        "placeholder": "Full name"
+      }
+    },
+    {
+      "label": {
+        "for": "email"
+      },
+      "formControl": {
+        "type": "email",
+        "placeholder": "Email"
+      }
+    }
+  ],
+  "formControl": {
+    "placeholder": "Contact No"
+  },
+  "contactCustomeBtn": "<i class=\"fa fa-spinner fa-spin start-loader\"></i>Request a Call Back"
+}

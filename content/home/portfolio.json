@@ -1,0 +1,135 @@
+{
+  "text": "Portfolio",
+  "heading": "The Masterpieces We've Crafted",
+  "text2": "They asked, we delivered. Discover the behind-the-scenes stories of our clients and how our web and mobile app development services have transformed their businesses. Yours could be next!",
+  "items": [
+    {
+      "heading": "Multan Chemicals Limited",
+      "text": "Website Development for a Confectionery Company with a Full ERP system to track manufacturing and sales operations.",
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "mobile app development for students and trainers with chatting features",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Multan Chemicals Limited",
+      "text2": "Website Development for a Confectionery Company with a Full ERP system to track manufacturing and sales operations.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Atlas Fuel",
+      "text": "ERP system Developement with Myob integration for our Australian Client.",
+      "image": {
+        "src": "/images/portfolio/atlas-fuel.jpg",
+        "alt": "mobile app development for students and trainers with chatting features",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Atlas Fuel",
+      "text2": "ERP system Developement with Myob integration for our Australian Client.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Delivery shark",
+      "text": "Develop a Supper app for our UK customer with Food Delivery, Ride and Handman Services with real time tracking.",
+      "image": {
+        "src": "/images/portfolio/delivery-shark.jpg",
+        "alt": "Hire an experienced Emoji app development company in Pakistan and India.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Delivery shark",
+      "text2": "Develop a Supper app for our UK customer with Food Delivery, Ride and Handman Services with real time tracking.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Al-Iftar Foods",
+      "text": "Website Development for a Confectionery Company with a Full ERP system to track manufacturing and sales operations.",
+      "image": {
+        "src": "/images/portfolio/al-iftar-foods.jpg",
+        "alt": "Along with being a leader among the app development companies Pakistan, KeyDevs Technologies is also recognised as the top Virtual Reality App development company",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Al-Iftar Foods",
+      "text2": "Website Development for a Confectionery Company with a Full ERP system to track manufacturing and sales operations.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Beejan",
+      "text": "A Ride booking app development for beejan with Reward and MLM system",
+      "image": {
+        "src": "/images/portfolio/beejan.jpg",
+        "alt": "app development company",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Beejan",
+      "text2": "A Ride booking app development for beejan with Reward and MLM system.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Flyashs",
+      "text": "Development of online travel and tourisum sytem with flight booking functionalities.",
+      "image": {
+        "src": "/images/portfolio/flyashs.jpg",
+        "alt": "app developers Pakistan",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Flyashs",
+      "text2": "Development of online travel and tourisum sytem with flight booking functionalities..",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Loyal Riliance",
+      "text": "Develop a Website and CRM for our UK based Customer for Security and Cleaning Company.",
+      "image": {
+        "src": "/images/portfolio/loyal-riliance.jpg",
+        "alt": "An experienced on-demand taxi app developer. KeyDevs Technologies provides taxi application development solutions for Startups and Entrepreneurs.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Loyal Riliance",
+      "text2": "Develop a Website and CRM for our UK based Customer for Security and Cleaning Company.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Alghazi Tractors",
+      "text": "A E-Commerce Plateform with mobile apps to provide genuine parts to Alghazi tractors customers.",
+      "image": {
+        "src": "/images/portfolio/alghazi-tractors.jpg",
+        "alt": "As a sports fantasy sports app development company, KeyDevs Technologies developed Fantasyji, a cricket  fantasy app",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Alghazi Tractors",
+      "text2": "A E-Commerce Plateform with mobile apps to provide genuine parts to Alghazi tractors customers.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

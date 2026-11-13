@@ -1,0 +1,84 @@
+{
+  "text": "Connect with us",
+  "heading": "We Are Available At",
+  "boxShadow": {
+    "src": "/images/locations/lahore.png",
+    "alt": "KeyDevs Technologies web and mobile development company in Leeds.",
+    "width": "360",
+    "height": "227"
+  },
+  "subheading": "Lahore",
+  "text2": "30B A1 Block Johar Town Lahore",
+  "items": [
+    {
+      "icon": "svg-2c9057",
+      "link": {
+        "href": "tel:+442034677741",
+        "text": "+92 339 5393387"
+      }
+    },
+    {
+      "icon": "svg-837901",
+      "link": {
+        "href": "mailto:sales@keydevs.com",
+        "text": "sales@keydevs.com"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "className": "col-lg-4 col-md-4 col-12 mb-md-4 mb-0",
+      "boxShadow": {
+        "src": "/images/locations/united-states.png",
+        "alt": "KeyDevs Technologies is one of the leading web and mobile development companies in Lahore. We have a team of experienced UI/IX, app developers and developers.",
+        "width": "360",
+        "height": "227"
+      },
+      "subheading": "United State",
+      "text": "8 The Green, Suit A, Dover , PO 19901",
+      "items": [
+        {
+          "icon": "svg-2c9057",
+          "link": {
+            "href": "tel:+16164693940",
+            "text": "+1 616 4693940"
+          }
+        },
+        {
+          "icon": "svg-837901",
+          "link": {
+            "href": "mailto:sales@keydevs.com",
+            "text": "sales@keydevs.com"
+          }
+        }
+      ]
+    },
+    {
+      "className": "col-lg-4 col-md-4 col-12",
+      "boxShadow": {
+        "src": "/images/locations/dubai.jpg",
+        "alt": "KeyDevs Technologies Mobile App Development Office",
+        "width": "360",
+        "height": "227"
+      },
+      "subheading": "Dubai",
+      "text": "Office 12 Opp. Alkhail Mall, Alquoz Dubai",
+      "items": [
+        {
+          "icon": "svg-2c9057",
+          "link": {
+            "href": "tel:+971525897315",
+            "text": "+971525897315"
+          }
+        },
+        {
+          "icon": "svg-837901",
+          "link": {
+            "href": "mailto:sales@keydevs.com",
+            "text": "sales@keydevs.com"
+          }
+        }
+      ]
+    }
+  ]
+}

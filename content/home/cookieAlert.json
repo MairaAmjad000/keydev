@@ -1,0 +1,10 @@
+{
+  "text": "🍪",
+  "b": "Do you like cookies?",
+  "text2": "🍪",
+  "text3": "We use cookies to ensure you get the best experience on our website. <a href=\"/privacy-policy\">Learn more</a>",
+  "customeBtn": {
+    "ariaLabel": "Close",
+    "text": "I agree"
+  }
+}

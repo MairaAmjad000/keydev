@@ -1,0 +1,221 @@
+{
+  "image": {
+    "src": "/images/footer/experience-character.png",
+    "width": "137",
+    "height": "205",
+    "alt": "App development Leeds, KeyDevs Technologies is best app development firm for startups to MNC with over 100+ successful apps built."
+  },
+  "exps": [
+    {
+      "className": "exp",
+      "text": "Experience"
+    },
+    {
+      "className": "indus",
+      "text": "in the Industry"
+    }
+  ],
+  "link": {
+    "href": "app-development-cost-calculator",
+    "text": "Discuss Your Project"
+  },
+  "items": [
+    {
+      "link": {
+        "title": "Facebook",
+        "href": "https://www.facebook.com/keydevs",
+        "className": "fab fa-facebook-f"
+      }
+    },
+    {
+      "link": {
+        "title": "Instagram",
+        "href": "https://www.instagram.com/keydevs_technologies",
+        "className": "fab fa-instagram"
+      }
+    },
+    {
+      "link": {
+        "title": "Twitter",
+        "href": "https://twitter.com/key_devs",
+        "className": "fab fa-twitter"
+      }
+    },
+    {
+      "link": {
+        "title": "Linkedin",
+        "href": "https://pk.linkedin.com/company/keydevs",
+        "className": "fab fa-linkedin-in"
+      }
+    },
+    {
+      "link": {
+        "title": "Behance",
+        "href": "https://www.behance.net/keydevs",
+        "className": "fab fa-behance"
+      }
+    }
+  ],
+  "footCenterCols": [
+    {
+      "className": "col-lg-3 col-md-6 col-sm-6 col-12 order-0 foot-center-col text-center text-sm-left",
+      "subheading": "Expertise",
+      "items": [
+        {
+          "link": {
+            "href": "mobile-application-development",
+            "text": "Mobile App Development"
+          }
+        },
+        {
+          "link": {
+            "href": "web-development",
+            "text": "Web App Development"
+          }
+        },
+        {
+          "link": {
+            "href": "/game-development",
+            "text": "Mobile Games Development"
+          }
+        },
+        {
+          "link": {
+            "href": "/augmented-reality-app-development",
+            "text": "Augmented Reality Development"
+          }
+        },
+        {
+          "link": {
+            "href": "/virtual-reality-app-development",
+            "text": "Virtual Reality Development"
+          }
+        },
+        {
+          "link": {
+            "href": "startup-mvp-development",
+            "text": "Startup MVP Development"
+          }
+        },
+        {
+          "link": {
+            "href": "/software-development",
+            "text": "Software Development"
+          }
+        }
+      ]
+    },
+    {
+      "className": "col-lg-3 col-md-6 col-sm-6 col-12 order-1 foot-center-col text-center text-sm-left",
+      "subheading": "Solution",
+      "items": [
+        {
+          "link": {
+            "href": "chat-instant-messaging-app-development",
+            "text": "Instant Messaging"
+          }
+        },
+        {
+          "link": {
+            "href": "car-wash-app-development",
+            "text": "Car Wash"
+          }
+        },
+        {
+          "link": {
+            "href": "health-fitness-app-development",
+            "text": "Health & Fitness"
+          }
+        },
+        {
+          "link": {
+            "href": "taxi-app-development",
+            "text": "Taxi Booking"
+          }
+        },
+        {
+          "link": {
+            "href": "food-delivery-app-development",
+            "text": "Food Delivery"
+          }
+        },
+        {
+          "link": {
+            "href": "social-media-app-development",
+            "text": "Social Media"
+          }
+        },
+        {
+          "link": {
+            "href": "travel-app-development",
+            "text": "Travel & Tourism"
+          }
+        }
+      ]
+    }
+  ],
+  "text": "<span class=\"rating_text_footer\"> <i class=\"fas fa-star\"></i> <i class=\"fas fa-star\"></i> <i class=\"fas fa-star\"></i> <i class=\"fas fa-star\"></i> <i class=\"fas fa-star-half-alt\"></i> </span> 4.8 / 5.0 on Clutch for the quality of services offered for Web and Mobile App development",
+  "text2": "All product and company names are trademarks™ or registered<sup>®</sup> trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+  "items2": [
+    {
+      "image": {
+        "src": "/images/footer/award-top-developers.webp",
+        "width": "127",
+        "height": "135",
+        "alt": "We're top mobile app development company Lahore offering Android and iPhone app development solutions for clients in Lahore and across the Pakistan."
+      }
+    },
+    {
+      "image": {
+        "src": "/images/footer/award-clutch.webp",
+        "width": "140",
+        "height": "135",
+        "alt": "Clutch awarded KeyDevs Technologies as a top mobile app developer for is high-quality mobile app development services Pakistan"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/footer/award-client-reviews.webp",
+        "width": "135",
+        "height": "135",
+        "alt": "client say we deliver excellent mobile app development solutions."
+      }
+    },
+    {
+      "image": {
+        "src": "/images/footer/award-goodfirms.webp",
+        "width": "169",
+        "height": "135",
+        "alt": "Goodfirms recognizes KeyDevs Technologies as a top augmented reality and virtual reality app development company across the globe"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/footer/award-mobile-app-daily.webp",
+        "width": "136",
+        "height": "135",
+        "alt": "Mobile App Daily rated KeyDevs Technologies among few of the flutter app development company in the Pakistan"
+      }
+    }
+  ],
+  "link2": {
+    "href": "/contact",
+    "text": "Get in Touch Now"
+  },
+  "text3": "© 2023 KeyDevs Technologies Limited. All rights reserved.",
+  "items3": [
+    {
+      "link": {
+        "href": "contact",
+        "text": "Contact Us"
+      }
+    },
+    {
+      "link": {
+        "href": "/privacy-policy",
+        "text": "Privacy Policy"
+      }
+    }
+  ],
+  "text4": "Registered in Pakistan Company Number ######, NTN Number 317435803"
+}

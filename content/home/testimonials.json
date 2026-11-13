@@ -1,0 +1,165 @@
+{
+  "text": "What Our Clients Say",
+  "heading": "This is What Drives Us",
+  "text2": "Our web and mobile app development expertise have helped several organizations turn critical challenges into a competitive advantage. But don’t take our word for it! Hear straight from our clients what they think and feel about our services.",
+  "items": [
+    {
+      "testImg": {
+        "href": "javascript:;",
+        "title": "Beejan",
+        "dataSlide": "1",
+        "className": "active test-img",
+        "image": {
+          "src": "/images/testimonials/beejan.png",
+          "alt": "Best erp and website development in Lahore, Paksitan ",
+          "width": "71",
+          "height": "71"
+        }
+      }
+    },
+    {
+      "testImg": {
+        "href": "javascript:;",
+        "title": "aliftar",
+        "dataSlide": "2",
+        "className": "test-img",
+        "image": {
+          "src": "/images/testimonials/aliftar.png",
+          "alt": "A live Ecommerce app development for the Pakistan based startup ",
+          "width": "71",
+          "height": "71"
+        }
+      }
+    },
+    {
+      "testImg": {
+        "href": "javascript:;",
+        "title": "AGTL",
+        "dataSlide": "3",
+        "className": "test-img",
+        "image": {
+          "src": "/images/testimonials/agtl.png",
+          "alt": "Website designing and development for the  business in Paksitan",
+          "width": "71",
+          "height": "71"
+        }
+      }
+    },
+    {
+      "testImg": {
+        "href": "javascript:;",
+        "title": "ehomeplus",
+        "dataSlide": "4",
+        "className": "test-img",
+        "image": {
+          "src": "/images/testimonials/ehomeplus.png",
+          "alt": "An on-demand food delivery application developed for earning rewards on every order.",
+          "width": "71",
+          "height": "71"
+        }
+      }
+    },
+    {
+      "testImg": {
+        "href": "javascript:;",
+        "title": "Atlasfuel",
+        "dataSlide": "5",
+        "className": "test-img",
+        "image": {
+          "src": "/images/testimonials/atlasfuel.png",
+          "alt": "Do you have this in mind- hockey app is offered by which company? yes, KeyDevs Technologies is best and top rated company to developed a ecommerce apps.",
+          "width": "71",
+          "height": "71"
+        }
+      }
+    },
+    {
+      "testImg": {
+        "href": "javascript:;",
+        "title": "Loyal Reliance",
+        "dataSlide": "6",
+        "className": "test-img",
+        "image": {
+          "src": "/images/testimonials/loyal-reliance.png",
+          "alt": "Ride Sharing and uber clone app development service .",
+          "width": "71",
+          "height": "71"
+        }
+      }
+    },
+    {
+      "testImg": {
+        "href": "javascript:;",
+        "title": "Unikoop",
+        "dataSlide": "7",
+        "className": "test-img",
+        "image": {
+          "src": "/images/testimonials/unikoop.jpg",
+          "alt": "A Custom ERP and CRM Solution provider in Paskitan",
+          "width": "71",
+          "height": "71"
+        }
+      }
+    },
+    {
+      "testImg": {
+        "href": "javascript:;",
+        "title": "MCL",
+        "dataSlide": "8",
+        "className": "test-img",
+        "image": {
+          "src": "/images/testimonials/mcl.png",
+          "alt": "Best Food Delivery App Developers in Pasktian",
+          "width": "71",
+          "height": "71"
+        }
+      }
+    }
+  ],
+  "image": {
+    "src": "/images/author/nick-konechny.webp",
+    "alt": "app development companies"
+  },
+  "testimonialTextSections": [
+    {
+      "dataIndex": "1",
+      "text": "Working with KeyDevs Technologies on our ride app was a game changer. Their attention to detail and commitment to understanding our vision led to a user-friendly and efficient platform. The team was responsive and dedicated, ensuring a seamless development process. I highly recommend them for anyone looking to bring their app idea to life!",
+      "text2": "<strong>Asad</strong>, Director, Beejan Techsol"
+    },
+    {
+      "dataIndex": "2",
+      "text": "Our experience with KeyDevs Technologies for the Aliftar Foods website was exceptional. They transformed our vision into a beautifully designed, functional site that perfectly showcases our products. The team was proactive, communicative, and delivered everything on time. We couldn’t be happier with the final result!",
+      "text2": "<strong>Burhan Khan</strong>, Director, Aliftar Foods"
+    },
+    {
+      "dataIndex": "3",
+      "text": "KeyDevs Technologies exceeded our expectations with the Alghazi Tractors e-commerce website. Their expertise in e-commerce solutions helped us create a platform that is both visually appealing and easy to navigate. The development process was smooth, and the team was always available for support. We look forward to our continued partnership!",
+      "text2": "<strong>Qisar</strong>, Manager, Alghazi Tractors"
+    },
+    {
+      "dataIndex": "4",
+      "text": "KeyDevs Technologies did an outstanding job with our Ehomeplus e-commerce site. Their team was knowledgeable, innovative, and incredibly responsive. They understood our business needs and delivered a robust online store that our customers love. We appreciate their dedication and look forward to future collaborations!",
+      "text2": "<strong>Khuram S.</strong>, Manager Operations, Ehome Plus"
+    },
+    {
+      "dataIndex": "5",
+      "text": "Partnering with KeyDevs Technologies for our ERP system at AtlasFuel Australia has been a fantastic decision. They brought a wealth of experience to the table, helping us streamline our operations efficiently. The team was dedicated to understanding our requirements, delivering a tailored solution that has significantly improved our workflow.",
+      "text2": "<strong>Shahzaib S.</strong>, CEO, Atlas Fuel pty ltd"
+    },
+    {
+      "dataIndex": "6",
+      "text": "We are thrilled with the work KeyDevs Technologies did on the Loyal Reliance website. Their team was professional, attentive, and delivered a stunning site that reflects our brand perfectly. Their ongoing support has been invaluable, and we highly recommend them to anyone looking for top-notch web development services!",
+      "text2": "<strong>Haroon</strong>, Manager, Loyal Reliance"
+    },
+    {
+      "dataIndex": "7",
+      "text": "Collaborating with KeyDevs Technologies on the Unikoop e-commerce website has been a rewarding experience. Their team took the time to understand our vision and translated it into a dynamic online store that’s user-friendly and visually appealing. The development process was smooth, and their support has been exceptional. We’re excited about the future of our e-commerce platform with their continued partnership!",
+      "text2": "<strong>Sajid</strong>, Director, Unikoop"
+    },
+    {
+      "dataIndex": "8",
+      "text": "Working with KeyDevs Technologies on the Multan Chemical Limited website was a seamless experience. Their attention to detail and understanding of our industry needs resulted in a professional and informative website that effectively represents our brand. The team was responsive and collaborative throughout the entire process, ensuring that we were satisfied at every stage. We look forward to a long-term partnership as we continue to enhance our online presence!",
+      "text2": "<strong>Junaid S.</strong>, Manager, MCL"
+    }
+  ]
+}

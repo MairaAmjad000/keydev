@@ -1,19 +1,34 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import type { ReactNode } from 'react';
-import './globals.css';
 
-export const metadata: Metadata = {
-  title: 'Website & Mobile App Development Company in Lahore, Pakistan | KeyDevs',
-  description: 'KeyDevs Technologies - Web and mobile app development company.',
+// Order matters and mirrors the reference page: Font Awesome, Bootstrap, then the site CSS last
+// so that site rules win over Bootstrap's.
+import '@fortawesome/fontawesome-free/css/all.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import '@/styles/legacy.css';
+
+import { getSiteSettings } from '@/lib/cms';
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+  themeColor: '#008080',
 };
+
+export async function generateMetadata(): Promise<Metadata> {
+  const site = await getSiteSettings();
+  return {
+    title: site.seo.title,
+    description: site.seo.description,
+    icons: { icon: [{ url: site.seo.favicon, type: 'image/png', sizes: '32x32' }] },
+    openGraph: { siteName: site.seo.siteName, type: 'website' },
+  };
+}
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
   return (
     <html lang="en">
-      <head>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" />
-      </head>
       <body>{children}</body>
     </html>
   );
