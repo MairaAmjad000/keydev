@@ -1,0 +1,29 @@
+{
+  "heading": "A White Label Finance App, Built on Security",
+  "paragraphs": [
+    {
+      "html": "Customers expect to manage money from their phone, safely and instantly. Trust is the foundation of every finance product."
+    },
+    {
+      "html": "We build apps with encryption, biometric login, KYC and fraud checks, along with payments, wallets and spending insights."
+    },
+    {
+      "html": "The platform can be adapted to banks, digital wallets, lending, investing or payment startups."
+    },
+    {
+      "html": "Questions about compliance or integrations? An expert from our team will help."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
+    "alt": "Banking and Finance solution",
+    "width": "481",
+    "height": "588"
+  },
+  "imageClass": ""
+}

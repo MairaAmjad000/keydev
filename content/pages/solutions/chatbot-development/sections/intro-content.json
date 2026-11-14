@@ -1,0 +1,29 @@
+{
+  "heading": "Custom Chatbots, Trained on Your Business",
+  "paragraphs": [
+    {
+      "html": "A good chatbot answers quickly, understands context and knows when to hand over to a person."
+    },
+    {
+      "html": "We build bots with natural language understanding, integrations with your systems, and analytics that show where to improve."
+    },
+    {
+      "html": "Bots can live on your website, mobile app, WhatsApp, Messenger and more."
+    },
+    {
+      "html": "Questions? An expert from our team will help you plan your chatbot."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
+    "alt": "Chatbot solution",
+    "width": "481",
+    "height": "588"
+  },
+  "imageClass": ""
+}

@@ -1,0 +1,26 @@
+{
+  "heading": "A White Label Food Delivery App, Ready for Your Brand",
+  "paragraphs": [
+    {
+      "html": "Hungry customers expect fast ordering, accurate tracking and reliable delivery. Restaurants need a simple order workflow, and riders need clear routes."
+    },
+    {
+      "html": "We build all three apps and the admin panel together, so orders flow smoothly from the menu to the doorstep."
+    },
+    {
+      "html": "Menus, offers, delivery zones, fees and branding can all be tailored to your market and business model."
+    },
+    {
+      "html": "Have questions? An expert from our team will walk you through options and timelines."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Food Delivery app development"
+  }
+}

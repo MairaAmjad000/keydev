@@ -1,0 +1,39 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner car-wash-advantage-main bg-light",
+  "heightClass": "m-height-130",
+  "text": "Why should you invest?",
+  "heading": "The Advantages of our SEO Services",
+  "paragraphs": [],
+  "items": [
+    {
+      "icon": "svg-597df0",
+      "title": "100% customizable",
+      "text": "Customize colours, fonts, screens and workflows to match your brand."
+    },
+    {
+      "icon": "svg-6c692d",
+      "title": "White Label Solution",
+      "text": "Launch under your own brand, with no watermarks or logo restrictions."
+    },
+    {
+      "icon": "svg-64c9c1",
+      "title": "High-end Security",
+      "text": "Encryption-based security protects data across every app and the admin panel."
+    },
+    {
+      "icon": "svg-6e2780",
+      "title": "Ready to Market",
+      "text": "The core solution is already tested and can launch quickly after customisation."
+    },
+    {
+      "icon": "svg-80a331",
+      "title": "Scalable and Robust",
+      "text": "A robust backend and scalable database keep pace with your growth."
+    },
+    {
+      "icon": "svg-d16f5a",
+      "title": "Industry-Focused",
+      "text": "Adapted to the needs and expectations of your industry."
+    }
+  ]
+}

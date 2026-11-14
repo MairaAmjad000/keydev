@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "health-fitness-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Health & Fitness App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "Can the app sync with wearables?",
+      "answer": "<p>Yes. Integration with popular wearables and health platforms is available.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on customisation.</p>"
+    },
+    {
+      "question": "Can trainers upload their own plans?",
+      "answer": "<p>Yes. Trainers can create plans and host sessions.</p>"
+    },
+    {
+      "question": "Does it support subscriptions?",
+      "answer": "<p>Yes. Subscription plans and in-app payments are supported.</p>"
+    },
+    {
+      "question": "Can I add live classes?",
+      "answer": "<p>Yes. Live and recorded classes can be included.</p>"
+    },
+    {
+      "question": "How much does a fitness app cost?",
+      "answer": "<p>Cost depends on features and integrations. Share your requirements for an estimate.</p>"
+    }
+  ]
+}

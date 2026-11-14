@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "real-estate-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Real Estate App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "Can the app be customised?",
+      "answer": "<p>Yes. Branding, features and workflows can be tailored to your business.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on customisation and extra features.</p>"
+    },
+    {
+      "question": "Can agents upload their own listings?",
+      "answer": "<p>Yes. Agents can add and manage listings with photos, videos and details.</p>"
+    },
+    {
+      "question": "Does it support virtual tours?",
+      "answer": "<p>Yes. Photo galleries, video and virtual tours can be added.</p>"
+    },
+    {
+      "question": "Can I charge agents for listings?",
+      "answer": "<p>Yes. Subscriptions and featured listing fees are supported.</p>"
+    },
+    {
+      "question": "How much does a real estate app cost?",
+      "answer": "<p>Cost depends on features and platforms. Share your requirements for an estimate.</p>"
+    }
+  ]
+}

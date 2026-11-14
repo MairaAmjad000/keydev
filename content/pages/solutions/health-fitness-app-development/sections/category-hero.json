@@ -1,0 +1,34 @@
+{
+  "image": {
+    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
+    "alt": "Health and Fitness development",
+    "width": "1920",
+    "height": "780"
+  },
+  "sideImage": {
+    "src": "/images/solutions/taxi-app-development/hero-taxi-app.webp",
+    "alt": "Health and Fitness app",
+    "width": "540",
+    "height": "617"
+  },
+  "sideImageClass": "bannerfixedimagewidth landscape",
+  "headingClass": "text-uppercase f-40",
+  "heading": "Health and Fitness App Development Company",
+  "text": "People want healthier habits that fit their lives. Launch a white label health and fitness app with workout plans, progress tracking, trainer tools and an admin panel that helps you grow your community.",
+  "links": [
+    {
+      "href": "/contact",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Get a Quote Now"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Health and Fitness App Development"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+/* other-solutions: styles for the "other-solutions" section(s). Extracted from the solution page template. */
+.other-demand-app-box {
+  overflow: hidden;
+}
+.other-demand-app-box a {
+  padding: 45px 15px 30px;
+  display: block;
+  background-color: #fdfefe;
+}
+.other-demand-app-icon {
+  width: 71px;
+  height: 71px;
+  margin: 0 auto 40px;
+}
+.other-demand-app-icon svg circle,
+.other-demand-app-icon svg ellipse,
+.other-demand-app-icon svg path,
+.other-demand-app-icon svg polygon,
+.other-demand-app-icon svg rect {
+  fill: #202122;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.other-demand-app-box h5 {
+  color: #202122;
+  font-size: 18px;
+  font-weight: 500;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  margin: 0;
+}
+.other-demand-app-box a:hover {
+  background-color: #008080;
+}
+.other-demand-app-box a:hover .other-demand-app-icon svg circle,
+.other-demand-app-box a:hover .other-demand-app-icon svg ellipse,
+.other-demand-app-box a:hover .other-demand-app-icon svg path,
+.other-demand-app-box a:hover .other-demand-app-icon svg polygon,
+.other-demand-app-box a:hover .other-demand-app-icon svg rect {
+  fill: #fff;
+}
+.other-demand-app-box a:hover h5 {
+  color: #fff;
+}

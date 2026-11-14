@@ -1,0 +1,249 @@
+{
+  "text": "Sets of Features",
+  "heading": "The Main Features Of Our Fantasy Sports App Development Services",
+  "idPrefix": "fantasy-sports-app-development",
+  "showAllText": "Show All",
+  "showLessText": "Show Less",
+  "tabs": [
+    {
+      "id": "user",
+      "title": "Player",
+      "icon": "svg-c59471",
+      "headIcon": "svg-c59471",
+      "items": [
+        {
+          "icon": "svg-30846f",
+          "title": "Player Profile",
+          "text": "Create an account and verify identity.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b20b29",
+          "title": "Match Listings",
+          "text": "Browse upcoming matches and contests.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-971d83",
+          "title": "Create Team",
+          "text": "Pick players within a budget.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2c96b2",
+          "title": "Join Contests",
+          "text": "Enter free and paid contests.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-16859b",
+          "title": "Live Scores",
+          "text": "Follow points in real time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Leaderboards",
+          "text": "See rankings as matches progress.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0e5a71",
+          "title": "Wallet",
+          "text": "Add money and withdraw winnings.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e5be1c",
+          "title": "Match Alerts",
+          "text": "Reminders for deadlines and results.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8af434",
+          "title": "Private Contests",
+          "text": "Play with friends in private leagues.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-0d0a3d",
+          "title": "Contest History",
+          "text": "Review past teams and results.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-b84dab",
+          "title": "Offers & Bonuses",
+          "text": "Earn bonuses and promo rewards.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Help & Support",
+          "text": "Get help from the team.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "provider",
+      "title": "Contest Manager",
+      "icon": "svg-0358bb",
+      "headIcon": "svg-0358bb",
+      "items": [
+        {
+          "icon": "svg-b1d532",
+          "title": "Manager Registration",
+          "text": "Contest managers sign up.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Create Contests",
+          "text": "Set entry fees, prizes and size.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8c4ac0",
+          "title": "Match Schedule",
+          "text": "Plan contests around fixtures.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-d71f31",
+          "title": "Manager Dashboard",
+          "text": "Contests and participation overview.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-61ce18",
+          "title": "Contest Summary",
+          "text": "Entries, prize pool and results.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5c8c29",
+          "title": "Prize Distribution",
+          "text": "Distribute winnings accurately.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-a71882",
+          "title": "Fair Play Checks",
+          "text": "Flag suspicious behaviour.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e8114e",
+          "title": "Player Support",
+          "text": "Respond to participant queries.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-524484",
+          "title": "Revenue Tracking",
+          "text": "Track commissions and revenue.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-38939a",
+          "title": "Payouts",
+          "text": "Manage withdrawals.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c47be4",
+          "title": "Contest History",
+          "text": "Review past contests.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2671dd",
+          "title": "Support",
+          "text": "Contact the admin team.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "Admin",
+      "icon": "svg-53c0b4",
+      "headIcon": "svg-53c0b4",
+      "items": [
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Secure Login",
+          "text": "Role-based access for staff.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-07fc9b",
+          "title": "Admin Dashboard",
+          "text": "Users, contests and revenue in real time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-c201bb",
+          "title": "Manage Users",
+          "text": "Verify accounts and KYC.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e7a45e",
+          "title": "Manage Matches",
+          "text": "Add sports, series and fixtures.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-812812",
+          "title": "Contests & Pricing",
+          "text": "Configure contests and fees.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Fraud Detection",
+          "text": "Detect multi-accounting and abuse.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b4dc13",
+          "title": "Reports & Analytics",
+          "text": "Participation and revenue metrics.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-60180e",
+          "title": "Withdrawals & Refunds",
+          "text": "Review and process requests.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-800400",
+          "title": "Push Notifications",
+          "text": "Send reminders and promotions.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-91b25f",
+          "title": "SMS & OTP Settings",
+          "text": "Manage verification messages.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-becfd7",
+          "title": "Currency & Language",
+          "text": "Support multiple markets.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-22507c",
+          "title": "Payment Integration",
+          "text": "Connect payment gateways.",
+          "hidden": true
+        }
+      ]
+    }
+  ]
+}

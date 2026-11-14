@@ -644,6 +644,12 @@ export interface CategoryHeroContent {
   /** Rich text (may contain <br/>). */
   text: string;
   links: Array<{ href: string; className: string; text: string }>;
+  /** Extra classes of the heading, e.g. "text-uppercase f-40". */
+  headingClass?: string;
+  /** Phone / product picture at the bottom right of the banner (solution pages). */
+  sideImage?: CmsImage;
+  /** Classes of the picture wrapper (default "bannerfixedimagewidth landscape"). */
+  sideImageClass?: string;
   /** Omit for a banner without an enquiry form (the text then spans the full width). */
   form?: {
     id: string;
@@ -660,6 +666,8 @@ export interface IntroContentContent {
   paragraphs: Array<{ html: string }>;
   link: CmsLink;
   image: CmsImage;
+  /** Classes of the picture (default "rounded10 box-shadow"; use "" for a transparent illustration). */
+  imageClass?: string;
 }
 
 export interface ServiceOfferingsContent {
@@ -707,6 +715,10 @@ export interface FrameworkTabsContent {
 }
 
 export interface WhyChooseContent {
+  /** Classes of the <section> (default "padding-60 bg-light web-why-choose-us-main"). */
+  sectionClass?: string;
+  /** Equal-height helper class of the card grid (default "m-height-170"). */
+  heightClass?: string;
   text: string;
   heading: string;
   paragraphs: Array<{ html: string }>;
@@ -714,6 +726,13 @@ export interface WhyChooseContent {
 }
 
 export interface FaqContent {
+  /** "accordion" (default, Bootstrap cards) or "list" (plus / minus rows used on solution pages). */
+  variant?: 'accordion' | 'list';
+  /** Prefix for the answer ids of the "list" variant, so several lists can share a page. */
+  idPrefix?: string;
+  /** Icon keys of the open / closed marker of the "list" variant. */
+  plusIcon?: string;
+  minusIcon?: string;
   text: string;
   heading: string;
   text2: string;
@@ -783,5 +802,61 @@ export interface WhyChooseImageContent {
   text2: string;
   /** Picture beside the card. Omit to centre the card on its own. */
   image?: CmsImage;
+  items: Array<{ icon: string; title: string; text: string }>;
+}
+
+// ---------------------------------------------------------------------------------------------
+// Solution page sections (e.g. content/pages/solutions/taxi-app-development).
+// ---------------------------------------------------------------------------------------------
+
+export interface FeatureTabsContent {
+  text: string;
+  heading: string;
+  /** Prefix for the tab / pane ids so the tabs stay unique on the page. */
+  idPrefix: string;
+  showAllText: string;
+  showLessText: string;
+  tabs: Array<{
+    /** Short id, e.g. "user"; becomes `<idPrefix>-<id>`. */
+    id: string;
+    title: string;
+    /** Icon in the tab button. */
+    icon: string;
+    /** Icon beside the title above the cards (falls back to `icon`). */
+    headIcon?: string;
+    items: Array<{
+      icon: string;
+      title: string;
+      text: string;
+      /** Hidden until the "Show All" button is pressed. */
+      hidden?: boolean;
+    }>;
+  }>;
+}
+
+export interface IdealBusinessContent {
+  text: string;
+  heading: string;
+  items: Array<{ icon: string; title: string; text: string }>;
+}
+
+export interface SolutionCtaContent {
+  icon: string;
+  topText: string;
+  heading: string;
+  bottomText: string;
+  link: CmsLink;
+}
+
+export interface OtherSolutionsContent {
+  text: string;
+  heading: string;
+  items: Array<{ icon: string; title: string; href: string }>;
+}
+
+export interface WhyInvestContent {
+  text: string;
+  heading: string;
+  text2: string;
   items: Array<{ icon: string; title: string; text: string }>;
 }

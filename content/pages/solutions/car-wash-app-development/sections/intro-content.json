@@ -1,0 +1,26 @@
+{
+  "heading": "A White Label Car Wash App, Built Around Your Business",
+  "paragraphs": [
+    {
+      "html": "Customers want a clean car without the queue. A car wash app lets them choose a service, pick a time and location, and pay in a few taps."
+    },
+    {
+      "html": "Our team builds customer and washer apps with map-based booking, service packages, scheduling, digital payments and ratings, all branded as your own."
+    },
+    {
+      "html": "We tailor colours, screens and workflows to your business model, whether you run a mobile wash fleet, partner stations or both."
+    },
+    {
+      "html": "Questions about scope or timelines? An expert from our team will guide you from idea to launch."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Car Wash app development"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Fantasy Sports Solutions",
+  "items": [
+    {
+      "icon": "svg-42e4c5",
+      "title": "Cricket",
+      "text": "Launch a cricket fantasy platform."
+    },
+    {
+      "icon": "svg-b75ae0",
+      "title": "Football",
+      "text": "Support leagues and tournaments worldwide."
+    },
+    {
+      "icon": "svg-12964e",
+      "title": "Kabaddi",
+      "text": "Serve regional sports audiences."
+    },
+    {
+      "icon": "svg-034a5c",
+      "title": "Basketball",
+      "text": "Offer fantasy basketball contests."
+    },
+    {
+      "icon": "svg-53f6c6",
+      "title": "Multi-Sport Platforms",
+      "text": "Cover many sports in one app."
+    },
+    {
+      "icon": "svg-4ef922",
+      "title": "Esports",
+      "text": "Add fantasy contests for esports titles."
+    }
+  ]
+}

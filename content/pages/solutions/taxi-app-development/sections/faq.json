@@ -1,0 +1,51 @@
+{
+  "variant": "list",
+  "idPrefix": "taxi-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ's on Taxi App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "Can you Customise The App As Per Our Business Model?",
+      "answer": "<p>Yes, being a white label taxi booking solution, the app can be customised extensively to meet the branding requirements of your business.</p>"
+    },
+    {
+      "question": "How Much Time Does it Take to Develop Uber Like Taxi Booking App?",
+      "answer": "<p>The application can be launched into the market within 6-8 weeks with you branding changes. Depending on the level of customization requirement and additional features desired, the delivery period would vary accordingly. Let us know your complete requirements and we will chart out a definite timeline of taxi app development.</p>"
+    },
+    {
+      "question": "How Much Does The Taxi App Solution Cost?",
+      "answer": "<p>Our taxi app development pricing. is very competitive and flexible. The exact pricing can be intimated depending on the customization and features involved.</p>"
+    },
+    {
+      "question": "Will You Provide Unique Branding for Our Application?",
+      "answer": "<p>Yes, we do. From logo placement to color theme, our taxi app developers will help you customize every pixel of the taxi app.</p>"
+    },
+    {
+      "question": "Can I Develop An On-demand Taxi Booking App for My Private Taxi Business?",
+      "answer": "<p>Yes, taxi booking solutions are not limited to any size of business. You can use it for your local business, within your city, corporate offices, airport, schools or anywhere else.</p>"
+    },
+    {
+      "question": "Can you Develop The Application in Multi-Language?",
+      "answer": "<p>Yes. with the help of language predefined language packs, Our taxi app developers will help you build an app that speaks the user’s language.</p>"
+    },
+    {
+      "question": "Will I Have Access to The Source Code After The Product is Launched?",
+      "answer": "<p>Yes absolutely. You are the owner of the taxi booking solutions once the contract is signed and application is deployed on the marketplace. You will granted all access to the code as well as the database.</p>"
+    },
+    {
+      "question": "If There is An Error in The App After Launch, How Will That be Resolved?",
+      "answer": "<p>We offer post-deployment maintenance to all of our taxi app development solutions. Our taxi app developers team will offer prompt solutions for all kinds of minor and major issues in your timezone.</p>"
+    },
+    {
+      "question": "Why Should I Hire KeyDevs Technologies for Developing a Taxi Booking App Solution?",
+      "answer": "<p>Timely delivery. Competitive pricing. Proven expertise. And still many more reasons that makes us best taxi app development company. Talk to our experts to get a complete picture of our credentials.</p>"
+    },
+    {
+      "question": "How Can I Get in Touch With, If I Have Any Questions?",
+      "answer": "<p>Our Managing Director, Oliver is always there to help the entrepreneurs who want to enhance the taxi booking business- <a href=\"contact\">Get in touch now</a></p>"
+    }
+  ]
+}

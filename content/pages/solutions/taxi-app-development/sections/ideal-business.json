@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of on-demand Solutions",
+  "items": [
+    {
+      "icon": "svg-42e4c5",
+      "title": "Trucking Booking Solutions",
+      "text": "Build an on-demand truck booking app that will allow users to book a single truck of a fleet of them for their logistic purposes."
+    },
+    {
+      "icon": "svg-b75ae0",
+      "title": "Carpooling App",
+      "text": "Bring together car owners and passengers sharing the same route and travel timings with a carpooling app."
+    },
+    {
+      "icon": "svg-12964e",
+      "title": "Hire a Bike",
+      "text": "Kick off an on-demand bike rental business that allows users to connect to bike fleet owners and vice versa."
+    },
+    {
+      "icon": "svg-034a5c",
+      "title": "Tow Truck app",
+      "text": "Create your own Uber for tow trucks that can be of aid for roadside assistance."
+    },
+    {
+      "icon": "svg-53f6c6",
+      "title": "Airport Taxi",
+      "text": "Airport shuttles are hard to find and difficult to book. An airport taxi booking app can make things simpler for all."
+    },
+    {
+      "icon": "svg-4ef922",
+      "title": "Bus Booking",
+      "text": "An on-demand bus booking app that allows users to book seats or entire buses for their personal/professional purposes."
+    }
+  ]
+}

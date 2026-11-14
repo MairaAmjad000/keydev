@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Real Estate Solutions",
+  "items": [
+    {
+      "icon": "svg-42e4c5",
+      "title": "Property Portals",
+      "text": "Launch a marketplace for sale and rental listings."
+    },
+    {
+      "icon": "svg-b75ae0",
+      "title": "Real Estate Agencies",
+      "text": "Give your agents and clients one branded app."
+    },
+    {
+      "icon": "svg-12964e",
+      "title": "Property Developers",
+      "text": "Showcase projects and manage buyer leads."
+    },
+    {
+      "icon": "svg-034a5c",
+      "title": "Rental Platforms",
+      "text": "Connect landlords and tenants."
+    },
+    {
+      "icon": "svg-53f6c6",
+      "title": "Vacation Rentals",
+      "text": "List short-stay properties for travellers."
+    },
+    {
+      "icon": "svg-4ef922",
+      "title": "Commercial Property",
+      "text": "Help businesses find offices and retail space."
+    }
+  ]
+}

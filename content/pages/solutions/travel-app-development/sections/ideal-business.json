@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Travel Solutions",
+  "items": [
+    {
+      "icon": "svg-42e4c5",
+      "title": "Flight Booking",
+      "text": "Launch a flight search and booking platform."
+    },
+    {
+      "icon": "svg-b75ae0",
+      "title": "Hotel Booking",
+      "text": "Let guests find and book stays."
+    },
+    {
+      "icon": "svg-12964e",
+      "title": "Tour Packages",
+      "text": "Sell guided tours and holiday packages."
+    },
+    {
+      "icon": "svg-034a5c",
+      "title": "Travel Agencies",
+      "text": "Move your agency to a branded app."
+    },
+    {
+      "icon": "svg-53f6c6",
+      "title": "Car Rentals",
+      "text": "Add vehicle rental to your offering."
+    },
+    {
+      "icon": "svg-4ef922",
+      "title": "Local Experiences",
+      "text": "List activities and things to do."
+    }
+  ]
+}

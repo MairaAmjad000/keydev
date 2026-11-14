@@ -1,0 +1,37 @@
+{
+  "text": "Why should you invest?",
+  "heading": "Why Choose Us",
+  "text2": "KeyDevs Technologies builds custom apps for businesses around the world. Here is what makes us a dependable development partner.",
+  "items": [
+    {
+      "icon": "svg-1af174",
+      "title": "Custom Solutions",
+      "text": "Every app we build is treated as a new project with its own requirements, design and user experience."
+    },
+    {
+      "icon": "svg-f4e772",
+      "title": "Rapid Development",
+      "text": "A streamlined, organised process gets your app into the stores faster."
+    },
+    {
+      "icon": "svg-6433f5",
+      "title": "Interactive Design",
+      "text": "Thoughtful design makes the app easy and enjoyable to use."
+    },
+    {
+      "icon": "svg-1c23b7",
+      "title": "Adopt Agile Methodology",
+      "text": "Dedicated project managers and scrum masters keep every milestone on track."
+    },
+    {
+      "icon": "svg-e5b76e",
+      "title": "Cost Efficient Solutions",
+      "text": "Quality should not carry a high price; our services are priced for businesses of every size."
+    },
+    {
+      "icon": "svg-46a4c6",
+      "title": "On-Time Delivery",
+      "text": "We put real emphasis on delivering projects on schedule."
+    }
+  ]
+}

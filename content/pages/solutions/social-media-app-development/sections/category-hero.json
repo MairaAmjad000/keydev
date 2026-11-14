@@ -1,0 +1,27 @@
+{
+  "image": {
+    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
+    "alt": "Social Media app development",
+    "width": "1920",
+    "height": "780"
+  },
+  "headingClass": "text-uppercase f-40",
+  "heading": "Social Media App Development Company",
+  "text": "There is still room for a new idea in social. Launch your own white label social media app with profiles, feeds, stories, groups, messaging and moderation tools, built to grow with your community.",
+  "links": [
+    {
+      "href": "/contact",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Get a Quote Now"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Social Media App Development"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/real-estate-app-development",
+  "seo": {
+    "title": "Real Estate App Development Company | On-Demand Solutions | KeyDevs",
+    "description": "White-label real estate apps with property search, listings, agent tools, virtual tours and an admin panel from KeyDevs Technologies."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

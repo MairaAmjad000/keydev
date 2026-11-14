@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Car Wash Solutions",
+  "items": [
+    {
+      "icon": "svg-d71f31",
+      "title": "Mobile Car Wash",
+      "text": "Send washers to the customer’s doorstep with a fully on-demand wash service."
+    },
+    {
+      "icon": "svg-e7a45e",
+      "title": "Car Wash Stations",
+      "text": "Let customers book slots at your stations and skip the queue."
+    },
+    {
+      "icon": "svg-97fd46",
+      "title": "Car Detailing",
+      "text": "Offer interior, exterior and premium detailing packages."
+    },
+    {
+      "icon": "svg-8f78cc",
+      "title": "Fleet Cleaning",
+      "text": "Schedule recurring washes for company and rental fleets."
+    },
+    {
+      "icon": "svg-4dcb5a",
+      "title": "Bike Wash",
+      "text": "Extend the same app to motorbike cleaning services."
+    },
+    {
+      "icon": "svg-338286",
+      "title": "Multi-Vendor Marketplace",
+      "text": "Bring independent wash providers onto one platform."
+    }
+  ]
+}

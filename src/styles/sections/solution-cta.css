@@ -1,0 +1,42 @@
+/* solution-cta: styles for the "solution-cta" section(s). Extracted from the solution page template. */
+.real-time-app-main {
+  padding: 30px 0 0;
+}
+.real-time-app-icon {
+  width: 208px;
+  margin: 0 auto -20px;
+}
+.real-time-app-icon svg circle,
+.real-time-app-icon svg ellipse,
+.real-time-app-icon svg path,
+.real-time-app-icon svg polygon,
+.real-time-app-icon svg rect {
+  fill: #008080;
+  opacity: .2;
+}
+.real-time-app-content {
+  margin-right: 50px;
+}
+.real-time-app-content span {
+  display: block;
+  padding: 0 15px;
+}
+.real-time-app-content .top {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.real-time-app-content h4 {
+  font-size: 35px;
+  margin: 0;
+  color: #008080;
+  background-color: #faf0e5;
+  font-weight: 600;
+  padding: 6px 15px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.real-time-app-content .bottom {
+  font-size: 20px;
+  font-weight: 500;
+}

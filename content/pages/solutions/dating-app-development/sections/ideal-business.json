@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Dating Solutions",
+  "items": [
+    {
+      "icon": "svg-42e4c5",
+      "title": "Mainstream Dating",
+      "text": "Launch a general-purpose dating app."
+    },
+    {
+      "icon": "svg-b75ae0",
+      "title": "Niche Communities",
+      "text": "Serve a specific interest, faith or culture."
+    },
+    {
+      "icon": "svg-12964e",
+      "title": "Matrimony Apps",
+      "text": "Help families and individuals find life partners."
+    },
+    {
+      "icon": "svg-034a5c",
+      "title": "Senior Dating",
+      "text": "Create a safe space for older singles."
+    },
+    {
+      "icon": "svg-53f6c6",
+      "title": "Friendship Apps",
+      "text": "Connect people for friendship and activities."
+    },
+    {
+      "icon": "svg-4ef922",
+      "title": "Event-Based Dating",
+      "text": "Match people attending the same events."
+    }
+  ]
+}

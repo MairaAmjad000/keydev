@@ -1,0 +1,249 @@
+{
+  "text": "Sets of Features",
+  "heading": "The Main Features Of Our Finance App Development Services",
+  "idPrefix": "finance-app-development",
+  "showAllText": "Show All",
+  "showLessText": "Show Less",
+  "tabs": [
+    {
+      "id": "user",
+      "title": "Customer",
+      "icon": "svg-c59471",
+      "headIcon": "svg-c59471",
+      "items": [
+        {
+          "icon": "svg-30846f",
+          "title": "Secure Onboarding",
+          "text": "Sign up with KYC and identity verification.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Biometric Login",
+          "text": "Fingerprint and face unlock for safe access.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-661d46",
+          "title": "Account Overview",
+          "text": "Balances and recent activity at a glance.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0e5a71",
+          "title": "Money Transfers",
+          "text": "Send money instantly to contacts and accounts.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b84dab",
+          "title": "Bill Payments",
+          "text": "Pay utilities, mobile and other bills.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0d0a3d",
+          "title": "Transaction History",
+          "text": "Search and export every transaction.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e5be1c",
+          "title": "Instant Alerts",
+          "text": "Real-time notifications for every transaction.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2c96b2",
+          "title": "Saved Beneficiaries",
+          "text": "Store payees for faster transfers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2e6bf5",
+          "title": "Scheduled Payments",
+          "text": "Automate recurring payments.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Spending Insights",
+          "text": "Track spending by category.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-a83982",
+          "title": "Card Controls",
+          "text": "Freeze cards and set limits instantly.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Help & Support",
+          "text": "Chat with support from inside the app.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "provider",
+      "title": "Advisor",
+      "icon": "svg-0358bb",
+      "headIcon": "svg-0358bb",
+      "items": [
+        {
+          "icon": "svg-b1d532",
+          "title": "Advisor Onboarding",
+          "text": "Verify and onboard advisors and agents.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-d71f31",
+          "title": "Advisor Dashboard",
+          "text": "Clients, requests and tasks together.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-53b24f",
+          "title": "Client Requests",
+          "text": "Receive and manage customer requests.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Client Profiles",
+          "text": "View customer details and history.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8c4ac0",
+          "title": "Appointments",
+          "text": "Schedule meetings with clients.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-61ce18",
+          "title": "Loan & Product Applications",
+          "text": "Review and process applications.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e8114e",
+          "title": "Secure Messaging",
+          "text": "Chat with clients securely.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-524484",
+          "title": "Performance Tracking",
+          "text": "Follow targets and commissions.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5c8c29",
+          "title": "Approvals",
+          "text": "Approve or escalate requests.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c47be4",
+          "title": "Activity Log",
+          "text": "Audit every action taken.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-38939a",
+          "title": "Payments Management",
+          "text": "Handle payouts and settlements.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2671dd",
+          "title": "Support",
+          "text": "Escalate to the admin team.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "Admin",
+      "icon": "svg-53c0b4",
+      "headIcon": "svg-53c0b4",
+      "items": [
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Secure Login",
+          "text": "Multi-factor access for staff.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-07fc9b",
+          "title": "Admin Dashboard",
+          "text": "Transactions, users and risk in real time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-c201bb",
+          "title": "Manage Customers",
+          "text": "Review profiles and KYC status.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Fraud Monitoring",
+          "text": "Flag and review suspicious activity.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-812812",
+          "title": "Fees & Limits",
+          "text": "Configure fees, limits and rates.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b4dc13",
+          "title": "Reports & Analytics",
+          "text": "Financial, usage and compliance reports.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-60180e",
+          "title": "Dispute Management",
+          "text": "Handle disputes and chargebacks.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-338286",
+          "title": "Manage Staff",
+          "text": "Create roles and permissions.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-800400",
+          "title": "Push Notifications",
+          "text": "Send alerts and offers.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-91b25f",
+          "title": "SMS & OTP Settings",
+          "text": "Manage verification messages.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-becfd7",
+          "title": "Currency Settings",
+          "text": "Support multiple currencies.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-22507c",
+          "title": "Payment Integration",
+          "text": "Connect banks and gateways.",
+          "hidden": true
+        }
+      ]
+    }
+  ]
+}

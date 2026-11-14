@@ -1,0 +1,71 @@
+/* ideal-business: styles for the "ideal-business" section(s). Extracted from the solution page template. */
+.ideal-business-box {
+  padding: 25px 15px;
+  border-right: 1px solid #ecedee;
+  border-bottom: 1px solid #ecedee;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.ideal-business-box:nth-child(3n+0) {
+  border-right: 0;
+}
+.ideal-business-box:nth-child(4),
+.ideal-business-box:nth-child(5),
+.ideal-business-box:nth-child(6) {
+  border-bottom: 0;
+}
+.ideal-business-box-icon {
+  width: 103px;
+  height: 103px;
+  margin: 0 auto 15px;
+  border-radius: 100%;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.ideal-business-box-icon svg {
+  width: 52px;
+  height: 52px;
+}
+.ideal-business-box-icon svg circle,
+.ideal-business-box-icon svg ellipse,
+.ideal-business-box-icon svg path,
+.ideal-business-box-icon svg polygon,
+.ideal-business-box-icon svg rect {
+  fill: #6a6d6f;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.ideal-business-box h5 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.ideal-business-box p:last-child {
+  margin-bottom: 0;
+}
+.ideal-business-box:hover {
+  -webkit-box-shadow: 0 3px 10px 0 rgba(245,133,31,.15);
+  -moz-box-shadow: 0 3px 10px 0 rgba(245,133,31,.15);
+  box-shadow: 0 3px 10px 0 rgba(245,133,31,.15);
+  background-color: #fff;
+}
+.ideal-business-box:hover .ideal-business-box-icon {
+  background-color: #008080;
+}
+.ideal-business-box:hover .ideal-business-box-icon svg circle,
+.ideal-business-box:hover .ideal-business-box-icon svg ellipse,
+.ideal-business-box:hover .ideal-business-box-icon svg path,
+.ideal-business-box:hover .ideal-business-box-icon svg polygon,
+.ideal-business-box:hover .ideal-business-box-icon svg rect {
+  fill: #fff;
+}

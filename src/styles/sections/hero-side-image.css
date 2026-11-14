@@ -1,0 +1,15 @@
+/* hero-side-image: styles for the "hero-side-image" section(s). Extracted from the solution page template. */
+.bannerfixedimage {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  max-width: 1140px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: right;
+}
+.bannerfixedimagewidth {
+  width: 50%;
+  float: right;
+}

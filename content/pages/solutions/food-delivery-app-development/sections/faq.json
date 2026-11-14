@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "food-delivery-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Food Delivery App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "Can you customise the app to our business model?",
+      "answer": "<p>Yes. The solution is white label and can be adapted to single-restaurant, multi-restaurant or cloud-kitchen models.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on customisation and extra features.</p>"
+    },
+    {
+      "question": "How much does a food delivery app cost?",
+      "answer": "<p>Cost depends on the apps, features and integrations you need. Share your requirements for a clear estimate.</p>"
+    },
+    {
+      "question": "Do you build the restaurant and rider apps too?",
+      "answer": "<p>Yes. Customer, restaurant and rider apps are built together with a common admin panel.</p>"
+    },
+    {
+      "question": "Can customers track orders live?",
+      "answer": "<p>Yes. Real-time tracking and status notifications are part of the core solution.</p>"
+    },
+    {
+      "question": "Can I integrate my preferred payment gateway?",
+      "answer": "<p>Yes. We integrate local and international gateways based on your market.</p>"
+    }
+  ]
+}

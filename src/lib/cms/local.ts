@@ -68,6 +68,7 @@ import svcBlog from '../../../content/pages/service/mvp-development/sections/blo
 import svcScheduleCall from '../../../content/pages/service/mvp-development/sections/schedule-call.json';
 import svcEngagement from '../../../content/pages/service/mvp-development/sections/engagement.json';
 import { servicePageSources } from './local-services';
+import { solutionPageSources } from './local-solutions';
 import type { PageData, SectionBlock, SectionDataMap, SectionType, SiteData } from '@/types';
 import mobileAppDevelopmentPage from '../../../content/pages/service-category/mobile-app-development/page.json';
 import mobileAppDevelopmentCategoryHero from '../../../content/pages/service-category/mobile-app-development/sections/category-hero.json';
@@ -322,4 +323,5 @@ export const localPages: Record<string, PageData> = {
   [gameDevelopmentPage.slug]: buildPage(gameDevelopmentPage, gameDevelopmentSections),
   [uiUxDesignPage.slug]: buildPage(uiUxDesignPage, uiUxDesignSections),
   ...Object.fromEntries(servicePageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(solutionPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
 };

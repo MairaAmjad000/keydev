@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/health-fitness-app-development",
+  "seo": {
+    "title": "Health & Fitness App Development Company | KeyDevs",
+    "description": "White-label fitness and wellness apps with workout plans, tracking, trainer tools and an admin panel from KeyDevs Technologies."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

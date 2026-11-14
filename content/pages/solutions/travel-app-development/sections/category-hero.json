@@ -1,0 +1,34 @@
+{
+  "image": {
+    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
+    "alt": "Travel and Tourism development",
+    "width": "1920",
+    "height": "780"
+  },
+  "sideImage": {
+    "src": "/images/solutions/taxi-app-development/hero-taxi-app.webp",
+    "alt": "Travel and Tourism app",
+    "width": "540",
+    "height": "617"
+  },
+  "sideImageClass": "bannerfixedimagewidth landscape",
+  "headingClass": "text-uppercase f-40",
+  "heading": "Travel and Tourism App Development Company",
+  "text": "Travellers plan and book on their phones. Launch a white label travel app for flights, hotels, tours and experiences, with smooth payments, partner tools and an admin panel to manage it all.",
+  "links": [
+    {
+      "href": "/contact",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Get a Quote Now"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Travel and Tourism App Development"
+    }
+  ]
+}

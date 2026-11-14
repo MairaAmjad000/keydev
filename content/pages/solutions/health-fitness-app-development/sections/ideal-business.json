@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Health & Fitness Solutions",
+  "items": [
+    {
+      "icon": "svg-42e4c5",
+      "title": "Gyms & Studios",
+      "text": "Give members a branded app for classes and plans."
+    },
+    {
+      "icon": "svg-b75ae0",
+      "title": "Personal Trainers",
+      "text": "Coach clients remotely with plans and chat."
+    },
+    {
+      "icon": "svg-12964e",
+      "title": "Yoga & Meditation",
+      "text": "Offer guided sessions and routines."
+    },
+    {
+      "icon": "svg-034a5c",
+      "title": "Nutrition Coaching",
+      "text": "Deliver diet plans and meal tracking."
+    },
+    {
+      "icon": "svg-53f6c6",
+      "title": "Corporate Wellness",
+      "text": "Run wellness programmes for employees."
+    },
+    {
+      "icon": "svg-4ef922",
+      "title": "Wearable-Linked Apps",
+      "text": "Sync data from fitness bands and watches."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "dating-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Dating App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "How do you keep users safe?",
+      "answer": "<p>Profile verification, reporting, blocking and moderation tools are built in.</p>"
+    },
+    {
+      "question": "Can I add video calls?",
+      "answer": "<p>Yes. Video and voice calls can be added.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on customisation.</p>"
+    },
+    {
+      "question": "Can I offer premium plans?",
+      "answer": "<p>Yes. Subscriptions and in-app purchases are supported.</p>"
+    },
+    {
+      "question": "Can the matching be customised?",
+      "answer": "<p>Yes. Matching rules can be tailored to your audience.</p>"
+    },
+    {
+      "question": "How much does a dating app cost?",
+      "answer": "<p>Cost depends on features and platforms. Share your requirements for an estimate.</p>"
+    }
+  ]
+}

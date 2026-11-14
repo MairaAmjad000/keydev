@@ -1,0 +1,26 @@
+{
+  "text": "We are Versatile",
+  "heading": "Our Expertise in Other On-demand Solution",
+  "items": [
+    {
+      "icon": "svg-39bfa2",
+      "title": "Taxi",
+      "href": "/solutions/taxi-app-development"
+    },
+    {
+      "icon": "svg-266cd2",
+      "title": "Car Wash",
+      "href": "/solutions/car-wash-app-development"
+    },
+    {
+      "icon": "svg-8e233f",
+      "title": "Chat App",
+      "href": "/solutions/chat-instant-messaging-app-development"
+    },
+    {
+      "icon": "svg-619a78",
+      "title": "Social Media",
+      "href": "/solutions/social-media-app-development"
+    }
+  ]
+}

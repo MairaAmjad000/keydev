@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "social-media-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Social Media App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "Can the app be customised?",
+      "answer": "<p>Yes. Features, branding and community rules can be tailored to your concept.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on customisation and extra features.</p>"
+    },
+    {
+      "question": "Does it include moderation tools?",
+      "answer": "<p>Yes. Reporting, moderation queues and admin controls are included.</p>"
+    },
+    {
+      "question": "Can the app scale as users grow?",
+      "answer": "<p>Yes. The backend and database are built to scale with your community.</p>"
+    },
+    {
+      "question": "Can I monetise the platform?",
+      "answer": "<p>Yes. Ads, subscriptions, tips and paid content can be supported.</p>"
+    },
+    {
+      "question": "How much does a social media app cost?",
+      "answer": "<p>Cost depends on features and platforms. Share your requirements for an estimate.</p>"
+    }
+  ]
+}

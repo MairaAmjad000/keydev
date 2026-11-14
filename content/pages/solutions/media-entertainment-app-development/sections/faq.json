@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "media-entertainment-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Media & Entertainment App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "Can the app stream live content?",
+      "answer": "<p>Yes. Live streaming can be added alongside on-demand content.</p>"
+    },
+    {
+      "question": "Does it support offline downloads?",
+      "answer": "<p>Yes. Downloads for offline viewing are available.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on customisation.</p>"
+    },
+    {
+      "question": "Can I offer subscriptions?",
+      "answer": "<p>Yes. Subscription plans and pay-per-view are supported.</p>"
+    },
+    {
+      "question": "Is content protected?",
+      "answer": "<p>DRM and secure streaming options can be included.</p>"
+    },
+    {
+      "question": "How much does a streaming app cost?",
+      "answer": "<p>Cost depends on features and infrastructure. Share your requirements for an estimate.</p>"
+    }
+  ]
+}

@@ -27,6 +27,14 @@
 /* Inner-page banner base rules must come before the responsive (@media) rules in hero.css and the sections
    below, exactly as in the original stylesheet, or its fixed font sizes would override the breakpoints. */
 @import './sections/category-hero.css';
+/* Solution page sections: base rules must precede the responsive rules in hero.css / process.css. */
+@import './sections/hero-side-image.css';
+@import './sections/feature-tabs.css';
+@import './sections/ideal-business.css';
+@import './sections/solution-cta.css';
+@import './sections/other-solutions.css';
+@import './sections/why-invest.css';
+@import './sections/faq-list.css';
 @import './sections/hero.css';
 @import './sections/brand-logos.css';
 @import './sections/about.css';

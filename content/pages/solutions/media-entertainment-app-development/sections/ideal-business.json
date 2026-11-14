@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Media & Entertainment Solutions",
+  "items": [
+    {
+      "icon": "svg-42e4c5",
+      "title": "Video Streaming",
+      "text": "Launch an on-demand video platform."
+    },
+    {
+      "icon": "svg-b75ae0",
+      "title": "Music Streaming",
+      "text": "Offer songs, albums and playlists."
+    },
+    {
+      "icon": "svg-12964e",
+      "title": "Live Events",
+      "text": "Stream concerts, sports and webinars."
+    },
+    {
+      "icon": "svg-034a5c",
+      "title": "Podcast Apps",
+      "text": "Host and distribute podcasts."
+    },
+    {
+      "icon": "svg-53f6c6",
+      "title": "Regional Content",
+      "text": "Serve local-language audiences."
+    },
+    {
+      "icon": "svg-4ef922",
+      "title": "Learning Videos",
+      "text": "Deliver educational video content."
+    }
+  ]
+}

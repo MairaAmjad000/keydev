@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "car-wash-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Car Wash App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "Can the app be customised to our business model?",
+      "answer": "<p>Yes. As a white label solution it can be branded and extended to match how your car wash business works.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks. Timelines depend on customisation and extra features; we agree a plan after reviewing your requirements.</p>"
+    },
+    {
+      "question": "How much does a car wash app cost?",
+      "answer": "<p>Pricing depends on the features and customisation you need. Share your requirements and we will provide a clear estimate.</p>"
+    },
+    {
+      "question": "Do you provide unique branding?",
+      "answer": "<p>Yes. From the logo to colour themes and screens, we customise the app to look like your own product.</p>"
+    },
+    {
+      "question": "Can I run a mobile wash and station-based service together?",
+      "answer": "<p>Yes. The platform supports both on-demand mobile washes and slot booking at stations.</p>"
+    },
+    {
+      "question": "Does the app support multiple languages and currencies?",
+      "answer": "<p>Yes. Language packs and multi-currency settings are available from the admin panel.</p>"
+    }
+  ]
+}

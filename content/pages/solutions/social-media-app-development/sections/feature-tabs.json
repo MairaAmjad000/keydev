@@ -1,0 +1,321 @@
+{
+  "text": "Sets of Features",
+  "heading": "The Main Features Of Our Social Media App Development Services",
+  "idPrefix": "social-media-app-development",
+  "showAllText": "Show All",
+  "showLessText": "Show Less",
+  "tabs": [
+    {
+      "id": "user",
+      "title": "User",
+      "icon": "svg-c59471",
+      "headIcon": "svg-c59471",
+      "items": [
+        {
+          "icon": "svg-30846f",
+          "title": "Profile",
+          "text": "Photo, bio, interests and links.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8af434",
+          "title": "Follow & Friends",
+          "text": "Follow people or connect as friends.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-971d83",
+          "title": "News Feed",
+          "text": "A feed of posts from people and topics.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2c96b2",
+          "title": "Photos & Videos",
+          "text": "Share photos and videos with captions.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Likes & Reactions",
+          "text": "React to posts in different ways.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2ea89f",
+          "title": "Comments & Replies",
+          "text": "Join conversations under any post.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e5be1c",
+          "title": "Notifications",
+          "text": "Alerts for likes, comments, follows and messages.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b20b29",
+          "title": "Search & Discover",
+          "text": "Find people, hashtags and trending topics.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2e6bf5",
+          "title": "Stories",
+          "text": "Share moments that disappear after 24 hours.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7cf20d",
+          "title": "Direct Messages",
+          "text": "Private chats with media sharing.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-a83982",
+          "title": "Block & Report",
+          "text": "Block accounts and report content.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Privacy Settings",
+          "text": "Control who sees posts and profile details.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-16859b",
+          "title": "Live Streaming",
+          "text": "Go live and interact in real time.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-0d0a3d",
+          "title": "Saved Posts",
+          "text": "Save posts to view later.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-46e624",
+          "title": "Multilingual Support",
+          "text": "Use the app in the user’s language.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-f34f5a",
+          "title": "Share & Invite",
+          "text": "Share posts and invite friends.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "provider",
+      "title": "Creator",
+      "icon": "svg-0358bb",
+      "headIcon": "svg-0358bb",
+      "items": [
+        {
+          "icon": "svg-b1d532",
+          "title": "Creator Profile",
+          "text": "A profile with analytics and links.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-3e5cbd",
+          "title": "Scheduled Posts",
+          "text": "Plan content ahead of time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-53b24f",
+          "title": "Followers & Requests",
+          "text": "Manage followers and requests.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5c8c29",
+          "title": "Content Library",
+          "text": "Organise photos, videos and drafts.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Post Insights",
+          "text": "Reach, likes and comments per post.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-11ba6c",
+          "title": "Hashtags & Tags",
+          "text": "Reach new audiences with tags.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-86fb3f",
+          "title": "Go Live",
+          "text": "Broadcast to followers live.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-61ce18",
+          "title": "Audience Analytics",
+          "text": "Understand who follows and engages.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-524484",
+          "title": "Monetisation",
+          "text": "Subscriptions, tips and paid content.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-d71f31",
+          "title": "Creator Dashboard",
+          "text": "Performance and earnings in one place.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e8114e",
+          "title": "Fan Messages",
+          "text": "Respond to fans and followers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8c4ac0",
+          "title": "Upcoming Events",
+          "text": "Announce and schedule live events.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-a71882",
+          "title": "Comment Controls",
+          "text": "Filter and moderate comments.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-38939a",
+          "title": "Payouts",
+          "text": "Manage earnings and payouts.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c47be4",
+          "title": "Post History",
+          "text": "Review everything you have published.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2671dd",
+          "title": "Creator Support",
+          "text": "Get help from the platform team.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "Admin",
+      "icon": "svg-53c0b4",
+      "headIcon": "svg-53c0b4",
+      "items": [
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Secure Login",
+          "text": "Role-based access for the admin team.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-07fc9b",
+          "title": "Admin Dashboard",
+          "text": "Users, posts and engagement in real time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-c201bb",
+          "title": "Manage Users",
+          "text": "View, verify, suspend or delete accounts.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e7a45e",
+          "title": "Manage Content",
+          "text": "Review and remove posts and comments.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Moderation Queue",
+          "text": "Handle reported content quickly.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b4dc13",
+          "title": "Reports & Analytics",
+          "text": "Growth, retention and engagement metrics.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-338286",
+          "title": "Manage Groups",
+          "text": "Oversee groups and communities.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-800400",
+          "title": "Push Notifications",
+          "text": "Send announcements to users.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-812812",
+          "title": "Ads & Monetisation",
+          "text": "Manage ads, subscriptions and plans.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-22507c",
+          "title": "Payment Integration",
+          "text": "Connect payment gateways.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-91b25f",
+          "title": "SMS & OTP Settings",
+          "text": "Configure phone verification.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-becfd7",
+          "title": "Language Settings",
+          "text": "Manage languages and regions.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-4dcb5a",
+          "title": "Activity Heat Map",
+          "text": "See where engagement is highest.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-5d5ddc",
+          "title": "Live Activity",
+          "text": "Monitor platform activity as it happens.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-8f78cc",
+          "title": "Manage Admins",
+          "text": "Create staff accounts and permissions.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-91e1f4",
+          "title": "Announcements",
+          "text": "Publish official updates to the community.",
+          "hidden": true
+        }
+      ]
+    }
+  ]
+}

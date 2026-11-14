@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Finance Solutions",
+  "items": [
+    {
+      "icon": "svg-42e4c5",
+      "title": "Digital Wallets",
+      "text": "Launch a wallet for payments and transfers."
+    },
+    {
+      "icon": "svg-b75ae0",
+      "title": "Neo Banks",
+      "text": "Offer mobile-first banking without branches."
+    },
+    {
+      "icon": "svg-12964e",
+      "title": "Lending Apps",
+      "text": "Manage loan applications and repayments."
+    },
+    {
+      "icon": "svg-034a5c",
+      "title": "Investment Apps",
+      "text": "Let users invest and track portfolios."
+    },
+    {
+      "icon": "svg-53f6c6",
+      "title": "Payment Gateways",
+      "text": "Process merchant and peer payments."
+    },
+    {
+      "icon": "svg-4ef922",
+      "title": "Expense Management",
+      "text": "Help businesses track and control spending."
+    }
+  ]
+}

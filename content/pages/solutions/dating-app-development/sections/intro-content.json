@@ -1,0 +1,29 @@
+{
+  "heading": "A White Label Dating App, Built for Real Connections",
+  "paragraphs": [
+    {
+      "html": "Dating apps succeed when people feel safe, matched well and eager to return."
+    },
+    {
+      "html": "We build apps with profiles, swipe or preference-based matching, chat, calls and safety features, all under your brand."
+    },
+    {
+      "html": "Niche audiences, premium plans and community rules can all be tailored to your concept."
+    },
+    {
+      "html": "Questions? An expert from our team will help shape your product."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
+    "alt": "Dating solution",
+    "width": "481",
+    "height": "588"
+  },
+  "imageClass": ""
+}

@@ -1,0 +1,29 @@
+{
+  "heading": "A White Label Streaming App, Built for Engagement",
+  "paragraphs": [
+    {
+      "html": "Great media apps deliver smooth playback and make discovery effortless."
+    },
+    {
+      "html": "We build viewer and creator apps with streaming, downloads, recommendations, subscriptions and analytics."
+    },
+    {
+      "html": "Content libraries, pricing and branding can be tailored to broadcasters, studios and independent creators."
+    },
+    {
+      "html": "Questions? An expert from our team will help you plan."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
+    "alt": "Media and Entertainment solution",
+    "width": "481",
+    "height": "588"
+  },
+  "imageClass": ""
+}

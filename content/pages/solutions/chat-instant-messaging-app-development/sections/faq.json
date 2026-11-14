@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "chat-instant-messaging-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Chat App App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "Can the app be customised?",
+      "answer": "<p>Yes. Branding, features and workflows can be tailored to your idea.</p>"
+    },
+    {
+      "question": "Is end-to-end encryption available?",
+      "answer": "<p>Yes. We can implement end-to-end encryption and other security options depending on your requirements.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on customisation and extra features.</p>"
+    },
+    {
+      "question": "Can it support voice and video calls?",
+      "answer": "<p>Yes. Voice and video calling can be added to one-to-one and group chats.</p>"
+    },
+    {
+      "question": "How many users can it support?",
+      "answer": "<p>The backend is built to scale, and capacity grows with your infrastructure.</p>"
+    },
+    {
+      "question": "How much does a chat app cost?",
+      "answer": "<p>Cost depends on the feature set and platforms. Share your requirements for an estimate.</p>"
+    }
+  ]
+}

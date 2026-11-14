@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/dating-app-development",
+  "seo": {
+    "title": "Dating App Development Company | On-Demand Solutions | KeyDevs",
+    "description": "White-label dating apps with matching, chat, video calls, safety tools and an admin panel from KeyDevs Technologies."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

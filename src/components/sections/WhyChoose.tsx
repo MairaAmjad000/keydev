@@ -5,7 +5,7 @@ import { Icon } from '@/components/icons';
 /** "Why choose us" – two-column grid of icon cards under an intro. */
 export function WhyChoose({ data }: { data: WhyChooseContent }) {
   return (
-    <section className="padding-60 bg-light web-why-choose-us-main">
+    <section className={data.sectionClass ?? 'padding-60 bg-light web-why-choose-us-main'}>
       <div className="container">
         <div className="title">
           <span>{data.text}</span>
@@ -19,7 +19,7 @@ export function WhyChoose({ data }: { data: WhyChooseContent }) {
           ))}
         </div>
         {' '}
-        <div className="m-height-170">
+        <div className={data.heightClass ?? 'm-height-170'}>
           <div className="row align-items-center">
             {data.items.map((item, i) => (
               <div key={i} className="col-lg-6 col-md-6 col-sm-12 col-12">

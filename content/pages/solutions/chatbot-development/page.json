@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/chatbot-development",
+  "seo": {
+    "title": "Chatbot Development Company | AI Chatbot Solutions | KeyDevs",
+    "description": "Custom AI chatbots for websites, apps and messaging platforms with live-agent handover and analytics from KeyDevs Technologies."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

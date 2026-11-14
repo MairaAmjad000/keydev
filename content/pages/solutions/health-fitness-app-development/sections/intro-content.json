@@ -1,0 +1,29 @@
+{
+  "heading": "A White Label Fitness App, Built to Keep People Moving",
+  "paragraphs": [
+    {
+      "html": "The best fitness apps make healthy habits simple and rewarding."
+    },
+    {
+      "html": "We build member and trainer apps with workouts, nutrition, tracking, wearable sync and coaching, all under your brand."
+    },
+    {
+      "html": "Plans, subscriptions and content can be tailored to gyms, studios, coaches or wellness brands."
+    },
+    {
+      "html": "Questions? An expert from our team will help you plan your app."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
+    "alt": "Health and Fitness solution",
+    "width": "481",
+    "height": "588"
+  },
+  "imageClass": ""
+}

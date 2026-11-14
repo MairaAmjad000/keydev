@@ -1,0 +1,29 @@
+{
+  "heading": "SEO That Grows Traffic, Leads and Revenue",
+  "paragraphs": [
+    {
+      "html": "Ranking well is a long-term asset. We build SEO strategies around your goals, audience and competitors."
+    },
+    {
+      "html": "Our team covers audits, keyword research, content, link building and technical fixes, with transparent monthly reporting."
+    },
+    {
+      "html": "Whether you are a local business or a global brand, we tailor the plan to your market and budget."
+    },
+    {
+      "html": "Questions? An expert from our team will review your site and suggest a plan."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
+    "alt": "SEO Services solution",
+    "width": "481",
+    "height": "588"
+  },
+  "imageClass": ""
+}

@@ -1,0 +1,27 @@
+{
+  "image": {
+    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
+    "alt": "Chat App app development",
+    "width": "1920",
+    "height": "780"
+  },
+  "headingClass": "text-uppercase f-40",
+  "heading": "Chat App App Development Company",
+  "text": "People live in conversations. Launch your own white label chat app with one-to-one and group messaging, media sharing, voice and video calls, strong security and an admin panel that keeps you in control.",
+  "links": [
+    {
+      "href": "/contact",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Get a Quote Now"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Chat App App Development"
+    }
+  ]
+}

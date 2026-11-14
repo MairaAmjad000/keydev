@@ -1,0 +1,249 @@
+{
+  "text": "Sets of Features",
+  "heading": "The Main Features Of Our SEO Services",
+  "idPrefix": "seo-services",
+  "showAllText": "Show All",
+  "showLessText": "Show Less",
+  "tabs": [
+    {
+      "id": "user",
+      "title": "On-Page SEO",
+      "icon": "svg-c59471",
+      "headIcon": "svg-c59471",
+      "items": [
+        {
+          "icon": "svg-b20b29",
+          "title": "Keyword Research",
+          "text": "Find the terms your customers search for.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-16859b",
+          "title": "Competitor Analysis",
+          "text": "Learn what ranks and why.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2c96b2",
+          "title": "Content Optimisation",
+          "text": "Improve pages for relevance and intent.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Title & Meta Tags",
+          "text": "Write tags that earn clicks.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2e6bf5",
+          "title": "Content Calendar",
+          "text": "Plan articles that attract traffic.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-46e624",
+          "title": "Heading & URL Structure",
+          "text": "Organise pages for users and search engines.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Image Optimisation",
+          "text": "Compress and describe images properly.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2ea89f",
+          "title": "Internal Linking",
+          "text": "Guide authority to important pages.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Schema Markup",
+          "text": "Add structured data for rich results.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-971d83",
+          "title": "Conversion Optimisation",
+          "text": "Turn visitors into leads.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-0d0a3d",
+          "title": "Content Refresh",
+          "text": "Update ageing content to regain rankings.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-e5be1c",
+          "title": "Local SEO Pages",
+          "text": "Optimise pages for local searches.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "provider",
+      "title": "Off-Page SEO",
+      "icon": "svg-0358bb",
+      "headIcon": "svg-0358bb",
+      "items": [
+        {
+          "icon": "svg-8af434",
+          "title": "Link Building",
+          "text": "Earn quality backlinks from relevant sites.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e8114e",
+          "title": "Guest Posting",
+          "text": "Publish on trusted industry sites.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Brand Mentions",
+          "text": "Build visibility across the web.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2c96b2",
+          "title": "Directory Listings",
+          "text": "List your business in trusted directories.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-16859b",
+          "title": "Local Citations",
+          "text": "Keep business details consistent.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-30846f",
+          "title": "Google Business Profile",
+          "text": "Optimise and manage your profile.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e5be1c",
+          "title": "Review Management",
+          "text": "Encourage and respond to reviews.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-f34f5a",
+          "title": "Social Signals",
+          "text": "Support SEO with social engagement.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b20b29",
+          "title": "Competitor Backlink Audit",
+          "text": "Find link opportunities.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-90088c",
+          "title": "Toxic Link Cleanup",
+          "text": "Remove harmful links.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Digital PR",
+          "text": "Earn coverage that builds authority.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c47be4",
+          "title": "Link Reporting",
+          "text": "Track links earned each month.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "Technical SEO",
+      "icon": "svg-53c0b4",
+      "headIcon": "svg-53c0b4",
+      "items": [
+        {
+          "icon": "svg-07fc9b",
+          "title": "Site Audit",
+          "text": "Find crawl, index and speed issues.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7cf20d",
+          "title": "Page Speed",
+          "text": "Improve load times and Core Web Vitals.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5d5ddc",
+          "title": "Mobile Optimisation",
+          "text": "Make every page work on phones.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b20b29",
+          "title": "Crawl & Indexing",
+          "text": "Fix robots, sitemaps and canonicals.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Security & HTTPS",
+          "text": "Secure the site and avoid warnings.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2ea89f",
+          "title": "Site Architecture",
+          "text": "Structure pages for easy discovery.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Structured Data",
+          "text": "Implement schema markup correctly.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-1d73bf",
+          "title": "Broken Links & Redirects",
+          "text": "Fix 404s and redirect chains.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-46e624",
+          "title": "International SEO",
+          "text": "Set up hreflang for multiple regions.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-0d0a3d",
+          "title": "Log File Analysis",
+          "text": "See how search bots crawl your site.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Analytics Setup",
+          "text": "Track traffic and conversions properly.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-b4dc13",
+          "title": "Monthly Reporting",
+          "text": "Clear reports on rankings and traffic.",
+          "hidden": true
+        }
+      ]
+    }
+  ]
+}

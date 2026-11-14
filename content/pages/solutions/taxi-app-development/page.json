@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/taxi-app-development",
+  "seo": {
+    "title": "Taxi App Development Company | On-Demand Solutions | KeyDevs",
+    "description": "KeyDevs Technologies builds white-label taxi booking and on-demand apps with real-time tracking, payments and admin panels. Launch your on-demand business faster."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "icon": "svg-eec254",
+  "topText": "We Build Robust And Cost-Effective",
+  "heading": "Health & Fitness App",
+  "bottomText": "For Your Diverse Business Model.",
+  "link": {
+    "href": "/contact",
+    "text": "Get In Touch",
+    "className": "btn-custome btn waves-effect waves-light"
+  }
+}

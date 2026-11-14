@@ -1,0 +1,169 @@
+/* faq-list: styles for the "faq-list" section(s). Extracted from the solution page template. */
+.faq-list-title {
+  position: relative;
+}
+.faq-list-title a {
+  color: #202122;
+  font-size: 18px;
+  display: block;
+}
+.faq-list-title span {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  line-height: 1;
+  pointer-events: none;
+}
+.faq-list-title span svg * {
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.faq-list-title .plus {
+  display: block;
+}
+.faq-list-title .minus {
+  display: none;
+}
+.faq-list-title.active .plus {
+  display: none;
+}
+.faq-list-title.active .minus {
+  display: block;
+}
+.faq-list-content {
+  display: none;
+}
+.faq-list-content p:last-child {
+  margin-bottom: 0;
+}
+.faq-list-wrap.option1 .faq-list-item {
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+.faq-list-wrap.option1 .faq-list-item.active {
+  -webkit-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+}
+.faq-list-wrap.option1 .faq-list-title a {
+  position: relative;
+  padding: 25px 60px 25px 20px;
+}
+.faq-list-wrap.option1 .faq-list-title span {
+  right: 20px;
+  top: 50%;
+  margin-top: -13px;
+}
+.faq-list-wrap.option1 .faq-list-title a:hover,
+.faq-list-wrap.option1 .faq-list-title.active a {
+  color: #008080;
+}
+.faq-list-wrap.option1 .faq-list-title a:hover span svg *,
+.faq-list-wrap.option1 .faq-list-title.active span svg * {
+  fill: #008080;
+}
+.faq-list-wrap.option1 .faq-list-content {
+  padding: 0 60px 0 40px;
+  position: relative;
+  margin-bottom: 25px;
+}
+.faq-list-wrap.option1 .faq-list-content:before {
+  content: "";
+  display: block;
+  width: 2px;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 20px;
+  background-color: #008080;
+  position: absolute;
+}
+.faq-list-wrap.option2 .faq-list-item {
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  overflow: hidden;
+}
+.faq-list-wrap.option2 .faq-list-item:last-child {
+  margin-bottom: 0;
+}
+.faq-list-wrap.option2 .faq-list-item.active {
+  -webkit-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  border: 1px solid #008080;
+}
+.faq-list-wrap.option2 .faq-list-title a {
+  position: relative;
+  padding: 20px 60px 20px 20px;
+  background-color: transparent;
+}
+.faq-list-wrap.option2 .faq-list-title span {
+  right: 20px;
+  top: 50%;
+  margin-top: -13px;
+}
+.faq-list-wrap.option2 .faq-list-title a:hover,
+.faq-list-wrap.option2 .faq-list-title.active a {
+  color: #fff;
+  background-color: #008080;
+}
+.faq-list-wrap.option2 .faq-list-title a:hover span svg *,
+.faq-list-wrap.option2 .faq-list-title.active span svg * {
+  fill: #fff;
+}
+.faq-list-wrap.option2 .faq-list-content {
+  padding: 0 50px;
+  position: relative;
+  margin: 30px 0;
+}
+.faq-list-wrap.option2 .faq-list-content:before {
+  content: "";
+  display: block;
+  width: 2px;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 20px;
+  background-color: #008080;
+  position: absolute;
+}
+.faq-list-wrap.option3 .faq-list-item {
+  border-bottom: 1px solid #e6e6e6;
+}
+.faq-list-wrap.option3 .faq-list-title a {
+  position: relative;
+  padding: 25px 20px 25px 50px;
+}
+.faq-list-wrap.option3 .faq-list-title span {
+  left: 1px;
+  top: 50%;
+  margin-top: -13px;
+}
+.faq-list-wrap.option3 .faq-list-title a:hover,
+.faq-list-wrap.option3 .faq-list-title.active a {
+  color: #008080;
+}
+.faq-list-wrap.option3 .faq-list-title a:hover span svg *,
+.faq-list-wrap.option3 .faq-list-title.active span svg * {
+  fill: #008080;
+}
+.faq-list-wrap.option3 .faq-list-content {
+  padding: 0 20px 0 70px;
+  position: relative;
+  margin-bottom: 25px;
+}
+.faq-list-wrap.option3 .faq-list-content:before {
+  content: "";
+  display: block;
+  width: 2px;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 50px;
+  background-color: #008080;
+  position: absolute;
+}

@@ -1,0 +1,27 @@
+{
+  "image": {
+    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
+    "alt": "Car Wash app development",
+    "width": "1920",
+    "height": "780"
+  },
+  "headingClass": "text-uppercase f-40",
+  "heading": "Car Wash App Development Company",
+  "text": "Car care is moving to the phone. Launch your own on-demand car wash business with a white label app that lets customers book a wash at home or at a nearby station, lets washers manage their jobs, and gives you full control through an admin panel.",
+  "links": [
+    {
+      "href": "/contact",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Get a Quote Now"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Car Wash App Development"
+    }
+  ]
+}

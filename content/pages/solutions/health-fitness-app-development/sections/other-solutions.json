@@ -1,0 +1,26 @@
+{
+  "text": "We are Versatile",
+  "heading": "Our Expertise in Other On-demand Solution",
+  "items": [
+    {
+      "icon": "svg-1ac9ab",
+      "title": "Social Media",
+      "href": "/solutions/social-media-app-development"
+    },
+    {
+      "icon": "svg-af7dd9",
+      "title": "Dating",
+      "href": "/solutions/dating-app-development"
+    },
+    {
+      "icon": "svg-d16673",
+      "title": "Chat App",
+      "href": "/solutions/chat-instant-messaging-app-development"
+    },
+    {
+      "icon": "svg-662a5a",
+      "title": "Media and Entertainment",
+      "href": "/solutions/media-entertainment-app-development"
+    }
+  ]
+}

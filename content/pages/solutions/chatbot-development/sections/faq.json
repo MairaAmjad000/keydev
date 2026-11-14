@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "chatbot-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Chatbot Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "What platforms can the chatbot run on?",
+      "answer": "<p>Websites, mobile apps, WhatsApp, Messenger and other channels can be supported.</p>"
+    },
+    {
+      "question": "Can it hand over to a human agent?",
+      "answer": "<p>Yes. Live-agent handover with full conversation context is included.</p>"
+    },
+    {
+      "question": "How long does it take to build a chatbot?",
+      "answer": "<p>Simple bots can launch in a few weeks; complex integrations take longer.</p>"
+    },
+    {
+      "question": "Can it connect to our systems?",
+      "answer": "<p>Yes. We integrate with CRMs, helpdesks and databases.</p>"
+    },
+    {
+      "question": "Does it support multiple languages?",
+      "answer": "<p>Yes. Multilingual bots are supported.</p>"
+    },
+    {
+      "question": "How much does a chatbot cost?",
+      "answer": "<p>Cost depends on complexity and integrations. Share your requirements for an estimate.</p>"
+    }
+  ]
+}

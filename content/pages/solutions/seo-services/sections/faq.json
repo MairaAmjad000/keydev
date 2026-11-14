@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "seo-services",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on SEO Services",
+  "text2": "",
+  "items": [
+    {
+      "question": "How long does SEO take to show results?",
+      "answer": "<p>Most sites see movement in 3–6 months; competitive markets can take longer.</p>"
+    },
+    {
+      "question": "Do you guarantee rankings?",
+      "answer": "<p>No ethical agency can guarantee rankings. We commit to a clear plan and transparent reporting.</p>"
+    },
+    {
+      "question": "What is included in an SEO audit?",
+      "answer": "<p>Technical checks, content review, keyword gaps and a backlink analysis.</p>"
+    },
+    {
+      "question": "Do you offer local SEO?",
+      "answer": "<p>Yes. We optimise Google Business Profiles, citations and local pages.</p>"
+    },
+    {
+      "question": "Will I get reports?",
+      "answer": "<p>Yes. You get regular reports on rankings, traffic and leads.</p>"
+    },
+    {
+      "question": "How much do SEO services cost?",
+      "answer": "<p>Pricing depends on goals, competition and site size. Contact us for a tailored quote.</p>"
+    }
+  ]
+}

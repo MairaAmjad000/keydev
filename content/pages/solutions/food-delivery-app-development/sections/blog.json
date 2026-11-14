@@ -1,0 +1,72 @@
+{
+  "text": "What's Going on at KeyDevs Technologies",
+  "heading": "Fresh off the Press",
+  "items": [
+    {
+      "blogPostFeatureLink": {
+        "href": "#",
+        "title": "How UI/UX Impacts Business Growth in the Digital Age",
+        "image": {
+          "src": "/images/blog/ui-ux-business-growth.jpg",
+          "alt": "How UI/UX Impacts Business Growth in the Digital Age",
+          "width": "370",
+          "height": "193"
+        }
+      },
+      "link": {
+        "href": "#",
+        "text": "How UI/UX Impacts Business Growth in the Digital Age"
+      },
+      "text": "In today’s competitive market, a seamless and intuitive user experience (UX) is more than just a bonus—it’s essential,…",
+      "datePost": "Read More",
+      "link2": {
+        "href": "#",
+        "title": "Read More"
+      }
+    },
+    {
+      "blogPostFeatureLink": {
+        "href": "#",
+        "title": "Front-End Development: Bridging Creativity and Functionality",
+        "image": {
+          "src": "/images/blog/front-end-development.jpg",
+          "alt": "Front-End Development: Bridging Creativity and Functionality",
+          "width": "370",
+          "height": "193"
+        }
+      },
+      "link": {
+        "href": "#",
+        "text": "Front-End Development: Bridging Creativity and Functionality"
+      },
+      "text": "Front-end development is where creativity meets functionality. With user expectations constantly evolving, businesses need a cutting-edge front-end …",
+      "datePost": "Read More",
+      "link2": {
+        "href": "#",
+        "title": "Read More"
+      }
+    },
+    {
+      "blogPostFeatureLink": {
+        "href": "#",
+        "title": "Full-Stack Development: The Power of End-to-End Solutions",
+        "image": {
+          "src": "/images/blog/full-stack-development.jpg",
+          "alt": "Full-Stack Development: The Power of End-to-End Solutions",
+          "width": "370",
+          "height": "193"
+        }
+      },
+      "link": {
+        "href": "#",
+        "text": "Full-Stack Development: The Power of End-to-End Solutions"
+      },
+      "text": "In today’s fast-paced digital world, full-stack development is becoming a critical service for businesses. Full-stack developers handle both…",
+      "datePost": "Read More",
+      "link2": {
+        "href": "#",
+        "title": "Read More"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "image": {
+    "src": "/images/header/consultant-avatar.webp",
+    "alt": "For your business digital transformation and startup consultancy talk to Yasser, the co-founder of top web and mobile development company in Lahore, Lahore, Paksitan."
+  },
+  "subheading": "We would love to hear from you",
+  "text": "A thousand mile journey starts with a single step. Get in touch with us and we will begin a partnership that will take your business to new heights.",
+  "headRequetBtn": {
+    "href": "javascript:;",
+    "text": "Schedule a Meeting"
+  },
+  "orangeText": "OR",
+  "item": "Call Me",
+  "link": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387",
+    "ariaLabel": "call"
+  },
+  "link2": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link3": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link4": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link5": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link6": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link7": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link8": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "background": "bg-white"
+}

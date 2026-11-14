@@ -1,0 +1,32 @@
+{
+  "heading": "A White Label Taxi App, Build to Your Order",
+  "paragraphs": [
+    {
+      "html": "At Intellivita, we are of the belief that building a taxi booking mobile app should not be difficult. It should not be bank balance shattering either. Neither should it take ages to complete the app and launch it into the market."
+    },
+    {
+      "html": "Our taxi app developers with special expertise in building on demand apps can help build a white label taxi booking app that you are looking for. The taxi app be bolted with all state-of-the-art on-demand booking features that users, drivers and admins will be looking for."
+    },
+    {
+      "html": "Real-time GPS location tracking of passenger and the driver to begin with. One tap booking, integrated digital wallets for hassle-free payment, reviews and ratings, favorite routes, types of cars, hourly booking, and so many more features can be fitted into the mobile app. Consider your every feature request made possible."
+    },
+    {
+      "html": "Would it look like a knock off of some other mobile app? As a white label mobile app, we will ensure that your taxi booking app looks original and a branded one at that. From color themes to user interface, we can customize every pixel of your taxi app."
+    },
+    {
+      "html": "If you have any additional questions or require further clarification. Please do not hesitate, having a question is a sign of intelligence. You will have an expert from the best taxi app development company to guide you."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
+    "alt": "Taxi booking app screens with a yellow cab",
+    "width": "481",
+    "height": "588"
+  },
+  "imageClass": ""
+}

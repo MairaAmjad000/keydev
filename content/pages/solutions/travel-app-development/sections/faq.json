@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "travel-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Travel App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "Can the app connect to airline and hotel APIs?",
+      "answer": "<p>Yes. We integrate with relevant supplier APIs or let partners manage inventory directly.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on integrations and customisation.</p>"
+    },
+    {
+      "question": "Does it support multiple currencies?",
+      "answer": "<p>Yes. Multi-currency and multilingual support is available.</p>"
+    },
+    {
+      "question": "Can partners manage their own listings?",
+      "answer": "<p>Yes. Partners get their own app and dashboard.</p>"
+    },
+    {
+      "question": "Can I earn commissions?",
+      "answer": "<p>Yes. Commissions and markups can be configured in the admin panel.</p>"
+    },
+    {
+      "question": "How much does a travel app cost?",
+      "answer": "<p>Cost depends on features and integrations. Share your requirements for an estimate.</p>"
+    }
+  ]
+}

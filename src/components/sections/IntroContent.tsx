@@ -24,7 +24,7 @@ export function IntroContent({ data }: { data: IntroContentContent }) {
           {' '}
           <div className="col-lg-5 col-md-12 col-sm-12 col-12 text-center">
             <img
-              className="rounded10 box-shadow"
+              className={data.imageClass ?? 'rounded10 box-shadow'}
               src={data.image.src}
               alt={data.image.alt}
               width={data.image.width}

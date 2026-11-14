@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Food Delivery Solutions",
+  "items": [
+    {
+      "icon": "svg-d71f31",
+      "title": "Restaurant Chains",
+      "text": "Give your outlets one branded ordering and delivery channel."
+    },
+    {
+      "icon": "svg-e7a45e",
+      "title": "Cloud Kitchens",
+      "text": "Run delivery-only kitchens with efficient order flow."
+    },
+    {
+      "icon": "svg-97fd46",
+      "title": "Multi-Restaurant Marketplace",
+      "text": "Bring many restaurants onto one platform."
+    },
+    {
+      "icon": "svg-8f78cc",
+      "title": "Grocery Delivery",
+      "text": "Extend the platform to groceries and daily essentials."
+    },
+    {
+      "icon": "svg-4dcb5a",
+      "title": "Bakery & Sweets",
+      "text": "Let local bakeries take orders and schedule deliveries."
+    },
+    {
+      "icon": "svg-338286",
+      "title": "Meal Subscriptions",
+      "text": "Offer weekly or monthly meal plans."
+    }
+  ]
+}

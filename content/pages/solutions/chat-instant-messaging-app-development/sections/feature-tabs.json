@@ -1,0 +1,321 @@
+{
+  "text": "Sets of Features",
+  "heading": "The Main Features Of Our Chat App Development Services",
+  "idPrefix": "chat-instant-messaging-app-development",
+  "showAllText": "Show All",
+  "showLessText": "Show Less",
+  "tabs": [
+    {
+      "id": "user",
+      "title": "User",
+      "icon": "svg-c59471",
+      "headIcon": "svg-c59471",
+      "items": [
+        {
+          "icon": "svg-30846f",
+          "title": "Profile & Status",
+          "text": "Set a name, photo and status message.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-971d83",
+          "title": "One-to-One Chat",
+          "text": "Private conversations that arrive instantly.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8af434",
+          "title": "Group Chat",
+          "text": "Create groups and add or remove members.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2ea89f",
+          "title": "Voice & Video Calls",
+          "text": "High-quality calls over the internet.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2c96b2",
+          "title": "Media Sharing",
+          "text": "Send photos, videos, documents and voice notes.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e5be1c",
+          "title": "Push Notifications",
+          "text": "Never miss a message, even when the app is closed.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7cf20d",
+          "title": "Read Receipts",
+          "text": "See when messages are delivered and read.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-16859b",
+          "title": "Online Presence",
+          "text": "Show who is online or typing.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b20b29",
+          "title": "Search",
+          "text": "Find chats, contacts and messages quickly.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-a83982",
+          "title": "Block & Report",
+          "text": "Block contacts and report abuse.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Privacy Controls",
+          "text": "Control who sees your profile and last seen.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-46e624",
+          "title": "Multilingual Support",
+          "text": "Use the app in the user’s language.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0d0a3d",
+          "title": "Chat Backup",
+          "text": "Back up and restore conversations.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-1d73bf",
+          "title": "Delete Messages",
+          "text": "Delete messages for yourself or everyone.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-0e5a71",
+          "title": "In-App Purchases",
+          "text": "Stickers, premium features or subscriptions.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Stories & Status",
+          "text": "Share short updates with contacts.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "provider",
+      "title": "Group Admin",
+      "icon": "svg-0358bb",
+      "headIcon": "svg-0358bb",
+      "items": [
+        {
+          "icon": "svg-b1d532",
+          "title": "Create Groups",
+          "text": "Start groups and channels in seconds.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-3e5cbd",
+          "title": "Member Roles",
+          "text": "Assign admins and moderators.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-53b24f",
+          "title": "Join Requests",
+          "text": "Approve or reject people who want to join.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5c8c29",
+          "title": "Invite Links",
+          "text": "Share links to grow your group.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Group Info",
+          "text": "Describe the group and set rules.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-11ba6c",
+          "title": "Pinned Messages",
+          "text": "Keep important messages on top.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-86fb3f",
+          "title": "Mute & Restrict",
+          "text": "Restrict who can post.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-61ce18",
+          "title": "Announcements",
+          "text": "Broadcast updates to all members.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-524484",
+          "title": "Polls",
+          "text": "Collect opinions with in-chat polls.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-d71f31",
+          "title": "Group Dashboard",
+          "text": "Members and activity at a glance.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e8114e",
+          "title": "Mentions & Replies",
+          "text": "Reply to specific messages and mention members.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8c4ac0",
+          "title": "Scheduled Messages",
+          "text": "Schedule announcements ahead of time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-a71882",
+          "title": "Remove Members",
+          "text": "Remove or ban disruptive members.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-38939a",
+          "title": "Paid Groups",
+          "text": "Charge for access to premium groups.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c47be4",
+          "title": "Message History",
+          "text": "Search the full history of the group.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2671dd",
+          "title": "Report to Admin",
+          "text": "Escalate issues to platform admins.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "Admin",
+      "icon": "svg-53c0b4",
+      "headIcon": "svg-53c0b4",
+      "items": [
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Secure Login",
+          "text": "Role-based access for admin staff.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-07fc9b",
+          "title": "Admin Dashboard",
+          "text": "Users, messages and activity in real time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-c201bb",
+          "title": "Manage Users",
+          "text": "View, suspend or delete accounts.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e7a45e",
+          "title": "Manage Groups",
+          "text": "Oversee and moderate groups.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b4dc13",
+          "title": "Reports & Analytics",
+          "text": "Active users, retention and message volume.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Content Moderation",
+          "text": "Review reported content and take action.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-60180e",
+          "title": "Manage Subscriptions",
+          "text": "Handle plans, purchases and refunds.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-800400",
+          "title": "Push Notifications",
+          "text": "Send announcements to all or selected users.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-91b25f",
+          "title": "SMS & OTP Settings",
+          "text": "Configure phone verification.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-becfd7",
+          "title": "Language Settings",
+          "text": "Manage supported languages.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-22507c",
+          "title": "Payment Integration",
+          "text": "Connect payment gateways.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-812812",
+          "title": "Plans & Pricing",
+          "text": "Define premium plans and prices.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5d5ddc",
+          "title": "Live Activity",
+          "text": "Watch platform activity as it happens.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-338286",
+          "title": "Manage Admins",
+          "text": "Create staff accounts and permissions.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-91e1f4",
+          "title": "Broadcast Messages",
+          "text": "Send official messages to users.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-4dcb5a",
+          "title": "Usage Heat Map",
+          "text": "See where users are most active.",
+          "hidden": true
+        }
+      ]
+    }
+  ]
+}

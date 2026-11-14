@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Businesses That Benefit From SEO",
+  "items": [
+    {
+      "icon": "svg-42e4c5",
+      "title": "Local Businesses",
+      "text": "Appear in nearby searches and maps."
+    },
+    {
+      "icon": "svg-b75ae0",
+      "title": "E-commerce Stores",
+      "text": "Drive product page traffic and sales."
+    },
+    {
+      "icon": "svg-12964e",
+      "title": "SaaS Companies",
+      "text": "Attract qualified sign-ups and demos."
+    },
+    {
+      "icon": "svg-034a5c",
+      "title": "Healthcare Providers",
+      "text": "Reach patients searching for care."
+    },
+    {
+      "icon": "svg-53f6c6",
+      "title": "Education & Training",
+      "text": "Grow enrolments through search."
+    },
+    {
+      "icon": "svg-4ef922",
+      "title": "Professional Services",
+      "text": "Win enquiries from decision makers."
+    }
+  ]
+}

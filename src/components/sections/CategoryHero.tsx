@@ -45,7 +45,9 @@ export function CategoryHero({ data }: { data: CategoryHeroContent }) {
   const { form } = data;
   const textCol = form
     ? 'col-xl-8 col-lg-7 col-md-12 col-sm-12 col-12'
-    : 'col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12';
+    : data.sideImage
+      ? 'col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12'
+      : 'col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12';
   return (
     <section className="banner innerbanner">
       {data.image && (
@@ -58,7 +60,7 @@ export function CategoryHero({ data }: { data: CategoryHeroContent }) {
         <div className="container">
           <div className="row align-items-center">
             <div className={textCol}>
-              <h1>{data.heading}</h1>
+              <h1 className={data.headingClass}>{data.heading}</h1>
               {' '}
               <p dangerouslySetInnerHTML={{ __html: data.text }} />
               {' '}
@@ -108,6 +110,16 @@ export function CategoryHero({ data }: { data: CategoryHeroContent }) {
             )}
           </div>
         </div>
+        {data.sideImage && (
+          <>
+            {' '}
+            <div className="bannerfixedimage">
+              <div className={data.sideImageClass ?? 'bannerfixedimagewidth landscape'}>
+                <img src={data.sideImage.src} alt={data.sideImage.alt} width={data.sideImage.width} height={data.sideImage.height} />
+              </div>
+            </div>
+          </>
+        )}
       </div>
       {' '}
       <ol className="breadcrumb">

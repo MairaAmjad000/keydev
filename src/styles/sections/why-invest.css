@@ -1,0 +1,112 @@
+/* why-invest: styles for the "why-invest" section(s). Extracted from the solution page template. */
+.why-you-invest-box {
+  position: relative;
+  border: 1px solid #ecedee;
+  padding: 25px 20px;
+  background-color: #fff;
+  min-height: 250px;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.why-you-invest-icon {
+  width: 70px;
+  height: 70px;
+  background-color: #fff;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-box-shadow: 0 3px 10px 0 rgba(0,0,0,.1);
+  -moz-box-shadow: 0 3px 10px 0 rgba(0,0,0,.1);
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,.1);
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  position: absolute;
+  left: 20px;
+  top: -10px;
+}
+.why-you-invest-icon svg {
+  width: 40px;
+}
+.why-you-invest-icon svg circle,
+.why-you-invest-icon svg ellipse,
+.why-you-invest-icon svg path,
+.why-you-invest-icon svg polygon,
+.why-you-invest-icon svg rect {
+  fill: #202122;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.why-you-invest-box h5 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 30px;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  padding-left: 80px;
+}
+.why-you-invest-box p:last-child {
+  margin-bottom: 0;
+}
+.why-you-invest-box:hover {
+  border: 1px solid #008080;
+  -webkit-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+}
+.why-you-invest-box:hover .why-you-invest-icon {
+  background-color: #008080;
+}
+.why-you-invest-box:hover svg circle,
+.why-you-invest-box:hover svg ellipse,
+.why-you-invest-box:hover svg path,
+.why-you-invest-box:hover svg polygon,
+.why-you-invest-box:hover svg rect {
+  fill: #fff;
+}
+.why-you-invest-main-2 .why-you-invest-box {
+  background-color: transparent;
+  padding: 20px 15px;
+  position: relative;
+}
+.why-you-invest-main-2 .why-you-invest-box:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 43px;
+  height: 67px;
+  width: 8px;
+  background-color: #f8f9fa;
+  left: -7px;
+  z-index: 1;
+}
+.why-you-invest-main-2 .why-you-invest-icon {
+  position: relative;
+  left: inherit;
+  top: inherit;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+.why-you-invest-main-2 .why-you-invest-icon svg {
+  width: 45px;
+  height: 45px;
+}
+.why-you-invest-main-2 .why-you-invest-box h5 {
+  padding: 0;
+  margin-bottom: 10px;
+}
+.invest-erp-main .why-you-invest-box {
+  background-color: #f8f9fa;
+  min-height: 290px;
+}
+.invest-erp-main .why-you-invest-box:hover {
+  background-color: #fff;
+}

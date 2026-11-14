@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/media-entertainment-app-development",
+  "seo": {
+    "title": "Media & Entertainment App Development Company | KeyDevs",
+    "description": "White-label video, music and streaming apps with subscriptions, creator tools and an admin panel from KeyDevs Technologies."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

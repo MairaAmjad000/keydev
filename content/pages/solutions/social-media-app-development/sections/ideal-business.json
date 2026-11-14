@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Social Media Solutions",
+  "items": [
+    {
+      "icon": "svg-d71f31",
+      "title": "Niche Communities",
+      "text": "Build a network around a specific interest or profession."
+    },
+    {
+      "icon": "svg-e7a45e",
+      "title": "Creator Platforms",
+      "text": "Give creators tools to share and earn."
+    },
+    {
+      "icon": "svg-97fd46",
+      "title": "Local Networks",
+      "text": "Connect neighbourhoods, cities or campuses."
+    },
+    {
+      "icon": "svg-8f78cc",
+      "title": "Brand Communities",
+      "text": "Let customers gather around your brand."
+    },
+    {
+      "icon": "svg-4dcb5a",
+      "title": "Photo & Video Sharing",
+      "text": "Launch a visual-first sharing app."
+    },
+    {
+      "icon": "svg-338286",
+      "title": "Professional Networking",
+      "text": "Connect people for careers and business."
+    }
+  ]
+}

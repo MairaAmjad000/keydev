@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Chatbot Solutions",
+  "items": [
+    {
+      "icon": "svg-42e4c5",
+      "title": "Customer Support",
+      "text": "Resolve common questions without waiting."
+    },
+    {
+      "icon": "svg-b75ae0",
+      "title": "Lead Generation",
+      "text": "Qualify visitors and capture details."
+    },
+    {
+      "icon": "svg-12964e",
+      "title": "E-commerce Assistants",
+      "text": "Help shoppers find products and track orders."
+    },
+    {
+      "icon": "svg-034a5c",
+      "title": "Appointment Booking",
+      "text": "Let customers book without a phone call."
+    },
+    {
+      "icon": "svg-53f6c6",
+      "title": "HR & Internal Help",
+      "text": "Answer employee questions automatically."
+    },
+    {
+      "icon": "svg-4ef922",
+      "title": "Banking & Insurance",
+      "text": "Handle account and policy queries securely."
+    }
+  ]
+}

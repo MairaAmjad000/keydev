@@ -1,0 +1,36 @@
+{
+  "text": "The Ideal Businesses",
+  "heading": "Use Cases of Chat App Solutions",
+  "items": [
+    {
+      "icon": "svg-d71f31",
+      "title": "Consumer Messaging",
+      "text": "Launch a general-purpose messenger for a new audience."
+    },
+    {
+      "icon": "svg-e7a45e",
+      "title": "Business Chat",
+      "text": "Give teams a secure internal communication tool."
+    },
+    {
+      "icon": "svg-97fd46",
+      "title": "Customer Support Chat",
+      "text": "Add live chat between customers and agents."
+    },
+    {
+      "icon": "svg-8f78cc",
+      "title": "Community Apps",
+      "text": "Build chat for communities, clubs and creators."
+    },
+    {
+      "icon": "svg-4dcb5a",
+      "title": "Education & Classrooms",
+      "text": "Connect teachers, students and parents."
+    },
+    {
+      "icon": "svg-338286",
+      "title": "Dating & Social Chat",
+      "text": "Add real-time chat to social and dating apps."
+    }
+  ]
+}

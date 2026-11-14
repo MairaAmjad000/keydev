@@ -1,0 +1,26 @@
+{
+  "heading": "A White Label Chat App, Built for Real-Time",
+  "paragraphs": [
+    {
+      "html": "Messaging apps succeed on speed and reliability. Messages must arrive instantly, in order, on any connection."
+    },
+    {
+      "html": "We build on proven real-time infrastructure with push notifications, delivery and read receipts, media sharing and optional end-to-end encryption."
+    },
+    {
+      "html": "Branding, features and moderation tools can be tailored for consumer, community or business messaging."
+    },
+    {
+      "html": "Questions? An expert from our team will help you plan scope, timelines and cost."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Chat App app development"
+  }
+}

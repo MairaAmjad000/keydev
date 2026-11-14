@@ -5,7 +5,8 @@ import type {
   LocationsContent, CategoryHeroContent, IntroContentContent, ServiceOfferingsContent, FeatureListContent,
   AdvantageGridContent, FrameworkTabsContent, WhyChooseContent, FaqContent, FeaturedInContent,
   OfferCardsContent, ImageCardsContent, CompareBenefitsContent, SprintProcessContent, TechStackTabsContent,
-  WhyChooseImageContent,
+  WhyChooseImageContent, FeatureTabsContent, IdealBusinessContent, SolutionCtaContent, OtherSolutionsContent,
+  WhyInvestContent,
 } from './sections';
 import type {
   HeaderContent, MobileMenuContent, GetQuoteButtonContent, CallBackSidebarContent, FooterContent,
@@ -47,6 +48,11 @@ export interface SectionDataMap {
   sprintProcess: SprintProcessContent;
   techStackTabs: TechStackTabsContent;
   whyChooseImage: WhyChooseImageContent;
+  featureTabs: FeatureTabsContent;
+  idealBusiness: IdealBusinessContent;
+  solutionCta: SolutionCtaContent;
+  otherSolutions: OtherSolutionsContent;
+  whyInvest: WhyInvestContent;
 }
 
 export type SectionType = keyof SectionDataMap;

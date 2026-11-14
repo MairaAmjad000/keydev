@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/car-wash-app-development",
+  "seo": {
+    "title": "Car Wash App Development Company | On-Demand Solutions | KeyDevs",
+    "description": "White-label on-demand car wash apps with booking, scheduling, live tracking, payments and an admin panel from KeyDevs Technologies."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

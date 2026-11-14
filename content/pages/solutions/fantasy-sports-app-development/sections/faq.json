@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "fantasy-sports-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Fantasy Sports App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "Does the app use live sports data?",
+      "answer": "<p>Yes. We integrate with live sports data providers for real-time scoring.</p>"
+    },
+    {
+      "question": "How are payments handled?",
+      "answer": "<p>Wallets and payment gateways handle deposits and withdrawals securely.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on customisation.</p>"
+    },
+    {
+      "question": "Is it compliant with local laws?",
+      "answer": "<p>We build to your requirements; legal compliance depends on your market and licences.</p>"
+    },
+    {
+      "question": "Can I add multiple sports?",
+      "answer": "<p>Yes. Multiple sports and formats are supported.</p>"
+    },
+    {
+      "question": "How much does a fantasy sports app cost?",
+      "answer": "<p>Cost depends on features and data providers. Share your requirements for an estimate.</p>"
+    }
+  ]
+}

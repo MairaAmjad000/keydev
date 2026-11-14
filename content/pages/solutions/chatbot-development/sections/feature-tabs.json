@@ -1,0 +1,249 @@
+{
+  "text": "Sets of Features",
+  "heading": "The Main Features Of Our Chatbot Development Services",
+  "idPrefix": "chatbot-development",
+  "showAllText": "Show All",
+  "showLessText": "Show Less",
+  "tabs": [
+    {
+      "id": "user",
+      "title": "Customer",
+      "icon": "svg-c59471",
+      "headIcon": "svg-c59471",
+      "items": [
+        {
+          "icon": "svg-971d83",
+          "title": "Instant Answers",
+          "text": "Reply to common questions around the clock.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b20b29",
+          "title": "Natural Conversations",
+          "text": "Understand intent, not just keywords.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-16859b",
+          "title": "Guided Flows",
+          "text": "Walk users through bookings and orders.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-46e624",
+          "title": "Multilingual Support",
+          "text": "Chat in the customer’s language.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2c96b2",
+          "title": "Rich Responses",
+          "text": "Buttons, cards, images and links.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0d0a3d",
+          "title": "Conversation History",
+          "text": "Pick up where the chat left off.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2ea89f",
+          "title": "Live Agent Handover",
+          "text": "Pass complex chats to a person.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e5be1c",
+          "title": "Proactive Messages",
+          "text": "Start helpful conversations.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-30846f",
+          "title": "Personalisation",
+          "text": "Use customer data for relevant replies.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-0e5a71",
+          "title": "Payments in Chat",
+          "text": "Take payments inside the conversation.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Feedback Collection",
+          "text": "Ask for ratings after each chat.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Easy Escalation",
+          "text": "Reach human support at any time.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "provider",
+      "title": "Agent",
+      "icon": "svg-0358bb",
+      "headIcon": "svg-0358bb",
+      "items": [
+        {
+          "icon": "svg-b1d532",
+          "title": "Agent Accounts",
+          "text": "Create and manage agent logins.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-53b24f",
+          "title": "Live Chat Requests",
+          "text": "Receive handed-over conversations.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Customer Context",
+          "text": "See the full bot conversation first.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5c8c29",
+          "title": "Canned Replies",
+          "text": "Answer faster with saved responses.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-3e5cbd",
+          "title": "Availability Status",
+          "text": "Set online and offline hours.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-d71f31",
+          "title": "Agent Dashboard",
+          "text": "Chats, response times and ratings.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e8114e",
+          "title": "Internal Notes",
+          "text": "Share notes between agents.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-61ce18",
+          "title": "Chat Summary",
+          "text": "Auto-summaries of long chats.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8c4ac0",
+          "title": "Queue Management",
+          "text": "Prioritise waiting customers.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c47be4",
+          "title": "Chat History",
+          "text": "Search past conversations.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-a71882",
+          "title": "Customer Ratings",
+          "text": "See how customers rated chats.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2671dd",
+          "title": "Support",
+          "text": "Contact the admin team.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "Admin",
+      "icon": "svg-53c0b4",
+      "headIcon": "svg-53c0b4",
+      "items": [
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Secure Login",
+          "text": "Role-based access for admins.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-07fc9b",
+          "title": "Admin Dashboard",
+          "text": "Conversations and performance in real time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e7a45e",
+          "title": "Train the Bot",
+          "text": "Add intents, answers and flows.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b4dc13",
+          "title": "Reports & Analytics",
+          "text": "Resolution rate and popular topics.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-c201bb",
+          "title": "Manage Users",
+          "text": "Control agent and admin accounts.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-91e1f4",
+          "title": "Integrations",
+          "text": "Connect CRM, helpdesk and databases.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-800400",
+          "title": "Channel Settings",
+          "text": "Manage website, app and messaging channels.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-91b25f",
+          "title": "Notification Settings",
+          "text": "Configure alerts and emails.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-becfd7",
+          "title": "Language Settings",
+          "text": "Manage supported languages.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Privacy & Security",
+          "text": "Control data retention and access.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-812812",
+          "title": "Plans & Usage",
+          "text": "Monitor usage and plan limits.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-22507c",
+          "title": "Payment Integration",
+          "text": "Connect payment gateways.",
+          "hidden": true
+        }
+      ]
+    }
+  ]
+}

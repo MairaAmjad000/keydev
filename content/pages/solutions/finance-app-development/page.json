@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/finance-app-development",
+  "seo": {
+    "title": "Banking & Finance App Development Company | KeyDevs",
+    "description": "Secure white-label banking, payments and fintech apps with wallets, transfers, KYC and an admin panel from KeyDevs Technologies."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

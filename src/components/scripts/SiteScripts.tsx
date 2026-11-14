@@ -16,6 +16,7 @@ const SCRIPTS = [
   '/scripts/site.js',
   '/scripts/scroll-to-fixed.js',
   '/scripts/category-page.js',
+  '/scripts/solution-page.js',
   '/scripts/twentytwenty.js',
   '/scripts/lazy-init.js',
   'https://cdn.jsdelivr.net/npm/sweetalert2@11.4.0/dist/sweetalert2.min.js',

@@ -1,0 +1,29 @@
+{
+  "heading": "A White Label Travel App, Ready to Take Off",
+  "paragraphs": [
+    {
+      "html": "Today’s travellers expect to search, compare and book in a few taps, and get help on the move."
+    },
+    {
+      "html": "We build traveller and partner apps with search, itineraries, secure payments, reviews and notifications, all under your brand."
+    },
+    {
+      "html": "Inventory from hotels, airlines and tour operators can be connected through APIs or managed directly."
+    },
+    {
+      "html": "Questions? An expert from our team will help plan scope and integrations."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
+    "alt": "Travel and Tourism solution",
+    "width": "481",
+    "height": "588"
+  },
+  "imageClass": ""
+}

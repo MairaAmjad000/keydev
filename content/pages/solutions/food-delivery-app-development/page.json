@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/food-delivery-app-development",
+  "seo": {
+    "title": "Food Delivery App Development Company | On-Demand Solutions | KeyDevs",
+    "description": "White-label food ordering and delivery apps with live tracking, restaurant and rider apps, payments and an admin panel from KeyDevs Technologies."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

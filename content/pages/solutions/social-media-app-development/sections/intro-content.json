@@ -1,0 +1,26 @@
+{
+  "heading": "A White Label Social Media App, Made for Your Community",
+  "paragraphs": [
+    {
+      "html": "Successful social apps give people a clear reason to join and a smooth way to connect."
+    },
+    {
+      "html": "We build feeds, stories, groups, messaging and notifications on scalable infrastructure designed for growing communities."
+    },
+    {
+      "html": "Privacy controls and moderation tools are part of the platform from day one, so you can keep your community healthy."
+    },
+    {
+      "html": "Questions? An expert from our team will help you shape the product and plan the launch."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Social Media app development"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "text": "We are Versatile",
+  "heading": "Our Expertise in Other On-demand Solution",
+  "items": [
+    {
+      "icon": "svg-d7618a",
+      "title": "Real Estate",
+      "href": "/solutions/real-estate-app-development"
+    },
+    {
+      "icon": "svg-b68e51",
+      "title": "Banking and Finance",
+      "href": "/solutions/finance-app-development"
+    },
+    {
+      "icon": "svg-f95d40",
+      "title": "Travel and Tourism",
+      "href": "/solutions/travel-app-development"
+    },
+    {
+      "icon": "svg-1a5ee6",
+      "title": "Health and Fitness",
+      "href": "/solutions/health-fitness-app-development"
+    }
+  ]
+}

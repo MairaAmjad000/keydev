@@ -1,0 +1,393 @@
+{
+  "text": "Sets of Features",
+  "heading": "The Main Features Of Our Taxi App Development Services",
+  "idPrefix": "taxi-app-development",
+  "showAllText": "Show All",
+  "showLessText": "Show Less",
+  "tabs": [
+    {
+      "id": "user",
+      "title": "User",
+      "icon": "svg-c59471",
+      "headIcon": "svg-c59471",
+      "items": [
+        {
+          "icon": "svg-30846f",
+          "title": "Passenger Profile",
+          "text": "Every user or passenger get to create their own profile complete with their personal contact details.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-971d83",
+          "title": "Ride Now",
+          "text": "Users can book a cab for immediate use from their real-time location with the ride now option.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2e6bf5",
+          "title": "Schedule Ride",
+          "text": "For those unearthly cab rides, users can book a cab for a later time that is most convenient for them.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-16f61c",
+          "title": "Book For Others",
+          "text": "Users can book cabs using the app for someone else and send the ride details to them directly from the app.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b20b29",
+          "title": "Vehicle Selection",
+          "text": "Users can choose a cab of their that best fits their time, size, and ride distance requirements.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7cf20d",
+          "title": "Real-Time ETA",
+          "text": "The app can highlight the real-time ETA of the ride to the user’s location accurately.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-661d46",
+          "title": "Fare Estimates",
+          "text": "Inform users an estimated fare they have to pay for the ride once they reach their selected destination.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-16859b",
+          "title": "Driver Tracking",
+          "text": "GPS-driven vehicle tracking that highlights the accurate location and the movement of the cab towards user location.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0e5a71",
+          "title": "Multiple Payment Options",
+          "text": "Passengers can pay using a variety of payment modes including cash, in-built digital wallet or cards.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e5be1c",
+          "title": "Notification Alerts",
+          "text": "Notification for every successful cab booking, the arrival of a cab, ride cancellation, ride completion, offer alerts and so on.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-d5cbc0",
+          "title": "Preferred Driver",
+          "text": "User populated star ratings and review system that will allow new passengers to select high-rated drivers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-a83982",
+          "title": "SOS Button",
+          "text": "When any unexpected mishaps happen, customers can use the SOS button to reach out for emergency support.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b84dab",
+          "title": "Promo Codes",
+          "text": "Entice users to use the app regularly with loyalty schemes attached to promo codes, discounts, etc.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-f34f5a",
+          "title": "Referral Rewards",
+          "text": "Incentivize users to invite their near and dear to use the app with referral rewards in the form of free rides, promo codes, etc.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-1d73bf",
+          "title": "Cancel Booking",
+          "text": "Users can cancel their bookings easily from the same screen where the ride was booked along with appropriate reasons.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2ea89f",
+          "title": "Contact Driver",
+          "text": "Users can reach out to through phone call to the cab driver assigned to them straight from the app.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Ride Ratings",
+          "text": "For every completed ride, the user can leave a star rating as well as text review of the ride experience.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-0d0a3d",
+          "title": "Trip History",
+          "text": "A complete history of all the completed rides along with data in timestamps can be seen the user profile section.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2c96b2",
+          "title": "Favorite Location",
+          "text": "A user can mark frequently visited locations as favorites. It helps save time when the booking has to be done repetitively.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-46e624",
+          "title": "Multilingual Support",
+          "text": "Users can toggle between multiple languages to use the app effortlessly on a language of their choice.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Help & Support",
+          "text": "For any queries that the user cannot find a solution to, there help & support section can be added to resolve their queries.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-8af434",
+          "title": "Invite Friends",
+          "text": "Increase user base of the app by inducing existing users to invite their friends through social media, email or referral code.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "driver",
+      "title": "Driver",
+      "icon": "svg-0358bb",
+      "headIcon": "svg-0358bb",
+      "items": [
+        {
+          "icon": "svg-b1d532",
+          "title": "Easy Registration",
+          "text": "A simple and hassle-free process for drivers to easily register their vehicles or driver services with the app.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-3e5cbd",
+          "title": "Select Availability",
+          "text": "Drivers can toggle between their working hours and break hours using available and unavailable options.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-53b24f",
+          "title": "Real Time Requests",
+          "text": "All ride requests are populated on a real-time basis and forwarded to nearby drivers tracked using GPS.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5c8c29",
+          "title": "Accept/Reject",
+          "text": "Drivers can choose to accept or reject a ride depending on their availability or interest in taking the ride.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Trip Information",
+          "text": "The driver gets complete trip information like passenger pickup location, drop location and estimated fare for the ride.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-11ba6c",
+          "title": "Navigation",
+          "text": "GPS-enabled in-built navigation to guide the driver to the passenger drop location through the shortest and quickest route possible.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-31bb19",
+          "title": "Cancel Booking",
+          "text": "Not all bookings get through the first time. The driver can use the option to cancel a confirmed booking, if required.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e8114e",
+          "title": "Contact Passenger",
+          "text": "Cab drivers can contact passengers straight from the app when they arrive at the destination or to intimate ETA.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-86fb3f",
+          "title": "Start/End Trip",
+          "text": "Once the passenger is picked up the driver can start the end trip using OTP or swipe gestures on the app screen.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-61ce18",
+          "title": "Trip Summary",
+          "text": "A comprehensive trip summary comprising of information like a pickup, drop location, final fare, customer details, etc.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-524484",
+          "title": "Track Earnings",
+          "text": "The driver can track the entire earnings on a daily, weekly or monthly basis from the app screen.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-d71f31",
+          "title": "Driver Dashboard",
+          "text": "From completed trips to ongoing trips and earnings, the driver can see all vital info on a single screen.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-a71882",
+          "title": "Rate Customer",
+          "text": "Drivers can also rate the passengers depending on the trip experience with star rating & reviews.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-90088c",
+          "title": "SOS Contacts",
+          "text": "When things go wrong unexpectedly, the driver can reach out to admin or other emergency support teams.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-57a895",
+          "title": "My Destination",
+          "text": "Drivers can set specific locations where they desire to get more rides from.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-8c4ac0",
+          "title": "Upcoming Rides",
+          "text": "Drivers can track numbers of upcoming rides scheduled from the dashboard as well as the earning from the rides.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-38939a",
+          "title": "Payment Management",
+          "text": "The driver can receive payment in cash or in the wallet, payment can be transferred to the bank any point of time.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c47be4",
+          "title": "Trip History",
+          "text": "The driver can see a complete list of timestamped view of trips and the earnings thereon using the trip history.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2671dd",
+          "title": "Support",
+          "text": "The driver can reach to a service provider for any conflict or assistance.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "Admin",
+      "icon": "svg-53c0b4",
+      "headIcon": "svg-53c0b4",
+      "items": [
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Secure Login",
+          "text": "SSO or email based secure login system for the admin to log into the panel.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-07fc9b",
+          "title": "Admin Dashboard",
+          "text": "An all information compromising control centre exclusive for the admin.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5d5ddc",
+          "title": "Track Drivers",
+          "text": "The admin can have a bird’s eye view of all drivers and their current location.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-338286",
+          "title": "Manage Drivers",
+          "text": "The admin has the user privileges to add, edit or remove drivers from time to time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-c201bb",
+          "title": "Manage Customers",
+          "text": "Similar to drivers, the admin can also add, edit or remove customers from using the app.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8f78cc",
+          "title": "Manage Dispatchers",
+          "text": "The admin can add dispatch manager to handle operations and dispatches for a particular region and services.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-97fd46",
+          "title": "Manage Vehicles",
+          "text": "Admin can monitor the vehicle inventory and assign drivers to them for effective usage.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e7a45e",
+          "title": "Manage Categories",
+          "text": "Dispatch manager and Admin can add and update different car categories, location wise or by services demand.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-812812",
+          "title": "Manage Tariffs",
+          "text": "The admin can configure custom pricing or set up dynamic pricing that varies with volume and demand.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b4dc13",
+          "title": "Reporting & Analytics",
+          "text": "Know how users are booking rides, the most frequented routes, peak hours and much more with detailed reporting & analytics.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-d27630",
+          "title": "Dispatcher Panel",
+          "text": "Dispatch managers get access to this panel to handle and deploy drives as per the demand.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-91e1f4",
+          "title": "Manual Bookings",
+          "text": "For bookings that do not get done through the app, the admin can always raise manual bookings.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-4dcb5a",
+          "title": "Heat Map",
+          "text": "Admin has the access to monitor the demand for taxi and can accordingly deploy drivers in the regions.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-60180e",
+          "title": "Manage Refunds",
+          "text": "Keep track of refunds that are to be initiated or to be transferred to users after verification.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-91b25f",
+          "title": "SMS Alerts Settings",
+          "text": "The admin can control the frequency of SMS alerts and when they should be sent to users.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-74591f",
+          "title": "Ride Later Settings",
+          "text": "Configure how early users can schedule rides and what kind of cabs are available for scheduled bookings.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-becfd7",
+          "title": "Country/Currency Settings",
+          "text": "Multilingual and multi-currency support to help the app work appropriately for users from across the globe.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-800400",
+          "title": "Send App Notifications",
+          "text": "Configure what kind of push notifications can be sent, how frequently they can be sent to users from the admin panel.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-22507c",
+          "title": "Payment Integration",
+          "text": "Integrate the app with payment integrations for cards, online banking and digital wallets.",
+          "hidden": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "text": "Why should you invest?",
+  "heading": "Why Choose Us",
+  "text2": "KeyDevs Technologies has been winning recognition from all around the world as a mobile app development company that builds custom solutions for various industries. Know in detail the qualities that makes us unique.",
+  "items": [
+    {
+      "icon": "svg-1af174",
+      "title": "Custom Solutions",
+      "text": "Every real estate mobile app we build is treated like a new project with its own specific requirements, design theme and user experience. Rest assured, your app will not look like something that is already existing on the market."
+    },
+    {
+      "icon": "svg-f4e772",
+      "title": "Rapid Development",
+      "text": "Gain faster entry to market, win leads faster and close them easier. We have a streamlined and organized process of mobile app development that helps rapid release in app stores."
+    },
+    {
+      "icon": "svg-6433f5",
+      "title": "Interactive Design",
+      "text": "Design speaks volumes, especially for a real estate mobile app, design is the cornerstone of user experience. We ensure that your real estate app has the right design elements that will make it user interactive."
+    },
+    {
+      "icon": "svg-1c23b7",
+      "title": "Adopt Agile Methodology",
+      "text": "KeyDevs Technologies takes pride in following the Agile project management methodology. We have dedicated project manager and scrum masters who ensure that the project marches forward in full swing to achieve all milestones."
+    },
+    {
+      "icon": "svg-e5b76e",
+      "title": "Cost Efficient Solutions",
+      "text": "Quality should not always come with a high price. As a Real Estate Mobile App Development Company, we ensure that our services are priced aptly for all range of businesses."
+    },
+    {
+      "icon": "svg-46a4c6",
+      "title": "On-Time Delivery",
+      "text": "The market does not wait for anything or anyone. We know that better than anyone else. That is why we put greater emphasis on delivering projects on time, without any delay."
+    }
+  ]
+}

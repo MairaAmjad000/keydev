@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/social-media-app-development",
+  "seo": {
+    "title": "Social Media App Development Company | On-Demand Solutions | KeyDevs",
+    "description": "White-label social networking apps with profiles, feeds, stories, chat and moderation tools from KeyDevs Technologies."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

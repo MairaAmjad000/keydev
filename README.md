@@ -126,6 +126,20 @@ fantasy-sports-app-development. They are registered in `src/lib/cms/local-servic
 They reuse existing pictures (`public/images/services`, `public/images/portfolio`, `public/images/category/web-development/banner-web-development.webp`),
 so swap in service-specific artwork when you have it.
 
+## Solution pages
+
+Solution pages live in `content/pages/solutions/<slug>` (URL `/solutions/<slug>`), e.g. `taxi-app-development`.
+They are registered in `src/lib/cms/local-solutions.ts` (same pattern as `local-services.ts`).
+
+Sections of a solution page, in order: `categoryHero` (with `sideImage`), `brandLogos`, `introContent`,
+`featureTabs`, `contactCta`, `whyChoose` (advantages, with `sectionClass` / `heightClass`), `technologies`,
+`idealBusiness`, `faq` (`variant: "list"`), `solutionCta`, `otherSolutions`, `whyInvest`, `testimonials`,
+`featuredIn`, `blog`, `scheduleCall`, `engagement`.
+
+To add another solution page (the four others were made this way): copy the folder, edit the JSON, add images under `public/images/solutions/<slug>/`,
+and add its imports to `local-solutions.ts`. New icons go in `src/components/icons/index.tsx`.
+`public/scripts/solution-page.js` provides the FAQ list toggle and the feature tabs' Show All button.
+
 ## Adding things
 
 * **New page**: create it in the admin panel (or add `content/pages/<slug>/page.json`) and it is served at `/<slug>`.

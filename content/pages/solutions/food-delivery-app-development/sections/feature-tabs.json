@@ -1,0 +1,321 @@
+{
+  "text": "Sets of Features",
+  "heading": "The Main Features Of Our Food Delivery App Development Services",
+  "idPrefix": "food-delivery-app-development",
+  "showAllText": "Show All",
+  "showLessText": "Show Less",
+  "tabs": [
+    {
+      "id": "user",
+      "title": "Customer",
+      "icon": "svg-c59471",
+      "headIcon": "svg-c59471",
+      "items": [
+        {
+          "icon": "svg-30846f",
+          "title": "Customer Profile",
+          "text": "Save contact details, addresses and preferences.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b20b29",
+          "title": "Restaurant Search",
+          "text": "Find restaurants by cuisine, rating, distance or delivery time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2c96b2",
+          "title": "Menu & Customisation",
+          "text": "Browse menus and customise dishes with add-ons.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-971d83",
+          "title": "Quick Reorder",
+          "text": "Reorder favourite meals with a single tap.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2e6bf5",
+          "title": "Schedule Orders",
+          "text": "Order now or choose a delivery time later.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-16859b",
+          "title": "Live Order Tracking",
+          "text": "Follow the order from kitchen to doorstep.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7cf20d",
+          "title": "Delivery ETA",
+          "text": "See an estimated delivery time for every order.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0e5a71",
+          "title": "Multiple Payment Options",
+          "text": "Cash on delivery, cards and wallets.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b84dab",
+          "title": "Offers & Coupons",
+          "text": "Apply promo codes and loyalty rewards.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e5be1c",
+          "title": "Order Notifications",
+          "text": "Alerts for confirmation, preparation, dispatch and delivery.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Ratings & Reviews",
+          "text": "Rate restaurants, dishes and riders.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0d0a3d",
+          "title": "Order History",
+          "text": "Browse previous orders and receipts.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2ea89f",
+          "title": "Contact Rider",
+          "text": "Call or message the rider about the delivery.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-1d73bf",
+          "title": "Cancel Order",
+          "text": "Cancel within the allowed window.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-f34f5a",
+          "title": "Referral Rewards",
+          "text": "Reward customers who bring friends.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Help & Support",
+          "text": "Get help on any order from inside the app.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "provider",
+      "title": "Rider",
+      "icon": "svg-0358bb",
+      "headIcon": "svg-0358bb",
+      "items": [
+        {
+          "icon": "svg-b1d532",
+          "title": "Easy Registration",
+          "text": "Riders sign up and submit documents for approval.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-3e5cbd",
+          "title": "Go Online or Offline",
+          "text": "Choose when to receive delivery requests.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-53b24f",
+          "title": "Delivery Requests",
+          "text": "Get nearby orders in real time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5c8c29",
+          "title": "Accept or Reject",
+          "text": "Take only the deliveries that fit.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Order Details",
+          "text": "See pickup, drop-off and order items.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-11ba6c",
+          "title": "Navigation",
+          "text": "Optimised routes to restaurant and customer.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-86fb3f",
+          "title": "Pickup & Delivery Status",
+          "text": "Update the order status at every step.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e8114e",
+          "title": "Contact Customer",
+          "text": "Reach the customer without exposing numbers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-61ce18",
+          "title": "Delivery Summary",
+          "text": "Distance, time and payout for each delivery.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-524484",
+          "title": "Track Earnings",
+          "text": "View earnings, tips and incentives.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-d71f31",
+          "title": "Rider Dashboard",
+          "text": "Deliveries and ratings in one view.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8c4ac0",
+          "title": "Upcoming Orders",
+          "text": "See scheduled orders ahead of time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-90088c",
+          "title": "Emergency Contacts",
+          "text": "Quick access to help on the road.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-38939a",
+          "title": "Cash & Payouts",
+          "text": "Manage cash collected and payouts.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c47be4",
+          "title": "Delivery History",
+          "text": "Review every completed delivery.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2671dd",
+          "title": "Support",
+          "text": "Chat with the admin team when needed.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "Admin",
+      "icon": "svg-53c0b4",
+      "headIcon": "svg-53c0b4",
+      "items": [
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Secure Login",
+          "text": "Role-based access for the admin team.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-07fc9b",
+          "title": "Admin Dashboard",
+          "text": "Live view of orders, revenue and activity.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e7a45e",
+          "title": "Manage Restaurants",
+          "text": "Onboard restaurants and manage menus.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-338286",
+          "title": "Manage Riders",
+          "text": "Approve, assign and monitor riders.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-c201bb",
+          "title": "Manage Customers",
+          "text": "View customers and their orders.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5d5ddc",
+          "title": "Live Order Map",
+          "text": "Track every active delivery on a map.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-812812",
+          "title": "Fees & Commissions",
+          "text": "Set delivery fees, taxes and commissions.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-4dcb5a",
+          "title": "Delivery Zones",
+          "text": "Define zones and see demand hot spots.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b4dc13",
+          "title": "Reports & Analytics",
+          "text": "Sales, popular dishes and delivery performance.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-91e1f4",
+          "title": "Manual Orders",
+          "text": "Place orders on behalf of customers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-60180e",
+          "title": "Manage Refunds",
+          "text": "Handle refunds and disputes.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-91b25f",
+          "title": "SMS Alerts",
+          "text": "Configure SMS notifications.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-800400",
+          "title": "Push Notifications",
+          "text": "Send offers and announcements.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-becfd7",
+          "title": "Currency & Language",
+          "text": "Support multiple currencies and languages.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-8f78cc",
+          "title": "Dispatch Panel",
+          "text": "Assign orders to riders manually when needed.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-22507c",
+          "title": "Payment Integration",
+          "text": "Connect cards, banking and wallet gateways.",
+          "hidden": true
+        }
+      ]
+    }
+  ]
+}

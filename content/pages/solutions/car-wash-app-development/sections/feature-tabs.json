@@ -1,0 +1,321 @@
+{
+  "text": "Sets of Features",
+  "heading": "The Main Features Of Our Car Wash App Development Services",
+  "idPrefix": "car-wash-app-development",
+  "showAllText": "Show All",
+  "showLessText": "Show Less",
+  "tabs": [
+    {
+      "id": "user",
+      "title": "Customer",
+      "icon": "svg-c59471",
+      "headIcon": "svg-c59471",
+      "items": [
+        {
+          "icon": "svg-30846f",
+          "title": "Customer Profile",
+          "text": "Customers create a profile with contact details, saved vehicles and addresses.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-971d83",
+          "title": "Book Now",
+          "text": "Request an immediate wash at the customer’s current location.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2e6bf5",
+          "title": "Schedule a Wash",
+          "text": "Pick a convenient date and time slot for a later appointment.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b20b29",
+          "title": "Vehicle & Package",
+          "text": "Choose the vehicle type and a wash package that fits the need.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-16859b",
+          "title": "Washer Tracking",
+          "text": "Follow the washer on the map as they travel to the booking.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7cf20d",
+          "title": "Live ETA",
+          "text": "See an accurate arrival time for every confirmed booking.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-661d46",
+          "title": "Price Estimates",
+          "text": "Show the cost up front based on vehicle type and selected services.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0e5a71",
+          "title": "Multiple Payment Options",
+          "text": "Pay with cash, cards or an in-app wallet.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e5be1c",
+          "title": "Notification Alerts",
+          "text": "Updates for confirmation, arrival, completion and offers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-67ec81",
+          "title": "Ratings & Reviews",
+          "text": "Rate each wash and read feedback before choosing a provider.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b84dab",
+          "title": "Promo Codes",
+          "text": "Discounts and loyalty offers that bring customers back.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0d0a3d",
+          "title": "Booking History",
+          "text": "Review past washes and rebook with one tap.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2c96b2",
+          "title": "Saved Locations",
+          "text": "Store home and work addresses for faster booking.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-1d73bf",
+          "title": "Cancel or Reschedule",
+          "text": "Change or cancel a booking within the allowed window.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Help & Support",
+          "text": "Reach support directly from the app.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-8af434",
+          "title": "Invite Friends",
+          "text": "Referral rewards for every friend who books.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "provider",
+      "title": "Washer",
+      "icon": "svg-0358bb",
+      "headIcon": "svg-0358bb",
+      "items": [
+        {
+          "icon": "svg-b1d532",
+          "title": "Easy Registration",
+          "text": "Washers sign up and submit documents for verification.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-3e5cbd",
+          "title": "Set Availability",
+          "text": "Go online or offline and choose working hours.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-53b24f",
+          "title": "Live Job Requests",
+          "text": "Receive nearby wash requests in real time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5c8c29",
+          "title": "Accept or Reject",
+          "text": "Take the jobs that suit the schedule.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Job Details",
+          "text": "See vehicle, package, address and notes before accepting.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-11ba6c",
+          "title": "Navigation",
+          "text": "Turn-by-turn directions to the customer’s location.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-86fb3f",
+          "title": "Start & End Job",
+          "text": "Mark a job as started and completed from the app.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-61ce18",
+          "title": "Job Summary",
+          "text": "A clear breakdown of services and amount for every job.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-524484",
+          "title": "Track Earnings",
+          "text": "Daily, weekly and monthly earnings at a glance.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-d71f31",
+          "title": "Washer Dashboard",
+          "text": "Jobs, ratings and earnings in one place.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e8114e",
+          "title": "Contact Customer",
+          "text": "Call or message the customer without sharing numbers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-8c4ac0",
+          "title": "Upcoming Jobs",
+          "text": "Plan the day with a list of scheduled washes.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-a71882",
+          "title": "Rate Customer",
+          "text": "Leave feedback after each completed job.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-38939a",
+          "title": "Payment Management",
+          "text": "Manage payouts and cash collections.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c47be4",
+          "title": "Job History",
+          "text": "Browse every completed wash.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2671dd",
+          "title": "Support",
+          "text": "Get help from the admin team when needed.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "Admin",
+      "icon": "svg-53c0b4",
+      "headIcon": "svg-53c0b4",
+      "items": [
+        {
+          "icon": "svg-5fa7c4",
+          "title": "Secure Login",
+          "text": "Role-based access for admins and managers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-07fc9b",
+          "title": "Admin Dashboard",
+          "text": "Bookings, revenue and activity summarised in real time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-5d5ddc",
+          "title": "Track Washers",
+          "text": "Watch washers on a live map.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-338286",
+          "title": "Manage Washers",
+          "text": "Approve, suspend and review washer accounts.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-c201bb",
+          "title": "Manage Customers",
+          "text": "View and manage customer profiles and bookings.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e7a45e",
+          "title": "Manage Services",
+          "text": "Create wash packages, add-ons and categories.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-812812",
+          "title": "Manage Pricing",
+          "text": "Set prices by vehicle type, service and area.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b4dc13",
+          "title": "Reports & Analytics",
+          "text": "Understand peak hours, popular packages and revenue.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-91e1f4",
+          "title": "Manual Bookings",
+          "text": "Create bookings for customers who call in.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-4dcb5a",
+          "title": "Demand Heat Map",
+          "text": "See where demand is highest and deploy washers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-60180e",
+          "title": "Manage Refunds",
+          "text": "Review and process refunds after verification.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-91b25f",
+          "title": "SMS Alerts",
+          "text": "Control which SMS alerts are sent and when.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-74591f",
+          "title": "Scheduling Settings",
+          "text": "Define how far ahead customers can book.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-becfd7",
+          "title": "Currency & Language",
+          "text": "Multi-currency and multilingual support.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-800400",
+          "title": "Push Notifications",
+          "text": "Send offers and updates from the admin panel.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-22507c",
+          "title": "Payment Integration",
+          "text": "Connect card, bank and wallet gateways.",
+          "hidden": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "heading": "A White Label Real Estate App, Built for Your Market",
+  "paragraphs": [
+    {
+      "html": "Buyers, renters and agents all want faster ways to find and list properties. A well-built app brings them together on one platform."
+    },
+    {
+      "html": "We build buyer and agent apps with map-based search, filters, saved searches, enquiries and viewings, all under your brand."
+    },
+    {
+      "html": "Listings, lead flows, subscriptions and commissions can be adapted to agencies, portals or developer sales teams."
+    },
+    {
+      "html": "Questions about scope or timelines? An expert from our team will guide you."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
+    "alt": "Real Estate solution",
+    "width": "481",
+    "height": "588"
+  },
+  "imageClass": ""
+}

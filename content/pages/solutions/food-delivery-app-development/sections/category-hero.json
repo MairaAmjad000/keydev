@@ -1,0 +1,27 @@
+{
+  "image": {
+    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
+    "alt": "Food Delivery app development",
+    "width": "1920",
+    "height": "780"
+  },
+  "headingClass": "text-uppercase f-40",
+  "heading": "Food Delivery App Development Company",
+  "text": "Food delivery is a growing market with room for new brands. Launch your own white label food ordering app with customer, restaurant and rider apps, real-time order tracking, flexible payments and an admin panel to run it all.",
+  "links": [
+    {
+      "href": "/contact",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Get a Quote Now"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Food Delivery App Development"
+    }
+  ]
+}

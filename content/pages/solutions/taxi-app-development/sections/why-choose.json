@@ -1,0 +1,39 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner car-wash-advantage-main bg-light",
+  "heightClass": "m-height-130",
+  "text": "Why should you invest?",
+  "heading": "The Advantages of our Taxi App Development",
+  "paragraphs": [],
+  "items": [
+    {
+      "icon": "svg-597df0",
+      "title": "100% customizable",
+      "text": "Customize the app with your own brand presets like colour, fonts, themes and much more."
+    },
+    {
+      "icon": "svg-6c692d",
+      "title": "White Label Solution",
+      "text": "A white label solution that can showcase the app as your own without any watermarks or logo restrictions."
+    },
+    {
+      "icon": "svg-64c9c1",
+      "title": "High-end Security",
+      "text": "Our taxi app developers build encryption based security system that prevents unauthorized access of all forms."
+    },
+    {
+      "icon": "svg-6e2780",
+      "title": "Ready to Market",
+      "text": "The taxi app development solution has completed testing stage and can be readily deployed post customization."
+    },
+    {
+      "icon": "svg-80a331",
+      "title": "Scalable and Robust",
+      "text": "A robust backend and a scalable database will ensure that your app will keep up with the pace of your business growth."
+    },
+    {
+      "icon": "svg-d16f5a",
+      "title": "Industry-Focused",
+      "text": "Customize and modify the app to make it perform like a native app of any diverse industry."
+    }
+  ]
+}

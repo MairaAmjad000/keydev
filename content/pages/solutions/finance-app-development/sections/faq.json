@@ -1,0 +1,35 @@
+{
+  "variant": "list",
+  "idPrefix": "finance-app-development",
+  "plusIcon": "svg-b523de",
+  "minusIcon": "svg-42dc3f",
+  "text": "Answers for You",
+  "heading": "FAQ’s on Finance App Development Solutions",
+  "text2": "",
+  "items": [
+    {
+      "question": "How secure is the app?",
+      "answer": "<p>We use encryption, secure authentication and fraud checks, and follow industry best practices.</p>"
+    },
+    {
+      "question": "Does it support KYC?",
+      "answer": "<p>Yes. Identity verification and KYC workflows can be integrated.</p>"
+    },
+    {
+      "question": "Can it integrate with banks and gateways?",
+      "answer": "<p>Yes. We integrate with banking APIs and payment gateways relevant to your market.</p>"
+    },
+    {
+      "question": "How long does it take to launch?",
+      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on integrations and customisation.</p>"
+    },
+    {
+      "question": "Is the app compliant with regulations?",
+      "answer": "<p>We build to your regulatory requirements; compliance depends on your licences and market.</p>"
+    },
+    {
+      "question": "How much does a finance app cost?",
+      "answer": "<p>Cost depends on features and integrations. Share your requirements for an estimate.</p>"
+    }
+  ]
+}

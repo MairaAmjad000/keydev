@@ -1,0 +1,29 @@
+{
+  "heading": "A White Label Fantasy Sports App, Built for Game Day",
+  "paragraphs": [
+    {
+      "html": "Fantasy sports thrives on live data, fair play and fast payouts."
+    },
+    {
+      "html": "We build apps with team creation, contests, real-time scoring, leaderboards and wallets, all under your brand."
+    },
+    {
+      "html": "Sports, formats and contest rules can be tailored to your market and local regulations."
+    },
+    {
+      "html": "Questions? An expert from our team will help you plan."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
+    "alt": "Fantasy Sports solution",
+    "width": "481",
+    "height": "588"
+  },
+  "imageClass": ""
+}

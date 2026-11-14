@@ -32,6 +32,11 @@ import { CompareBenefits } from './CompareBenefits';
 import { SprintProcess } from './SprintProcess';
 import { TechStackTabs } from './TechStackTabs';
 import { WhyChooseImage } from './WhyChooseImage';
+import { FeatureTabs } from './FeatureTabs';
+import { IdealBusiness } from './IdealBusiness';
+import { SolutionCta } from './SolutionCta';
+import { OtherSolutions } from './OtherSolutions';
+import { WhyInvest } from './WhyInvest';
 
 function renderSection(block: SectionBlock, forms: FormsContent) {
   switch (block.type) {
@@ -67,6 +72,11 @@ function renderSection(block: SectionBlock, forms: FormsContent) {
     case 'sprintProcess': return <SprintProcess data={block.data} />;
     case 'techStackTabs': return <TechStackTabs data={block.data} />;
     case 'whyChooseImage': return <WhyChooseImage data={block.data} />;
+    case 'featureTabs': return <FeatureTabs data={block.data} />;
+    case 'idealBusiness': return <IdealBusiness data={block.data} />;
+    case 'solutionCta': return <SolutionCta data={block.data} />;
+    case 'otherSolutions': return <OtherSolutions data={block.data} />;
+    case 'whyInvest': return <WhyInvest data={block.data} />;
     default: return null;
   }
 }

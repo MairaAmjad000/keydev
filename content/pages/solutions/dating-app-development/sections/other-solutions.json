@@ -1,0 +1,26 @@
+{
+  "text": "We are Versatile",
+  "heading": "Our Expertise in Other On-demand Solution",
+  "items": [
+    {
+      "icon": "svg-d16673",
+      "title": "Chat App",
+      "href": "/solutions/chat-instant-messaging-app-development"
+    },
+    {
+      "icon": "svg-662a5a",
+      "title": "Media and Entertainment",
+      "href": "/solutions/media-entertainment-app-development"
+    },
+    {
+      "icon": "svg-2858cc",
+      "title": "Fantasy Sports",
+      "href": "/solutions/fantasy-sports-app-development"
+    },
+    {
+      "icon": "svg-1e8a6a",
+      "title": "Chatbot",
+      "href": "/solutions/chatbot-development"
+    }
+  ]
+}

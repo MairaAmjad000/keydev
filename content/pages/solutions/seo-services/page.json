@@ -1,0 +1,26 @@
+{
+  "slug": "solutions/seo-services",
+  "seo": {
+    "title": "SEO Services Company | Rank Higher on Google | KeyDevs",
+    "description": "Results-driven SEO services including on-page, off-page and technical SEO to grow organic traffic and leads, from KeyDevs Technologies."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "featureTabs",
+    "contactCta",
+    "whyChoose",
+    "technologies",
+    "idealBusiness",
+    "faq",
+    "solutionCta",
+    "otherSolutions",
+    "whyInvest",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

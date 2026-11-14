@@ -1,0 +1,198 @@
+/* feature-tabs: styles for the "feature-tabs" section(s). Extracted from the solution page template. */
+.car-wash-feature-tab {
+  border-bottom: 0;
+}
+.car-wash-feature-tab li {
+  min-width: 180px;
+}
+.car-wash-feature-tab li a {
+  display: block;
+  padding-bottom: 20px;
+  position: relative;
+  border-bottom: 2px solid #e8e8e8;
+}
+.car-wash-feature-tab li a:before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 17px solid transparent;
+  border-right: 17px solid transparent;
+  border-top: 23px solid #008080;
+  position: absolute;
+  bottom: -23px;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.car-wash-feature-tab-icon {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  margin: 0 auto 15px;
+  background-color: #fff;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.car-wash-feature-tab-icon svg {
+  width: 50px;
+  height: 50px;
+}
+.car-wash-feature-tab-icon svg circle,
+.car-wash-feature-tab-icon svg ellipse,
+.car-wash-feature-tab-icon svg path,
+.car-wash-feature-tab-icon svg polygon,
+.car-wash-feature-tab-icon svg rect {
+  fill: #202122;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.car-wash-feature-tab li a span {
+  font-size: 16px;
+  color: #202122;
+  display: block;
+  text-align: center;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.car-wash-feature-tab li a.active,
+.car-wash-feature-tab li a:hover {
+  border-bottom: 2px solid #008080;
+}
+.car-wash-feature-tab li a.active:before,
+.car-wash-feature-tab li a:hover:before {
+  opacity: 1;
+  visibility: visible;
+}
+.car-wash-feature-tab li a.active .car-wash-feature-tab-icon,
+.car-wash-feature-tab li a:hover .car-wash-feature-tab-icon {
+  background-color: #008080;
+}
+.car-wash-feature-tab li a.active .car-wash-feature-tab-icon svg circle,
+.car-wash-feature-tab li a.active .car-wash-feature-tab-icon svg ellipse,
+.car-wash-feature-tab li a.active .car-wash-feature-tab-icon svg path,
+.car-wash-feature-tab li a.active .car-wash-feature-tab-icon svg polygon,
+.car-wash-feature-tab li a.active .car-wash-feature-tab-icon svg rect,
+.car-wash-feature-tab li a:hover .car-wash-feature-tab-icon svg circle,
+.car-wash-feature-tab li a:hover .car-wash-feature-tab-icon svg ellipse,
+.car-wash-feature-tab li a:hover .car-wash-feature-tab-icon svg path,
+.car-wash-feature-tab li a:hover .car-wash-feature-tab-icon svg polygon,
+.car-wash-feature-tab li a:hover .car-wash-feature-tab-icon svg rect {
+  fill: #fff;
+}
+.car-wash-feature-tab li a.active span,
+.car-wash-feature-tab li a:hover span {
+  color: #008080;
+}
+.car-wash-feature-tab-content {
+  margin-top: 60px;
+}
+.car-wash-feature-tab-content-box {
+  margin-bottom: 30px;
+  padding: 10px 15px;
+  background: #008080;
+  border-radius: 10px;
+  display: none;
+}
+.car-wash-feature-tab-content-icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
+}
+.car-wash-feature-tab-content-icon svg {
+  width: 40px;
+  height: 40px;
+}
+.car-wash-feature-tab-content-icon svg * {
+  fill: #fff;
+}
+.car-wash-feature-tab-content-box span {
+  color: #fff;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 16px;
+}
+.car-wash-feature-tab-content .show-all-button a {
+  font-size: 16px;
+}
+.key-feeature-show-all-button .btn-custome.btn-lg {
+  font-size: 16px;
+}
+.fitness-tab-panel .car-wash-feature-tab li {
+  min-width: 170px;
+}
+.fitness-tab-panel .car-wash-feature-tab li a {
+  background-color: #fff;
+  padding: 20px 10px;
+  -webkit-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  border-bottom: 0;
+}
+.fitness-tab-panel .car-wash-feature-tab-icon {
+  background-color: transparent;
+  width: 80px;
+  height: 80px;
+}
+.fitness-tab-panel .car-wash-feature-tab li a.active .car-wash-feature-tab-icon,
+.fitness-tab-panel .car-wash-feature-tab li a:hover .car-wash-feature-tab-icon {
+  background-color: transparent;
+}
+.fitness-tab-panel .car-wash-feature-tab li a .car-wash-feature-tab-icon svg {
+  width: 80px;
+  height: 80px;
+}
+.fitness-tab-panel .car-wash-feature-tab li a.active,
+.fitness-tab-panel .car-wash-feature-tab li a:hover {
+  background-color: #008080;
+}
+.fitness-tab-panel .car-wash-feature-tab li a.active span,
+.fitness-tab-panel .car-wash-feature-tab li a:hover span {
+  color: #fff;
+}
+.fitness-tab-panel .car-wash-feature-tab li a:before {
+  border-left: 26px solid transparent;
+  border-right: 26px solid transparent;
+  border-top: 12px solid #008080;
+  bottom: -12px;
+}
+.car-wash-feature-tab li a {
+  border: 1px solid transparent;
+  background-color: #fff;
+  padding: 17px 10px;
+}
+.car-wash-feature-tab li a:before {
+  display: none;
+}
+.car-wash-feature-tab li:first-child a {
+  border-radius: 10px 0 0 10px;
+}
+.car-wash-feature-tab li:last-child a {
+  border-radius: 0 10px 10px 0;
+}
+.car-wash-feature-tab li a.active,
+.car-wash-feature-tab li a:hover {
+  border: 1px solid #008080;
+}
+.chatst0 {
+  display: none;
+}
+.chatst1 {
+  display: inline;
+}
+.service-we-offer-web-inner .hide {
+  display: none;
+}
+.service-we-offer-web-inner .hide.show {
+  display: block;
+}
