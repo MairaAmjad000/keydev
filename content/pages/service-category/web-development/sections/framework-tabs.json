@@ -1,0 +1,79 @@
+{
+  "text": "Frameworks",
+  "heading": "Our suite of web development frameworks",
+  "text2": "KeyDevs Technologies has a large pool of developers who are capable of developing websites with the top web app development frameworks and libraries.",
+  "items": [
+    {
+      "title": "PHP Development",
+      "image": {
+        "src": "/images/category/web-development/framework-php-development.svg",
+        "alt": "Php Website Development"
+      },
+      "text": "Ever since it was launched in 1994, PHP has become the primary language for web development. Being an open-source and server-sided web development framework, it allows developers to create cross-platform web applications. If you want to create a new-age web application that is cost-effective, easy to maintain, and performative, hire dedicated PHP developers with KeyDevs Technologies.",
+      "link": {
+        "href": "php-web-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "WordPress Development",
+      "image": {
+        "src": "/images/category/web-development/framework-wordpress-development.svg",
+        "alt": "WordPress Development"
+      },
+      "text": "From single-page websites and personal blogs and portfolios to corporate websites, WordPress is more than just a CMS. With our WordPress website services, we can create scalable, feature-rich, user-friendly websites for your business. Hire WordPress developers to start building your robust website that will boost your customer experience.",
+      "link": {
+        "href": "wordpress-development.php",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Codeigniter Development",
+      "image": {
+        "src": "/images/category/web-development/framework-codeigniter-development.svg",
+        "alt": "Codeigniter Development"
+      },
+      "text": "CodeIgniter is the best friend of a web developer for two reasons - it is lightweight and it is simple. It makes the task of creating a web application ridiculously simple. If you have a web application development requirement that needs to be done with a race against the clock, our Codeigniter development services are for you.",
+      "link": {
+        "href": "php-codeigniter-development.php",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Laravel Development",
+      "image": {
+        "src": "/images/category/web-development/framework-laravel-development.svg",
+        "alt": "Laravel Development"
+      },
+      "text": "Laravel makes it easy for website developers to write and deploy code with minimized risk of bugs. It simplifies most of the common tasks that developers have to do thereby increasing the overall quality of work. No surprise that Laravel is one of the fortes of our web app developers.",
+      "link": {
+        "href": "laravel-development.php",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "AngularJS Development",
+      "image": {
+        "src": "/images/category/web-development/framework-angularjs-development.svg",
+        "alt": "AngularJS Development"
+      },
+      "text": "AngularJS offers code reusability, fosters a faster application development process, allows create multiple projects parallelly and also puts developers in control. With its highly customizable nature and massive UI libraries, our Angular developers will develop bespoke single-page apps and progressive web apps for you.",
+      "link": {
+        "href": "angularjs-development.php",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "NodeJS Development",
+      "image": {
+        "src": "/images/category/web-development/framework-nodejs-development.svg",
+        "alt": "NodeJS Development"
+      },
+      "text": "NodeJS is hailed to be a viable alternative to Java for web application development. With its reliable performance, quick scalability, cross-functional team-building ability and long-term support, NodeJS is a website development framework that can put your project on the fast lane.",
+      "link": {
+        "href": "nodejs-development.php",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

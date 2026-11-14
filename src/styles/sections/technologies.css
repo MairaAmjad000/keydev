@@ -1,0 +1,170 @@
+#technologies_tabs {
+   border: none;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 50px
+}
+
+#technologies_tabs li {
+   padding: 0 30px;
+   border-right: 1px solid #e0e2e3
+}
+
+#technologies_tabs li a {
+   color: #6a6d6f;
+   font-weight: 500
+}
+
+#technologies_tabs li a.active,
+#technologies_tabs li a:hover {
+   color: #008080
+}
+
+#technologies_tabs li:last-child {
+   border-right: 0
+}
+
+.technologies_icons li {
+   width: 100px;
+   height: 100px;
+   display: flex;
+   align-items: center;
+   padding: 10px;
+   border: 1px solid rgba(221, 223, 225, .5);
+   border-radius: 10px;
+   margin: 5px;
+   transition: all .5s ease
+}
+
+.technologies_icons li:hover {
+   box-shadow: 0 3px 10px rgba(0, 0, 0, .15)
+}
+
+.technologies_icons li img {
+   margin: 0 auto
+}
+
+.blog_box {
+   width: 100%;
+   transition: all .3s ease;
+   background: #fff;
+   border: 1px solid #e2e3e5;
+   overflow: hidden;
+   border-radius: 10px
+}
+
+.blog_box_img {
+   width: 100%;
+   height: 200px;
+   object-fit: cover
+}
+
+.blog_box-caption {
+   padding: 0 12px 20px;
+   position: relative;
+   min-height: 310px
+}
+
+.blog_box-caption ul {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-top: -25px;
+   margin-bottom: 25px
+}
+
+.blog_author_img {
+   width: 72px;
+   height: 72px;
+   overflow: hidden;
+   border-radius: 50%;
+   border: 2px solid #fff;
+   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .3);
+   margin-top: -20px
+}
+
+.blog_box-caption ul li {
+   padding-top: 20px;
+   color: #6a6d6f;
+   margin-right: 7px;
+   display: flex;
+   align-items: center;
+   line-height: 1
+}
+
+.blog_box-caption ul li a {
+   color: #6a6d6f
+}
+
+.blog_box-caption ul li a:hover {
+   color: #008080
+}
+
+.blog_box-caption ul li i {
+   margin-right: 5px;
+   font-size: 16px;
+   line-height: 1
+}
+
+.blog_box-caption h4 {
+   font-size: 18px;
+   line-height: 1.3;
+   margin: 10px 0
+}
+
+.blog_box-caption h4 a {
+   color: #202122
+}
+
+.blog_box-caption h4 a:hover {
+   color: #008080
+}
+
+.blog_box:hover {
+   box-shadow: 0 3px 10px rgba(0, 0, 0, .15)
+}
+
+@media (max-width:1024px) {
+  #technologies_tabs li {
+     padding: 0 10px;
+     font-size: 13px
+  }
+}
+
+@media (max-width:991px) {
+  .technologies_icons {
+     flex-wrap: wrap;
+     justify-content: center !important
+  }
+  .technologies_icons li {
+     min-width: 100px
+  }
+  .technologies_icons {
+     flex-wrap: wrap;
+     justify-content: center !important
+  }
+}
+
+@media (max-width:767px) {
+  #technologies_tabs li {
+     margin: 5px 0
+  }
+  .technologies_icons li {
+     width: 80px;
+     min-width: 80px;
+     margin: 5px 5px;
+     height: 80px
+  }
+  .blog_author_img {
+     width: 50px;
+     height: 50px
+  }
+  .blog_box-caption {
+     min-height: auto
+  }
+  .blog_box-caption ul {
+     margin-top: -20px
+  }
+}

@@ -1,0 +1,33 @@
+/* Category page: framework tabs */
+.web-app-sev-lang-collapse .left-col { border:1px solid #ecedee;border-left:0;border-right:0;overflow:hidden;border-top-right-radius:10px;border-bottom-right-radius:10px;max-width:44.5%;flex:0 0 44.5%;-ms-flex:0 0 44.5% }
+.web-app-sev-lang-collapse .right-col { max-width:55.5%;flex:0 0 55.5%;-ms-flex:0 0 55.5% }
+.web-app-sev-lang-collapse .accordian_header { display:none }
+.web-app-sev-lang-collapse .tab_content { display:none }
+.web-app-sev-lang-collapse .accordion .accordian_header { display:block }
+.web-app-sev-lang-collapse .accordion>ul { display:none }
+.web-app-sev-lang-collapse .tab_list { border-bottom:0 }
+.web-app-sev-lang-collapse .tab_list li { color:#202122;font-size:20px;font-weight:500;padding:10px 35px;border:0;min-height:70px;align-items:center;display:flex;flex-wrap:wrap;width:100%;position:relative;cursor:pointer }
+.web-app-sev-lang-collapse .tab_list li.active { color:#008080;-webkit-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);-moz-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);box-shadow:0 3px 10px 0 rgba(0,0,0,.15);background-color:#fff }
+.web-app-sev-lang-collapse .tab_list li:before { content:"";display:block;width:5px;height:100%;background-color:#008080;position:absolute;left:0;top:0;bottom:0;opacity:0;visibility:hidden }
+.web-app-sev-lang-collapse .tab_list li.active:before { opacity:1;visibility:visible }
+.web-app-sev-lang-collapse .accordian_header .arrow { float:right;display:inline-block;width:12px;height:12px;position:absolute;border-radius:2px;transform:rotate(-135deg);border-top:3px solid #202122;border-left:3px solid #202122;right:20px;top:50%;margin-top:-6px }
+.web-app-sev-lang-collapse .accordian_header.active .arrow { transform:rotate(45deg);border-top:3px solid #fff;border-left:3px solid #fff }
+.web-app-sev-lang-collapse .content_wrapper { max-width:600px;width:100% }
+.web-app-sev-lang-collapse .tab_content { padding:15px 15px }
+.web-app-sev-lang-collapse .tab_content img { margin-bottom:25px;width:150px }
+.web-app-sev-lang-collapse .tab_content h3 { font-size:30px;color:#008080;font-weight:600;margin-bottom:20px }
+.web-app-sev-lang-collapse .tab_content p { margin-bottom:25px }
+.ins-msg-content-wrap .accordian_header { display:none }
+.ins-msg-content-wrap .accordian_header.active { display:block }
+.ins-msg-content-wrap .contentrow.active .tab_content img { display:none }
+.ins-msg-content-wrap .accordian_header { margin-left:25px;padding-bottom:10px;font-size:21px;font-weight:500;margin-bottom:15px;position:relative }
+.ins-msg-content-wrap .accordian_header:before { content:"";display:block;height:2px;background-color:#008080;width:30%;position:absolute;bottom:0;border-radius:10px }
+.ins-msg-content-wrap .tab_content { margin-left:25px }
+.ins-msg-content-wrap .tab_content img { display:none }
+.ins-msg-content-wrap .tab_content p:last-child { margin-bottom:0 }
+.ins-msg-tab-wrap .tab_list { margin:0 -15px }
+.ins-msg-tab-wrap .tab_list li { width:calc(50% - 30px);float:left;display:flex;align-items:center;padding:20px 15px;-webkit-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);-moz-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);box-shadow:0 3px 10px 0 rgba(0,0,0,.15);border-radius:10px;margin:8px 15px;cursor:pointer;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.ins-msg-tab-wrap .tab_list li:nth-child(2n+1) { clear:both }
+.ins-msg-tab-wrap .tab_list li.active, .ins-msg-tab-wrap .tab_list li:hover { background-color:#008080 }
+.ins-msg-tab-wrap .tab_list li.active .tab_list_title, .ins-msg-tab-wrap .tab_list li:hover .tab_list_title { color:#fff }
+.ins-msg-tab-wrap .tab_list li.active .tab_list_title_icon svg circle, .ins-msg-tab-wrap .tab_list li.active .tab_list_title_icon svg ellipse, .ins-msg-tab-wrap .tab_list li.active .tab_list_title_icon svg path, .ins-msg-tab-wrap .tab_list li.active .tab_list_title_icon svg polygon, .ins-msg-tab-wrap .tab_list li.active .tab_list_title_icon svg rect, .ins-msg-tab-wrap .tab_list li:hover .tab_list_title_icon svg circle, .ins-msg-tab-wrap .tab_list li:hover .tab_list_title_icon svg ellipse, .ins-msg-tab-wrap .tab_list li:hover .tab_list_title_icon svg path, .ins-msg-tab-wrap .tab_list li:hover .tab_list_title_icon svg polygon, .ins-msg-tab-wrap .tab_list li:hover .tab_list_title_icon svg rect { fill:#fff }

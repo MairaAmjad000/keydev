@@ -1,0 +1,7 @@
+.faq-list-content a {
+         color: #008080;
+      }
+
+a.activeatag {
+         color: #008080 !important;
+      }

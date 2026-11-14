@@ -1,0 +1,38 @@
+/* Category page: service offerings */
+.what-we-offer-main-slider-section.scroll-to-fixed-fixed { padding:20px 0 }
+.what-we-offer-main-slider { position:relative;padding:0 20px }
+.what-we-offer-main-slider-section .container { position:relative }
+.what-we-offer-main-slider-section .border-dashed { border-top:2px dashed #cfd1d1;position:absolute;top:35px;left:15px;right:15px;height:2px }
+.what-we-offer-main-slider:after, .what-we-offer-main-slider:before { content:"";display:block;position:absolute;width:20px;height:20px;background-color:#d2d3d4;border-radius:100% }
+.what-we-offer-main-slider:before { left:0;top:25px }
+.what-we-offer-main-slider:after { right:0;top:25px }
+.what-we-offer-main-item { display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;justify-content:space-between;position:relative;z-index:1 }
+.what-we-offer-main-item-box { padding:0 5px;width:12.5%;text-align:center }
+.what-we-offer-main-item-icon { width:70px;height:70px;background-color:#e6e7e8;border-radius:100%;display:flex;align-items:center;margin:0 auto 20px;cursor:pointer;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.what-we-offer-main-item-icon svg { margin:0 auto;width:33px }
+.what-we-offer-main-item-box .what-we-offer-main-item-icon path { -webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out;fill:#202122 }
+.what-we-offer-main-item-icon img { margin:0 auto }
+.what-we-offer-main-item-box.active .what-we-offer-main-item-icon, .what-we-offer-main-item-box:hover .what-we-offer-main-item-icon { -webkit-box-shadow:0 5px 10px 0 #008080;-moz-box-shadow:0 5px 10px 0 #008080;box-shadow:0 5px 10px 0 #008080;background-color:#008080 }
+.what-we-offer-main-item-box.active .what-we-offer-main-item-icon path, .what-we-offer-main-item-box:hover .what-we-offer-main-item-icon path { fill:#fff }
+.what-we-offer-main-item-title { color:#202122 }
+.what-we-offer-main-listing { padding-top:0 }
+.what-we-offer-main-listing .row { padding-top:80px }
+.what-we-offer-main-listing-img { display:inline-block;position:relative;margin-right:30px }
+.what-we-offer-main-listing-img img { position:relative }
+.what-we-offer-main-listing-img:before { content:"";display:block;background-color:#eff0f0;width:100%;height:100%;position:absolute;left:30px;top:30px;right:0;bottom:0;border-radius:10px;-webkit-box-shadow:0 5px 10px 0 #eff0f0;-moz-box-shadow:0 5px 10px 0 #eff0f0;box-shadow:0 5px 10px 0 #eff0f0 }
+.what-we-offer-main-listing-title { padding-bottom:25px;position:relative;margin-bottom:30px }
+.what-we-offer-main-listing-title:before { content:"";display:block;height:5px;background-color:#008080;width:75%;position:absolute;bottom:0;border-radius:10px }
+.what-we-offer-main-listing-title .number { width:auto;font-size:75px;font-weight:900;color:rgba(32,33,34,.2);line-height:55px;position:relative;margin-right:15px }
+.what-we-offer-main-listing-title .number span { font-size:35px;line-height:28px;font-weight:600;color:#008080;position:absolute;right:0;bottom:0 }
+.what-we-offer-main-listing-title h2, .what-we-offer-main-listing-title h3 { font-size:30px;font-weight:600 }
+.what-we-offer-main-listing-content .top-text-block { font-size:16px;font-weight:400;margin-bottom:20px }
+.what-we-offer-main-listing-content .top-text-block a { color:#008080;text-decoration:none }
+.what-we-offer-main-listing-content .top-text-block a:hover { text-decoration:underline }
+.what-we-offer-main-listing-content p a { color:#008080;text-decoration:none }
+.what-we-offer-main-listing-content p a:hover { text-decoration:underline }
+.what-we-offer-main-listing-content ul { margin-bottom:1rem }
+.what-we-offer-main-listing-content li { display:block;color:#6a6d6f;margin-bottom:10px;position:relative;padding-left:25px }
+.what-we-offer-main-listing-content li:before { display:inline-block;content:"\f105";font-family:"Font Awesome 5 Free";font-weight:900;font-style:normal;font-variant:normal;text-rendering:auto;-webkit-font-smoothing:antialiase;background:#b9baba;width:20px;height:20px;display:flex;align-items:center;justify-content:center;border-radius:100%;color:#202122;position:absolute;left:0;top:0 }
+.what-we-offer-main-listing .row.technology-box { padding-top:60px;position:relative;justify-content:center }
+.what-we-offer-main-listing .row.technology-box:before { content:"";display:block;width:25px;height:25px;border-radius:100%;background-color:#008080;position:absolute;left:50%;top:35px;transform:translateX(-50%);z-index:1;opacity:0;visibility:hidden }
+.what-we-offer-main-listing .row.active .technology-box:before { opacity:1;visibility:visible }

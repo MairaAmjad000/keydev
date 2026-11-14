@@ -1,4 +1,4 @@
-import type { GetQuoteButtonContent } from '@/types/content';
+import type { GetQuoteButtonContent } from '@/types';
 
 export function GetQuoteButton({ data }: { data: GetQuoteButtonContent }) {
   return (

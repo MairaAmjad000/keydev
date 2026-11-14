@@ -1,0 +1,186 @@
+{
+  "text": "Our web development offerings",
+  "heading": "Explore our web development expertise that encompasses every corners of the digital web",
+  "items": [
+    {
+      "id": "web-development-section1",
+      "navIcon": "svg-522317",
+      "navTitle": "Custom Web Development",
+      "number": "01",
+      "heading": "Custom Web Development",
+      "bodyHtml": "<div class=\"top-text-block\"> <p>Your business is unique - it has a unique brand, customer base, working philosophies and goals. An off-the-shelf, one-size-fits-all solution will not work for you.</p> <p>As one of the leading web development companies in the Pakistan, KeyDevs Technologies designs and develops custom web platforms for you. We analyze your industry, your users, and your business, to tailor-make custom websites that solve your specific problems.</p> <p>As a custom web development and web design company we can bring to your business several benefits, some of which include:</p> </div>",
+      "bullets": [
+        {
+          "html": "Industry-focused web development that matches your business needs"
+        },
+        {
+          "html": "Consistent user experience across all web, mobile & hybrid digital platforms"
+        },
+        {
+          "html": "Highly scalable solution that can accommodate business growth"
+        }
+      ],
+      "link": {
+        "href": "contact",
+        "text": "Talk to Our Expert"
+      },
+      "image": {
+        "src": "/images/category/web-development/custom-web-development-listing.webp",
+        "alt": "KeyDevs Technologies offers top class website development services in Lahore, Leeds and Pakistan.",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "web-development-section2",
+      "navIcon": "svg-4c0e6c",
+      "navTitle": "eCommerce Website",
+      "number": "02",
+      "heading": "eCommerce website development",
+      "bodyHtml": "<div class=\"top-text-block\">Fasttrack your growth in online retail or add a new channel to your omni channel strategy with our eCommerce development expertise.</div><p>Developing an eCommerce website is not like driving down an arrow-straight road. It requires expertise, cautious decision-making, user-driven UX-UI designing, smart digital marketing, and an efficient web development process. With Intellivita, you get technical expertise to build the best eCommerce website for your business, so can put your best foot forward in the online retail space.</p>",
+      "bullets": [
+        {
+          "html": "Single/multi-vendor eCommerce solutions that are intuitive and user-friendly"
+        },
+        {
+          "html": "Technical expertise in Magento, Drupal, WooCommerce, 3dcart and Shopify"
+        },
+        {
+          "html": "Smooth integrations with third-party software"
+        }
+      ],
+      "link": {
+        "href": "ecommerce-web-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/web-development/ecommerce-website-listing.webp",
+        "alt": "We have provided custom website development services to our esteemed clients in Pakistan, Lahore, Leeds.",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "web-development-section3",
+      "navIcon": "svg-aa3e20",
+      "navTitle": "Web Portal Development",
+      "number": "03",
+      "heading": "Web app development",
+      "bodyHtml": "<div class=\"top-text-block\">KeyDevs Technologies is a name to trust for building web applications that are scalable + interactive + secure.</div><p>Develop custom web apps that align with your brand identity and attract your customer base. As a leading web app development company, we have the expertise and experience you need for successful application development. </p><p>From ideation to web designing to frontend and backend web development, our web dev team will be with you at every step. Our website developers use various web development and design tools such as React, Angular, and Bootstrap. As a web development agency, our USPs include</p>",
+      "bullets": [
+        {
+          "html": "Expertise in multiple web development frameworks and platforms"
+        },
+        {
+          "html": "User-centric approach to web UI design & development"
+        },
+        {
+          "html": "Full-stack web development that accelerates your business growth"
+        }
+      ],
+      "link": {
+        "href": "contact",
+        "text": "Get in Touch with Us"
+      },
+      "image": {
+        "src": "/images/category/web-development/web-app-development-listing.webp",
+        "alt": "Are you looking for a website development company? KeyDevs Technologies is a custom web design company in Leeds, Helping small to large businesses across the Pakistan.",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "web-development-section4",
+      "navIcon": "svg-a9eeae",
+      "navTitle": "CMS",
+      "number": "04",
+      "heading": "CMS development",
+      "bodyHtml": "<div class=\"top-text-block\">Your digital content is your organizational asset. Our expert services will help you create a content management system that can facilitate easy creation and management of your digital content.</div><p>Publish content that defines your company - be it internally among your employees or to your customers. Whatever your needs - eCommerce or corporate blog or e-publishing website or internal document management — we are fully geared to create the perfect CMS for you that is easy to use and manage. Our CMS web development services include:</p>",
+      "bullets": [
+        {
+          "html": "Easily scalable so it grows with your business"
+        },
+        {
+          "html": "User-level control with complete customization power"
+        },
+        {
+          "html": "High-end security features to avoid data breaches"
+        }
+      ],
+      "link": {
+        "href": "cms-development.php",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/web-development/content-management-system-listing.webp",
+        "alt": "KeyDevs Technologies is one of the best web development company in Pakistan. Over the years of experience has helped us to provide website development services",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "web-development-section5",
+      "navIcon": "svg-34ba9a",
+      "navTitle": "ERP Solution",
+      "number": "05",
+      "heading": "ERP solution",
+      "bodyHtml": "<div class=\"top-text-block\">Bring in strategic coherence in your business by opting for ERP application development for resource planning and functional management.</div><p>Gain total control of your business operations with an Enterprise Resource Planning (ERP) system. KeyDevs Technologies can help you build ERP solutions that can do it all — maintaining finances to tying them with inventory control or even monitoring marketing — 360 degree control of operations made possible.</p>",
+      "bullets": [
+        {
+          "html": "ERP solutions implementation"
+        },
+        {
+          "html": "Consultation and strategy formulation for ERP implementation"
+        },
+        {
+          "html": "Updating, maintaining and enhancing ERP features"
+        }
+      ],
+      "link": {
+        "href": "erp-development.php",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/web-development/erp-solution-listing.webp",
+        "alt": "ERP Solution",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "web-development-section6",
+      "navIcon": "svg-eac249",
+      "navTitle": "CRM Solutions",
+      "number": "06",
+      "heading": "CRM solutions",
+      "bodyHtml": "<div class=\"top-text-block\">When you manage your customer data the right, you manage your business the right. A CRM (customer relationship management) system allows you to build and manage your customer and client relations.</div><p>Our CRM development services will help you build a CRM solution from scratch or integrate a sophisticated one that understands your customers and your business. Get unique features like automated replies, daily reminders, lead management, quick customer services and more. Develop your CRM with us for:</p>",
+      "bullets": [
+        {
+          "html": "Custom-develop CRM application to automate your workflow"
+        },
+        {
+          "html": "Integrate your existing data into the new CRM system"
+        },
+        {
+          "html": "Manage leads, and customer requests, and track employee’s work"
+        }
+      ],
+      "link": {
+        "href": "crm-development.php",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/web-development/crm-solution-listing.webp",
+        "alt": "CRM Solutions",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+/* Service page: why choose image */
+.mvp-why-choose-dev-section .col-right { margin-right:0!important;margin-left:-9%!important }
+.mvp-why-choose-dev-box-wrap { padding:40px 20px 40px 95px }
+.mvp-why-choose-dev-box { margin-bottom:10px;display:flex;flex-wrap:wrap;padding:20px 25px 20px 15px;border-radius:80px;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.mvp-why-choose-dev-content { width:calc(100% - 135px);margin-left:15px }
+.mvp-why-choose-dev-icon { width:120px;height:120px;-webkit-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);-moz-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);box-shadow:0 3px 10px 0 rgba(0,0,0,.15);border-radius:100%;display:flex;align-items:center;justify-content:center;background-color:#f8f9fa }
+.mvp-why-choose-dev-icon svg { width:68px;height:68px }
+.mvp-why-choose-dev-icon svg * { fill:#202122;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.mvp-why-choose-dev-box h6 { font-size:18px;font-weight:600;margin-bottom:10px;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.mvp-why-choose-dev-box:last-child { margin-bottom:0 }
+.mvp-why-choose-dev-box p { -webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.mvp-why-choose-dev-box p:last-child { margin-bottom:0 }
+.mvp-why-choose-dev-box:hover { background-color:#008080 }
+.mvp-why-choose-dev-box:hover .mvp-why-choose-dev-icon svg * { fill:#008080 }
+.mvp-why-choose-dev-box:hover h6 { color:#fff }
+.mvp-why-choose-dev-box:hover p { color:#fff }

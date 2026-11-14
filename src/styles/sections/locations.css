@@ -1,0 +1,135 @@
+.footer_box {
+   width: 100%
+}
+
+.footer_box ul {
+   width: 100%
+}
+
+.footer_box ul li {
+   display: flex;
+   align-items: flex-start;
+   margin-bottom: 15px;
+   width: 100%
+}
+
+.footer_box ul li:last-child {
+   margin-bottom: 0
+}
+
+.footer_box ul li:after {
+   content: '';
+   min-height: inherit;
+   font-size: 0
+}
+
+.footer_box ul li i {
+   min-width: 24px;
+   width: 24px;
+   margin-right: 10px;
+   position: relative;
+   top: 2px
+}
+
+.footer_box ul li i svg {
+   width: 100%
+}
+
+.footer_box ul li p {
+   color: #6a6d6f;
+   font-size: 15px;
+   line-height: 1.5;
+   margin: 0
+}
+
+.footer_box ul li a {
+   color: #6a6d6f;
+   font-size: 15px;
+   line-height: 2
+}
+
+.footer_box h5 {
+   font-size: 28px;
+   margin-bottom: 25px;
+   font-weight: 500
+}
+
+.footer_box ul li a:hover {
+   color: #008080
+}
+
+@media screen and (-ms-high-contrast:active),
+      (-ms-high-contrast:none) {
+  .footer_box ul li {
+     display: block
+  }
+  .footer_box ul li p {
+     width: calc(100% - 30px)
+  }
+  .footer_box ul li i svg {
+     width: auto
+  }
+}
+
+@media (max-width:1199px) {
+  .footer_box h5 {
+     font-size: 24px;
+     margin-bottom: 15px
+  }
+}
+
+@media (max-width:991px) {
+  .footer_box h5 {
+     font-size: 22px
+  }
+}
+
+@media (max-width:767px) {
+  .footer_box {
+     margin-bottom: 30px
+  }
+  .footer_box h5 {
+     font-size: 22px
+  }
+  .footer_box_img {
+     margin-bottom: 0 !important;
+     width: 50%;
+     float: left
+  }
+  .footer_box_add {
+     width: 50%;
+     float: left;
+     padding-left: 15px
+  }
+  .footer_box ul li {
+     margin-bottom: 10px
+  }
+  footer .title+.row>div:last-child .footer_box {
+     margin-bottom: 0
+  }
+}
+
+@media (max-width:575px) {
+  .footer_box_img {
+     width: 100%;
+     display: block;
+     float: none;
+     margin-bottom: 25px !important;
+     text-align: center
+  }
+  .footer_box_add {
+     max-width: 370px;
+     width: 100%;
+     display: block;
+     float: none;
+     padding: 0;
+     text-align: left;
+     margin: 0 auto
+  }
+  .footer_box h5 {
+     font-size: 20px
+  }
+  .footer_box ul li {
+     justify-content: flex-start
+  }
+}

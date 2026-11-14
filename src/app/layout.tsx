@@ -1,20 +1,17 @@
 import type { Metadata, Viewport } from 'next';
 import type { ReactNode } from 'react';
 
-// Order matters and mirrors the reference page: Font Awesome, Bootstrap, then the site CSS last
-// so that site rules win over Bootstrap's.
+// Order matters: Font Awesome, Bootstrap, then the site styles last so that site rules win.
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '@/styles/legacy.css';
+import '@/styles/index.css';
 
 import { getSiteSettings } from '@/lib/cms';
 
-export const viewport: Viewport = {
-  width: 'device-width',
-  initialScale: 1,
-  maximumScale: 1,
-  themeColor: '#008080',
-};
+export async function generateViewport(): Promise<Viewport> {
+  const site = await getSiteSettings();
+  return { width: 'device-width', initialScale: 1, maximumScale: 1, themeColor: site.themeColor };
+}
 
 export async function generateMetadata(): Promise<Metadata> {
   const site = await getSiteSettings();
@@ -26,9 +23,10 @@ export async function generateMetadata(): Promise<Metadata> {
   };
 }
 
-export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
+export default async function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
+  const site = await getSiteSettings();
   return (
-    <html lang="en">
+    <html lang={site.language}>
       <body>{children}</body>
     </html>
   );

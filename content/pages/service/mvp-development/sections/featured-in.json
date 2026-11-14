@@ -1,0 +1,47 @@
+{
+  "text": "Our Work took Us",
+  "heading": "Our Developed Apps Have Been Featured In",
+  "text2": "Indeed this makes us proud as a mobile app development company. Check out the popular product forums, thriving social communities and app stores where our apps have made it to the leaderboards and favourite lists.",
+  "logos": [
+    {
+      "image": {
+        "src": "/images/category/web-development/daily-mail.webp",
+        "alt": "daily mail",
+        "width": "159",
+        "height": "90"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/category/web-development/post.webp",
+        "alt": "nottingham post",
+        "width": "159",
+        "height": "90"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/category/web-development/sun.webp",
+        "alt": "the sun newspaper",
+        "width": "159",
+        "height": "90"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/category/web-development/men.webp",
+        "alt": "manchester evening news",
+        "width": "159",
+        "height": "90"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/category/web-development/bbc.webp",
+        "alt": "BBC",
+        "width": "90",
+        "height": "159"
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
-import type { FormOption } from '@/types/content';
+import type { FormOption } from '@/types';
 
-/** <option> list for a <select>; the lists are shared CMS data (content/forms.json). */
+/** <option> list for a <select>; the lists are shared CMS data (content/settings/forms.json). */
 export function FormOptions({ options }: { options: FormOption[] }) {
   return (
     <>

@@ -1,0 +1,15 @@
+/* Category page: advantage grid */
+.web-advtanges-box { border:1px solid #e7e7e8;padding:15px 15px;margin-bottom:30px;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.web-advantages-icon { width:70px;height:70px;line-height:70px;text-align:center;-webkit-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);-moz-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);box-shadow:0 3px 10px 0 rgba(0,0,0,.15);-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.web-advantages-icon svg { width:50px;height:50px }
+.web-advantages-icon svg circle, .web-advantages-icon svg ellipse, .web-advantages-icon svg line, .web-advantages-icon svg path, .web-advantages-icon svg polygon, .web-advantages-icon svg rect { fill:#6a6d6f;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.web-advantages-content-box { padding-top:15px }
+.web-advantages-title { width:calc(100% - 70px);padding-left:15px }
+.web-advantages-title h4 { font-size:18px;font-weight:500;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out;margin:0;word-wrap:break-word }
+.web-advantages-content-box p { line-height:20px;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.web-advantages-content-box p:last-child { margin-bottom:0 }
+.web-advtanges-box:hover { border:1px solid #008080 }
+.web-advtanges-box:hover .web-advantages-icon { background-color:#008080 }
+.web-advtanges-box:hover .web-advantages-icon { box-shadow:none }
+.web-advtanges-box:hover .web-advantages-icon svg circle, .web-advtanges-box:hover .web-advantages-icon svg ellipse, .web-advtanges-box:hover .web-advantages-icon svg line, .web-advtanges-box:hover .web-advantages-icon svg path, .web-advtanges-box:hover .web-advantages-icon svg polygon, .web-advtanges-box:hover .web-advantages-icon svg rect { fill:#fff }
+.web-advtanges-box:hover .web-advantages-title h4 { color:#008080 }

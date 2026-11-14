@@ -1,0 +1,833 @@
+.about {
+   padding: 60px 0;
+   position: relative
+}
+
+.about-bg-section {
+   position: absolute;
+   left: 0;
+   top: -74px;
+   bottom: 0;
+   height: calc(100% + 74px);
+   width: 25.0133%;
+   background-repeat: no-repeat;
+   background-size: cover
+}
+
+.about-bg-section:before {
+   content: "";
+   display: block;
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   background-color: rgba(248, 249, 250, .5);
+   z-index: 1
+}
+
+.about-bg-section .container {
+   position: relative;
+   z-index: 1
+}
+
+.video-area-wrapper {
+   position: relative;
+   width: 100%;
+   border-radius: 30px;
+   overflow: hidden
+}
+
+.video-area-wrapper img {
+   width: 100%;
+   object-fit: cover;
+   max-width: 100%;
+   margin: 0 auto
+}
+
+.about .video-area-wrapper img {
+   border: 10px solid #fff;
+   border-radius: 30px
+}
+
+.video-area-wrapper .hover {
+   width: 100%;
+   height: 100%;
+   position: absolute;
+   top: 0;
+   left: 0;
+   display: flex;
+   align-items: center;
+   justify-content: center
+}
+
+.video-play-btn {
+   width: 80px;
+   height: 80px;
+   position: relative;
+   z-index: 1;
+   display: flex;
+   line-height: 1;
+   align-items: center;
+   justify-content: center;
+   font-size: 24px;
+   background-color: #fff;
+   border-radius: 50%;
+   color: #008080
+}
+
+.video-play-btn:before {
+   content: "";
+   position: absolute;
+   z-index: 0;
+   left: 50%;
+   top: 50%;
+   -ms-transform: translateX(-50%) translateY(-50%);
+   -webkit-transform: translateX(-50%) translateY(-50%);
+   transform: translateX(-50%) translateY(-50%);
+   display: block;
+   width: 80px;
+   height: 80px;
+   background: #fff;
+   border-radius: 50%;
+   -webkit-animation: pulse-border 1.5s infinite;
+   animation: pulse-border 1.5s infinite;
+   z-index: -1
+}
+
+.about .title {
+   margin-bottom: 25px;
+   position: relative;
+   padding-bottom: 30px
+}
+
+.about .title h2 {
+   font-weight: 600
+}
+
+.about .title:before {
+   content: "";
+   display: block;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   width: 50px;
+   height: 10px;
+   background-color: #008080
+}
+
+.about h3 {
+   font-weight: 500;
+   font-size: 28px
+}
+
+.about p {
+   margin-bottom: 25px
+}
+
+.about p:last-child {
+   margin-bottom: 0
+}
+
+@-webkit-keyframes pulse-border {
+   0% {
+      -webkit-transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
+      transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
+      opacity: 1
+   }
+   100% {
+      -webkit-transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.3);
+      transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.3);
+      opacity: 0
+   }
+}
+
+@-moz-keyframes pulse-border {
+   0% {
+      transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
+      opacity: 1
+   }
+   100% {
+      transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.3);
+      opacity: 0
+   }
+}
+
+@-o-keyframes pulse-border {
+   0% {
+      transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
+      opacity: 1
+   }
+   100% {
+      transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.3);
+      opacity: 0
+   }
+}
+
+@keyframes pulse-border {
+   0% {
+      -webkit-transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
+      transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
+      opacity: 1
+   }
+   100% {
+      -webkit-transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.3);
+      transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.3);
+      opacity: 0
+   }
+}
+
+.counter-section {
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-top: 60px
+}
+
+.about .counter-section {
+   padding-left: 110px
+}
+
+.counter-section li {
+   display: flex;
+   align-items: center;
+   width: 100%;
+   padding: 0 20px;
+   position: relative
+}
+
+.counter-section li:last-child:before {
+   background: 0 0
+}
+
+.counter-section li img {
+   width: 50px;
+   margin-right: 20px
+}
+
+.counter_text {
+   position: relative;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center
+}
+
+.counter_text p {
+   width: 100%;
+   margin: 0
+}
+
+.counter_text i {
+   margin-left: 5px
+}
+
+.counter_text .counter {
+   font-size: 36px;
+   color: #202122;
+   font-weight: 600
+}
+
+.counter-section li:before {
+   content: '';
+   width: 1px;
+   height: 60%;
+   position: absolute;
+   top: 50%;
+   right: 0;
+   transform: translateY(-50%);
+   background: #dddfe1
+}
+
+.testimonials_video_box .video-area-wrapper {
+   height: 270px
+}
+
+.testimonials_video_box .video-area-wrapper img {
+   width: 100%;
+   height: 100%
+}
+
+.portfolio-slider-section {
+   display: block
+}
+
+.innerbanner.portfoliobanner {
+   min-height: 600px
+}
+
+@media (min-width:2100px) {
+  .about-bg-section {
+     width: 28%
+  }
+}
+
+@media (min-width:2400px) {
+  .about-bg-section {
+     width: 30%
+  }
+}
+
+@media (max-width:1800px) {
+  .about-bg-section {
+     width: 21%
+  }
+}
+
+@media (max-width:1600px) {
+  .about-bg-section {
+     width: 18%
+  }
+  .about h3 {
+     font-size: 26px
+  }
+  .scrollmobilebanner .bannerfixedimagewidth {
+     bottom: -100px
+  }
+  .bannerfixedscrollimagewrap {
+     width: 300px
+  }
+}
+
+@media (max-width:1440px) {
+  .about-bg-section {
+     width: 15%
+  }
+  .scrollmobilebanner .bannerfixedimagewidth {
+     bottom: -160px
+  }
+  .bannerfixedscrollimagewrap {
+     width: 280px
+  }
+}
+
+@media (max-width:1360px) {
+  .about-bg-section {
+     width: 12%
+  }
+  .uiux-design-process-content-image.left-image:before {
+     left: 20px
+  }
+  .uiux-design-process-content-image.right-image:before {
+     right: 20px
+  }
+  .scrollmobilebanner .bannerfixedimagewidth {
+     margin-right: 60px;
+     bottom: -220px
+  }
+  .bannerfixedscrollimagewrap {
+     width: 300px
+  }
+}
+
+@media (max-width:1169px) {
+  .nav-is-visible main {
+     transform: translateX(0)
+  }
+}
+
+@media (max-width:1199px) {
+  .breadcrumb {
+     bottom: 70px
+  }
+  .about-bg-section {
+     width: 120px
+  }
+  .about h3 {
+     font-size: 24px
+  }
+}
+
+@media (max-width:991px) {
+  .about,
+  .padding-60 {
+     padding: 50px 0
+  }
+  .about-video-img {
+     margin: 0 30px 50px
+  }
+  .about-video-img img {
+     width: 90%
+  }
+  .counter-section li {
+     width: 50%;
+     padding: 20px 20px
+  }
+  .counter-section {
+     flex-wrap: wrap
+  }
+  .about {
+     overflow: hidden
+  }
+  .about .video-area-wrapper {
+     max-width: 600px;
+     width: 100%;
+     margin: 0 auto
+  }
+  .about-bg-section {
+     display: none !important
+  }
+  .about .counter-section {
+     padding-left: 0
+  }
+  .about h3 {
+     font-size: 22px
+  }
+  .about-us-review-section .counter-section {
+     max-width: 600px;
+     width: 100%;
+     margin: 0 auto
+  }
+  .about-leadership-image {
+     min-height: 350px
+  }
+  .about-leadership-content {
+     padding: 20px 20px
+  }
+  .about-leadership-title {
+     font-size: 22px
+  }
+  .mission-n-vision-box {
+     padding: 25px 25px
+  }
+  .our-core-value-box {
+     min-height: 270px
+  }
+  .our-history-detail-image {
+     margin: 30px 0 30px 30px
+  }
+  .our-history-detail-box {
+     padding: 30px 20px
+  }
+  .our-history-detail-num {
+     font-size: 40px
+  }
+  .our-history-detail-title {
+     font-size: 22px;
+     margin-bottom: 15px
+  }
+  .our-history-detail-icon svg {
+     width: 90px;
+     height: 90px
+  }
+  .our-history-detail-box-title-wrap {
+     padding-right: 100px
+  }
+  .our-history-progress-bottom {
+     margin-top: 30px
+  }
+  .our-work-process-section .title {
+     margin-bottom: 40px
+  }
+  .our-process-step-row {
+     padding: 50px 0 80px 0
+  }
+  .our-process-step-row .position-static {
+     margin-left: 0 !important
+  }
+  .our-process-step-row:nth-child(even) .position-static {
+     margin-right: 0 !important
+  }
+  .our-process-step-row:nth-child(even) .our-process-content-box .number {
+     left: 40px;
+     right: inherit
+  }
+  .our-process-content {
+     padding: 30px 25px
+  }
+  .our-process-content h3 {
+     font-size: 24px;
+     margin-bottom: 12px;
+     padding-left: 55px
+  }
+  .our-process-content-box .number {
+     z-index: 1;
+     left: 40px;
+     right: inherit;
+     font-size: 40px;
+     top: 24px
+  }
+  .our-process-image-box {
+     max-width: 570px;
+     width: 100%;
+     margin: 0 auto
+  }
+  .our-process-step-listing .our-process-step-row:nth-child(even) .our-process-image-box {
+     margin: 0 auto
+  }
+  .our-process-step-listing .our-process-step-row:nth-child(odd) .our-process-image-box {
+     margin: 0 auto
+  }
+  .our-process-step-row .position-static {
+     margin-bottom: 40px
+  }
+  .mvp-what-we-offer-box {
+     min-height: 530px
+  }
+  .mvp-process-dev-section {
+     padding-bottom: 10px
+  }
+  .mvp-process-dev-box-wrap:before {
+     display: none
+  }
+  .mvp-process-dev-box:after {
+     display: none
+  }
+  .mvp-process-dev-box {
+     margin: 0 0 50px;
+     min-height: 390px
+  }
+  .mvp-process-dev-section .title {
+     margin-bottom: 40px
+  }
+  .mvp-process-dev-box-wrap .row>div:nth-child(4) .mvp-process-dev-box:before,
+  .mvp-process-dev-box-wrap .row>div:nth-child(5) .mvp-process-dev-box:before,
+  .mvp-process-dev-box-wrap .row>div:nth-child(6) .mvp-process-dev-box:before {
+     left: inherit;
+     top: inherit;
+     right: 40px;
+     bottom: -27px;
+     transform: inherit
+  }
+  .mvp-why-choose-dev-section .col-right {
+     margin-left: 0 !important;
+     margin-right: 0 !important
+  }
+  .mvp-why-choose-dev-box-wrap {
+     padding: 20px 15px
+  }
+  .game-service-offer-box {
+     margin: 50px 0 30px;
+     min-height: 360px
+  }
+  .game-what-we-offer-box {
+     min-height: 365px
+  }
+  .best-game-dev-company-box {
+     min-height: 230px
+  }
+  #blog {
+     margin-top: -50px
+  }
+  .innerbanner.blog {
+     min-height: inherit
+  }
+}
+
+@media (max-width:767px) {
+  .about,
+  .padding-60 {
+     padding: 40px 0
+  }
+  .counter-section li {
+     padding: 10px 0 10px 20px;
+     align-items: flex-start;
+     flex-wrap: wrap
+  }
+  .counter-section li:nth-child(1),
+  .counter-section li:nth-child(3) {
+     padding-left: 5px
+  }
+  .counter-section {
+     margin-top: 10px
+  }
+  .counter-section li img {
+     width: 50px
+  }
+  .counter_text p {
+     font-size: 12px
+  }
+  .counter-section li:nth-child(2):before {
+     display: none
+  }
+  .counter_text .counter {
+     font-size: 28px
+  }
+  .about h3 {
+     font-size: 18px
+  }
+  .about-us-review-section .counter-section li {
+     padding: 0 5px
+  }
+  .about-leadership-image {
+     margin: 0 0 50px;
+     min-height: 330px
+  }
+  .about-leadership-title {
+     font-size: 18px;
+     margin-bottom: 15px
+  }
+  .about-leadership-content-wrap:before {
+     top: -15px;
+     bottom: 15px;
+     left: 0;
+     right: 0
+  }
+  .about-leadership-content-wrap:after {
+     top: -50px;
+     left: 50%;
+     margin-left: -32px;
+     margin-top: 0;
+     transform: rotate(270deg)
+  }
+  .about-us-review-section .counter-image {
+     width: 80px;
+     height: 80px;
+     line-height: 80px
+  }
+  .about-us-review-section .counter-section li img {
+     width: 40px
+  }
+  .mission-n-vision-box h3 {
+     font-size: 22px
+  }
+  .our-core-value-box {
+     min-height: 310px
+  }
+  .our-history-detail-num {
+     font-size: 30px
+  }
+  .our-history-detail-title {
+     font-size: 18px
+  }
+  .our-history-detail-icon svg {
+     width: 60px;
+     height: 60px
+  }
+  .our-history-detail-box-title-wrap {
+     padding-right: 70px
+  }
+  .our-history-progress-bottom {
+     margin-top: 20px
+  }
+  .featured-in-section .row>div:nth-child(4n+0) .featured-in-image-box:before {
+     display: block
+  }
+  .featured-in-section .row>div:nth-child(2n+0) .featured-in-image-box:before {
+     display: none
+  }
+  .our-award-section .item {
+     width: 50%;
+     text-align: center
+  }
+  .our-history-detail-image {
+     margin: 30px 10px 30px 40px
+  }
+  .mission-n-vision-box {
+     min-height: inherit
+  }
+  .our-process-content h3 {
+     padding-left: 0
+  }
+  .our-process-step-row {
+     padding: 30px 0 70px 0
+  }
+  .our-process-content-box .number {
+     position: relative;
+     left: 0;
+     top: 0;
+     margin-bottom: 10px
+  }
+  .our-process-step-row:nth-child(even) .our-process-content-box .number {
+     left: 0;
+     top: 0
+  }
+  .mvp-process-dev-box {
+     min-height: inherit;
+     padding: 20px 15px
+  }
+  .mvp-process-dev-icon {
+     margin-bottom: 20px
+  }
+  .mvp-process-dev-icon svg {
+     width: 60px;
+     height: 60px
+  }
+  .mvp-why-choose-dev-section .col-right.mb-40 {
+     margin-bottom: 0 !important
+  }
+  .game-service-offer-box {
+     margin: 50px 0 30px;
+     min-height: inherit;
+     padding: 30px 15px
+  }
+  .game-service-offer-icon {
+     margin: -86px 0 20px
+  }
+  .game-what-we-offer-box {
+     min-height: inherit;
+     padding: 30px 15px
+  }
+  .mt-b-0 {
+     margin-top: 0 !important
+  }
+  .best-game-dev-company-box {
+     min-height: 290px
+  }
+  .blog-list-image {
+     height: auto;
+     padding: 5px
+  }
+  .blog-list-desc h2 {
+     font-size: 18px
+  }
+  #blog .pagination {
+     display: block;
+     text-align: center;
+     margin-top: 50px
+  }
+  .pagination li {
+     display: inline-block;
+     vertical-align: top
+  }
+  .pagination li:first-child,
+  .pagination li:last-child {
+     display: block
+  }
+  .pagination li a {
+     padding: 12px 15px;
+     display: inline-block;
+     vertical-align: top
+  }
+  .pagination li a[rel=next],
+  .pagination li a[rel=prev] {
+     padding: 12px 15px
+  }
+  .blog-detail-banner-box {
+     display: block !important
+  }
+  .blog-detail-banner-box>div,
+  .blog-detail-banner-box>span {
+     display: inline-block;
+     vertical-align: top;
+     margin-bottom: 10px
+  }
+  .blog-detail-banner-box .divider {
+     margin-bottom: 10px
+  }
+  .blog-banner-profile {
+     margin: 20px auto
+  }
+  .blog-detail-banner-box .author-name a,
+  .blog-detail-banner-box .blog-category a,
+  .blog-detail-banner-box .blog-date {
+     font-size: 14px;
+     padding: 0
+  }
+  .blog-detail-image {
+     height: auto;
+     margin-bottom: 30px
+  }
+  .blog-detail-content h2 {
+     font-size: 18px
+  }
+  .blog-detail-content p {
+     font-size: 15px
+  }
+  .blog-detail-content ul li {
+     font-size: 15px
+  }
+  .blog-social-box-wrap {
+     display: block !important
+  }
+  .blog-social-box-wrap>div {
+     margin-bottom: 10px;
+     margin-top: 10px
+  }
+  .blog-social-share {
+     margin-right: 20px
+  }
+  .blog-social-share li a {
+     width: 30px;
+     height: 30px;
+     font-size: 14px
+  }
+  .blog-social-share span {
+     margin-right: 10px
+  }
+  .blog-next-prev-btn span {
+     font-size: 14px;
+     width: calc(100% - 40px)
+  }
+}
+
+@media (max-width:575px) {
+  .about-us-review-section .counter-section {
+     align-items: flex-start
+  }
+  .about-us-review-section .counter-image {
+     margin: 0 auto 15px
+  }
+  .about-us-review-section .counter-section li img {
+     width: 40px
+  }
+  .about-us-review-section .counter_text {
+     width: 100%;
+     padding: 0;
+     justify-content: center;
+     text-align: center
+  }
+  .about-us-review-section .counter_text .counter {
+     font-size: 24px
+  }
+  .our-core-value-box {
+     min-height: inherit
+  }
+  .featured-in-image-box:before {
+     display: none !important
+  }
+  .mvp-what-we-offer-box {
+     min-height: inherit
+  }
+  .mvp-why-choose-dev-box {
+     display: block;
+     text-align: center;
+     padding: 20px 25px
+  }
+  .mvp-why-choose-dev-icon {
+     margin: 0 auto 15px
+  }
+  .mvp-why-choose-dev-content {
+     width: 100%;
+     margin: 0
+  }
+  .best-game-dev-company-box {
+     min-height: inherit;
+     padding: 30px 15px
+  }
+  .best-game-dev-company-icon {
+     width: 70px;
+     height: 70px
+  }
+  .best-game-dev-company-icon svg {
+     width: 45px
+  }
+  .best-game-dev-company-box h5 {
+     margin-bottom: 20px
+  }
+  .blog-list-info-box.d-flex {
+     display: block !important
+  }
+  .blog-list-author-image {
+     width: 60px;
+     height: 60px
+  }
+  .blog-list-author-image-wrap,
+  .blog-list-date {
+     display: inline-flex !important
+  }
+  .blog-list-date+.divider {
+     display: none
+  }
+  .blog-list-category {
+     display: block;
+     margin-top: 10px
+  }
+  .blog-detail-content iframe {
+     max-width: 100%;
+     height: 250px
+  }
+  .game-experties-inner-box {
+     min-height: inherit
+  }
+}

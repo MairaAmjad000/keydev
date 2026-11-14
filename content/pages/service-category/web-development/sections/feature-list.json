@@ -1,0 +1,42 @@
+{
+  "text": "Advantages",
+  "heading": "Key Features of Our Web Development",
+  "text2": "As a web development framework, PHP bestows its users with a range of benefits that simplifies the task of delivering efficient and affordable web development.",
+  "subheading": "Why choose PHP framework?",
+  "items": [
+    {
+      "icon": "svg-c74f4f",
+      "html": "<strong>Thousands of open source libraries</strong> that can take your web application performance to new highs."
+    },
+    {
+      "icon": "svg-153ded",
+      "html": "Fits perfectly for <strong>eCommerce web development</strong> that requires thousands of product pages to load lightning fast."
+    },
+    {
+      "icon": "svg-245c7d",
+      "html": "PHP has a <strong>built-In HTTP Server</strong> which makes it easy to develop and test applications locally. Eliminates the need to configure a full-featured web server such as Apache or Nginx."
+    },
+    {
+      "icon": "svg-44f4fb",
+      "html": "<strong>Supports any hosting environment</strong> like Windows, Linux and Mac. This makes PHP an extremely flexible and universally supported web development framework."
+    },
+    {
+      "icon": "svg-fc8601",
+      "html": "<strong>Direct integration</strong> with HTML and CSS. Requires no additional plugins or software to create interactive web pages on WordPress, Drupal or Joomla that can gather user input."
+    },
+    {
+      "icon": "svg-9fb70d",
+      "html": "<strong>Responsive display</strong> that displays the best version of the website that suits the screen size display configuration of the user system."
+    }
+  ],
+  "link": {
+    "href": "contact",
+    "text": "Talk to Our PHP Expert Now"
+  },
+  "image": {
+    "src": "/images/category/web-development/features-web-development.webp",
+    "alt": "php development",
+    "width": "549",
+    "height": "528"
+  }
+}

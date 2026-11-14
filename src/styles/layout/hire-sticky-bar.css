@@ -1,0 +1,209 @@
+.hire-team-sticky-section {
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   width: 100%;
+   max-width: 1040px;
+   margin: 0 auto 10px !important;
+   z-index: 993;
+   opacity: 1;
+   border-radius: 10px;
+   background: #008080;
+   -webkit-transition: all .5s ease-out;
+   -o-transition: all .5s ease-out;
+   transition: all .5s ease-out;
+   color: #fff;
+   padding: 15px 20px
+}
+
+.hire-team-sticky-container {
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center
+}
+
+.hire-team-sticky-icon {
+   width: 80px
+}
+
+.hire-team-sticky-content {
+   width: calc(100% - 310px);
+   padding: 0 20px
+}
+
+.hire-team-sticky-content .ttl1 {
+   font-size: 20px;
+   font-weight: 500;
+   margin-bottom: 5px
+}
+
+.hire-team-sticky-content .ttl2 {
+   font-size: 14px
+}
+
+.hire-team-sticky-btn {
+   width: 230px
+}
+
+.hire-team-sticky-btn-wrap .btn {
+   background-color: #fff;
+   color: #008080;
+   font-weight: 500;
+   padding: 6px 15px;
+   position: relative
+}
+
+.hire-team-sticky-btn-wrap .btn:before {
+   content: "";
+   display: block;
+   position: absolute;
+   left: 177px;
+   top: 0;
+   bottom: 0;
+   width: 1px;
+   height: 34px;
+   background-color: #fff;
+   pointer-events: none
+}
+
+.hire-team-sticky-btn-wrap .btn:focus,
+.hire-team-sticky-btn-wrap .btn:hover {
+   background-color: #202122;
+   color: #fff
+}
+
+.hire-team-sticky-btn-wrap .close {
+   position: relative;
+   top: 0;
+   right: 0;
+   opacity: 1;
+   text-shadow: none;
+   color: #fff;
+   background: #343535;
+   border-radius: 100%;
+   font-size: 16px;
+   width: 35px;
+   height: 35px;
+   line-height: 35px;
+   text-align: center
+}
+
+.hire-team-sticky-btn-wrap .close:not(:disabled):not(.disabled):focus,
+.hire-team-sticky-btn-wrap .close:not(:disabled):not(.disabled):hover {
+   opacity: 1;
+   color: #fff
+}
+
+#drift-widget-container {
+   z-index: 991 !important
+}
+
+.head-contact-info {
+   display: none
+}
+
+@media (max-width:1199px) {
+  .hire-team-sticky-content .ttl1 {
+     font-size: 18px
+  }
+  .write-us-banner {
+     padding: 100px 0
+  }
+  .write-us-banner h1 {
+     font-size: 30px
+  }
+  .write-us-banner p {
+     font-size: 18px
+  }
+  .write-for-us-cta .container {
+     padding: 50px 15px;
+     max-width: 800px
+  }
+  .write-for-us-cta h3 {
+     font-size: 28px
+  }
+  .cta.fullwidth .cd-headline span {
+     font-size: 22px
+  }
+  .cta.fullwidth:before {
+     width: calc(50% - 150px)
+  }
+  .cta.fullwidth .btn-col:before {
+     left: 110px
+  }
+}
+
+@media (max-width:1024px) {
+  .navbar-brand>img {
+     height: 40px;
+     display: inline-block
+  }
+  .cookiealert,
+  .hire-team-sticky-section {
+     max-width: 100%
+  }
+}
+
+@media (min-width:992px) {
+  .web-app-sev-lang-collapse .tab_list {
+     display: flex;
+     max-width: 470px;
+     float: right;
+     flex-wrap: wrap
+  }
+  .web-app-sev-lang-collapse .card {
+     border: none
+  }
+  .web-app-sev-lang-collapse .card .card-header {
+     display: none
+  }
+  .web-app-sev-lang-collapse .card .collapse {
+     display: block
+  }
+}
+
+@media (max-width:991px) {
+  .hire-team-sticky-section {
+     max-width: 100%;
+     padding: 15px 10px
+  }
+  .hire-team-sticky-btn-wrap .close {
+     top: -15px;
+     right: 0;
+     position: absolute
+  }
+  .hire-team-sticky-icon {
+     width: 50px
+  }
+  .hire-team-sticky-content {
+     width: calc(100% - 220px);
+     padding: 0 15px
+  }
+  .hire-team-sticky-content .ttl1 {
+     font-size: 14px
+  }
+  .hire-team-sticky-content .ttl2 {
+     font-size: 12px
+  }
+  .hire-team-sticky-btn {
+     width: 170px
+  }
+  .hire-team-sticky-btn-wrap .btn:before {
+     display: none
+  }
+  .bannerfixedscrollimagewrap {
+     width: 80%
+  }
+  .scrollmobilebanner .bannerfixedimagewidth {
+     text-align: center;
+     bottom: 0;
+     margin: 30px auto 30px !important
+  }
+}
+
+@media (max-width:767px) {
+  .hire-team-sticky-section {
+     display: none !important
+  }
+}

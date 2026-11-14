@@ -1,0 +1,31 @@
+{
+  "text": "Why Choose Us",
+  "heading": "What Makes KeyDevs Technologies the Prominent MVP Development Company",
+  "text2": "MVP development brings to the table several benefits that will save you time and resources in the long run.",
+  "image": {
+    "src": "/images/service/mvp-development/why-choose-mvp-development.jpg",
+    "alt": ""
+  },
+  "items": [
+    {
+      "icon": "svg-712708",
+      "title": "Test before launch",
+      "text": "Know whether your product idea is going the right direction by testing it before launch."
+    },
+    {
+      "icon": "svg-37c5e6",
+      "title": "Deploy on production server",
+      "text": "Mimic the real life scenario of app usage by deploying the app on production server."
+    },
+    {
+      "icon": "svg-90d115",
+      "title": "Launch on marketplaces",
+      "text": "We help you launch the MVP or pivot project on marketplaces and product communities."
+    },
+    {
+      "icon": "svg-b4eda3",
+      "title": "Continuous improvement",
+      "text": "The first cut of the MVP will be made better through continuous improvement to features."
+    }
+  ]
+}

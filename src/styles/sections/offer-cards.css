@@ -1,0 +1,7 @@
+/* Service page: offer cards */
+.mvp-services-offer-image { margin-bottom:-70px;padding:0 25px;top:0;position:relative;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.mvp-services-offer-content-box { padding:100px 15px 30px }
+.mvp-services-offer-content-box h3 { color:#202122;font-size:18px;font-weight:500;margin-bottom:15px;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.mvp-services-offer-content-box p:last-child { margin-bottom:0 }
+.mvp-services-offer-box:hover .mvp-services-offer-image { top:-10px }
+.mvp-services-offer-box:hover .mvp-services-offer-content-box h3 { color:#008080 }

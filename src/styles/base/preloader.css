@@ -1,0 +1,105 @@
+.pre-loader {
+         position: fixed;
+         width: 100%;
+         height: 100%;
+         left: 0;
+         top: 0;
+         background: #fff;
+         z-index: 999999999
+      }
+
+.pre-loader-wrap {
+         display: flex;
+         align-items: center;
+         height: 100vh;
+         justify-content: center
+      }
+
+.pre-loader-content-box {
+         text-align: center;
+         max-width: 900px;
+         width: 100%;
+         margin: 0 auto;
+         padding: 20px 15px
+      }
+
+.pre-loader-logo {
+         margin-bottom: 20px
+      }
+
+.pre-loader-text {
+         font-size: 50px;
+         line-height: 1.3;
+         color: #202122;
+         font-weight: 700
+      }
+
+.pre-loader-icon {
+         margin: 40px 0 0
+      }
+
+.newtons-cradle {
+         width: 100px;
+         display: flex;
+         flex-flow: row nowrap;
+         align-items: center;
+         justify-content: space-between;
+         margin: 0 auto
+      }
+
+.newtons-cradle div {
+         width: 20px;
+         height: 20px;
+         border-radius: 50%;
+         background-color: #008080
+      }
+
+.newtons-cradle div:nth-of-type(1) {
+         transform: translateX(-100%);
+         animation: left-swing .5s ease-in alternate infinite
+      }
+
+.newtons-cradle div:nth-of-type(3) {
+         transform: translateX(-95%);
+         animation: right-swing .5s ease-out alternate infinite
+      }
+
+@keyframes left-swing {
+
+         100%,
+         50% {
+            transform: translateX(95%)
+         }
+      }
+
+@keyframes right-swing {
+         50% {
+            transform: translateX(-95%)
+         }
+
+         100% {
+            transform: translateX(100%)
+         }
+      }
+
+@keyframes spin {
+         to {
+            transform: rotate(360deg)
+         }
+      }
+
+@media (max-width:1199px) {
+         .pre-loader-content-box {
+            max-width: 750px
+         }
+
+         .pre-loader-text {
+            font-size: 40px
+         }
+      }
+
+@media (max-width:767px) {
+         .pre-loader-text {
+            font-size: 24px
+         }
+      }

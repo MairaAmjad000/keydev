@@ -1,0 +1,99 @@
+{
+  "callout": {
+    "text": "Do you have a <span id=\"callouts-type\"></span> We have a TEAM to get you there.",
+    "link": {
+      "href": "contact",
+      "text": "Get In Touch"
+    }
+  },
+  "text": "The Portfolio",
+  "heading": "Our Unique And Creative Work",
+  "items": [
+    {
+      "heading": "Dorel Taxi",
+      "text": "On-demand taxi booking app for Nigeria with features for passengers, drivers and admins.",
+      "image": {
+        "src": "/images/service/mvp-development/portfolio-dorel-taxi.jpg",
+        "alt": "An experienced on-demand taxi app developer. KeyDevs Technologies provides taxi application development solutions for Startups and Entrepreneurs."
+      },
+      "heading2": "Dorel Taxi",
+      "text2": "On-demand taxi booking app for Nigeria with features for passengers, drivers and admins.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "FantasyJi",
+      "text": "A fantasy sports app that allows users to create private leagues, auctions and bid for players and play fantasy games.",
+      "image": {
+        "src": "/images/portfolio/fantasyji.jpg",
+        "alt": "As a sports fantasy sports app development company, KeyDevs Technologies developed Fantasyji, a cricket  fantasy app"
+      },
+      "heading2": "FantasyJi",
+      "text2": "A fantasy sports app that allows users to create private leagues, auctions and bid for players and play fantasy games.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Awayback",
+      "text": "A location-based augmented reality social application for creating, storing, sharing and rediscovering memories.",
+      "image": {
+        "src": "/images/service/mvp-development/portfolio-awayback.jpg",
+        "alt": "Awayback",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Awayback",
+      "text2": "A location-based augmented reality social application for creating, storing, sharing and rediscovering memories.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Yoca",
+      "text": "The pre-ordering coffee app allows customers to order coffee and pay in advance to avoid the queue at cafes and coffee shops.",
+      "image": {
+        "src": "/images/service/mvp-development/portfolio-yoca.jpg",
+        "alt": "mvp development agency"
+      },
+      "heading2": "Yoca",
+      "text2": "The pre-ordering coffee app allows customers to order coffee and pay in advance to avoid the queue at cafes and coffee shops.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Guest Me",
+      "text": "Guest Me is one such live streaming app that combines the best of social networking and live video streaming.",
+      "image": {
+        "src": "/images/service/mvp-development/portfolio-guest-me.jpg",
+        "alt": "mvp development services for startups"
+      },
+      "heading2": "Guest Me",
+      "text2": "Guest Me is one such live streaming app that combines the best of social networking and live video streaming.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Chatagram",
+      "text": "An instant messaging app for real-time communication and allowed users to search and add friends.",
+      "image": {
+        "src": "/images/service/mvp-development/portfolio-chatagram.jpg",
+        "alt": "mvp app development company"
+      },
+      "heading2": "Chatagram",
+      "text2": "An instant messaging app for real-time communication and allowed users to search and add friends.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

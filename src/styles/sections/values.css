@@ -1,0 +1,78 @@
+.why-choose-box {
+   width: 100%;
+   background: #fff;
+   border: 1px solid #ecedee;
+   border-radius: 10px;
+   text-align: center;
+   padding: 20px 10px;
+   transition: all .3s ease;
+   margin-bottom: 30px;
+   min-height: 250px
+}
+
+.why-choose-box svg {
+   width: 70px;
+   height: 70px;
+   background: #fff;
+   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .1);
+   border-radius: 7px;
+   padding: 10px;
+   transition: all .3s ease
+}
+
+.why-choose-box svg circle,
+.why-choose-box svg ellipse,
+.why-choose-box svg line,
+.why-choose-box svg path,
+.why-choose-box svg polygon,
+.why-choose-box svg rect {
+   transition: all .3s ease
+}
+
+.why-choose-box h5 {
+   font-size: 18px;
+   margin: 15px 0 10px;
+   transition: all .3s ease
+}
+
+.why-choose-box p {
+   margin: 0;
+   font-size: 13px;
+   line-height: 20px;
+   font-weight: 500;
+   color: #6a6d6f;
+   transition: all .3s ease
+}
+
+.why-choose-box:hover {
+   box-shadow: 0 3px 10px rgba(0, 0, 0, .15)
+}
+
+.why-choose-box:hover svg circle,
+.why-choose-box:hover svg ellipse,
+.why-choose-box:hover svg line,
+.why-choose-box:hover svg path,
+.why-choose-box:hover svg polygon,
+.why-choose-box:hover svg rect {
+   fill: #fff
+}
+
+.why-choose-box:hover svg {
+   background: #008080
+}
+
+.Feature-slider {
+   margin-left: -15px;
+   margin-right: -15px;
+   margin-bottom: 10px
+}
+
+.Feature-slider .item {
+   padding: 0 15px
+}
+
+@media (max-width:991px) {
+  .why-choose-box {
+     min-height: 265px
+  }
+}

@@ -1,5 +1,5 @@
 import { Fragment } from 'react';
-import type { CallBackSidebarContent, FormsContent } from '@/types/content';
+import type { CallBackSidebarContent, FormsContent } from '@/types';
 import { InteractiveInput } from '@/components/ui/InteractiveInput';
 import { FormOptions } from '@/components/ui/FormOptions';
 

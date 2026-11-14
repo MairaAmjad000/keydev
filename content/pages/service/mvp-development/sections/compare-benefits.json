@@ -1,0 +1,47 @@
+{
+  "text": "MVP Benefits",
+  "heading": "Benefits of MVP Development",
+  "text2": "Being the top MVP development company, we will help you research the market and prove your assumptions right with a minimal budget. We will help you fix the right product type, featuresets, and deployment model that will catapult your idea from a prototype to a scalable product.",
+  "compare": {
+    "before": {
+      "src": "/images/service/mvp-development/benefits-before.jpg",
+      "alt": "mvp development company"
+    },
+    "after": {
+      "src": "/images/service/mvp-development/benefits-after.jpg",
+      "alt": "mvp development services"
+    }
+  },
+  "items": [
+    {
+      "icon": "svg-4f24e7",
+      "title": "Validate business idea",
+      "text": "Ask the right questions before starting product development. Should this product be developed at all? How can it be developed? Who will it benefit? Know it all to validate the business idea."
+    },
+    {
+      "icon": "svg-72485b",
+      "title": "Plan long-term",
+      "text": "Know in advance the technical challenges that should be addressed to scale the product post the MVP stage. Set the ground right for long-term development of the product."
+    },
+    {
+      "icon": "svg-92329f",
+      "title": "Win first-adopter confidence",
+      "text": "Present the MVP to your investors or first-adopters to win confidence, secure funding or to kickstart a crowdsourcing campaign."
+    },
+    {
+      "icon": "svg-677566",
+      "title": "Scale rapidly",
+      "text": "Going from scratch till any capacity you want is easier with KeyDevs Technologies. You will have the same MVP development team serving you until the end."
+    },
+    {
+      "icon": "svg-bd8d6e",
+      "title": "Save time",
+      "text": "Save time and money by getting started with a lean working model of the product before fleshing out the entire software, UI, design and user experience."
+    },
+    {
+      "icon": "svg-afdd73",
+      "title": "Test market feasibility",
+      "text": "MVP development lets you estimate market size, competition, USPs, challenges and overall market feasibility before taking the deep dive."
+    }
+  ]
+}

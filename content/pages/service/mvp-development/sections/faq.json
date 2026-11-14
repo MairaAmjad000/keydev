@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "What is an MVP and why does my startup need one?",
+      "answer": "A Minimum Viable Product is the smallest working version of your idea that lets real users try it. It helps you validate demand, gather feedback and attract investors without spending a full-product budget."
+    },
+    {
+      "question": "How long does MVP development take?",
+      "answer": "Most MVPs are ready in 8 to 12 weeks, depending on the number of core features, platforms and integrations. We share a clear timeline after the discovery workshop."
+    },
+    {
+      "question": "How much does MVP development cost?",
+      "answer": "Cost depends on scope, platforms and design depth. We offer fixed-scope and monthly engagement models so you can start small and scale as you grow."
+    },
+    {
+      "question": "Will I own the source code?",
+      "answer": "Yes. You own all source code, designs and documentation once the project is delivered."
+    },
+    {
+      "question": "Do you provide support after launch?",
+      "answer": "Yes. We offer post-launch maintenance, bug fixing, hosting support and iterative feature development."
+    }
+  ]
+}

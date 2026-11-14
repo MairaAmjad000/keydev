@@ -1,0 +1,8 @@
+/* Category page: faq */
+.faq-section .faq-card { border:0;border-radius:6px;margin-bottom:12px;box-shadow:0 2px 12px rgba(0,0,0,.08);overflow:hidden }
+.faq-section .card-header { background:#fff;border:0;padding:0 }
+.faq-section .btn-link { display:block;width:100%;text-align:left;padding:18px 50px 18px 24px;font-weight:600;color:#202122;font-size:17px;text-decoration:none;position:relative;white-space:normal }
+.faq-section .btn-link:after { content:"\f107";font-family:"Font Awesome 5 Free";font-weight:900;position:absolute;right:22px;top:50%;transform:translateY(-50%);color:#008080;transition:transform .3s }
+.faq-section .btn-link.collapsed:after { transform:translateY(-50%) rotate(-90deg) }
+.faq-section .btn-link:hover, .faq-section .btn-link:focus { color:#008080;text-decoration:none;box-shadow:none }
+.faq-section .card-body { color:#555;line-height:1.7;padding:0 24px 20px }

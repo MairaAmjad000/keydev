@@ -1,0 +1,52 @@
+{
+  "text": "Advantages",
+  "heading": "Advantages of Custom Web Development",
+  "text2": "Our experience straddles domains and our expert teams have delivered consistently superior quality across projects of different scope.",
+  "items": [
+    {
+      "icon": "svg-5c93f0",
+      "title": "Speed",
+      "text": "V8 engines offer superior speed helping development of high speed applications that offer the real edge. Our expertise permits us to leverage the exceptional speed of the V8 engines."
+    },
+    {
+      "icon": "svg-b0148a",
+      "title": "Non-blocking I/O Paradigm",
+      "text": "Non blocking forms are executed faster without blocking, intimating when new data is available. The asynchronous versions in NodeJS are non blocking and permit the loop to continue."
+    },
+    {
+      "icon": "svg-1111d6",
+      "title": "Data Streaming",
+      "text": "Dispenses with the need for the whole resource to load, allowing reading of content piece by piece. This offers greater flexibility and faster loading, due to optimized use of resources."
+    },
+    {
+      "icon": "svg-bb783d",
+      "title": "Real-time Apps",
+      "text": "Real time bi-directional communication channels helps to resolve the low latency issues that offer better results in use cases including VoIP, videoconference, storage solutions and chatting apps"
+    },
+    {
+      "icon": "svg-a8f81d",
+      "title": "Unified Database Queries",
+      "text": "Dispenses with the need for separate queries, permitting the processing of files at the time of uploading itself – this slashes the time required for overall processing of data."
+    },
+    {
+      "icon": "svg-591fc9",
+      "title": "Easy and Fast Coding",
+      "text": "Less coding and unified scripting language result in faster development of applications rather than an extended development cycle. Developers can write JavaScript for server and client, thereby enhancing convenience."
+    },
+    {
+      "icon": "svg-a42334",
+      "title": "Fast Development Cycles",
+      "text": "Time to market is considerably slashed due to simplified processes, and higher speed of development. The simplified processes and high speed make it possible shorten development cycles."
+    },
+    {
+      "icon": "svg-1b55d5",
+      "title": "Appropriate for Android Devices",
+      "text": "Multiple APIs that are most suitable for backend development which is a bonus for Android devices and applications. The dynamic NPM and easy code make this a better option for Android devices."
+    },
+    {
+      "icon": "svg-eecd29",
+      "title": "Asynchronous I/O",
+      "text": "The heart of NodeJS is the Event Loop. Since the NodeJS is presenting the benefit of non-blocking I/O frameworks, it relatively supports you to process several requests simultaneously."
+    }
+  ]
+}

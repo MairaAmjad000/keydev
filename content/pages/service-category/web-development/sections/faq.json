@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service category.",
+  "items": [
+    {
+      "question": "What web development services do you offer?",
+      "answer": "We build custom websites and web applications using PHP, Laravel, CodeIgniter, WordPress, Node.js, AngularJS and eCommerce platforms, from simple business sites to complex portals."
+    },
+    {
+      "question": "How do I choose the right web technology for my project?",
+      "answer": "We review your goals, budget, traffic expectations and timeline, then recommend the stack that fits best. Our team explains the trade-offs before development begins."
+    },
+    {
+      "question": "How long does a web development project take?",
+      "answer": "A business website usually takes 4 to 8 weeks, while custom web applications take 3 to 6 months depending on features and integrations."
+    },
+    {
+      "question": "Will my website be mobile friendly and SEO ready?",
+      "answer": "Yes. Every site is fully responsive, fast loading and built with clean, search-friendly code and on-page SEO basics."
+    },
+    {
+      "question": "Do you offer maintenance after launch?",
+      "answer": "Yes. We provide ongoing maintenance, security updates, hosting support and feature enhancements."
+    }
+  ]
+}

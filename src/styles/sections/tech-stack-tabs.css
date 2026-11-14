@@ -1,0 +1,20 @@
+/* Service page: technology stack tabs (same look as #technologies_tabs, without the duplicate id) */
+section.ins-msg-how-build-main .technologies_tabs ul.nav-tabs { border: none;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 50px }
+section.ins-msg-how-build-main .technologies_tabs ul.nav-tabs li { padding: 0 30px;
+   border-right: 1px solid #e0e2e3 }
+section.ins-msg-how-build-main .technologies_tabs ul.nav-tabs li a { color: #6a6d6f;
+   font-weight: 500 }
+section.ins-msg-how-build-main .technologies_tabs ul.nav-tabs li a.active, section.ins-msg-how-build-main .technologies_tabs ul.nav-tabs li a:hover { color: #008080 }
+section.ins-msg-how-build-main .technologies_tabs ul.nav-tabs li:last-child { border-right: 0 }
+@media (max-width:1024px) {
+  section.ins-msg-how-build-main .technologies_tabs ul.nav-tabs li { padding: 0 10px;
+     font-size: 13px }
+}
+@media (max-width:767px) {
+  section.ins-msg-how-build-main .technologies_tabs ul.nav-tabs li { margin: 5px 0 }
+}

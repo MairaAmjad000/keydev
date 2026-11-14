@@ -1,0 +1,70 @@
+{
+  "image": {
+    "src": "/images/category/web-development/banner-web-development.webp",
+    "alt": "Bespoke custom web development company in the Pakistan, since inception, we are offering tailored web application development solutions for large business and startups.",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "CUSTOM WEB DEVELOPMENT COMPANY",
+  "text": "KeyDevs Technologies is a full-cycle custom web development company. Wondering what that is? <br/><br/> If you are nurturing a business idea that needs to harness the power of the web, KeyDevs Technologies can make that happen. From prototyping an idea to launching the web portal with enterprise-grade features — we will take care of the entire nine yards of bespoke web development for your business.",
+  "links": [
+    {
+      "href": "portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate Your Web Development Cost"
+    }
+  ],
+  "form": {
+    "id": "web-development-banner_form",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Name",
+        "required": true,
+        "label": "Name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email",
+        "required": true,
+        "label": "Email"
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "placeholder": "Phone Number",
+        "required": true,
+        "minLength": 10,
+        "maxLength": 11,
+        "variant": "phone"
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "Project Descriptions",
+        "required": false,
+        "label": "Message",
+        "rows": 4
+      }
+    ],
+    "submitText": "Get Started Now!",
+    "errorId": "web-development-error_message_banner_form",
+    "successId": "web-development-success_message_banner_form"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "index.php"
+    },
+    {
+      "text": "Web Development"
+    }
+  ]
+}

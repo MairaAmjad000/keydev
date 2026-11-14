@@ -4,22 +4,22 @@ import type { InputHTMLAttributes } from 'react';
 
 declare global {
   interface Window {
-    /** referenced by the reference markup but never defined there (it throws a silent ReferenceError) */
+    /** Called by the original inline handlers but defined nowhere, so it is a no-op unless a page script adds it. */
     checkNumberOnly?: (event: KeyboardEvent) => unknown;
   }
 }
 
 type Props = InputHTMLAttributes<HTMLInputElement> & {
-  /** reference: onfocus="this.placeholder = ''" */
+  /** Clear the placeholder while the field has focus. */
   clearPlaceholderOnFocus?: boolean;
-  /** reference: onblur="this.placeholder = '<original placeholder>'" */
+  /** Put the original placeholder back when the field loses focus. */
   restorePlaceholderOnBlur?: boolean;
-  /** reference: onkeydown="checkNumberOnly(event);" (a no-op unless the page defines that global) */
+  /** Forward keydown to window.checkNumberOnly when a page script defines it. */
   numericOnly?: boolean;
 };
 
 /**
- * The reference attaches inline DOM handlers to a few inputs. This leaf client component reproduces
+ * The original site attaches inline DOM handlers to a few inputs. This leaf client component reproduces
  * them with React handlers while rendering the identical <input> markup.
  */
 export function InteractiveInput({ clearPlaceholderOnFocus, restorePlaceholderOnBlur, numericOnly, ...rest }: Props) {

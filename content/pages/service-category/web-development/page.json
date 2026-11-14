@@ -1,0 +1,26 @@
+{
+  "slug": "service-category/web-development",
+  "seo": {
+    "title": "Custom Web Development Company | KeyDevs Technologies",
+    "description": "KeyDevs Technologies is a full-cycle custom web development company. Wondering what that is? If you are nurturing a business idea that needs to harness the"
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "serviceOfferings",
+    "featureList",
+    "advantageGrid",
+    "process",
+    "frameworkTabs",
+    "contactCta",
+    "whyChoose",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall"
+  ]
+}

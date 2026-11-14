@@ -1,7 +1,7 @@
 import { Fragment } from 'react';
-import type { MobileMenuContent } from '@/types/content';
+import type { MobileMenuContent } from '@/types';
 import { Icon } from '@/components/icons';
-import { link } from '@/lib/markup';
+import { link } from '@/lib/utils/markup';
 
 export function MobileMenu({ data }: { data: MobileMenuContent }) {
   return (

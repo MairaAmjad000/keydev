@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our MVP Development Services",
+  "text2": "From first-time entrepreneurs to serial entrepreneurs, our Startup MVP development offerings are attuned to help everyone refine their idea into a scalable and market-worthy product.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/service/mvp-development/prototype-design.png",
+        "alt": ""
+      },
+      "title": "Prototype Design",
+      "text": "Give your idea shape and form with a prototype design. Our MVP developers will create hi-fidelity interactive prototypes that you can interact with to form ideas about improvements and further product development."
+    },
+    {
+      "image": {
+        "src": "/images/service/mvp-development/single-feature-mvp.png",
+        "alt": ""
+      },
+      "title": "Single Feature MVP",
+      "text": "MVP is a focused approach to product development. It eliminates clutter and focuses on the singlemost feature that will be cornerstone for the product’s growth story. Building that single feature MVP for you is our responsibility."
+    },
+    {
+      "image": {
+        "src": "/images/service/mvp-development/single-feature-mvp2.png",
+        "alt": ""
+      },
+      "title": "Pilot MVP Development",
+      "text": "Take your MVP from being a single feature product to a pilot product that can prove usability, scalability and market feasibility. KeyDevs Technologies’s product development expertise combined will help you launch the pilot MVP in less than 3 months."
+    }
+  ]
+}

@@ -18,8 +18,8 @@ const nextConfig: NextConfig = {
       { source: '/images/:path*', headers: [{ key: 'Cache-Control', value: 'public, max-age=86400, stale-while-revalidate=604800' }] },
       // Fonts rarely change.
       { source: '/fonts/:path*', headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }] },
-      // Legacy scripts keep stable names: cache for a day, then revalidate in the background.
-      { source: '/legacy/:path*', headers: [{ key: 'Cache-Control', value: 'public, max-age=86400, stale-while-revalidate=604800' }] },
+      // Third-party scripts keep stable names: cache for a day, then revalidate in the background.
+      { source: '/scripts/:path*', headers: [{ key: 'Cache-Control', value: 'public, max-age=86400, stale-while-revalidate=604800' }] },
     ];
   },
 };

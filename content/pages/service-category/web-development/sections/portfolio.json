@@ -1,0 +1,119 @@
+{
+  "text": "The Portfolio",
+  "heading": "Our Unique And Creative Work",
+  "text2": "Have a quick glimpse of our amazing web development projects that amplified the business of clients.",
+  "items": [
+    {
+      "heading": "Form Assist",
+      "text": "From the out-of-shape to ripped model, an app that helps users get fit.",
+      "image": {
+        "src": "/images/category/web-development/portfolio-form-assist.webp",
+        "alt": "KeyDevs Technologies is recognised as top php web development company in Pakistan",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Form Assist",
+      "text2": "From the out-of-shape to ripped model, an app that helps users get fit.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "PMU Stock",
+      "text": "eCommerce website for Microblading and semi-permanent make-up supplies in the Pakistan.",
+      "image": {
+        "src": "/images/category/web-development/portfolio-pmu-stock.webp",
+        "alt": "are you looking for custom php development? KeyDevs Technologies is a team of proficient web designers and developers, empowering business with top class php web applications.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "PMU Stock",
+      "text2": "eCommerce website for Microblading and semi-permanent make-up supplies in the Pakistan.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Traveling Peach",
+      "text": "A news portal full of exclusive interviews, stories and advice for people across the world.",
+      "image": {
+        "src": "/images/category/web-development/portfolio-traveling-peach.webp",
+        "alt": "KeyDevs Technologies is a php website development company in Lahore, Paksitan. It provdes creative and flexible web application development solutions for startups and SMEs",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Traveling Peach",
+      "text2": "A news portal full of exclusive interviews, stories and advice for people across the world.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Virtual House",
+      "text": "Real estate business with a 360-degree Virtual Reality experience for its customers",
+      "image": {
+        "src": "/images/category/web-development/portfolio-virtual-house.webp",
+        "alt": "if your are looking for php application development company, KeyDevs Technologies is right fit for your requirements. Our PHP development services empowers businesses in scaling up",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Virtual House",
+      "text2": "Real estate business with a 360-degree Virtual Reality experience for its customers",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Metal Recycling",
+      "text": "Wordpress website developed for Fort worth metal recycling, a scrap metal recycling service provider.",
+      "image": {
+        "src": "/images/category/web-development/portfolio-metal-recycling.webp",
+        "alt": "GoodFirms, the B2B platform has recognised KeyDevs Technologies as one of the top php development companies in the Pakistan. Hire our expert PHP developers for your startups.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Metal Recycling",
+      "text2": "Wordpress website developed for Fort worth metal recycling, a scrap metal recycling service provider.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "New Haven Cafe",
+      "text": "A cafe and catering business website based in Timperley to display menu and operational timing",
+      "image": {
+        "src": "/images/category/web-development/portfolio-new-haven-cafe.webp",
+        "alt": "Team KeyDevs Technologies has a expert team of web designers and web developers for all kinds of php website development. we have successfully empowered 50+ startups and enterprises.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "New Haven Cafe",
+      "text2": "A cafe and catering business website based in Timperley to display menu and operational timing",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Stag Villa",
+      "text": "A website designed for a Farm Stay kind of a resort.",
+      "image": {
+        "src": "/images/category/web-development/portfolio-stag-villa.webp",
+        "alt": "php development company Pakistan",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Stag Villa",
+      "text2": "A website designed for a Farm Stay kind of a resort.",
+      "link": {
+        "href": "portfolio",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

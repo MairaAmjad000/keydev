@@ -1,0 +1,542 @@
+.services-tabs {
+   width: 100%
+}
+
+#servicesTab {
+   border: none;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background: #fff;
+   border-radius: 100px;
+   padding: 25px 35px;
+   margin-bottom: 60px;
+   box-shadow: 0 2px 8px 0 rgba(0, 0, 0, .1);
+   flex-wrap: nowrap
+}
+
+#servicesTab li {
+   text-align: center;
+   padding: 0 10px;
+   border-right: 1px solid #dddfe1
+}
+
+#servicesTab li svg {
+   width: 50px;
+   margin-bottom: 10px
+}
+
+#servicesTab li a {
+   color: #202122;
+   font-size: 15px;
+   font-weight: 500;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-wrap: wrap
+}
+
+#servicesTab li:last-child {
+   border-right: none
+}
+
+#servicesTab li a.active,
+#servicesTab li a:hover {
+   color: #008080
+}
+
+#servicesTab li a.active svg circle,
+#servicesTab li a.active svg ellipse,
+#servicesTab li a.active svg line,
+#servicesTab li a.active svg path,
+#servicesTab li a.active svg polygon,
+#servicesTab li a.active svg rect,
+#servicesTab li a:hover svg circle,
+#servicesTab li a:hover svg ellipse,
+#servicesTab li a:hover svg line,
+#servicesTab li a:hover svg path,
+#servicesTab li a:hover svg polygon,
+#servicesTab li a:hover svg rect {
+   fill: #008080
+}
+
+#servicesTab li a svg circle,
+#servicesTab li a svg ellipse,
+#servicesTab li a svg path,
+#servicesTab li a svg polygon,
+#servicesTab li a svg rect {
+   transition: all .3s ease
+}
+
+.servicesTabContent_text {
+   width: 100%
+}
+
+.servicesTabContent_text h3 {
+   font-size: 30px;
+   margin: 0
+}
+
+.servicesTabContent_text h3 a {
+   color: #008080
+}
+
+.servicesTabContent_text h3 a:hover {
+   color: #202122
+}
+
+.servicesTabContent_text span {
+   font-size: 18px;
+   font-weight: 500;
+   margin-bottom: 15px;
+   display: block
+}
+
+.servicesTabContent_text span.or {
+   margin: 0 10px 15px 0
+}
+
+.servicesTabContent_text ul {
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap
+}
+
+.servicesTabContent_text ul li {
+   display: inline-flex;
+   padding-right: 10px;
+   padding-bottom: 15px
+}
+
+.servicesTabContent_text ul li a {
+   width: 60px;
+   height: 60px;
+   border-radius: 50%;
+   background: #fff;
+   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .1);
+   padding: 14px
+}
+
+.servicesTabContent_text ul li a:hover {
+   background: #008080
+}
+
+.servicesTabContent_text ul li a svg circle,
+.servicesTabContent_text ul li a svg ellipse,
+.servicesTabContent_text ul li a svg path,
+.servicesTabContent_text ul li a svg polygon,
+.servicesTabContent_text ul li a svg rect {
+   transition: all .3s ease
+}
+
+.servicesTabContent_text ul li a:hover svg circle,
+.servicesTabContent_text ul li a:hover svg ellipse,
+.servicesTabContent_text ul li a:hover svg path,
+.servicesTabContent_text ul li a:hover svg polygon,
+.servicesTabContent_text ul li a:hover svg rect {
+   fill: #fff
+}
+
+.servicesTabContent_text ul li a.btn-custome {
+   width: auto;
+   border-radius: 5px;
+   height: auto;
+   padding: 18px 15px;
+   background: #008080
+}
+
+@media (max-width:1024px) {
+  #servicesTab {
+     padding: 25px 10px
+  }
+  #servicesTab li {
+     padding: 0
+  }
+}
+
+@media (max-width:991px) {
+  #servicesTab li {
+     padding: 20px 5px
+  }
+  .servicesTabContent_text {
+     margin-top: 50px
+  }
+  .detail-feature-tab-content .servicesTabContent_text {
+     margin-top: 30px
+  }
+  .detail-feature-tab #servicesTab {
+     margin-bottom: 50px
+  }
+  .advantage-of-real-estate-main .web-why-choose-us-inner-box {
+     min-height: 270px
+  }
+  .real-estate-type-main .game-what-we-offer-box {
+     min-height: 340px
+  }
+  .error-main {
+     display: block !important;
+     padding-top: 80px
+  }
+  .error-img {
+     margin: 0 auto
+  }
+  .error-message {
+     width: 100% !important;
+     padding: 60px 0 30px
+  }
+  .error-message p {
+     font-size: 16px
+  }
+  .error-service-list-wrap {
+     margin-top: 30px
+  }
+  .error-message h2 {
+     font-size: 35px;
+     margin-bottom: 20px
+  }
+  .error-service-list-item a {
+     padding: 10px 5px
+  }
+  .thank-you-banner {
+     min-height: 250px !important
+  }
+  .thank-you-founder-img {
+     max-width: 200px;
+     margin: 0 25px -40px 12px
+  }
+  .thank-you-founder-img img {
+     width: 200px;
+     height: 200px
+  }
+  .thank-you-founder-text p {
+     font-size: 15px
+  }
+  .thank-you-founder-text h2 {
+     font-size: 16px
+  }
+  .thank-you-founder-text h3 {
+     font-size: 22px
+  }
+  .thank-you-founder-text {
+     padding-top: 10px
+  }
+  .thank-you-process-section h2 {
+     font-size: 22px
+  }
+  .thank-you-process-box {
+     padding-bottom: 80px
+  }
+  .thank-you-process-step-icon {
+     width: 80px;
+     height: 71px;
+     background-size: cover
+  }
+  .thank-you-process-step-section h2 {
+     font-size: 22px
+  }
+  .thank-you-process-step-icon span svg {
+     width: 31px;
+     height: 31px
+  }
+  .thank-you-process-step-box .num {
+     font-size: 20px
+  }
+  .thank-you-process-step-box .step-name {
+     font-size: 14px;
+     min-height: 40px
+  }
+  .thank-you-process-step-box .step-arrow {
+     padding-left: 50px
+  }
+  .thank-you-process-step-box:nth-child(even) {
+     padding-top: 6px
+  }
+  .privacy-policy h2 {
+     font-size: 24px
+  }
+  .privacy-policy h3 {
+     font-size: 20px
+  }
+  .custom-cms-main .game-what-we-offer-box {
+     min-height: 385px
+  }
+  .thank-you-v3 {
+     padding-top: 80px
+  }
+  .thank-you-v3 .container {
+     display: block !important
+  }
+  .thank-you-v3 .founder-image {
+     max-width: 350px;
+     width: 100%;
+     order: 1;
+     margin: 0 auto 30px
+  }
+  .thank-you-v3 .content {
+     width: 100%
+  }
+  .thank-you-v3 .content h2 {
+     font-size: 35px
+  }
+  .thank-you-v3 .bglightorange {
+     margin-top: 30px
+  }
+  .chatbot-adv-box {
+     min-height: 300px
+  }
+  .chatbot-platform-box {
+     min-height: 265px;
+     padding: 25px 25px
+  }
+  .write-us-banner {
+     padding: 80px 0
+  }
+  .write-us-banner h1 {
+     font-size: 24px;
+     margin: 0 0 20px
+  }
+  .write-us-banner p {
+     font-size: 16px
+  }
+  .write-for-us-main h2 {
+     font-size: 22px
+  }
+  .write-for-us-main .row {
+     margin-bottom: 30px
+  }
+  .write-for-us-main .row:nth-child(odd) .col-lg-7 {
+     order: 1
+  }
+  .write-for-us-main .row:nth-child(odd) .col-lg-5 {
+     order: 2
+  }
+  .write-for-us-cta .container {
+     padding: 50px 15px;
+     max-width: 680px
+  }
+  .write-for-us-cta h3 {
+     font-size: 26px
+  }
+  .business-solution-slide ul li {
+     width: 100%;
+     margin-bottom: 30px
+  }
+  .business-solution-slide ul li:last-child {
+     margin-bottom: 0
+  }
+  .business-solution-slide ul li.active {
+     width: 100%
+  }
+  .business-solution-slide ul li .content {
+     height: auto;
+     padding: 30px 20px 10px
+  }
+  .business-solution-slide ul li.active .content {
+     padding: 30px 20px
+  }
+  .cta.fullwidth .btn-col {
+     -ms-flex-pack: end !important;
+     justify-content: flex-end !important;
+     padding: 40px 35px
+  }
+  .cta.fullwidth .cd-headline span {
+     font-size: 20px
+  }
+  .cta.fullwidth:before {
+     width: calc(50% - 100px)
+  }
+  .cta.fullwidth .btn-col:before {
+     left: 60px
+  }
+}
+
+@media (max-width:800px) {
+  .bannerfixedimagewidth {
+     width: 50%
+  }
+}
+
+@media (max-height:800px) {
+  .thank-you-banner {
+     min-height: 330px
+  }
+  .thank-you-founder-img {
+     max-width: 190px
+  }
+  .thank-you-founder-img img {
+     width: 190px;
+     height: 190px
+  }
+  .thank-you-founder-text h2 {
+     font-size: 24px
+  }
+  .thank-you-founder-text h3 {
+     font-size: 30px
+  }
+  .thank-you-process-section {
+     padding: 70px 0 20px
+  }
+  .thank-you-process-section h2 {
+     font-size: 26px;
+     margin-bottom: 30px
+  }
+  .thank-you-process-box {
+     padding-bottom: 10px
+  }
+  .thank-you-process-image {
+     max-width: 360px
+  }
+  .thank-you-process-content {
+     max-width: 340px
+  }
+  .thank-you-process-content p {
+     font-size: 14px
+  }
+  .thank-you-process-step-section {
+     padding: 40px 0 20px
+  }
+  .thank-you-process-step-section h2 {
+     font-size: 24px;
+     padding-bottom: 0
+  }
+  .thank-you-process-step-icon {
+     width: 120px;
+     height: 101px;
+     background-size: cover
+  }
+  .thank-you-process-step-icon span svg {
+     width: 40px;
+     height: 40px
+  }
+  .thank-you-process-step-box .num {
+     font-size: 28px
+  }
+  .thank-you-process-step-box .step-name {
+     font-size: 16px;
+     min-height: 50px
+  }
+  .thank-you-process-step-box:nth-child(even) {
+     padding-top: 21px
+  }
+}
+
+@media (max-height:768px) {
+  .error-img {
+     width: 40%
+  }
+  .error-message {
+     width: 60%;
+     padding: 40px 0
+  }
+  .error-service-list-wrap {
+     margin-top: 50px
+  }
+  .thank-you-banner {
+     min-height: 300px
+  }
+  .thank-you-founder-img {
+     max-width: 170px
+  }
+  .thank-you-founder-img img {
+     width: 170px;
+     height: 170px
+  }
+  .thank-you-founder-text h2 {
+     font-size: 22px
+  }
+  .thank-you-founder-text h3 {
+     font-size: 26px
+  }
+  .thank-you-process-section {
+     padding: 70px 0 20px
+  }
+  .thank-you-process-section h2 {
+     font-size: 22px
+  }
+  .thank-you-process-image {
+     max-width: 320px
+  }
+  .thank-you-process-content {
+     max-width: 300px;
+     padding: 10px 10px
+  }
+  .thank-you-process-box {
+     padding-bottom: 0
+  }
+}
+
+@media (max-width:767px) {
+  #servicesTab {
+     padding: 5px 0 10px
+  }
+  #servicesTab li {
+     padding: 0;
+     width: auto;
+     margin: 10px 0 0;
+     border: none
+  }
+  #servicesTab li a {
+     font-size: 10px;
+     word-break: break-all;
+     width: 55px;
+     position: relative;
+     z-index: 1
+  }
+  #servicesTab li svg {
+     width: 25px;
+     margin: 0
+  }
+  #servicesTab li a span>span {
+     display: none
+  }
+  #servicesTab li a span.w-100 {
+     margin-top: 10px
+  }
+  #servicesTab li a.active:before,
+  #servicesTab li a:hover:before {
+     background: #202122
+  }
+  .servicesTabContent_text h3 {
+     font-size: 24px
+  }
+  .servicesTabContent_text span {
+     font-size: 16px
+  }
+  .servicesTabContent_text ul {
+     flex-wrap: wrap;
+     justify-content: center
+  }
+  .servicesTabContent_text ul li {
+     padding: 10px 10px
+  }
+  .servicesTabContent_text ul li a.btn-custome {
+     margin: 0
+  }
+  .detail-feature-tab #servicesTab {
+     margin-bottom: 30px
+  }
+  .detail-feature-tab #servicesTab li {
+     min-width: inherit
+  }
+  .detail-feature-tab #servicesTab li a {
+     width: auto;
+     font-size: 14px;
+     padding: 10px 20px
+  }
+  .detail-feature-tab #servicesTab li a span>span {
+     display: block
+  }
+  .detail-feature-tab #servicesTab li svg {
+     width: 40px;
+     display: none
+  }
+  .detail-feature-tab #servicesTab li a span.w-100 {
+     margin: 0
+  }
+  .detail-feature-tab-content h3 {
+     font-size: 20px
+  }
+  .detail-feature-tab-content .servicesTabContent_text ul li {
+     padding: 0 0 0 25px
+  }
+}

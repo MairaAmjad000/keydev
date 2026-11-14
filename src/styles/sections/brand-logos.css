@@ -1,0 +1,80 @@
+.brand-logo {
+   position: relative;
+   margin-top: -60px;
+   z-index: 9
+}
+
+.brands_logo {
+   width: 100%;
+   background: #fff;
+   border-radius: 5px;
+   overflow: hidden;
+   padding: 10px 0;
+   -webkit-box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .15);
+   -moz-box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .15);
+   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .15);
+   opacity: 0;
+   visibility: hidden;
+   transition: opacity .5s ease;
+   -webkit-transition: opacity .5s ease
+}
+
+.brands_logo {
+   visibility: visible;
+   opacity: 1
+}
+
+.brands_logo .owl-item {
+   float: left;
+   padding: 10px 20px
+}
+
+.brands_logo .slick-slide {
+   padding: 10px 20px
+}
+
+.brands_logo img {
+   display: block;
+   margin: 0 auto
+}
+
+.brands_logo .owl-nav {
+   display: none
+}
+
+.brands_logo div {
+   -ms-flex: 0 0 20%;
+   flex: 0 0 20%;
+   max-width: 20%
+}
+
+@media (max-width:767px) {
+  .brands_logo div {
+     -ms-flex: 0 0 33.3333%;
+     flex: 0 0 33.3333%;
+     max-width: 33.3333%
+  }
+  .banner-main__wrapper {
+     display: block;
+     padding-top: 30px
+  }
+  .breadcrumb li {
+     font-size: 10px;
+     margin-bottom: 5px
+  }
+  .about-icon-slider a {
+     width: 40px;
+     height: 40px;
+     padding: 8px
+  }
+  .mobile_app_service_box {
+     min-height: auto
+  }
+}
+
+.brand-logo img {
+    height: auto; /* Set a fixed height */
+    max-height: 80px;
+    width: 120px;   /* Width adjusts automatically */
+    object-fit: contain; /* Keeps the aspect ratio and fits within the specified height */
+}

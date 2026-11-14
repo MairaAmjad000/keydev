@@ -1,0 +1,28 @@
+{
+  "heading": "Bespoke Web Development Agency",
+  "paragraphs": [
+    {
+      "html": "Speed, innovation, and flawless performance. If these three things rank high on your priorities for web development projects, then KeyDevs Technologies is a perfect fit. For close to a decade we have been mastering the art of creating cutting-edge web portals for a diverse range of industries."
+    },
+    {
+      "html": "From the arithmetically growing eCommerce business with custom web applications to individual portfolio websites that showcase your talent to the world, our custom web design and development services will help you utilize your full potential."
+    },
+    {
+      "html": "Our web development team works closely with businesses- be it startups, SMBs or enterprises, to build tailored tech solutions that fulfill your vision. Automating and streamlining your business operations, kickstarting your digital presence, building brand awareness and client interaction, whatever your business goals, our dedicated web developers and web designers can help."
+    },
+    {
+      "html": "Start your web development project with an experienced team of web developers for innovative, interactive, and user-friendly web solutions."
+    }
+  ],
+  "link": {
+    "href": "contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/category/web-development/intro-web-development.webp",
+    "alt": "Web Development",
+    "width": "470",
+    "height": "500"
+  }
+}

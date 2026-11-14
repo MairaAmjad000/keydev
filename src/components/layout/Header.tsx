@@ -1,7 +1,7 @@
 import { Fragment } from 'react';
-import type { HeaderContent } from '@/types/content';
+import type { HeaderContent } from '@/types';
 import { Icon } from '@/components/icons';
-import { link } from '@/lib/markup';
+import { link } from '@/lib/utils/markup';
 
 export function Header({ data }: { data: HeaderContent }) {
   return (

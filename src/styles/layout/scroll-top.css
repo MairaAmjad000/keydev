@@ -1,0 +1,119 @@
+.scroll-top {
+   bottom: 35px;
+   color: #fff !important;
+   display: none;
+   font-size: 26px;
+   padding: 12px 9px;
+   position: fixed;
+   left: 20px;
+   height: 52px;
+   text-align: center;
+   width: 52px;
+   background: #008080;
+   border-radius: 6px;
+   overflow: hidden;
+   -webkit-box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .4);
+   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .4);
+   z-index: 990;
+   -webkit-transition: all .3s ease;
+   -o-transition: all .3s ease;
+   transition: all .3s ease;
+   -webkit-transition: all .3s ease-in-out;
+   -moz-transition: all .3s ease-in-out;
+   -ms-transition: all .3s ease-in-out;
+   -o-transition: all .3s ease-in-out;
+   cursor: pointer
+}
+
+.scroll-top:after {
+   content: '';
+   width: 2px;
+   height: 25px;
+   background: #fff;
+   position: absolute;
+   left: 50%;
+   bottom: -50px;
+   -webkit-transition: all .3s ease-in-out;
+   -o-transition: all .3s ease-in-out;
+   transition: all .3s ease-in-out;
+   margin-left: -2px
+}
+
+.scroll-top:hover:after {
+   bottom: 8px
+}
+
+.scroll-top:hover:before {
+   top: -8px;
+   position: relative;
+   color: #fff;
+   font-size: 30px
+}
+
+.scroll-top:before {
+   -webkit-transition: all .3s ease-in-out;
+   -o-transition: all .3s ease-in-out;
+   transition: all .3s ease-in-out;
+   position: relative;
+   top: 0;
+   left: -1px
+}
+
+.scroll-top:hover {
+   -webkit-box-shadow: 0 25px 55px 0 rgba(0, 0, 0, .21), 0 16px 28px 0 rgba(0, 0, 0, .22);
+   box-shadow: 0 25px 55px 0 rgba(0, 0, 0, .21), 0 16px 28px 0 rgba(0, 0, 0, .22)
+}
+
+@media (max-width:767px) {
+  .scroll-top {
+     width: 40px;
+     height: 40px;
+     font-size: 24px
+  }
+  .scroll-top:hover:before {
+     font-size: 24px
+  }
+  .scroll-top:after {
+     height: 20px
+  }
+  .about-video-img:before {
+     display: none
+  }
+  .about-video-img {
+     margin: 0 0 20px
+  }
+  #intelGrecaptchaFooter {
+     display: flex;
+     align-items: center;
+     justify-content: center
+  }
+  .app_service_box span {
+     font-size: 14px
+  }
+  .app-why-box {
+     min-height: auto
+  }
+  .app-service-tab-box {
+     width: 150px;
+     height: 150px;
+     padding: 10px 10px
+  }
+  .app-service-tab-text h3 {
+     font-size: 20px
+  }
+  .app-service-tab-box span {
+     font-size: 12px
+  }
+  .banner-main__wrapper h1 {
+     font-size: 24px;
+     margin-bottom: 20px
+  }
+  .banner-main__wrapper p {
+     font-size: 14px;
+     margin-bottom: 20px
+  }
+  .banner-btn .btn {
+     padding: 10px 10px;
+     font-size: 14px
+  }
+}

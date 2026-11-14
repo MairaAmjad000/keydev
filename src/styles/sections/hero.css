@@ -1,0 +1,749 @@
+.banner {
+   margin-top: 50px;
+   position: relative;
+   z-index: 9;
+   min-height: 800px;
+   overflow: hidden
+}
+
+.tenc-intro-main__wrapper {
+   width: 100%;
+   height: 100%;
+   position: absolute;
+   top: 0;
+   left: 0;
+   display: flex;
+   align-items: center;
+   background: linear-gradient(90deg, #008080f7, #008080 40%, #0080808a 70%, #00808036);
+   z-index: 999
+}
+
+.tenc-intro-main__wrapper h1 {
+   font-size: 60px;
+   color: #fff;
+   margin: 0 0 30px
+}
+
+.font-semibold {
+   font-weight: 600
+}
+
+.tenc-intro-main__wrapper h2 {
+   font-size: 36px;
+   color: #fff;
+   margin: 0 0 30px;
+   font-weight: 500
+}
+
+.tenc-intro-main__wrapper p {
+   color: #fff;
+   font-size: 24px;
+   line-height: 1.5;
+   margin-bottom: 50px
+}
+
+.tenc-intro-main__wrapper a {
+   background: #343535 !important;
+   margin-right: 10px;
+   font-size: 18px;
+   text-transform: uppercase
+}
+
+.tenc-intro-main__wrapper .or {
+   color: #ffff;
+   font-size: 20px;
+   margin: 0 10px 12px 0;
+   vertical-align: middle;
+   display: inline-block
+}
+
+.video {
+   max-height: 800px;
+   min-height: 800px
+}
+
+.video video {
+   position: absolute;
+   top: 0;
+   left: 0;
+   min-width: 100%;
+   min-height: 100%;
+   width: auto !important;
+   height: auto !important;
+   z-index: 0
+}
+
+.video .mejs__overlay-button {
+   display: none
+}
+
+.video img {
+   width: 100%;
+   height: 100%;
+   min-height: 800px;
+   object-fit: cover
+}
+
+#carouselExampleSlidesOnly {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   z-index: 999;
+   display: flex
+}
+
+#carouselExampleSlidesOnly .carousel-inner {
+   height: 100%
+}
+
+#carouselExampleSlidesOnly .carousel-caption {
+   top: 0;
+   left: 0;
+   right: 0;
+   height: 100%;
+   display: flex;
+   align-content: center;
+   justify-content: center;
+   flex-wrap: wrap;
+   width: 100%
+}
+
+#carouselExampleSlidesOnly .carousel-caption h1 {
+   font-size: 48px;
+   margin-bottom: 30px;
+   width: 100%
+}
+
+#carouselExampleSlidesOnly .carousel-caption p {
+   color: #fff;
+   font-size: 18px;
+   line-height: 1.5;
+   margin-bottom: 30px;
+   width: 100%
+}
+
+#carouselExampleSlidesOnly .carousel-inner .carousel-item {
+   width: 100%;
+   height: 100%;
+   align-items: center;
+   justify-content: center;
+   top: 0;
+   left: 0
+}
+
+#carouselExampleSlidesOnly .carousel-inner .carousel-item.active {
+   display: flex
+}
+
+.scrollmobilebanner .bannerfixedimagewidth {
+   bottom: -200px;
+   position: relative
+}
+
+.bannerfixedscrollimagewrap {
+   display: inline-block;
+   vertical-align: top;
+   position: relative;
+   overflow: hidden
+}
+
+.bannerfixedscrollimagewrap>img {
+   position: relative;
+   z-index: 1
+}
+
+.scrollbannerinnerimg {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   z-index: 0;
+   padding: 5% 6% 5%;
+   overflow: hidden;
+   border-radius: 70px
+}
+
+.scrollmobilebanner.active .scrollbannerinnerimg img {
+   -webkit-animation-duration: 6s;
+   animation-duration: 6s;
+   -webkit-animation-name: bannermobilescroll;
+   animation-name: bannermobilescroll;
+   -webkit-animation-timing-function: cubic-bezier(1, .010, .305, .9);
+   animation-timing-function: cubic-bezier(1, .010, .305, .9);
+   -webkit-animation-direction: alternate;
+   animation-direction: alternate;
+   animation-delay: 1s;
+   -webkit-animation-delay: 1s
+}
+
+@keyframes bannermobilescroll {
+   10% {
+      -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+      transform: translateY(0)
+   }
+   50% {
+      -webkit-transform: translateY(-29%);
+      -ms-transform: translateY(-32%);
+      transform: translateY(-32%)
+   }
+   90% {
+      -webkit-transform: translateY(calc(-100% + 30vw));
+      -ms-transform: translateY(calc(-100% + 30vw));
+      transform: translateY(calc(-100% + 30vw))
+   }
+   100% {
+      -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+      transform: translateY(0)
+   }
+}
+
+@-webkit-keyframes bannermobilescroll {
+   10% {
+      -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+      transform: translateY(0)
+   }
+   50% {
+      -webkit-transform: translateY(-29%);
+      -ms-transform: translateY(-32%);
+      transform: translateY(-32%)
+   }
+   90% {
+      -webkit-transform: translateY(calc(-100% + 30vw));
+      -ms-transform: translateY(calc(-100% + 30vw));
+      transform: translateY(calc(-100% + 30vw))
+   }
+   100% {
+      -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+      transform: translateY(0)
+   }
+}
+
+.innerbanner.portfoliobanner .video {
+   min-height: 600px;
+   max-height: 600px
+}
+
+.innerbanner.portfoliobanner .video img {
+   min-height: 600px
+}
+
+.aboutusbanner .tenc-intro-main__wrapper h1 span {
+   display: block;
+   padding-bottom: 10px;
+   color: #008080;
+   text-transform: uppercase
+}
+
+@media screen and (-ms-high-contrast:active),
+      (-ms-high-contrast:none) {
+  .types-of-ar-platform-box {
+     height: 190px
+  }
+}
+
+@media (max-width:1600px) {
+  .home .tenc-intro-main__wrapper h1 {
+     font-size: 48px;
+     margin-bottom: 20px
+  }
+  .banner-main__wrapper h1,
+  .tenc-intro-main__wrapper h1 {
+     font-size: 40px;
+     margin-bottom: 20px
+  }
+  .innerbanner h1,
+  .innerbanner h1.f-40 {
+     font-size: 36px
+  }
+  .tenc-intro-main__wrapper h2 {
+     font-size: 32px
+  }
+  .banner-main__wrapper p,
+  .innerbanner p {
+     font-size: 17px
+  }
+  .tenc-intro-main__wrapper .banner_deveploment_main a {
+     font-size: 17px
+  }
+  .banner {
+     min-height: 650px
+  }
+  .video {
+     max-height: 650px;
+     min-height: 650px
+  }
+  .banner.height668 {
+     min-height: 625px
+  }
+  .banner.height668 .video {
+     min-height: 625px;
+     max-height: 625px
+  }
+}
+
+@media (max-width:1500px) {
+  .container-2 {
+     max-width: 1170px
+  }
+  .service-web-inner:before {
+     top: 60px;
+     height: calc(100% - 90px);
+     width: 35%
+  }
+  .portfolio-preview-thumb img.portrait {
+     height: 500px;
+     margin: 0 auto;
+     display: block
+  }
+  .portfolio-preview-main-logo-text .appname {
+     font-size: 34px
+  }
+  .portfolio-preview-main-logo-text .moreaboutapp {
+     font-size: 22px
+  }
+  .banner.height668 {
+     min-height: 560px
+  }
+  .banner.height668 .video {
+     min-height: 560px;
+     max-height: 560px
+  }
+  .our-history-detail-image {
+     margin-left: 45px
+  }
+  .similar-app-white-main .similar-app-content-wrap {
+     padding: 20px 40px
+  }
+  .similar-app-white-main:before {
+     height: 75%;
+     top: 13%
+  }
+  .write-us-banner h1 {
+     font-size: 36px
+  }
+  .write-for-us-cta .container {
+     padding: 60px 15px
+  }
+  .write-for-us-cta h3 {
+     font-size: 32px
+  }
+}
+
+@media (max-width:1440px) {
+  .home .tenc-intro-main__wrapper h1 {
+     font-size: 40px
+  }
+  .banner-main__wrapper h1,
+  .tenc-intro-main__wrapper h1 {
+     font-size: 32px;
+     margin-bottom: 20px
+  }
+  .tenc-intro-main__wrapper p {
+     font-size: 20px
+  }
+  .innerbanner h1,
+  .innerbanner h1.f-40 {
+     font-size: 32px
+  }
+  .tenc-intro-main__wrapper h2 {
+     font-size: 28px
+  }
+  .banner-main__wrapper p,
+  .innerbanner p {
+     font-size: 15px
+  }
+  .tenc-intro-main__wrapper .banner_deveploment_main a {
+     font-size: 15px;
+     margin-right: 0
+  }
+  .banner_deveploment_main .author_text h1 {
+     font-size: 38px
+  }
+  .banner {
+     min-height: 540px
+  }
+  .video {
+     max-height: 540px;
+     min-height: 540px
+  }
+  .tenc-intro-main__wrapper p {
+     margin-bottom: 20px
+  }
+  .innerbannerform textarea.form-control {
+     height: 75px
+  }
+  .innerbannerform {
+     padding: 20px 20px
+  }
+}
+
+@media (max-width:1024px) {
+  .tenc-intro-main__wrapper>.container {
+     margin-top: -70px
+  }
+}
+
+@media (max-width:991px) {
+  .banner-2 .video img {
+     min-height: 1000px
+  }
+  .banner-2 .banner-main__wrapper {
+     align-items: flex-start;
+     position: relative;
+     padding: 50px 0 110px
+  }
+  .video {
+     min-height: inherit;
+     max-height: inherit;
+     position: absolute;
+     height: 100%;
+     left: 0;
+     top: 0
+  }
+  .tenc-intro-main__wrapper>.container {
+     margin-top: 0
+  }
+  .innerbanner .video {
+     min-height: inherit;
+     max-height: inherit;
+     position: absolute;
+     height: 100%;
+     left: 0;
+     top: 0
+  }
+  .innerbanner .tenc-intro-main__wrapper {
+     position: relative;
+     padding: 50px 0 110px
+  }
+  .innerbanner h1,
+  .innerbanner h1.f-40 {
+     font-size: 26px
+  }
+  .home .tenc-intro-main__wrapper h1 {
+     font-size: 36px
+  }
+  .banner-main__wrapper h1,
+  .tenc-intro-main__wrapper h1 {
+     font-size: 26px;
+     margin-bottom: 20px
+  }
+  .tenc-intro-main__wrapper p {
+     font-size: 16px
+  }
+  .tenc-intro-main__wrapper a {
+     font-size: 16px;
+     padding: 12px 20px
+  }
+  .tenc-intro-main__wrapper .or {
+     font-size: 18px
+  }
+  .tenc-intro-main__wrapper h2 {
+     font-size: 24px;
+     margin: 0 0 20px
+  }
+  .innerbanner .tenc-intro-main__wrapper p {
+     font-size: 15px
+  }
+  .innerbanner .breadcrumb {
+     bottom: 70px
+  }
+  .breadcrumb.no-company-logo {
+     bottom: 20px
+  }
+  .banner_deveploment_main .author_img_box {
+     margin-right: 5%
+  }
+  .banner_deveploment_main .author_text h1 {
+     font-size: 30px
+  }
+  .banner_deveploment_main .author_text small {
+     font-size: 18px
+  }
+  .blogauthore .breadcrumb {
+     bottom: 30px
+  }
+  .banner_deveploment_main .center-item {
+     padding-top: 30px
+  }
+  .innerbanner .tenc-intro-main__wrapper {
+     display: block
+  }
+  .bannerfixedimage {
+     position: relative
+  }
+  .bannerfixedimagewidth,
+  .bannerfixedimagewidth.landscape {
+     float: none;
+     margin: 30px auto -60px
+  }
+  .what-we-offer-main-listing .row:first-child {
+     padding-top: 0
+  }
+  .what-we-offer-main-listing .row:last-child {
+     padding-bottom: 30px
+  }
+  .what-we-offer-main-listing-title h2,
+  .what-we-offer-main-listing-title h3 {
+     font-size: 24px
+  }
+  .what-we-offer-main-listing-img {
+     margin-right: 0
+  }
+  .what-we-offer-main-slider-section.scroll-to-fixed-fixed+div {
+     height: 0 !important
+  }
+  .web-app-sev-lang-collapse .left-col {
+     display: none
+  }
+  .web-app-sev-lang-collapse .right-col {
+     max-width: 100%;
+     flex: 0 0 100%;
+     -ms-flex: 0 0 100%
+  }
+  .web-app-sev-lang-collapse .content_wrapper {
+     max-width: 100%
+  }
+  .web-app-sev-lang-collapse .tab_wrapper>ul {
+     display: none
+  }
+  .web-app-sev-lang-collapse .accordian_header {
+     font-size: 20px;
+     font-weight: 500;
+     padding: 15px 45px 15px 25px;
+     display: none;
+     -webkit-box-shadow: 0 1px 5px 0 rgba(72, 73, 121, .15);
+     -moz-box-shadow: 0 1px 5px 0 rgba(72, 73, 121, .15);
+     box-shadow: 0 1px 5px 0 rgba(72, 73, 121, .15);
+     border-radius: 5px
+  }
+  .web-app-sev-lang-collapse .accordian_header+.accordian_header {
+     display: block
+  }
+  .web-app-sev-lang-collapse .accordian_header.active {
+     color: #fff;
+     background-color: #008080
+  }
+  .web-app-sev-lang-collapse .tab_content h3 {
+     font-size: 26px
+  }
+  .web-app-sev-lang-collapse .accordian_header+.accordian_header {
+     cursor: pointer;
+     position: relative
+  }
+  .web-why-choose-us-main {
+     padding: 95px 0 20px
+  }
+  .web-why-choose-main-box {
+     padding: 25px 20px;
+     min-height: 340px
+  }
+  .service-web-inner:before {
+     display: none
+  }
+  .banner.height668 {
+     min-height: inherit
+  }
+  .banner.height668 .video {
+     min-height: inherit;
+     max-height: inherit
+  }
+  .innerbanner.height668 .tenc-intro-main__wrapper {
+     padding: 50px 0 50px
+  }
+  .portfolio-preview-content-box {
+     margin-bottom: 30px;
+     text-align: center
+  }
+  .portfolio-preview-thumb {
+     text-align: center
+  }
+  .portfolio-preview-content-box .button-wrap {
+     justify-content: center
+  }
+  .portfolio-preview-box {
+     padding: 50px 0
+  }
+  .portfolio-preview-main-logo {
+     justify-content: center
+  }
+  .option1.portfolio-listing-section {
+     position: relative;
+     top: 0
+  }
+  .option1.portfolio-listing-section>.container {
+     padding: 0
+  }
+  .option1.portfolio-listing-section .d-flex {
+     border-radius: 0
+  }
+  .portfolio-preview-main-logo-text .appname {
+     font-size: 28px
+  }
+  .portfolio-preview-main-logo-text .moreaboutapp {
+     font-size: 20px
+  }
+  .about-us-review-section {
+     padding: 0 0 20px
+  }
+  .innerbanner.blog .video {
+     min-height: inherit;
+     max-height: inherit
+  }
+  .innerbanner.blog .video img {
+     min-height: inherit
+  }
+  .blog-list-desc h2 {
+     font-size: 22px
+  }
+  .blog-banner-profile {
+     margin: 40px auto 20px
+  }
+  .blog-detail-banner-box .author-name a,
+  .blog-detail-banner-box .blog-category a,
+  .blog-detail-banner-box .blog-date {
+     font-size: 16px;
+     padding: 0
+  }
+  .blog-detail-image {
+     margin-bottom: 40px
+  }
+  .blog-detail-content h2 {
+     font-size: 18px
+  }
+  .subscribe-section {
+     padding: 30px 30px 20px
+  }
+  .about-blog-author-section {
+     margin: 50px 0
+  }
+  .subscribe-text span {
+     font-size: 24px
+  }
+  .subscribe-content-box {
+     margin-bottom: 30px
+  }
+  .rel-post-box {
+     min-height: 480px
+  }
+  .our-expert-build-box {
+     padding: 20px 20px
+  }
+  .our-expert-build-content {
+     width: 100%
+  }
+}
+
+@media (max-width:767px) {
+  .banner {
+     min-height: 550px
+  }
+  .banner-2 {
+     min-height: inherit
+  }
+  .banner_contactForm {
+     padding: 20px 15px
+  }
+  .video {
+     max-height: 550px;
+     min-height: 550px
+  }
+  .video video {
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%)
+  }
+  .video img {
+     min-height: 550px
+  }
+  #carouselExampleSlidesOnly .carousel-caption h1 {
+     font-size: 24px;
+     margin-bottom: 15px
+  }
+  #carouselExampleSlidesOnly .carousel-caption p {
+     font-size: 14px;
+     margin-bottom: 15px
+  }
+  #carouselExampleSlidesOnly .carousel-caption p br {
+     display: none
+  }
+  .home .tenc-intro-main__wrapper h1 {
+     font-size: 28px
+  }
+  .innerbanner h1,
+  .innerbanner h1.f-40,
+  .tenc-intro-main__wrapper h1 {
+     font-size: 24px;
+     margin-bottom: 20px
+  }
+  .tenc-intro-main__wrapper h2 {
+     font-size: 20px
+  }
+  .tenc-intro-main__wrapper p {
+     font-size: 14px;
+     margin-bottom: 20px
+  }
+  .innerbanner .tenc-intro-main__wrapper p {
+     font-size: 14px
+  }
+  .innerbanner .tenc-intro-main__wrapper {
+     padding: 40px 0 110px;
+     background-color: transparent
+  }
+  .banner-2 .banner-main__wrapper {
+     padding: 50px 0 110px
+  }
+  .service-main-content h2 {
+     font-size: 22px
+  }
+  .service-main-content h2:before {
+     width: 40%
+  }
+  .what-we-offer-main-listing-title .number {
+     font-size: 60px;
+     line-height: 45px
+  }
+  .what-we-offer-main-listing-title .number span {
+     line-height: 25px
+  }
+  .what-we-offer-main-listing-title h2,
+  .what-we-offer-main-listing-title h3 {
+     font-size: 20px
+  }
+  .what-we-offer-main-listing-img:before {
+     left: 10px;
+     top: 10px
+  }
+  .what-we-offer-main-listing .row {
+     padding-top: 50px
+  }
+  .what-we-offer-main-listing .row:last-child {
+     padding-bottom: 10px
+  }
+  .web-app-sev-lang-collapse .accordian_header {
+     font-size: 16px;
+     padding: 15px 45px 15px 15px
+  }
+  .web-app-sev-lang-collapse .tab_content img {
+     width: 150px
+  }
+  .web-app-sev-lang-collapse .tab_content h3 {
+     font-size: 24px
+  }
+  .web-why-choose-us-main {
+     padding: 40px 0 10px
+  }
+  .web-why-choose-main-box {
+     min-height: 300px
+  }
+  .web-why-choose-main-box h5 {
+     font-size: 16px;
+     margin-bottom: 10px
+  }
+}

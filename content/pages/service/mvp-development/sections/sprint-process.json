@@ -1,0 +1,55 @@
+{
+  "text": "6 sprints for MVP development",
+  "heading": "Our Proven MVP Development Process is Smart, Lean, & Agile",
+  "text2": "Our process of MVP development spans from understanding the thought that became an idea and the various activities required to turn that idea into a market-worthy product.",
+  "items": [
+    {
+      "number": "01",
+      "icon": "svg-e05a7e",
+      "title": "Stakeholder Workshop",
+      "text": "When the thinkers and doers get together, innovation happens. Our first step in MVP development is sitting with the ideators to understand their ideas and instincts. We run several brainstorming sessions, SWOT analysis and competitor analysis to arrive at a consensus about the intended product.",
+      "dataWowDelay": ".3s",
+      "orderClass": "order-lg-0"
+    },
+    {
+      "number": "02",
+      "icon": "svg-b980a1",
+      "title": "Technical Analysis",
+      "text": "What platform should be considered for building the product? What are the technical possibilities and challenges that lie ahead? What accelerators can we use to quicken development. Is there an existing Proof of concept or pilot that can be improvised? Answers to these questions will be found with our technical analysis.",
+      "dataWowDelay": ".6s",
+      "orderClass": "order-lg-1"
+    },
+    {
+      "number": "03",
+      "icon": "svg-7c124d",
+      "title": "Prototyping",
+      "text": "Your product needs validation — validation from stakeholders, actual users and investors. It cannot be done with an intangible idea. A prototype with a mockup design, working features and well-defined use cases can help the cause. KeyDevs Technologies can help you build a prototype that can win your stakeholder’s interest.",
+      "dataWowDelay": ".9s",
+      "orderClass": "order-lg-2"
+    },
+    {
+      "number": "06",
+      "icon": "svg-9f6087",
+      "title": "MVP Release (Beta Launch)",
+      "text": "Once the MVP is built, its beta version has to be released to the world to seek feedback. We assist in releasing the MVP in selected destinations like marketplaces, product communities, startup forums and so on.",
+      "dataWowDelay": "1.8s",
+      "orderClass": "order-lg-3 order-md-5 order-5"
+    },
+    {
+      "number": "05",
+      "icon": "svg-fd3dc0",
+      "title": "Testing as per milestones",
+      "text": "An MVP is built in stages. At every stage it has to be tested for finding bugs and inconsistencies that should be weeded out. We resort to regression testing and pen testing to ensure that the MVP is built as per specifications.",
+      "dataWowDelay": "1.5s",
+      "orderClass": "order-lg-4 order-md-4 order-4"
+    },
+    {
+      "number": "04",
+      "icon": "svg-2f2dff",
+      "title": "Functional Specification",
+      "text": "Like a Bill of Materials that lists down all materials required for manufacturing, a functional specification sheet is a document that lists down the various prototype feedback, choice of technology, use cases, and everything else until the prototyping stage. The functional specification document will ensure that MVP development happens as per plan.",
+      "dataWowDelay": "1.2s",
+      "orderClass": "order-lg-5 order-md-3 order-3"
+    }
+  ]
+}

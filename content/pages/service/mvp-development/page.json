@@ -1,0 +1,27 @@
+{
+  "slug": "service/mvp-development",
+  "seo": {
+    "title": "Startup MVP Development Company | Build Your MVP Fast | KeyDevs",
+    "description": "Ideas are abundant. The challenging bit is in turning those ideas into a new source of business revenue that can be scaled without limits. KeyDevs Technolo"
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

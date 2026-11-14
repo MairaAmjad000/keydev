@@ -1,0 +1,30 @@
+/* Category page: category hero */
+.breadcrumb { background:0 0;position:absolute;bottom:85px;left:50%;width:100%;max-width:1170px;transform:translateX(-50%);margin:0;padding:0 15px;z-index:9999 }
+.breadcrumb .breadcrumb-item.active { color:#008080;font-weight:500 }
+.breadcrumb-item+.breadcrumb-item::before { color:#fff }
+.innerbanner .tenc-intro-main__wrapper { background:rgba(32,33,34,.9) }
+.innerbanner h1 { font-size:45px }
+.innerbanner h1.f-40 { font-size:38px }
+.innerbanner p { font-size:18px }
+.innerbanner .tenc-intro-main__wrapper a { font-size:14px;box-shadow:none!important;text-transform:none;font-weight:500;background:#008080!important;border:1px solid #008080 }
+.innerbanner .tenc-intro-main__wrapper a:focus, .innerbanner .tenc-intro-main__wrapper a:hover { background-color:transparent!important;color:#fff;border:1px solid #fff }
+.innerbanner .submitbar { padding:0 94px;justify-content:space-between }
+.innerbannerform { background-color:rgba(32,33,34,.8);padding:35px 25px;border:1px solid #008080;border-radius:5px }
+.innerbannerform .form-control { background-color:transparent;border:1px solid #636465!important;color:#fff;font-size:14px;font-weight:300 }
+.innerbannerform .form-control::-webkit-input-placeholder { color:#fff }
+.innerbannerform .form-control::-moz-placeholder { color:#fff }
+.innerbannerform .form-control:-ms-input-placeholder { color:#fff }
+.innerbannerform .form-control:-moz-placeholder { color:#fff }
+.innerbanner .submitbar span { font-size:12px }
+.innerbanner .submitbar .btn-custome { padding:15px 18px }
+.innerbannerform .has-error .form-control { border:1px solid red!important }
+.innerbannerform .form-group label { display:block;font-size:0;margin:0 }
+.banner.height450 .breadcrumb { bottom:60px }
+.innerbanner.blog-detail .tenc-intro-main__wrapper .container { max-width:930px }
+.innerbanner.blog-detail .breadcrumb { max-width:930px }
+.innerbanner.blog { min-height:600px }
+.innerbanner.blog .video { min-height:600px;max-height:600px }
+.innerbanner.blog .video img { min-height:600px }
+.innerbanner.blog p:last-child { margin-bottom:0 }
+.blogauthore .breadcrumb { bottom:30px }
+.breadcrumb.no-company-logo { bottom:20px }

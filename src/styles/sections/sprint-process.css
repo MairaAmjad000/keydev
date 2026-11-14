@@ -1,0 +1,14 @@
+/* Service page: sprint process */
+.mvp-process-dev-section .title { margin-bottom:0 }
+.mvp-process-dev-box-wrap { position:relative }
+.mvp-process-dev-box-wrap:before { content:"";display:block;position:absolute;top:50%;margin-top:-1px;height:2px;width:100%;background-color:#e8e8e8 }
+.mvp-process-dev-box { padding:30px 15px 10px;-webkit-box-shadow:0 2px 9px 0 rgba(0,0,0,.15);-moz-box-shadow:0 2px 9px 0 rgba(0,0,0,.15);box-shadow:0 2px 9px 0 rgba(0,0,0,.15);margin:57px 0;position:relative;border:1px solid #e0e2e4;min-height:380px }
+.mvp-process-dev-box:before { content:"";display:block;width:40px;height:27px;position:absolute;bottom:-27px;z-index:1;background:url("DATAURI") no-repeat center center;right:40px }
+.mvp-process-dev-box:after { content:"";display:block;width:30px;height:30px;position:absolute;bottom:-72px;z-index:1;background-color:#f5f5f5;border-radius:100%;right:45px }
+.mvp-process-dev-icon { margin-bottom:30px }
+.mvp-process-dev-icon svg { width:80px;height:80px }
+.mvp-process-dev-box h6 { color:#202122;font-size:18px;font-weight:500;margin-bottom:10px;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out }
+.mvp-process-dev-box p:last-child { margin-bottom:0 }
+.mvp-process-dev-box .num { position:absolute;right:20px;top:20px;color:#dfdfdf;font-size:30px;line-height:1 }
+.mvp-process-dev-box-wrap .row>div:nth-child(4) .mvp-process-dev-box:before, .mvp-process-dev-box-wrap .row>div:nth-child(5) .mvp-process-dev-box:before, .mvp-process-dev-box-wrap .row>div:nth-child(6) .mvp-process-dev-box:before { right:inherit;left:40px;top:-27px;bottom:inherit;transform:rotate(180deg) }
+.mvp-process-dev-box-wrap .row>div:nth-child(4) .mvp-process-dev-box:after, .mvp-process-dev-box-wrap .row>div:nth-child(5) .mvp-process-dev-box:after, .mvp-process-dev-box-wrap .row>div:nth-child(6) .mvp-process-dev-box:after { right:inherit;left:45px;top:-72px;bottom:inherit }

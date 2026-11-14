@@ -1,0 +1,4 @@
+/* Category page: intro content */
+.service-main-content h2 { position:relative;padding-bottom:15px;margin-bottom:25px!important;font-size:26px;font-weight:600;display:inline-block }
+.service-main-content h2:before { content:"";display:block;height:5px;background-color:#008080;width:30%;position:absolute;bottom:0;border-radius:10px }
+.service-main-content small { font-size:15px;display:block;margin-bottom:10px;font-weight:500 }

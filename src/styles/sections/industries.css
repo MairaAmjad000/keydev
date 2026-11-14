@@ -1,0 +1,305 @@
+.solutions-box {
+   width: 100%;
+   border-radius: 10px;
+   padding: 15px 15px;
+   margin-bottom: 30px;
+   transition: all .3s ease;
+   position: relative;
+   border: 1px solid #eff0f0;
+   min-height: 320px
+}
+
+.solutions-box-icon {
+   width: 75px;
+   height: 75px;
+   background: #fff;
+   border-radius: 7px;
+   padding: 15px;
+   transition: all .3s ease;
+   background-color: #f7f7f7;
+   border-radius: 100%
+}
+
+.solutions-box h4 {
+   font-size: 18px;
+   margin: 20px 0 10px;
+   font-weight: 500
+}
+
+.solutions-box-icon svg {
+   width: 45px;
+   height: 45px
+}
+
+.solutions-box-icon svg circle,
+.solutions-box-icon svg ellipse,
+.solutions-box-icon svg line,
+.solutions-box-icon svg path,
+.solutions-box-icon svg polygon,
+.solutions-box-icon svg rect {
+   transition: all .3s ease;
+   fill: #008080
+}
+
+.solutions-box:hover {
+   box-shadow: 0 3px 10px rgba(0, 0, 0, .15);
+   border-radius: 10px 10px 0 0
+}
+
+.solutions-box:hover .solutions-box-icon {
+   background: #008080
+}
+
+.solutions-box:hover .solutions-box-icon svg circle,
+.solutions-box:hover .solutions-box-icon svg ellipse,
+.solutions-box:hover .solutions-box-icon svg line,
+.solutions-box:hover .solutions-box-icon svg path,
+.solutions-box:hover .solutions-box-icon svg polygon,
+.solutions-box:hover .solutions-box-icon svg rect {
+   fill: #fff
+}
+
+.solutions-box .btn-custome {
+   opacity: 0;
+   visibility: hidden
+}
+
+.solutions-box:hover .btn-custome {
+   opacity: 1;
+   visibility: visible
+}
+
+@media (max-width:1199px) {
+  .solutions-box {
+     min-height: 350px
+  }
+  .m-height-450 .mhbox {
+     min-height: 490px
+  }
+  .m-height-380 .mhbox {
+     min-height: 420px
+  }
+  .m-height-340 .mhbox {
+     min-height: 400px
+  }
+  .m-height-320 .mhbox {
+     min-height: 360px
+  }
+  .m-height-300 .mhbox {
+     min-height: 330px
+  }
+  .m-height-280 .mhbox {
+     min-height: 320px
+  }
+  .m-height-260 .mhbox {
+     min-height: 300px
+  }
+  .m-height-240 .mhbox {
+     min-height: 270px
+  }
+  .m-height-220 .mhbox {
+     min-height: 240px
+  }
+  .m-height-170 .mhbox {
+     min-height: 190px
+  }
+  .m-height-130 .mhbox {
+     min-height: 145px
+  }
+  .service-main-content h2 {
+     font-size: 24px
+  }
+  .what-we-offer-main-listing .row {
+     padding-top: 60px
+  }
+  .what-we-offer-main-listing-title h2,
+  .what-we-offer-main-listing-title h3 {
+     font-size: 26px
+  }
+  .web-why-choose-main-box {
+     min-height: 360px
+  }
+  .web-why-go-content h3 {
+     font-size: 26px
+  }
+  .ar-services-detail-icon {
+     margin-bottom: 20px
+  }
+  .ar-services-detail-content h5 {
+     font-size: 20px;
+     margin-bottom: 15px
+  }
+  .ar-services-list-section {
+     padding-top: 50px
+  }
+  .ar-why-choose-content-box {
+     min-height: 330px
+  }
+  .meet-the-team-content h2 {
+     font-size: 28px
+  }
+  .about-leadership-title {
+     font-size: 24px
+  }
+  .about-leadership-image {
+     min-height: 450px
+  }
+  .our-award-section .item {
+     padding: 0 10px
+  }
+  .our-award-section .item img {
+     height: 155px
+  }
+  .mission-n-vision-box {
+     min-height: 425px
+  }
+  .our-core-value-box {
+     min-height: 350px
+  }
+  .our-process-content {
+     padding: 30px 25px
+  }
+  .our-process-content-box .number {
+     font-size: 50px
+  }
+  .our-work-process-slider-section .progressbar .holder .bar {
+     max-width: 900px
+  }
+  .our-work-process-slider-section .progressbar .holder .labels .label-item a {
+     font-size: 14px
+  }
+  .mvp-what-we-offer-box {
+     min-height: 510px
+  }
+  .mvp-process-dev-box {
+     min-height: 410px
+  }
+  .mvp-why-choose-dev-box-wrap {
+     padding: 30px 20px 30px 65px
+  }
+  .mvp-why-choose-dev-icon {
+     width: 100px;
+     height: 100px
+  }
+  .mvp-why-choose-dev-content {
+     width: calc(100% - 115px)
+  }
+  .mvp-why-choose-dev-icon svg {
+     width: 48px;
+     height: 48px
+  }
+  .game-service-offer-box {
+     min-height: 400px
+  }
+  .game-what-we-offer-box {
+     min-height: 300px
+  }
+  .best-game-dev-company-box {
+     min-height: 270px
+  }
+  .blog-list-desc h2 {
+     font-size: 24px
+  }
+  .blog-sidebar-box {
+     padding: 25px 20px
+  }
+  .blog-sidebar-box h3 {
+     font-size: 22px
+  }
+  .blog-detail-content h2 {
+     font-size: 20px
+  }
+  .blog-detail-content h3 {
+     font-size: 18px
+  }
+  .blog-detail-content p {
+     font-size: 16px
+  }
+}
+
+@media (max-width:991px) {
+  .solutions-box {
+     min-height: 285px
+  }
+  .m-height-450 .mhbox {
+     min-height: 450px
+  }
+  .m-height-340 .mhbox {
+     min-height: 470px
+  }
+  .m-height-320 .mhbox {
+     min-height: 340px
+  }
+  .m-height-240 .mhbox {
+     min-height: 330px
+  }
+  .m-height-220 .mhbox {
+     min-height: 260px
+  }
+  .m-height-170 .mhbox {
+     min-height: 240px
+  }
+  .m-height-130 .mhbox {
+     min-height: 185px
+  }
+  .innerbanner {
+     min-height: inherit
+  }
+}
+
+@media (max-width:767px) {
+  .solutions-box {
+     min-height: 340px
+  }
+  .banner_deveploment_main .center-item {
+     display: block
+  }
+}
+
+@media (max-width:575px) {
+  .solutions-box {
+     min-height: inherit
+  }
+  .solutions-box {
+     min-height: inherit
+  }
+  .m-height-380 .mhbox {
+     min-height: inherit
+  }
+  .m-height-340 .mhbox {
+     min-height: inherit
+  }
+  .m-height-320 .mhbox {
+     min-height: inherit
+  }
+  .m-height-300 .mhbox {
+     min-height: inherit
+  }
+  .m-height-280 .mhbox {
+     min-height: inherit
+  }
+  .m-height-260 .mhbox {
+     min-height: inherit
+  }
+  .m-height-240 .mhbox {
+     min-height: inherit
+  }
+  .m-height-220 .mhbox {
+     min-height: inherit
+  }
+  .innerbanner .submitbar .d-inline-flex:first-child {
+     padding-right: 10px
+  }
+  .innerbanner .submitbar .d-inline-flex {
+     margin: 10px 0 !important
+  }
+  .web-why-choose-main-box {
+     min-height: inherit
+  }
+  .service-we-offer-web-inner .web-why-choose-main-box {
+     padding: 20px 15px
+  }
+  .web-advtanges-box {
+     padding: 20px 15px
+  }
+}

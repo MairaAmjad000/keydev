@@ -1,0 +1,34 @@
+{
+  "text": "What Makes us the Best",
+  "heading": "Why Choose our Web Development Services",
+  "paragraphs": [
+    {
+      "html": "KeyDevs Technologies is considered one of the best web development companies in Lahore and the Pakistan today. With our years of experience, our dedicated team of developers, and our commitment to innovation, our web apps and websites have stood the test of time."
+    },
+    {
+      "html": "We continue to be a team of dreamers and doers, becoming more proficient and effective in delivering cutting-edge solutions."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-fdd57d",
+      "title": "Prompt Customization",
+      "text": "Our experienced web developers provide customization web solutions on the go. We save time and deliver a quality product everytime."
+    },
+    {
+      "icon": "svg-7d6040",
+      "title": "Qualified Team",
+      "text": "Our team is highly experienced and well-updated on the latest web development trends. We achieve client satisfaction by being technically precise."
+    },
+    {
+      "icon": "svg-0e10e4",
+      "title": "Affordable Solution",
+      "text": "Web applications may look hefty, but KeyDevs Technologies provides cost-effective website development services which enhance the ROI of the business in a true sense."
+    },
+    {
+      "icon": "svg-71d12b",
+      "title": "Perfect Design",
+      "text": "Our creative UI UX designer team craft web apps that flaunt online. We develop smooth, stunning, feature-rich UI that provides a sleek user experience on the website."
+    }
+  ]
+}

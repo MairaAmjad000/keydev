@@ -1,0 +1,177 @@
+.contact_top_rating {
+   width: 100%;
+   text-align: center;
+   border: 1px solid #dddfe1;
+   border-radius: 10px;
+   margin-bottom: 30px;
+   transition: all .3s ease
+}
+
+.contact_top_rating a {
+   color: #008080;
+   display: block;
+   padding: 20px 20px 10px
+}
+
+.contact_top_rating span {
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 16px;
+   font-weight: 500;
+   margin: 10px 0;
+   line-height: 1
+}
+
+.contact_top_rating img {
+   margin-bottom: 5px
+}
+
+.contact_top_rating strong {
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 5px 0 0;
+   color: #202122;
+   font-size: 24px;
+   line-height: 1
+}
+
+.contact_top_rating:hover {
+   box-shadow: 0 3px 10px rgba(0, 0, 0, .15)
+}
+
+.contact_rating {
+   width: 100%
+}
+
+.contact_rating li {
+   width: 100%;
+   float: left;
+   background: #fff;
+   border: 1px solid #dddfe1;
+   border-radius: 10px;
+   overflow: hidden;
+   height: 95px;
+   margin-bottom: 30px;
+   transition: all .3s ease
+}
+
+.work_logo {
+   padding: 10px 20px;
+   position: relative;
+   max-width: 280px;
+   min-width: 280px
+}
+
+.top_rating_img {
+   position: absolute;
+   top: 0;
+   right: 5px;
+   margin: 0 !important
+}
+
+.work_rating {
+   background: #fbfcfc;
+   padding: 22.5px 10px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   border-left: 1px solid #dddfe1;
+   transition: all .3s ease
+}
+
+.work_rating img {
+   width: 50px;
+   margin-right: 10px
+}
+
+.rating_text {
+   text-align: center
+}
+
+.rating_text p {
+   font-size: 16px;
+   font-weight: 700;
+   margin: 0 0 3px
+}
+
+.rating_text strong {
+   margin: 0;
+   color: #222;
+   font-weight: 800
+}
+
+.user_rating {
+   width: 100%;
+   float: left;
+   color: #fff;
+   overflow: auto;
+   padding-top: 13px
+}
+
+.user_rating img {
+   float: left;
+   margin-right: 20px;
+   width: 60px;
+   margin-top: -12px
+}
+
+.contact_rating li a {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   color: #008080
+}
+
+.contact_rating li:hover {
+   box-shadow: 0 3px 10px rgba(0, 0, 0, .15)
+}
+
+.bootstrap-select .dropdown-toggle .filter-option {
+   font-size: 14px;
+   padding: 12px 15px;
+   height: 44px
+}
+
+#schedule_a_call .form-group label {
+   display: block;
+   margin: 0;
+   font-size: 0
+}
+
+@media (max-width:1024px) {
+  .work_logo {
+     width: 230px;
+     min-width: auto;
+     padding: 10px 15px
+  }
+  .work_rating {
+     padding: 22px 5px
+  }
+}
+
+@media (max-width:767px) {
+  .work_rating img {
+     width: 40px;
+     margin-right: 5px
+  }
+  .work_logo {
+     width: auto;
+     height: 95px
+  }
+  .work_rating {
+     padding: 0 5px;
+     width: 150px;
+     height: 95px
+  }
+  .rating_text {
+     font-size: 10px
+  }
+  .rating_text strong {
+     width: 100%;
+     float: left
+  }
+}

@@ -1,0 +1,9 @@
+/* Category page: feature list */
+.web-why-go-content h3 { font-size:30px;font-weight:600;color:#008080;margin-bottom:15px }
+.web-why-go-content p { font-size:16px;color:#202122;width:calc(100% - 60px);margin:0 0 0 13px }
+.web-why-go-content ul { margin-bottom:30px }
+.web-why-go-content ul li { margin-bottom:20px;min-height:63px;display:block;align-items:center;padding-left:0;position:relative;font-size:14px;color:#6a6d6f;display:flex;align-items:center }
+.web-why-go-content ul li p { color:#6a6d6f }
+.web-why-go-content ul li .web-why-go-icon { width:47px;height:47px;border-radius:100%;-webkit-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);-moz-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);box-shadow:0 3px 10px 0 rgba(0,0,0,.15);display:flex;align-items:center;justify-content:center }
+.web-why-go-content ul li .web-why-go-icon svg { width:24px;height:24px }
+.web-why-go-content ul li .web-why-go-icon svg circle, .web-why-go-content ul li .web-why-go-icon svg ellipse, .web-why-go-content ul li .web-why-go-icon svg line, .web-why-go-content ul li .web-why-go-icon svg path, .web-why-go-content ul li .web-why-go-icon svg polygon, .web-why-go-content ul li .web-why-go-icon svg rect { fill:#6a6d6f }

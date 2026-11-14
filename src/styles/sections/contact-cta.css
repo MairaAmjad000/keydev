@@ -1,0 +1,124 @@
+.call_shedule_text {
+   width: 100%
+}
+
+.call_shedule_text ul {
+   display: flex;
+   align-items: center;
+   margin-top: 25px;
+   width: 100%
+}
+
+.call_shedule_text ul li {
+   margin-right: 18px;
+   font-weight: 600;
+   font-size: 16px;
+   display: inline-flex;
+   align-items: center
+}
+
+.call_shedule_text ul li span {
+   margin-right: 15px
+}
+
+.call-icon-bg a {
+   width: 50px;
+   height: 50px;
+   overflow: hidden;
+   display: inline-flex;
+   background: #008080;
+   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .1);
+   border-radius: 50%;
+   padding: 13px
+}
+
+.call-icon-bg a:hover {
+   background-color: #343535
+}
+
+.call-icon-bg svg {
+   width: 100%
+}
+
+.call_shedule_text ul li a {
+   color: #202122
+}
+
+.call_shedule_text ul li a:hover {
+   color: #008080
+}
+
+.call_shedule_text h4 {
+   margin-bottom: 20px;
+   font-size: 28px
+}
+
+.call_shedule_img {
+   width: 100%;
+   max-width: 300px;
+   border-radius: 50%;
+   float: right;
+   border: 1px solid #dddfe1;
+   position: relative;
+   margin: 20px 25px 20px 0
+}
+
+.call_shedule_img img {
+   height: 300px;
+   object-fit: cover;
+   border-radius: 50%;
+   width: 300px
+}
+
+.call_shedule_img:before {
+   content: "";
+   width: 115%;
+   height: 115%;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   border: 2px solid #008080;
+   border-radius: 50%;
+   transform: translate(-50%, -50%)
+}
+
+@media (max-width:1024px) {
+  .call_shedule_img {
+     margin: 10px auto 50px;
+     float: none
+  }
+  .blog_box-caption {
+     padding: 0 7px 20px
+  }
+  .blog_author_img {
+     width: 60px;
+     height: 60px
+  }
+  .blog_box-caption ul li {
+     font-size: 12px
+  }
+  .blog_box-caption h4 {
+     font-size: 16px
+  }
+}
+
+@media (max-width:767px) {
+  .call_shedule_img {
+     max-width: 250px
+  }
+  .call_shedule_img img {
+     height: 250px;
+     width: 250px
+  }
+  .call_shedule_text h4 {
+     font-size: 24px
+  }
+  .call_shedule_text ul {
+     flex-wrap: wrap;
+     justify-content: center;
+     flex-flow: column-reverse
+  }
+  .call_shedule_text ul li {
+     margin: 5px 0
+  }
+}

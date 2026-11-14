@@ -1,0 +1,31 @@
+{
+  "image": {
+    "src": "/images/service/mvp-development/banner-mvp-development.webp",
+    "alt": "mvp development",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "MVP Development Company for Tech Startup",
+  "text": "Ideas are abundant. The challenging bit is in turning those ideas into a new source of business revenue that can be scaled without limits. KeyDevs Technologies’s MVP app development process will help your company validate an idea, test its market potential and also create a rough model that can be scaled quickly. Our MVP development services for startups is primed to ensure that your big ideas start off in the right foot and can be consistently improved until they reach the hallmark of perfection. So perfect they cannot miss their mark when presented to investors or the general public for use. Want a headstart to turn your idea into a million dollar business?",
+  "links": [
+    {
+      "href": "portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate MVP Development Cost"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "index.php"
+    },
+    {
+      "text": "MVP"
+    }
+  ]
+}
