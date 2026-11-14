@@ -638,7 +638,8 @@ export interface FormFieldContent {
 }
 
 export interface CategoryHeroContent {
-  image: CmsImage;
+  /** Background photo. Omit for a plain dark banner. */
+  image?: CmsImage;
   heading: string;
   /** Rich text (may contain <br/>). */
   text: string;
@@ -780,6 +781,7 @@ export interface WhyChooseImageContent {
   text: string;
   heading: string;
   text2: string;
-  image: CmsImage;
+  /** Picture beside the card. Omit to centre the card on its own. */
+  image?: CmsImage;
   items: Array<{ icon: string; title: string; text: string }>;
 }

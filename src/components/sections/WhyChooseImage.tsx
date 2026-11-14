@@ -10,11 +10,21 @@ export function WhyChooseImage({ data }: { data: WhyChooseImageContent }) {
         <SectionTitle text={data.text} heading={data.heading} paragraphs={[data.text2]} />
         {' '}
         <div className="row align-items-center">
-          <div className="col-lg-5 col-md-12 col-sm-12 col-12 col-left d-none d-lg-block">
-            <img className="lazy box-shadow rounded10" data-src={data.image.src} alt={data.image.alt} />
-          </div>
-          {' '}
-          <div className="col-lg-8 col-md-12 col-sm-12 col-12 col-right mb-40">
+          {data.image && (
+            <>
+              <div className="col-lg-5 col-md-12 col-sm-12 col-12 col-left d-none d-lg-block">
+                <img className="lazy box-shadow rounded10" data-src={data.image.src} alt={data.image.alt} />
+              </div>
+              {' '}
+            </>
+          )}
+          <div
+            className={
+              data.image
+                ? 'col-lg-8 col-md-12 col-sm-12 col-12 col-right mb-40'
+                : 'col-lg-10 col-md-12 col-sm-12 col-12 col-right col-right-solo mb-40'
+            }
+          >
             <div className="mvp-why-choose-dev-box-wrap box-shadow rounded10">
               {data.items.map((item, i) => (
                 <div key={i} className="mvp-why-choose-dev-box">

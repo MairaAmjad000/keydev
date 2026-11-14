@@ -47,10 +47,12 @@ export function CategoryHero({ data }: { data: CategoryHeroContent }) {
     ? 'col-xl-8 col-lg-7 col-md-12 col-sm-12 col-12'
     : 'col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12';
   return (
-    <section className="banner innerbanner">
-      <div className="video">
-        <img src={data.image.src} alt={data.image.alt} width={data.image.width} height={data.image.height} />
-      </div>
+    <section className={data.image ? 'banner innerbanner' : 'banner innerbanner innerbanner-plain'}>
+      {data.image && (
+        <div className="video">
+          <img src={data.image.src} alt={data.image.alt} width={data.image.width} height={data.image.height} />
+        </div>
+      )}
       {' '}
       <div className="tenc-intro-main__wrapper">
         <div className="container">
