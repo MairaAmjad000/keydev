@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Can you build a multi-restaurant marketplace?",
+      "answer": "Yes. Multi-vendor support with commissions and separate restaurant dashboards is available."
+    },
+    {
+      "question": "Is real-time tracking included?",
+      "answer": "Yes. Customers can follow riders live on the map."
+    },
+    {
+      "question": "Can I add grocery or other deliveries?",
+      "answer": "Yes. The platform can support additional categories."
+    },
+    {
+      "question": "How long does food delivery app development take?",
+      "answer": "A launch-ready first version takes 8 to 12 weeks, while a full platform with customer, provider and admin apps takes 4 to 8 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

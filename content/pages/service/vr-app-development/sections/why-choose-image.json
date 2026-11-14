@@ -1,0 +1,27 @@
+{
+  "text": "Why Choose Us",
+  "heading": "What Makes KeyDevs Technologies the Prominent Virtual Reality App Development Company",
+  "text2": "Here is what you can expect when you build your mobile app project with us.",
+  "items": [
+    {
+      "icon": "svg-712708",
+      "title": "Native-grade quality",
+      "text": "Smooth, stable apps that pass store review the first time."
+    },
+    {
+      "icon": "svg-37c5e6",
+      "title": "Real-device testing",
+      "text": "Every build is tested across popular devices and OS versions."
+    },
+    {
+      "icon": "svg-90d115",
+      "title": "Store launch support",
+      "text": "We prepare listings, screenshots and submission for you."
+    },
+    {
+      "icon": "svg-b4eda3",
+      "title": "Continuous improvement",
+      "text": "Updates and new features keep your app ahead of the competition."
+    }
+  ]
+}

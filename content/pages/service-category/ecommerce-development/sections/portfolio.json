@@ -1,0 +1,119 @@
+{
+  "text": "The Portfolio",
+  "heading": "Our Unique And Creative Work",
+  "text2": "Have a quick glimpse of our amazing eCommerce and web projects that amplified the business of clients.",
+  "items": [
+    {
+      "heading": "Alghazi Tractors",
+      "text": "eCommerce website for a tractor and farm equipment dealer.",
+      "image": {
+        "src": "/images/portfolio/alghazi-tractors.jpg",
+        "alt": "Alghazi Tractors — eCommerce website for a tractor and farm equipment dealer.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Alghazi Tractors",
+      "text2": "eCommerce website for a tractor and farm equipment dealer.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Al-Iftar Foods",
+      "text": "Website with ERP and CRM to track manufacturing, orders and sales.",
+      "image": {
+        "src": "/images/portfolio/al-iftar-foods.jpg",
+        "alt": "Al-Iftar Foods — Website with ERP and CRM to track manufacturing, orders and sales.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Al-Iftar Foods",
+      "text2": "Website with ERP and CRM to track manufacturing, orders and sales.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Delivery Shark",
+      "text": "Food delivery, ride and handyman platform with real-time tracking.",
+      "image": {
+        "src": "/images/portfolio/delivery-shark.jpg",
+        "alt": "Delivery Shark — Food delivery, ride and handyman platform with real-time tracking.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Delivery Shark",
+      "text2": "Food delivery, ride and handyman platform with real-time tracking.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Multan Chemicals Limited",
+      "text": "Corporate website with a full ERP system for manufacturing and sales.",
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "Multan Chemicals Limited — Corporate website with a full ERP system for manufacturing and sales.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Multan Chemicals Limited",
+      "text2": "Corporate website with a full ERP system for manufacturing and sales.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Atlas Fuel",
+      "text": "ERP system with MYOB integration for an Australian client.",
+      "image": {
+        "src": "/images/portfolio/atlas-fuel.jpg",
+        "alt": "Atlas Fuel — ERP system with MYOB integration for an Australian client.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Atlas Fuel",
+      "text2": "ERP system with MYOB integration for an Australian client.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Flyashs",
+      "text": "Flight, travel and tourism booking website and mobile apps.",
+      "image": {
+        "src": "/images/portfolio/flyashs.jpg",
+        "alt": "Flyashs — Flight, travel and tourism booking website and mobile apps.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Flyashs",
+      "text2": "Flight, travel and tourism booking website and mobile apps.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Beejan",
+      "text": "Ride booking platform with driver and rider apps.",
+      "image": {
+        "src": "/images/portfolio/beejan.jpg",
+        "alt": "Beejan — Ride booking platform with driver and rider apps.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Beejan",
+      "text2": "Ride booking platform with driver and rider apps.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

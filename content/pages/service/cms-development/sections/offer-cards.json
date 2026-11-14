@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our CMS Development Services",
+  "text2": "Whatever stage you are at, our cms development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Custom CMS Development"
+      },
+      "title": "Custom CMS Development",
+      "text": "A tailor-made CMS with the content types, roles and workflows you need."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Headless CMS"
+      },
+      "title": "Headless CMS",
+      "text": "Manage content once and deliver it to your website, app and more through APIs."
+    },
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "CMS Migration"
+      },
+      "title": "CMS Migration",
+      "text": "Move content to a new CMS while preserving structure and SEO."
+    }
+  ]
+}

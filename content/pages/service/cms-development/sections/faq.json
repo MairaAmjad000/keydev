@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "What is a headless CMS?",
+      "answer": "A headless CMS stores content and serves it through an API, so one editor can power web, mobile and other channels."
+    },
+    {
+      "question": "Can multiple editors work with different permissions?",
+      "answer": "Yes. Role-based access and approval workflows are standard."
+    },
+    {
+      "question": "Will the CMS be SEO friendly?",
+      "answer": "Yes. We build with clean markup, metadata controls and fast loading."
+    },
+    {
+      "question": "How long does cms development take?",
+      "answer": "A focused system can go live in 8 to 12 weeks, while larger multi-department platforms take 4 to 9 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "image": {
+    "src": "/images/category/web-development/banner-web-development.webp",
+    "alt": "Taxi App Development by KeyDevs Technologies",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "Taxi App Development Company",
+  "text": "Launch your own ride-hailing service. KeyDevs Technologies builds taxi booking apps with passenger and driver apps, live tracking, fare calculation and an admin panel.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate Taxi App Development Cost"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Taxi App Development"
+    }
+  ]
+}

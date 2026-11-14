@@ -1,0 +1,70 @@
+{
+  "image": {
+    "src": "/images/category/mobile-app-development/banner-mobile-app-development.webp",
+    "alt": "Mobile App Development company in Lahore, Pakistan — KeyDevs Technologies",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "MOBILE APP DEVELOPMENT COMPANY",
+  "text": "KeyDevs Technologies is a full-cycle mobile app development company. Wondering what that is? <br/><br/> If you have an app idea that needs to reach customers on their phones, we can make that happen. From the first wireframe to the App Store and Google Play launch — we take care of the entire nine yards of mobile app development for your business.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate Your App Development Cost"
+    }
+  ],
+  "form": {
+    "id": "mobile-app-banner_form",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Name",
+        "required": true,
+        "label": "Name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email",
+        "required": true,
+        "label": "Email"
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "placeholder": "Phone Number",
+        "required": true,
+        "minLength": 10,
+        "maxLength": 11,
+        "variant": "phone"
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "Project Descriptions",
+        "required": false,
+        "label": "Message",
+        "rows": 4
+      }
+    ],
+    "submitText": "Get Started Now!",
+    "errorId": "mobile-app-error_message_banner_form",
+    "successId": "mobile-app-success_message_banner_form"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Mobile App Development"
+    }
+  ]
+}

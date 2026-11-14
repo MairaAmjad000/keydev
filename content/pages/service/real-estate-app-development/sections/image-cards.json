@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with real estate app development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/finance-app.jpg",
+        "alt": "Taxi App Development"
+      },
+      "title": "Taxi App Development",
+      "text": "Ride-hailing apps with passenger and driver apps, live tracking and an admin panel.",
+      "link": {
+        "href": "/service/taxi-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/healthcare-and-fitness.jpg",
+        "alt": "Food Delivery App Development"
+      },
+      "title": "Food Delivery App Development",
+      "text": "Food ordering platforms connecting customers, restaurants and delivery riders.",
+      "link": {
+        "href": "/service/food-delivery-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/social-media.jpg",
+        "alt": "Car Wash App Development"
+      },
+      "title": "Car Wash App Development",
+      "text": "On-demand car wash booking apps with scheduling, payments and provider management.",
+      "link": {
+        "href": "/service/car-wash-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/real-estate.jpg",
+        "alt": "SEO Services"
+      },
+      "title": "SEO Services",
+      "text": "Search engine optimization that grows qualified organic traffic and leads.",
+      "link": {
+        "href": "/service/seo-services",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "Finance App Development"
+      },
+      "title": "Finance App Development",
+      "text": "Secure banking, payments, budgeting and investment apps for modern finance.",
+      "link": {
+        "href": "/service/finance-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "Travel App Development"
+      },
+      "title": "Travel App Development",
+      "text": "Booking, itinerary and guide apps for flights, hotels, tours and trips.",
+      "link": {
+        "href": "/service/travel-app-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

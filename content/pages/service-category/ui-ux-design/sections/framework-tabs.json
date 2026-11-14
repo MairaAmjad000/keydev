@@ -1,0 +1,79 @@
+{
+  "text": "Frameworks",
+  "heading": "Our suite of UI/UX design tools",
+  "text2": "KeyDevs Technologies has a team of designers who work with the leading design, prototyping and collaboration tools.",
+  "items": [
+    {
+      "title": "Figma Design",
+      "image": {
+        "src": "/images/technologies/figma.svg",
+        "alt": "Figma Design"
+      },
+      "text": "Figma is where we design, prototype and build design systems collaboratively, so you can review work in real time and developers can inspect specs directly.",
+      "link": {
+        "href": "/contact",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Sketch Design",
+      "image": {
+        "src": "/images/technologies/sketch.svg",
+        "alt": "Sketch Design"
+      },
+      "text": "Sketch remains a favourite for interface design and symbol-based design systems, particularly for teams already working in the Apple ecosystem.",
+      "link": {
+        "href": "/contact",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "InVision Prototyping",
+      "image": {
+        "src": "/images/technologies/invision.svg",
+        "alt": "InVision Prototyping"
+      },
+      "text": "InVision turns static designs into clickable prototypes that you can share, test and comment on with your team and users.",
+      "link": {
+        "href": "/contact",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Justinmind Prototyping",
+      "image": {
+        "src": "/images/technologies/justinmind.svg",
+        "alt": "Justinmind Prototyping"
+      },
+      "text": "Justinmind lets us create detailed, data-driven interactive prototypes for complex web and mobile products.",
+      "link": {
+        "href": "/contact",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Adobe Photoshop & Illustrator",
+      "image": {
+        "src": "/images/technologies/adobe-photoshop.svg",
+        "alt": "Adobe Photoshop & Illustrator"
+      },
+      "text": "Photoshop and Illustrator power our branding, iconography and illustration work for polished, distinctive interfaces.",
+      "link": {
+        "href": "/contact",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Adobe After Effects",
+      "image": {
+        "src": "/images/technologies/adobe-after-effects.svg",
+        "alt": "Adobe After Effects"
+      },
+      "text": "After Effects helps us design motion and micro-interactions that make products feel alive and guide users naturally.",
+      "link": {
+        "href": "/contact",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

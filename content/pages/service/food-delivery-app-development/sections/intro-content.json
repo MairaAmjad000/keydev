@@ -1,0 +1,23 @@
+{
+  "heading": "Food Delivery Apps that Keep Orders Moving",
+  "paragraphs": [
+    {
+      "html": "Fast, reliable food delivery depends on three things working together: a simple customer experience, an efficient restaurant workflow and well-routed riders."
+    },
+    {
+      "html": "We build customer, restaurant and rider apps with menus, real-time order tracking, loyalty offers and flexible payment options, plus an admin panel to run the business."
+    },
+    {
+      "html": "Start your food delivery app development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Food Delivery App Development"
+  }
+}

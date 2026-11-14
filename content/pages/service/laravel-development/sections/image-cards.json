@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with laravel development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/healthcare-and-fitness.jpg",
+        "alt": "PHP Web Development"
+      },
+      "title": "PHP Web Development",
+      "text": "Cost-effective, flexible PHP websites and web applications that perform and scale.",
+      "link": {
+        "href": "/service/php-web-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/social-media.jpg",
+        "alt": "WordPress Development"
+      },
+      "title": "WordPress Development",
+      "text": "Scalable, easy-to-manage WordPress websites with custom themes and plugins.",
+      "link": {
+        "href": "/service/wordpress-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/real-estate.jpg",
+        "alt": "CodeIgniter Development"
+      },
+      "title": "CodeIgniter Development",
+      "text": "Lightweight, fast PHP applications built on the CodeIgniter framework.",
+      "link": {
+        "href": "/service/codeigniter-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "AngularJS Development"
+      },
+      "title": "AngularJS Development",
+      "text": "Single-page and progressive web apps with Angular’s structured, reusable architecture.",
+      "link": {
+        "href": "/service/angularjs-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "NodeJS Development"
+      },
+      "title": "NodeJS Development",
+      "text": "Fast, real-time, scalable backends and APIs powered by Node.js.",
+      "link": {
+        "href": "/service/nodejs-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/alghazi-tractors.jpg",
+        "alt": "Chatbot Development"
+      },
+      "title": "Chatbot Development",
+      "text": "AI chatbots that answer questions, qualify leads and support customers around the clock.",
+      "link": {
+        "href": "/service/chatbot-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

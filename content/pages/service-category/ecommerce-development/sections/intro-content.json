@@ -1,0 +1,28 @@
+{
+  "heading": "Bespoke eCommerce Development Agency",
+  "paragraphs": [
+    {
+      "html": "Conversion, speed and trust. If these three things rank high on your priorities for an online store, KeyDevs Technologies is a perfect fit. We build eCommerce platforms that load quickly, check out smoothly and scale with your catalog."
+    },
+    {
+      "html": "From a first online store for a growing brand to multi-vendor marketplaces and B2B ordering portals, our eCommerce development services help you sell more across every channel."
+    },
+    {
+      "html": "Our team works closely with startups, retailers and distributors to connect your store with payments, inventory, shipping, ERP and CRM so that selling online runs on autopilot."
+    },
+    {
+      "html": "Start your eCommerce project with an experienced team for stores that customers love to buy from."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/ecommerce-development.png",
+    "alt": "eCommerce Development",
+    "width": "470",
+    "height": "410"
+  }
+}

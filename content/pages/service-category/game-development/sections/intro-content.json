@@ -1,0 +1,28 @@
+{
+  "heading": "Creative Game Development Agency",
+  "paragraphs": [
+    {
+      "html": "Fun, performance and polish. If these three things rank high on your priorities for a game, KeyDevs Technologies is a perfect fit. Our game team combines artists, designers and engineers to turn ideas into games people want to keep playing."
+    },
+    {
+      "html": "From casual hyper-casual hits and 2D puzzle games to 3D action titles, AR experiences and VR worlds, our game development services cover every platform players use."
+    },
+    {
+      "html": "We work closely with indie studios, publishers and brands to build games with engaging mechanics, smooth performance and monetization that fits the game, not the other way around."
+    },
+    {
+      "html": "Start your game project with an experienced team for games that play great and ship on time."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-game-development.png",
+    "alt": "Game Development",
+    "width": "470",
+    "height": "410"
+  }
+}

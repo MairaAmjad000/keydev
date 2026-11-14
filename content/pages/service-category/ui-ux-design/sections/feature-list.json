@@ -1,0 +1,42 @@
+{
+  "text": "Advantages",
+  "heading": "Key Features of Our UI/UX Design",
+  "text2": "Great products feel effortless. These are the principles that guide every interface we design.",
+  "subheading": "What sets our design apart",
+  "items": [
+    {
+      "icon": "svg-c74f4f",
+      "html": "<strong>User-first thinking</strong> — decisions grounded in research and real user behaviour."
+    },
+    {
+      "icon": "svg-153ded",
+      "html": "<strong>Clean, modern interfaces</strong> that stay clear and focused as features grow."
+    },
+    {
+      "icon": "svg-245c7d",
+      "html": "<strong>Interactive prototypes</strong> so you can test and approve flows before development begins."
+    },
+    {
+      "icon": "svg-44f4fb",
+      "html": "<strong>Consistent design systems</strong> that keep every screen aligned with your brand."
+    },
+    {
+      "icon": "svg-fc8601",
+      "html": "<strong>Accessible by design</strong> with readable type, strong contrast and inclusive interactions."
+    },
+    {
+      "icon": "svg-9fb70d",
+      "html": "<strong>Developer-ready handoff</strong> with specs, assets and components that match the build exactly."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Design Expert Now"
+  },
+  "image": {
+    "src": "/images/category/ui-ux-design/features-ui-ux-design.webp",
+    "alt": "ui ux design",
+    "width": "549",
+    "height": "528"
+  }
+}

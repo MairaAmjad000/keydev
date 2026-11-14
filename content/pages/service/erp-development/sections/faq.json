@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Custom ERP or off-the-shelf?",
+      "answer": "Custom ERP fits unusual workflows exactly. We help you compare cost and fit before deciding."
+    },
+    {
+      "question": "Can you integrate with MYOB or other accounting tools?",
+      "answer": "Yes. We have built integrations with accounting platforms such as MYOB."
+    },
+    {
+      "question": "Can we start with a few modules?",
+      "answer": "Yes. A phased rollout reduces risk and speeds up value."
+    },
+    {
+      "question": "How long does erp development take?",
+      "answer": "A focused system can go live in 8 to 12 weeks, while larger multi-department platforms take 4 to 9 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

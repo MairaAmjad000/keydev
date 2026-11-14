@@ -1,0 +1,26 @@
+{
+  "slug": "service-category/mobile-app-development",
+  "seo": {
+    "title": "Custom Mobile App Development Company | KeyDevs Technologies",
+    "description": "KeyDevs Technologies is a full-cycle mobile app development company in Lahore. We design, build and launch iPhone, Android, Flutter and cross-platform apps for startups and enterprises."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "serviceOfferings",
+    "featureList",
+    "advantageGrid",
+    "process",
+    "frameworkTabs",
+    "contactCta",
+    "whyChoose",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall"
+  ]
+}

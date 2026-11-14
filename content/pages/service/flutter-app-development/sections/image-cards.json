@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with flutter app development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/finance-app.jpg",
+        "alt": "iPhone App Development"
+      },
+      "title": "iPhone App Development",
+      "text": "Native iOS apps for iPhone and iPad, built in Swift and ready for the App Store.",
+      "link": {
+        "href": "/service/iphone-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/healthcare-and-fitness.jpg",
+        "alt": "Android App Development"
+      },
+      "title": "Android App Development",
+      "text": "Fast, stable Android apps in Kotlin and Java that run well on every screen and device.",
+      "link": {
+        "href": "/service/android-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/social-media.jpg",
+        "alt": "Cross Platform App Development"
+      },
+      "title": "Cross Platform App Development",
+      "text": "One app that runs on iOS, Android and the web, built with the framework that suits your product.",
+      "link": {
+        "href": "/service/cross-platform-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/real-estate.jpg",
+        "alt": "Augmented Reality App Development"
+      },
+      "title": "Augmented Reality App Development",
+      "text": "AR apps for retail, education and real estate using ARKit, ARCore and Unity.",
+      "link": {
+        "href": "/service/ar-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "Virtual Reality App Development"
+      },
+      "title": "Virtual Reality App Development",
+      "text": "Immersive VR apps for training, virtual tours and entertainment on modern headsets.",
+      "link": {
+        "href": "/service/vr-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "Mac Game Development"
+      },
+      "title": "Mac Game Development",
+      "text": "Games built and optimized for macOS, including Apple Silicon.",
+      "link": {
+        "href": "/service/mac-game-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

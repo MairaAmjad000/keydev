@@ -1,0 +1,23 @@
+{
+  "heading": "Native iPhone Apps that Users Love",
+  "paragraphs": [
+    {
+      "html": "iPhone users expect speed, smooth animation and a design that follows Apple’s guidelines. Our iOS team builds apps that meet that bar, from first launch to the thousandth session."
+    },
+    {
+      "html": "We work with startups and enterprises on everything from consumer apps to internal business tools, integrating with your backend, payment gateways, maps, push notifications and Apple services such as Sign in with Apple."
+    },
+    {
+      "html": "Start your iphone app development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "iPhone App Development"
+  }
+}

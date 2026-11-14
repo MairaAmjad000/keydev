@@ -1,0 +1,79 @@
+{
+  "text": "Frameworks",
+  "heading": "Our suite of eCommerce platforms and technologies",
+  "text2": "KeyDevs Technologies has a large pool of developers who build online stores on the top eCommerce platforms and frameworks.",
+  "items": [
+    {
+      "title": "WooCommerce Development",
+      "image": {
+        "src": "/images/technologies/wordpress.svg",
+        "alt": "WooCommerce Development"
+      },
+      "text": "WooCommerce turns WordPress into a flexible store. It is a strong choice for brands that want fast setup, easy content control and a huge range of plugins, without giving up customization.",
+      "link": {
+        "href": "/service/wordpress-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Magento and PHP Stores",
+      "image": {
+        "src": "/images/technologies/php.svg",
+        "alt": "Magento and PHP Stores"
+      },
+      "text": "For large catalogs and complex pricing, PHP-based platforms such as Magento give you enterprise-grade features and full control over how your store works.",
+      "link": {
+        "href": "/service/php-web-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Laravel Custom Stores",
+      "image": {
+        "src": "/images/technologies/laravel.svg",
+        "alt": "Laravel Custom Stores"
+      },
+      "text": "Laravel is ideal when you need a fully custom store or marketplace with clean architecture, strong security and easy API integrations.",
+      "link": {
+        "href": "/service/laravel-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "NodeJS Commerce Backends",
+      "image": {
+        "src": "/images/technologies/node-js.svg",
+        "alt": "NodeJS Commerce Backends"
+      },
+      "text": "NodeJS powers real-time inventory, live order tracking and headless commerce APIs that serve your website and mobile apps from one backend.",
+      "link": {
+        "href": "/service/nodejs-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Angular Storefronts",
+      "image": {
+        "src": "/images/technologies/angular.svg",
+        "alt": "Angular Storefronts"
+      },
+      "text": "Angular storefronts give shoppers a smooth, app-like experience with instant page transitions and rich product filtering.",
+      "link": {
+        "href": "/service/angularjs-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "CodeIgniter Stores",
+      "image": {
+        "src": "/images/technologies/codeigniter.svg",
+        "alt": "CodeIgniter Stores"
+      },
+      "text": "CodeIgniter is lightweight and fast, a great fit for small and mid-sized stores that need to launch quickly on a lean budget.",
+      "link": {
+        "href": "/service/codeigniter-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

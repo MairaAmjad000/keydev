@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our WordPress Development Services",
+  "text2": "Whatever stage you are at, our wordpress development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Custom WordPress Themes"
+      },
+      "title": "Custom WordPress Themes",
+      "text": "Designs built from scratch to match your brand, not off-the-shelf templates."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Plugin Development"
+      },
+      "title": "Plugin Development",
+      "text": "Custom plugins for features that generic plugins cannot deliver."
+    },
+    {
+      "image": {
+        "src": "/images/services/ecommerce-development.png",
+        "alt": "WooCommerce Stores"
+      },
+      "title": "WooCommerce Stores",
+      "text": "Flexible online stores with payments, shipping and inventory management."
+    }
+  ]
+}

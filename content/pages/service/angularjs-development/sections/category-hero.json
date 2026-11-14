@@ -1,0 +1,31 @@
+{
+  "image": {
+    "src": "/images/category/web-development/banner-web-development.webp",
+    "alt": "AngularJS Development by KeyDevs Technologies",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "AngularJS Development Company",
+  "text": "Create fast, interactive single-page apps and progressive web apps with Angular. KeyDevs Technologies builds structured front ends that scale with your product.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/contact",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Talk to Our Experts"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "AngularJS Development"
+    }
+  ]
+}

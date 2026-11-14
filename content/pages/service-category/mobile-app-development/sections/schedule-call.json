@@ -1,0 +1,138 @@
+{
+  "text": "Connect with us to Discuss More",
+  "heading": "Schedule a Call Now",
+  "blocks": [
+    {
+      "link": {
+        "href": "https://clutch.co/profile/keydevs-technologies",
+        "image": {
+          "src": "/images/reviews/clutch.webp",
+          "alt": "Clutch top rated mobile app development company in Pakistan",
+          "width": "172",
+          "height": "68"
+        },
+        "orangeText": "Reviewed On",
+        "strong": "5.0",
+        "text": "12 Reviews"
+      }
+    },
+    {
+      "link": {
+        "href": "https://www.goodfirms.co/company/keydevs-technologies",
+        "image": {
+          "src": "/images/reviews/goodfirms.webp",
+          "alt": "Top Mobile App Developers on GoodFirms",
+          "width": "172",
+          "height": "68"
+        },
+        "orangeText": "Reviewed On",
+        "strong": "5.0",
+        "text": "2 Reviews"
+      }
+    }
+  ],
+  "items": [
+    {
+      "link": {
+        "href": "https://www.upwork.com/o/companies/~012085085920f5cdea/",
+        "image": {
+          "src": "/images/reviews/upwork.webp",
+          "alt": "Top Rated Freelance App developer on Upwork",
+          "width": "200",
+          "height": "75"
+        },
+        "topRatingImg": {
+          "src": "/images/brand/upwork-rating.webp",
+          "alt": "KeyDevs Technologies UpWork Rating",
+          "width": "35"
+        },
+        "image2": {
+          "src": "/images/author/star-user.svg",
+          "alt": "Mobile App Developers Lahore",
+          "width": "50",
+          "height": "50"
+        },
+        "text": "Rating <strong>4.7</strong>"
+      }
+    },
+    {
+      "link": {
+        "href": "https://www.peopleperhour.com/freelancer/design/unitygames-tech-mobile-app-and-game-development-mwnaam",
+        "image": {
+          "src": "/images/reviews/peopleperhour.webp",
+          "alt": "Top Pakistan Mobile App Development Companies",
+          "width": "200",
+          "height": "75"
+        },
+        "topRatingImg": {
+          "src": "/images/brand/pph.webp",
+          "alt": "Top Developers",
+          "width": "40"
+        },
+        "image2": {
+          "src": "/images/author/star-user.svg",
+          "alt": "Top Rating Developers",
+          "width": "50",
+          "height": "50"
+        },
+        "text": "Rating<strong>9/10</strong>"
+      }
+    }
+  ],
+  "link": {
+    "href": "https://www.freelancer.com.jm/u/UnityGamesTech",
+    "image": {
+      "src": "/images/reviews/freelancer.webp",
+      "alt": "Hire Best mobile app developers",
+      "width": "200",
+      "height": "75"
+    },
+    "image2": {
+      "src": "/images/author/star-user.svg",
+      "alt": "Top Mobile Application Developers Pakistan",
+      "width": "50",
+      "height": "50"
+    },
+    "text": "Rating<strong>4.8</strong>"
+  },
+  "heading2": "Hire us on",
+  "formGroups": [
+    {
+      "label": {
+        "for": "name",
+        "text": "Name",
+        "formControl": {
+          "type": "text",
+          "name": "name",
+          "placeholder": "Name"
+        }
+      }
+    },
+    {
+      "label": {
+        "for": "email",
+        "text": "Email",
+        "formControl": {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Email"
+        }
+      }
+    }
+  ],
+  "formControl": {
+    "placeholder": "Contact No"
+  },
+  "label": "Company Name",
+  "formControl2": {
+    "placeholder": "Company Name"
+  },
+  "label2": "Budget",
+  "label3": "Service",
+  "label4": "Reference",
+  "label5": "Message",
+  "formControl3": {
+    "placeholder": "Message"
+  },
+  "contactCustomeBtn": "<i class=\"fa fa-spinner fa-spin start-loader\"></i>Send Message"
+}

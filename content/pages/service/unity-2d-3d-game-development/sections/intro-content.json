@@ -1,0 +1,23 @@
+{
+  "heading": "2D and 3D Games in Unity",
+  "paragraphs": [
+    {
+      "html": "Unity powers a large share of mobile games because one project can ship to many platforms. Our team uses it to build 2D and 3D games with strong visuals and solid gameplay systems."
+    },
+    {
+      "html": "We handle character and environment art, animation, physics, UI, audio and backend features such as leaderboards and multiplayer, so you get a complete game from one team."
+    },
+    {
+      "html": "Start your 2d/3d game development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-game-development.png",
+    "alt": "2D/3D Game Development"
+  }
+}

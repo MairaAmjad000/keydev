@@ -1,0 +1,27 @@
+{
+  "slug": "service/media-entertainment-app-development",
+  "seo": {
+    "title": "Media and Entertainment App Development Company | KeyDevs Technologies",
+    "description": "Streaming, video, music and content apps with smooth playback and subscriptions. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

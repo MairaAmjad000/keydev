@@ -1,0 +1,47 @@
+{
+  "text": "Windows Game Development Benefits",
+  "heading": "Benefits of Windows Game Development",
+  "text2": "Being a trusted game partner, we focus on outcomes you can measure, from faster delivery to a product your users and team will rely on.",
+  "compare": {
+    "before": {
+      "src": "/images/portfolio/fantasyji.jpg",
+      "alt": "Windows Game Development"
+    },
+    "after": {
+      "src": "/images/portfolio/event-and-community-building.jpg",
+      "alt": "Windows Game Development"
+    }
+  },
+  "items": [
+    {
+      "icon": "svg-4f24e7",
+      "title": "Original gameplay",
+      "text": "Custom mechanics and art help Windows Game Development stand out in a crowded store full of clones."
+    },
+    {
+      "icon": "svg-72485b",
+      "title": "Smooth performance",
+      "text": "Optimized rendering keeps frame rates high and battery use low on a wide range of devices."
+    },
+    {
+      "icon": "svg-92329f",
+      "title": "Engaging art and audio",
+      "text": "Characters, environments, effects and sound that give your game a memorable identity."
+    },
+    {
+      "icon": "svg-677566",
+      "title": "Smart monetization",
+      "text": "Ads, in-app purchases and rewards designed around the player experience, not against it."
+    },
+    {
+      "icon": "svg-bd8d6e",
+      "title": "Faster prototypes",
+      "text": "We test the fun early with a playable build before investing in full production."
+    },
+    {
+      "icon": "svg-afdd73",
+      "title": "Live operations",
+      "text": "Updates, events and analytics keep players coming back after launch."
+    }
+  ]
+}

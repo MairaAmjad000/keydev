@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with android app development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/fantasyji.jpg",
+        "alt": "iPhone App Development"
+      },
+      "title": "iPhone App Development",
+      "text": "Native iOS apps for iPhone and iPad, built in Swift and ready for the App Store.",
+      "link": {
+        "href": "/service/iphone-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/finance-app.jpg",
+        "alt": "Flutter App Development"
+      },
+      "title": "Flutter App Development",
+      "text": "One codebase for iOS and Android with a rich, near-native experience and faster delivery.",
+      "link": {
+        "href": "/service/flutter-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/healthcare-and-fitness.jpg",
+        "alt": "Cross Platform App Development"
+      },
+      "title": "Cross Platform App Development",
+      "text": "One app that runs on iOS, Android and the web, built with the framework that suits your product.",
+      "link": {
+        "href": "/service/cross-platform-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/social-media.jpg",
+        "alt": "Augmented Reality App Development"
+      },
+      "title": "Augmented Reality App Development",
+      "text": "AR apps for retail, education and real estate using ARKit, ARCore and Unity.",
+      "link": {
+        "href": "/service/ar-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/real-estate.jpg",
+        "alt": "Virtual Reality App Development"
+      },
+      "title": "Virtual Reality App Development",
+      "text": "Immersive VR apps for training, virtual tours and entertainment on modern headsets.",
+      "link": {
+        "href": "/service/vr-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "Augmented Reality Game Development"
+      },
+      "title": "Augmented Reality Game Development",
+      "text": "AR games that blend characters and worlds with the player’s real surroundings.",
+      "link": {
+        "href": "/service/ar-game-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

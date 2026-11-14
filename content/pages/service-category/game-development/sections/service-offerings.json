@@ -1,0 +1,186 @@
+{
+  "text": "Our game development offerings",
+  "heading": "Explore our game development expertise across every platform",
+  "items": [
+    {
+      "id": "game-section1",
+      "navIcon": "svg-522317",
+      "navTitle": "iOS Games",
+      "number": "01",
+      "heading": "iOS game development",
+      "bodyHtml": "<div class=\"top-text-block\">Delight iPhone and iPad players with smooth, beautiful games built for Apple hardware.</div><p>Our iOS game developers use Unity and native tools to build games that take full advantage of Apple devices, from touch controls and haptics to Game Center integration and App Store launch.</p>",
+      "bullets": [
+        {
+          "html": "Optimized for iPhone and iPad hardware"
+        },
+        {
+          "html": "Game Center, in-app purchases and ads"
+        },
+        {
+          "html": "App Store submission and launch support"
+        }
+      ],
+      "link": {
+        "href": "/service/ios-game-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/game-development/listing-1.webp",
+        "alt": "iOS game development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "game-section2",
+      "navIcon": "svg-4c0e6c",
+      "navTitle": "Android Games",
+      "number": "02",
+      "heading": "Android game development",
+      "bodyHtml": "<div class=\"top-text-block\">Reach the largest mobile gaming audience with games that run well on every device.</div><p>We build Android games tuned for the huge variety of screens, chipsets and OS versions in the market, with careful testing so players get smooth frame rates everywhere.</p>",
+      "bullets": [
+        {
+          "html": "Performance tuning across device tiers"
+        },
+        {
+          "html": "Google Play Games and monetization"
+        },
+        {
+          "html": "Play Store publishing and updates"
+        }
+      ],
+      "link": {
+        "href": "/service/android-game-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/game-development/listing-2.webp",
+        "alt": "Android game development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "game-section3",
+      "navIcon": "svg-aa3e20",
+      "navTitle": "2D / 3D Games",
+      "number": "03",
+      "heading": "2D and 3D game development",
+      "bodyHtml": "<div class=\"top-text-block\">From charming pixel art to rich 3D worlds, we build the style your game needs.</div><p>Our artists and Unity developers create characters, environments, animations and gameplay systems for 2D and 3D games in every genre, from puzzle and arcade to racing and action.</p>",
+      "bullets": [
+        {
+          "html": "Character, environment and UI art"
+        },
+        {
+          "html": "Physics, animation and gameplay systems"
+        },
+        {
+          "html": "Multiplayer and leaderboards"
+        }
+      ],
+      "link": {
+        "href": "/service/unity-2d-3d-game-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/game-development/listing-3.webp",
+        "alt": "2D and 3D game development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "game-section4",
+      "navIcon": "svg-a9eeae",
+      "navTitle": "AR Games",
+      "number": "04",
+      "heading": "Augmented reality game development",
+      "bodyHtml": "<div class=\"top-text-block\">Blend the real world with play for experiences that feel like magic.</div><p>We build AR games for phones and tablets using ARKit, ARCore and Unity, with location-based play, image tracking and interactive 3D characters placed in the player’s surroundings.</p>",
+      "bullets": [
+        {
+          "html": "ARKit and ARCore based games"
+        },
+        {
+          "html": "Location and image tracking mechanics"
+        },
+        {
+          "html": "Optimized 3D models for mobile AR"
+        }
+      ],
+      "link": {
+        "href": "/service/ar-game-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/game-development/listing-4.webp",
+        "alt": "Augmented reality game development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "game-section5",
+      "navIcon": "svg-34ba9a",
+      "navTitle": "VR Games",
+      "number": "05",
+      "heading": "Virtual reality game development",
+      "bodyHtml": "<div class=\"top-text-block\">Put players inside the game with fully immersive virtual reality.</div><p>From Oculus and Google VR to mixed reality headsets, we build VR games with comfortable controls, believable worlds and the performance headsets demand.</p>",
+      "bullets": [
+        {
+          "html": "Oculus, Google VR and mixed reality"
+        },
+        {
+          "html": "Comfort-focused movement and interaction"
+        },
+        {
+          "html": "High frame rate performance tuning"
+        }
+      ],
+      "link": {
+        "href": "/service/vr-game-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/game-development/listing-5.webp",
+        "alt": "Virtual reality game development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "game-section6",
+      "navIcon": "svg-eac249",
+      "navTitle": "Windows & Mac",
+      "number": "06",
+      "heading": "Windows and Mac game development",
+      "bodyHtml": "<div class=\"top-text-block\">Bring your game to the desktop with full-featured PC and Mac builds.</div><p>We develop and port games for Windows and macOS with keyboard, mouse and controller support, higher fidelity graphics and distribution through the popular PC game stores.</p>",
+      "bullets": [
+        {
+          "html": "Windows and macOS builds from one project"
+        },
+        {
+          "html": "Controller, keyboard and mouse support"
+        },
+        {
+          "html": "Store packaging and release support"
+        }
+      ],
+      "link": {
+        "href": "/service/windows-game-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/game-development/listing-6.webp",
+        "alt": "Windows and Mac game development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Android App Development Services",
+  "text2": "Whatever stage you are at, our android app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Custom Android App Development"
+      },
+      "title": "Custom Android App Development",
+      "text": "Native Android apps in Kotlin and Java, designed with Material Design for a smooth, familiar experience."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Device and OS Optimization"
+      },
+      "title": "Device and OS Optimization",
+      "text": "Testing across popular phones, tablets and Android versions so performance stays consistent."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Google Play Publishing"
+      },
+      "title": "Google Play Publishing",
+      "text": "Store listing, release management and post-launch updates handled by our team."
+    }
+  ]
+}

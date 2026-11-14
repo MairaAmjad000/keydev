@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Can you port my mobile game to PC?",
+      "answer": "Yes. We rework controls, UI and graphics to suit the desktop."
+    },
+    {
+      "question": "Do you support game controllers?",
+      "answer": "Yes. Keyboard, mouse and common controllers are supported."
+    },
+    {
+      "question": "Can I release on Mac too?",
+      "answer": "Yes. A Unity project can also produce a Mac build."
+    },
+    {
+      "question": "How long does windows game development take?",
+      "answer": "A simple casual game takes about 2 to 3 months, while a polished 3D or multiplayer game usually takes 6 months or more."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

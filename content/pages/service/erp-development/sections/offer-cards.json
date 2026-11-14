@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our ERP Development Services",
+  "text2": "Whatever stage you are at, our erp development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Custom ERP Implementation"
+      },
+      "title": "Custom ERP Implementation",
+      "text": "Modules for finance, inventory, purchasing, sales and manufacturing built around your process."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "ERP Integration"
+      },
+      "title": "ERP Integration",
+      "text": "Connect your ERP with accounting software, eCommerce, couriers and payment systems."
+    },
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "ERP Support and Enhancement"
+      },
+      "title": "ERP Support and Enhancement",
+      "text": "Maintain, update and extend your ERP as your business evolves."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "service/health-fitness-app-development",
+  "seo": {
+    "title": "Health and Fitness App Development Company | KeyDevs Technologies",
+    "description": "Workout, nutrition and wellness apps with tracking, plans and coaching. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

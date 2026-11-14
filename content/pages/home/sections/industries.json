@@ -8,7 +8,7 @@
       "subheading": "Taxi Booking",
       "text": "Ride the on-demand wave with a taxi booking app complete with real-time navigation, payment integrations and much more.",
       "link": {
-        "href": "taxi-app-development",
+        "href": "/service/taxi-app-development",
         "text": "Explore More"
       }
     },
@@ -17,7 +17,7 @@
       "subheading": "Food Delivery",
       "text": "Building a thriving business by connecting hungry customers to restaurants with a custom-built food delivery app.",
       "link": {
-        "href": "food-delivery-app-development",
+        "href": "/service/food-delivery-app-development",
         "text": "Explore More"
       }
     },
@@ -26,7 +26,7 @@
       "subheading": "Real Estate",
       "text": "Architect a new way of buying, renting, selling or trading real estate properties with a real estate aggregator app.",
       "link": {
-        "href": "/real-estate-app-development",
+        "href": "/service/real-estate-app-development",
         "text": "Explore More"
       }
     },
@@ -44,7 +44,7 @@
       "subheading": "Finance",
       "text": "Cash in on the rising wave of FinTech with mobile apps for banking, digital wallets, analytics and much more.",
       "link": {
-        "href": "/finance-app-development",
+        "href": "/service/finance-app-development",
         "text": "Explore More"
       }
     },
@@ -53,7 +53,7 @@
       "subheading": "Health & Fitness",
       "text": "Climb to the top of app store leaderboards with mobile apps for personal health, fitness and sports.",
       "link": {
-        "href": "health-fitness-app-development",
+        "href": "/service/health-fitness-app-development",
         "text": "Explore More"
       }
     },
@@ -62,7 +62,7 @@
       "subheading": "Travel & Tourism",
       "text": "Travel booking, adventure planning, route-sharing — we can build a travel mobile app for any purpose.",
       "link": {
-        "href": "travel-app-development",
+        "href": "/service/travel-app-development",
         "text": "Explore More"
       }
     },
@@ -71,7 +71,7 @@
       "subheading": "Media & Entertainment",
       "text": "Video and audio streaming apps are the new rage. Tune into that market with our app development solutions.",
       "link": {
-        "href": "/media-entertainment-app-development",
+        "href": "/service/media-entertainment-app-development",
         "text": "Explore More"
       }
     }

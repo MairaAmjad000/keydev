@@ -57,7 +57,7 @@
     "height": "399"
   },
   "link": {
-    "href": "mobile-application-development",
+    "href": "/service-category/mobile-app-development",
     "text": "Mobile App Development"
   },
   "text3": "Embrace the future of mobility with our expert solutions.",
@@ -78,7 +78,7 @@
   "items2": [
     {
       "link": {
-        "href": "/android-application-development",
+        "href": "/service/android-app-development",
         "ariaLabel": "Android App",
         "title": "Android App",
         "icon": "svg-964e31"
@@ -86,7 +86,7 @@
     },
     {
       "link": {
-        "href": "/iphone-app-development",
+        "href": "/service/iphone-app-development",
         "ariaLabel": "iPhone App",
         "title": "iPhone App",
         "icon": "svg-6a7a32"
@@ -94,7 +94,7 @@
     },
     {
       "link": {
-        "href": "/flutter-application-development",
+        "href": "/service/flutter-app-development",
         "ariaLabel": "Flutter App",
         "title": "Flutter App",
         "icon": "svg-4ae67e"
@@ -102,7 +102,7 @@
     },
     {
       "link": {
-        "href": "/cross-platform-mobile-app-development",
+        "href": "/service/cross-platform-app-development",
         "ariaLabel": "Cross Platform",
         "title": "Cross Platform",
         "icon": "svg-e691d0"
@@ -118,7 +118,7 @@
     "alt": "Web Application Development"
   },
   "link3": {
-    "href": "web-development",
+    "href": "/service-category/web-development",
     "text": "Web Development"
   },
   "text4": "Elevate your business with our expert web development solutions.",
@@ -137,24 +137,24 @@
     }
   ],
   "link4": {
-    "href": "php-web-development"
+    "href": "/service/php-web-development"
   },
   "items3": [
     {
       "link": {
-        "href": "/wordpress-development",
+        "href": "/service/wordpress-development",
         "icon": "svg-b913de"
       }
     },
     {
       "link": {
-        "href": "/php-codeigniter-development",
+        "href": "/service/codeigniter-development",
         "icon": "svg-d419a6"
       }
     },
     {
       "link": {
-        "href": "/laravel-development",
+        "href": "/service/laravel-development",
         "icon": "svg-75ebd4"
       }
     }
@@ -168,7 +168,7 @@
     "alt": "E-Commerce website and Mobile App Development"
   },
   "link6": {
-    "href": "/augmented-reality-app-development",
+    "href": "/service-category/ecommerce-development",
     "text": "E-Commerce Development"
   },
   "text5": "Transform your business with eCommerce solutions that connect you to customers anytime, anywhere.",
@@ -187,7 +187,7 @@
     }
   ],
   "link7": {
-    "href": "ecommerce-web-development"
+    "href": "/service-category/ecommerce-development"
   },
   "or": "OR",
   "link8": {
@@ -199,7 +199,7 @@
     "alt": "Mobile Game Development"
   },
   "link9": {
-    "href": "/game-development",
+    "href": "/service-category/game-development",
     "text": "Game Development"
   },
   "text6": "Build mobile apps that excel in strategy, tackle challenges, and deliver nonstop entertainment.",
@@ -220,14 +220,14 @@
   "items4": [
     {
       "link": {
-        "href": "/ios-game-development",
+        "href": "/service/ios-game-development",
         "title": "iOS Game",
         "icon": "svg-5e47a0"
       }
     },
     {
       "link": {
-        "href": "/android-game-development",
+        "href": "/service/android-game-development",
         "title": "Android Game",
         "icon": "svg-b99206"
       }
@@ -242,7 +242,7 @@
     "alt": "KeyDevs Technologies offers mobile user interface design services in the Pakistan and across the world"
   },
   "link11": {
-    "href": "/ui-ux-design-development",
+    "href": "/service-category/ui-ux-design",
     "text": "UX & UI Design"
   },
   "text7": "Our designs not only look stunning but also ensure seamless, intuitive functionality.",

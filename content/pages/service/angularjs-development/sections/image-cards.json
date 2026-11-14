@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with angularjs development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/social-media.jpg",
+        "alt": "PHP Web Development"
+      },
+      "title": "PHP Web Development",
+      "text": "Cost-effective, flexible PHP websites and web applications that perform and scale.",
+      "link": {
+        "href": "/service/php-web-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/real-estate.jpg",
+        "alt": "WordPress Development"
+      },
+      "title": "WordPress Development",
+      "text": "Scalable, easy-to-manage WordPress websites with custom themes and plugins.",
+      "link": {
+        "href": "/service/wordpress-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "CodeIgniter Development"
+      },
+      "title": "CodeIgniter Development",
+      "text": "Lightweight, fast PHP applications built on the CodeIgniter framework.",
+      "link": {
+        "href": "/service/codeigniter-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "Laravel Development"
+      },
+      "title": "Laravel Development",
+      "text": "Secure, elegant, scalable web applications built on Laravel.",
+      "link": {
+        "href": "/service/laravel-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/alghazi-tractors.jpg",
+        "alt": "NodeJS Development"
+      },
+      "title": "NodeJS Development",
+      "text": "Fast, real-time, scalable backends and APIs powered by Node.js.",
+      "link": {
+        "href": "/service/nodejs-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/al-iftar-foods.jpg",
+        "alt": "Car Wash App Development"
+      },
+      "title": "Car Wash App Development",
+      "text": "On-demand car wash booking apps with scheduling, payments and provider management.",
+      "link": {
+        "href": "/service/car-wash-app-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

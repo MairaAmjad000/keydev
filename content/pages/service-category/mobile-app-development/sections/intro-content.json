@@ -1,0 +1,28 @@
+{
+  "heading": "Mobile App Development Agency",
+  "paragraphs": [
+    {
+      "html": "Speed, usability and flawless performance. If these three things rank high on your priorities for a mobile app, KeyDevs Technologies is a perfect fit. For close to a decade we have been building apps for iPhone, iPad and Android for a diverse range of industries."
+    },
+    {
+      "html": "From food delivery and taxi booking apps to fitness, travel and finance apps, our mobile app development services help you reach customers where they spend most of their time — on their phones."
+    },
+    {
+      "html": "Our team works closely with startups, SMBs and enterprises to build tailored apps that fulfill your vision. Whether the goal is automating operations, opening a new sales channel or building a brand people come back to, our dedicated app developers and designers can help."
+    },
+    {
+      "html": "Start your mobile app project with an experienced team for intuitive, reliable and scalable apps."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Mobile App Development",
+    "width": "470",
+    "height": "410"
+  }
+}

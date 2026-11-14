@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Dating App Development Services",
+  "text2": "Whatever stage you are at, our dating app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Matching Engine"
+      },
+      "title": "Matching Engine",
+      "text": "Swipe, preference and location-based matching tuned to your niche."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Chat and Calls"
+      },
+      "title": "Chat and Calls",
+      "text": "Real-time messaging, voice and video between matches."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Safety and Verification"
+      },
+      "title": "Safety and Verification",
+      "text": "Photo verification, reporting and blocking to protect users."
+    }
+  ]
+}

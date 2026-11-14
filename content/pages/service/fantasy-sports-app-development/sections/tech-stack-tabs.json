@@ -1,0 +1,193 @@
+{
+  "text": "How we Build it?",
+  "heading": "Technology Stack Behind Fantasy Sports App Development",
+  "idPrefix": "stack",
+  "tabs": [
+    {
+      "id": "application",
+      "title": "Application",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/swift.svg",
+            "alt": "swift"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/java.svg",
+            "alt": "java"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/flutter.png",
+            "alt": "flutter"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/angular.png",
+            "alt": "angular"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/node.png",
+            "alt": "node"
+          }
+        }
+      ]
+    },
+    {
+      "id": "backend",
+      "title": "Backend",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/php.png",
+            "alt": "php"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/laravel.svg",
+            "alt": "laravel"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/node-js.svg",
+            "alt": "node-js"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/mongodb.svg",
+            "alt": "mongodb"
+          }
+        }
+      ]
+    },
+    {
+      "id": "database-server",
+      "title": "Database & Server",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/my-sql.png",
+            "alt": "my-sql"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/firebase.svg",
+            "alt": "firebase"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/amazon-rds.png",
+            "alt": "amazon-rds"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-ec2.png",
+            "alt": "aws-ec2"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-s3.png",
+            "alt": "aws-s3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cloud",
+      "title": "Cloud",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/amazon-web-services.svg",
+            "alt": "amazon-web-services"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/linode.svg",
+            "alt": "linode"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/icloud.svg",
+            "alt": "icloud"
+          }
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "title": "Design",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/figma.svg",
+            "alt": "figma"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/sketch.svg",
+            "alt": "sketch"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/invision.svg",
+            "alt": "invision"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/adobe-photoshop.svg",
+            "alt": "adobe-photoshop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "collaboration",
+      "title": "Collaboration",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/slack.svg",
+            "alt": "slack"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/trello.svg",
+            "alt": "trello"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/asana.svg",
+            "alt": "asana"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/bitbucket.svg",
+            "alt": "bitbucket"
+          }
+        }
+      ]
+    }
+  ]
+}

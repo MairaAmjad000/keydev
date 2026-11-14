@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Virtual Reality App Development Services",
+  "text2": "Whatever stage you are at, our virtual reality app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "VR Training Simulations"
+      },
+      "title": "VR Training Simulations",
+      "text": "Safe, repeatable practice for staff in realistic virtual environments."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Virtual Tours"
+      },
+      "title": "Virtual Tours",
+      "text": "Walk-throughs of properties, venues and products that customers can explore from anywhere."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "VR Entertainment"
+      },
+      "title": "VR Entertainment",
+      "text": "Immersive experiences and games designed for comfort and replayability."
+    }
+  ]
+}

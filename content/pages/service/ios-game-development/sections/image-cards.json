@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with ios game development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "Android Game Development"
+      },
+      "title": "Android Game Development",
+      "text": "Games that reach the largest mobile audience and run smoothly across Android devices.",
+      "link": {
+        "href": "/service/android-game-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "2D/3D Game Development"
+      },
+      "title": "2D/3D Game Development",
+      "text": "From charming pixel art to rich 3D worlds, games built with Unity for every genre.",
+      "link": {
+        "href": "/service/unity-2d-3d-game-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/alghazi-tractors.jpg",
+        "alt": "Augmented Reality Game Development"
+      },
+      "title": "Augmented Reality Game Development",
+      "text": "AR games that blend characters and worlds with the player’s real surroundings.",
+      "link": {
+        "href": "/service/ar-game-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/al-iftar-foods.jpg",
+        "alt": "Virtual Reality Game Development"
+      },
+      "title": "Virtual Reality Game Development",
+      "text": "Fully immersive VR games with comfortable controls and high frame rates.",
+      "link": {
+        "href": "/service/vr-game-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/atlas-fuel.jpg",
+        "alt": "Windows Game Development"
+      },
+      "title": "Windows Game Development",
+      "text": "PC games with higher fidelity graphics, controller support and store-ready builds.",
+      "link": {
+        "href": "/service/windows-game-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/flyashs.jpg",
+        "alt": "Mac Game Development"
+      },
+      "title": "Mac Game Development",
+      "text": "Games built and optimized for macOS, including Apple Silicon.",
+      "link": {
+        "href": "/service/mac-game-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

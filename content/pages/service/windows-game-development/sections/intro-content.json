@@ -1,0 +1,23 @@
+{
+  "heading": "Windows Games with Full PC Power",
+  "paragraphs": [
+    {
+      "html": "PC players expect higher fidelity, flexible controls and graphics options. We build Windows games that deliver while staying stable across a wide range of hardware."
+    },
+    {
+      "html": "We develop with Unity, handle keyboard, mouse and controller input, optimize for varied hardware and prepare your game for distribution on popular PC game stores."
+    },
+    {
+      "html": "Start your windows game development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-game-development.png",
+    "alt": "Windows Game Development"
+  }
+}

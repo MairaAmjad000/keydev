@@ -1,0 +1,181 @@
+{
+  "text": "How we Build it?",
+  "heading": "Technology Stack Behind Android Game Development",
+  "idPrefix": "stack",
+  "tabs": [
+    {
+      "id": "game-engine",
+      "title": "Game Engine",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/unity.png",
+            "alt": "unity"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/swift.svg",
+            "alt": "swift"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/java.svg",
+            "alt": "java"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ar-vr",
+      "title": "AR / VR",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/augmented-reality-android.png",
+            "alt": "augmented-reality-android"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/augmented-reality-kit.png",
+            "alt": "augmented-reality-kit"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/google-virtual-reality.png",
+            "alt": "google-virtual-reality"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/oculus-vr.svg",
+            "alt": "oculus-vr"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/mixed-reality.png",
+            "alt": "mixed-reality"
+          }
+        }
+      ]
+    },
+    {
+      "id": "backend",
+      "title": "Backend",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/node.png",
+            "alt": "node"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/php.png",
+            "alt": "php"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/firebase.svg",
+            "alt": "firebase"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/mongodb.svg",
+            "alt": "mongodb"
+          }
+        }
+      ]
+    },
+    {
+      "id": "database-server",
+      "title": "Database & Server",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/my-sql.png",
+            "alt": "my-sql"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/amazon-rds.png",
+            "alt": "amazon-rds"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-ec2.png",
+            "alt": "aws-ec2"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-s3.png",
+            "alt": "aws-s3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "art-animation",
+      "title": "Art & Animation",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/adobe-photoshop.svg",
+            "alt": "adobe-photoshop"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/adobe-illustrator.svg",
+            "alt": "adobe-illustrator"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/adobe-after-effects.svg",
+            "alt": "adobe-after-effects"
+          }
+        }
+      ]
+    },
+    {
+      "id": "collaboration",
+      "title": "Collaboration",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/slack.svg",
+            "alt": "slack"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/trello.svg",
+            "alt": "trello"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/asana.svg",
+            "alt": "asana"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/bitbucket.svg",
+            "alt": "bitbucket"
+          }
+        }
+      ]
+    }
+  ]
+}

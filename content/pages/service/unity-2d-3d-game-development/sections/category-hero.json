@@ -1,0 +1,31 @@
+{
+  "image": {
+    "src": "/images/category/web-development/banner-web-development.webp",
+    "alt": "2D/3D Game Development by KeyDevs Technologies",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "2D/3D Game Development Company",
+  "text": "Whether your game is a charming 2D puzzler or a rich 3D adventure, KeyDevs Technologies has the artists and Unity developers to build it, polish it and launch it.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate 2D/3D Game Development Cost"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "2D/3D Game Development"
+    }
+  ]
+}

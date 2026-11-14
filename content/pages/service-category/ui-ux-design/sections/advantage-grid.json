@@ -1,0 +1,52 @@
+{
+  "text": "Advantages",
+  "heading": "Advantages of Professional UI/UX Design",
+  "text2": "Our experience straddles domains and our expert teams have delivered consistently superior quality across projects of different scope.",
+  "items": [
+    {
+      "icon": "svg-5c93f0",
+      "title": "Higher Conversion",
+      "text": "Clear journeys and calls to action remove friction and turn more visitors into customers."
+    },
+    {
+      "icon": "svg-b0148a",
+      "title": "Lower Development Cost",
+      "text": "Testing ideas in prototypes catches problems before they become expensive code changes."
+    },
+    {
+      "icon": "svg-1111d6",
+      "title": "Stronger Brand",
+      "text": "A distinctive, consistent look builds recognition and trust across every touchpoint."
+    },
+    {
+      "icon": "svg-bb783d",
+      "title": "Happier Users",
+      "text": "Easy-to-use products earn better reviews, higher retention and word of mouth."
+    },
+    {
+      "icon": "svg-a8f81d",
+      "title": "Less Support Load",
+      "text": "Intuitive interfaces mean fewer confused users and fewer support requests."
+    },
+    {
+      "icon": "svg-591fc9",
+      "title": "Data-informed Decisions",
+      "text": "Research and analytics guide design choices, not personal preference."
+    },
+    {
+      "icon": "svg-a42334",
+      "title": "Faster Time to Market",
+      "text": "Reusable components and clear specs speed up design and development."
+    },
+    {
+      "icon": "svg-1b55d5",
+      "title": "Accessibility",
+      "text": "Inclusive design widens your audience and supports compliance."
+    },
+    {
+      "icon": "svg-eecd29",
+      "title": "Scalable Design",
+      "text": "Design systems keep products consistent as teams and features grow."
+    }
+  ]
+}

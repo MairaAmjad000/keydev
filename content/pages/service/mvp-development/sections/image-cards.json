@@ -11,7 +11,7 @@
       "title": "On-demand Taxi App",
       "text": "Augue neque gravida in fermentum sollicitudin ac orci phasellus. Amet est placerat in egestas erat imperdiet sed euismod. Risus in hendrerit gravida rutrum quisque tellus neque Pretium viverra suspendisse potenti nullam.",
       "link": {
-        "href": "taxi-app-development",
+        "href": "/service/taxi-app-development",
         "text": "Explore More"
       }
     },
@@ -23,7 +23,7 @@
       "title": "On-demand Food Delivery",
       "text": "Build the MVP for an on demand food delivery app that will connect customers, restaurants, and delivery professionals. Loyalty schemes, location-based restaurants, etc. can be curated in the MVP.",
       "link": {
-        "href": "food-delivery-app-development",
+        "href": "/service/food-delivery-app-development",
         "text": "Explore More"
       }
     },
@@ -35,7 +35,7 @@
       "title": "Instant Messaging",
       "text": "Get to know how your end users will take the instant messaging app with an MVP. Create the basic app outline with functions for real-time chat, voice calling, video calling, etc.",
       "link": {
-        "href": "chat-instant-messaging-app-development",
+        "href": "/service/instant-messaging-app-development",
         "text": "Explore More"
       }
     },
@@ -47,7 +47,7 @@
       "title": "On-demand Car Wash",
       "text": "A MVP that demonstrates how users can find the best on-demand car washes nearby. The app can also be integrated with map APIs for real-time navigation, online booking and also digital wallet payment.",
       "link": {
-        "href": "car-wash-app-development",
+        "href": "/service/car-wash-app-development",
         "text": "Explore More"
       }
     },
@@ -59,7 +59,7 @@
       "title": "Health and Fitness App",
       "text": "Become the UBER of the fitness industry with a mobile app that allows users to book gyms, take personal trainer appointments or even chat with dietitians. Features to find recipes, workout plans, etc. also available.",
       "link": {
-        "href": "health-fitness-app-development",
+        "href": "/service/health-fitness-app-development",
         "text": "Explore More"
       }
     },
@@ -71,7 +71,7 @@
       "title": "Social Media App",
       "text": "The world still has room for another social network. A new concept or idea is all it takes. We can help you build a MVP of a social media app that does more than connecting people.",
       "link": {
-        "href": "social-media-app-development",
+        "href": "/service/social-media-app-development",
         "text": "Explore More"
       }
     },
@@ -83,7 +83,7 @@
       "title": "Media and Entertainment app",
       "text": "Media streaming is the new rage. Bu,t building a media and entertainment app right from scratch is an expensive process. A well-designed MVP of media and entertainment app will help you know which direction to go.",
       "link": {
-        "href": "media-entertainment-app-development.php",
+        "href": "/service/media-entertainment-app-development",
         "text": "Explore More"
       }
     },
@@ -95,7 +95,7 @@
       "title": "Finance App",
       "text": "Can an app predict stock movements? Or analyze and inform credit score? How about an app that handpicks best insurance? Have an idea that needs to be tested? We can build a MVP for your finance app ida.",
       "link": {
-        "href": "finance-app-development.php",
+        "href": "/service/finance-app-development",
         "text": "Explore More"
       }
     },
@@ -107,7 +107,7 @@
       "title": "Real Estate App",
       "text": "A mobile app can find houses, find tenants for properties and also help tenants find allied services to maintain their properties. Test waters with the idea of a real estate app by building its MVP.",
       "link": {
-        "href": "real-estate-app-development.php",
+        "href": "/service/real-estate-app-development",
         "text": "Explore More"
       }
     }

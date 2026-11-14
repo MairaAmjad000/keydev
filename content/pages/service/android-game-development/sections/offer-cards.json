@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Android Game Development Services",
+  "text2": "Whatever stage you are at, our android game development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-game-development.png",
+        "alt": "Casual to 3D Android Games"
+      },
+      "title": "Casual to 3D Android Games",
+      "text": "Games of every genre built for the wide range of Android hardware."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Performance Tuning"
+      },
+      "title": "Performance Tuning",
+      "text": "Memory, battery and frame rate optimization across low, mid and high-end devices."
+    },
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Google Play Publishing"
+      },
+      "title": "Google Play Publishing",
+      "text": "Store listing, release tracks and updates managed by our team."
+    }
+  ]
+}

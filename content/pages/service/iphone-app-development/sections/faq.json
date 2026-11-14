@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Do you build in Swift or Objective-C?",
+      "answer": "New apps are built in Swift. We also maintain and modernize existing Objective-C apps."
+    },
+    {
+      "question": "Will you handle App Store submission?",
+      "answer": "Yes. We prepare metadata and screenshots, submit the app and handle review feedback."
+    },
+    {
+      "question": "Can you update my existing iOS app?",
+      "answer": "Yes. We can review the code, fix issues, add features and bring the app up to the latest iOS version."
+    },
+    {
+      "question": "How long does iphone app development take?",
+      "answer": "A focused app usually takes 8 to 12 weeks, while feature-rich apps with custom backends take 4 to 8 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

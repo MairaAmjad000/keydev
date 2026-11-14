@@ -1,0 +1,27 @@
+{
+  "slug": "service/seo-services",
+  "seo": {
+    "title": "SEO Services Company | KeyDevs Technologies",
+    "description": "Search engine optimization that grows qualified organic traffic and leads. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

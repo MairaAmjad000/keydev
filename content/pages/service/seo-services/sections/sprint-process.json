@@ -1,0 +1,55 @@
+{
+  "text": "6 steps for seo services",
+  "heading": "Our Proven SEO Services Process is Smart, Lean, & Agile",
+  "text2": "Our seo services process runs from understanding your idea to launching and supporting the finished product. Each step has a clear outcome so you always know what is happening and what comes next.",
+  "items": [
+    {
+      "number": "01",
+      "icon": "svg-e05a7e",
+      "title": "Audit and Discovery",
+      "text": "We review your site, competitors and goals to find the biggest SEO Services opportunities.",
+      "dataWowDelay": ".3s",
+      "orderClass": "order-lg-0"
+    },
+    {
+      "number": "02",
+      "icon": "svg-b980a1",
+      "title": "Keyword and Competitor Research",
+      "text": "We identify the terms your customers use and the gaps your competitors leave open.",
+      "dataWowDelay": ".6s",
+      "orderClass": "order-lg-1"
+    },
+    {
+      "number": "03",
+      "icon": "svg-7c124d",
+      "title": "Technical Fixes",
+      "text": "Speed, crawlability, mobile usability and structure issues are fixed first.",
+      "dataWowDelay": ".9s",
+      "orderClass": "order-lg-2"
+    },
+    {
+      "number": "06",
+      "icon": "svg-9f6087",
+      "title": "Reporting and Refinement",
+      "text": "Monthly reports show results and guide the next round of improvements.",
+      "dataWowDelay": "1.8s",
+      "orderClass": "order-lg-3 order-md-5 order-5"
+    },
+    {
+      "number": "05",
+      "icon": "svg-fd3dc0",
+      "title": "Authority Building",
+      "text": "We earn quality links and local citations that strengthen your site’s authority.",
+      "dataWowDelay": "1.5s",
+      "orderClass": "order-lg-4 order-md-4 order-4"
+    },
+    {
+      "number": "04",
+      "icon": "svg-2f2dff",
+      "title": "On-page and Content",
+      "text": "Pages are optimized and new content is created around what people search for.",
+      "dataWowDelay": "1.2s",
+      "orderClass": "order-lg-5 order-md-3 order-3"
+    }
+  ]
+}

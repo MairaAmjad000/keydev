@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Real Estate App Development Services",
+  "text2": "Whatever stage you are at, our real estate app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Property Search App"
+      },
+      "title": "Property Search App",
+      "text": "Map and list search with filters, saved homes and alerts."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Agent and Owner Tools"
+      },
+      "title": "Agent and Owner Tools",
+      "text": "Manage listings, leads, viewings and messages in one place."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Virtual Tours"
+      },
+      "title": "Virtual Tours",
+      "text": "Photo, video, 360° and AR/VR tours that bring listings to life."
+    }
+  ]
+}

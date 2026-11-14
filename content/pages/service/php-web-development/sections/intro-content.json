@@ -1,0 +1,23 @@
+{
+  "heading": "PHP Development for Websites and Web Apps",
+  "paragraphs": [
+    {
+      "html": "PHP powers a large share of the web for good reason: it is open source, runs on almost any hosting and has a huge ecosystem. It remains a practical choice for everything from business sites to large portals."
+    },
+    {
+      "html": "Our PHP developers build custom websites, portals and APIs with clean architecture, and connect them to payment gateways, CRMs and third-party services."
+    },
+    {
+      "html": "Start your php web development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/web-application-development.webp",
+    "alt": "PHP Web Development"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "service/cross-platform-app-development",
+  "seo": {
+    "title": "Cross Platform App Development Company | KeyDevs Technologies",
+    "description": "One app that runs on iOS, Android and the web, built with the framework that suits your product. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

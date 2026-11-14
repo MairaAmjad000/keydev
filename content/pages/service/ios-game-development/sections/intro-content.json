@@ -1,0 +1,23 @@
+{
+  "heading": "iOS Games Built for Apple Hardware",
+  "paragraphs": [
+    {
+      "html": "Apple devices offer powerful graphics, precise touch and a premium audience. We build games that use that power with smooth frame rates and responsive controls."
+    },
+    {
+      "html": "Our team works with Unity and native tools, integrating Game Center, in-app purchases, ads and analytics, and guiding your game through App Store review."
+    },
+    {
+      "html": "Start your ios game development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-game-development.png",
+    "alt": "iOS Game Development"
+  }
+}

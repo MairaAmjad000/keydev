@@ -1,0 +1,79 @@
+{
+  "text": "Frameworks",
+  "heading": "Our suite of game development technologies",
+  "text2": "KeyDevs Technologies has a large pool of developers and artists who build games on the leading engines and platforms.",
+  "items": [
+    {
+      "title": "Unity Game Development",
+      "image": {
+        "src": "/images/technologies/unity.png",
+        "alt": "Unity Game Development"
+      },
+      "text": "Unity is the engine behind a large share of mobile games. Our Unity developers build 2D and 3D games that run smoothly on every major platform from a single project.",
+      "link": {
+        "href": "/service/unity-2d-3d-game-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "iOS Game Development",
+      "image": {
+        "src": "/images/technologies/swift.svg",
+        "alt": "iOS Game Development"
+      },
+      "text": "Swift and Unity-based pipelines let us build iPhone and iPad games that make the most of Apple hardware and services.",
+      "link": {
+        "href": "/service/ios-game-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Android Game Development",
+      "image": {
+        "src": "/images/technologies/java.svg",
+        "alt": "Android Game Development"
+      },
+      "text": "We build Android games with Unity and native tooling, tuned for a wide range of devices and screen sizes.",
+      "link": {
+        "href": "/service/android-game-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "AR Game Development",
+      "image": {
+        "src": "/images/technologies/augmented-reality-android.png",
+        "alt": "AR Game Development"
+      },
+      "text": "ARCore and ARKit-powered games that place characters and worlds in the player’s real surroundings.",
+      "link": {
+        "href": "/service/ar-game-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "VR Game Development",
+      "image": {
+        "src": "/images/technologies/oculus-vr.svg",
+        "alt": "VR Game Development"
+      },
+      "text": "Immersive virtual reality games for Oculus, Google VR and mixed reality headsets.",
+      "link": {
+        "href": "/service/vr-game-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Mixed Reality",
+      "image": {
+        "src": "/images/technologies/mixed-reality.png",
+        "alt": "Mixed Reality"
+      },
+      "text": "Mixed reality experiences that blend digital objects with the physical world for play, training and visualization.",
+      "link": {
+        "href": "/service/vr-game-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

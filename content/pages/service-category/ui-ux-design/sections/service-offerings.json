@@ -1,0 +1,186 @@
+{
+  "text": "Our UI/UX design offerings",
+  "heading": "Explore our design expertise across the whole product journey",
+  "items": [
+    {
+      "id": "ui-ux-section1",
+      "navIcon": "svg-522317",
+      "navTitle": "UX Research",
+      "number": "01",
+      "heading": "UX research and strategy",
+      "bodyHtml": "<div class=\"top-text-block\">Great design starts with understanding the people who will use it.</div><p>We run user interviews, competitor reviews and journey mapping to uncover what your users actually need, so every design decision is backed by evidence rather than guesswork.</p>",
+      "bullets": [
+        {
+          "html": "User interviews, personas and journey maps"
+        },
+        {
+          "html": "Competitor and market review"
+        },
+        {
+          "html": "Clear product and feature priorities"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Talk to Our Expert"
+      },
+      "image": {
+        "src": "/images/category/ui-ux-design/listing-1.webp",
+        "alt": "UX research and strategy by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "ui-ux-section2",
+      "navIcon": "svg-4c0e6c",
+      "navTitle": "Wireframing",
+      "number": "02",
+      "heading": "Wireframing and prototyping",
+      "bodyHtml": "<div class=\"top-text-block\">See and test your product before a single line of code is written.</div><p>We turn ideas into wireframes and clickable prototypes that show structure, flow and interaction. Testing early saves development time and avoids costly rework later.</p>",
+      "bullets": [
+        {
+          "html": "Low and high fidelity wireframes"
+        },
+        {
+          "html": "Interactive prototypes for user testing"
+        },
+        {
+          "html": "Faster alignment with stakeholders"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Get in Touch with Us"
+      },
+      "image": {
+        "src": "/images/category/ui-ux-design/listing-2.webp",
+        "alt": "Wireframing and prototyping by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "ui-ux-section3",
+      "navIcon": "svg-aa3e20",
+      "navTitle": "Mobile App Design",
+      "number": "03",
+      "heading": "Mobile app UI design",
+      "bodyHtml": "<div class=\"top-text-block\">Interfaces designed for thumbs, small screens and short attention spans.</div><p>We design iOS and Android interfaces that follow platform guidelines while keeping your brand’s personality, with attention to gestures, navigation, accessibility and micro-interactions.</p>",
+      "bullets": [
+        {
+          "html": "iOS and Android design guidelines"
+        },
+        {
+          "html": "Gesture, motion and micro-interaction design"
+        },
+        {
+          "html": "Accessible and readable interfaces"
+        }
+      ],
+      "link": {
+        "href": "/service-category/mobile-app-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/ui-ux-design/listing-3.webp",
+        "alt": "Mobile app UI design by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "ui-ux-section4",
+      "navIcon": "svg-a9eeae",
+      "navTitle": "Web Design",
+      "number": "04",
+      "heading": "Website and web app design",
+      "bodyHtml": "<div class=\"top-text-block\">Websites and web platforms that look sharp and guide visitors to act.</div><p>From marketing sites and landing pages to complex dashboards and SaaS products, we create responsive layouts that load fast, read well and convert.</p>",
+      "bullets": [
+        {
+          "html": "Responsive design for every screen"
+        },
+        {
+          "html": "Landing pages and conversion design"
+        },
+        {
+          "html": "Dashboards and data-heavy interfaces"
+        }
+      ],
+      "link": {
+        "href": "/service-category/web-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/ui-ux-design/listing-4.webp",
+        "alt": "Website and web app design by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "ui-ux-section5",
+      "navIcon": "svg-34ba9a",
+      "navTitle": "Design Systems",
+      "number": "05",
+      "heading": "Design systems and branding",
+      "bodyHtml": "<div class=\"top-text-block\">Keep every screen consistent and make future design faster.</div><p>We build reusable component libraries, colour and type scales and guidelines in Figma so your teams design and ship faster while the product stays consistent as it grows.</p>",
+      "bullets": [
+        {
+          "html": "Figma component libraries and tokens"
+        },
+        {
+          "html": "Brand identity and style guides"
+        },
+        {
+          "html": "Developer-ready handoff"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Talk to Our Expert"
+      },
+      "image": {
+        "src": "/images/category/ui-ux-design/listing-5.webp",
+        "alt": "Design systems and branding by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "ui-ux-section6",
+      "navIcon": "svg-eac249",
+      "navTitle": "Redesign & Audit",
+      "number": "06",
+      "heading": "UX audit and redesign",
+      "bodyHtml": "<div class=\"top-text-block\">Find out why users drop off and fix it.</div><p>We review your existing product for usability issues, analyse how people use it and propose a focused redesign that improves task completion, satisfaction and conversion.</p>",
+      "bullets": [
+        {
+          "html": "Heuristic review and usability testing"
+        },
+        {
+          "html": "Prioritized improvement roadmap"
+        },
+        {
+          "html": "Redesign of key flows and screens"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Get in Touch with Us"
+      },
+      "image": {
+        "src": "/images/category/ui-ux-design/listing-6.webp",
+        "alt": "UX audit and redesign by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    }
+  ]
+}

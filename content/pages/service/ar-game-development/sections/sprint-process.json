@@ -1,0 +1,55 @@
+{
+  "text": "6 steps for augmented reality game development",
+  "heading": "Our Proven Augmented Reality Game Development Process is Smart, Lean, & Agile",
+  "text2": "Our augmented reality game development process runs from understanding your idea to launching and supporting the finished product. Each step has a clear outcome so you always know what is happening and what comes next.",
+  "items": [
+    {
+      "number": "01",
+      "icon": "svg-e05a7e",
+      "title": "Concept Workshop",
+      "text": "We turn your idea for Augmented Reality Game Development into a clear concept, target audience, core loop and scope.",
+      "dataWowDelay": ".3s",
+      "orderClass": "order-lg-0"
+    },
+    {
+      "number": "02",
+      "icon": "svg-b980a1",
+      "title": "Game Design Document",
+      "text": "Mechanics, levels, progression, economy and monetization are documented before production starts.",
+      "dataWowDelay": ".6s",
+      "orderClass": "order-lg-1"
+    },
+    {
+      "number": "03",
+      "icon": "svg-7c124d",
+      "title": "Playable Prototype",
+      "text": "A quick prototype lets you feel the core gameplay and refine it while changes are cheap.",
+      "dataWowDelay": ".9s",
+      "orderClass": "order-lg-2"
+    },
+    {
+      "number": "06",
+      "icon": "svg-9f6087",
+      "title": "Launch and Live Ops",
+      "text": "We publish the game, track player data and ship updates and new content.",
+      "dataWowDelay": "1.8s",
+      "orderClass": "order-lg-3 order-md-5 order-5"
+    },
+    {
+      "number": "05",
+      "icon": "svg-fd3dc0",
+      "title": "Testing and Balancing",
+      "text": "We playtest on real devices, fix bugs and balance difficulty and rewards.",
+      "dataWowDelay": "1.5s",
+      "orderClass": "order-lg-4 order-md-4 order-4"
+    },
+    {
+      "number": "04",
+      "icon": "svg-2f2dff",
+      "title": "Art and Production",
+      "text": "Artists and developers build characters, environments, UI, animations and gameplay systems in sprints.",
+      "dataWowDelay": "1.2s",
+      "orderClass": "order-lg-5 order-md-3 order-3"
+    }
+  ]
+}

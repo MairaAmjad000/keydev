@@ -1,0 +1,27 @@
+{
+  "slug": "service/ar-app-development",
+  "seo": {
+    "title": "Augmented Reality App Development Company | KeyDevs Technologies",
+    "description": "AR apps for retail, education and real estate using ARKit, ARCore and Unity. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "heading": "Fantasy Sports Apps with Live Scoring",
+  "paragraphs": [
+    {
+      "html": "Fantasy sports thrive on real-time data and fair play. Players expect accurate live scores, clear rules and instant results."
+    },
+    {
+      "html": "We built FantasyJi, a cricket fantasy app with private leagues, auctions and live scoring, and bring the same experience to build contests, wallets, leaderboards and admin controls for your sport."
+    },
+    {
+      "html": "Start your fantasy sports app development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Fantasy Sports App Development"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "service/car-wash-app-development",
+  "seo": {
+    "title": "Car Wash App Development Company | KeyDevs Technologies",
+    "description": "On-demand car wash booking apps with scheduling, payments and provider management. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

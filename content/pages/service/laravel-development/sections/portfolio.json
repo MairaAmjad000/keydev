@@ -1,0 +1,97 @@
+{
+  "callout": {
+    "text": "Do you have a <span id=\"callouts-type\"></span> We have a TEAM to get you there.",
+    "link": {
+      "href": "contact",
+      "text": "Get In Touch"
+    }
+  },
+  "text": "The Portfolio",
+  "heading": "Our Unique And Creative Work",
+  "items": [
+    {
+      "heading": "Multan Chemicals Limited",
+      "text": "Corporate website with a full ERP system to track manufacturing and sales operations.",
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "Multan Chemicals Limited: Corporate website with a full ERP system to track manufacturing and sales operations."
+      },
+      "heading2": "Multan Chemicals Limited",
+      "text2": "Corporate website with a full ERP system to track manufacturing and sales operations.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Alghazi Tractors",
+      "text": "eCommerce website for a tractor and farm equipment dealer.",
+      "image": {
+        "src": "/images/portfolio/alghazi-tractors.jpg",
+        "alt": "Alghazi Tractors: eCommerce website for a tractor and farm equipment dealer."
+      },
+      "heading2": "Alghazi Tractors",
+      "text2": "eCommerce website for a tractor and farm equipment dealer.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Al-Iftar Foods",
+      "text": "Website with ERP and CRM to track manufacturing, orders and sales.",
+      "image": {
+        "src": "/images/portfolio/al-iftar-foods.jpg",
+        "alt": "Al-Iftar Foods: Website with ERP and CRM to track manufacturing, orders and sales."
+      },
+      "heading2": "Al-Iftar Foods",
+      "text2": "Website with ERP and CRM to track manufacturing, orders and sales.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Atlas Fuel",
+      "text": "ERP system with MYOB integration for an Australian client.",
+      "image": {
+        "src": "/images/portfolio/atlas-fuel.jpg",
+        "alt": "Atlas Fuel: ERP system with MYOB integration for an Australian client."
+      },
+      "heading2": "Atlas Fuel",
+      "text2": "ERP system with MYOB integration for an Australian client.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Flyashs",
+      "text": "Flight, travel and tourism booking website and mobile apps.",
+      "image": {
+        "src": "/images/portfolio/flyashs.jpg",
+        "alt": "Flyashs: Flight, travel and tourism booking website and mobile apps."
+      },
+      "heading2": "Flyashs",
+      "text2": "Flight, travel and tourism booking website and mobile apps.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Beejan",
+      "text": "Ride booking platform with driver and rider apps.",
+      "image": {
+        "src": "/images/portfolio/beejan.jpg",
+        "alt": "Beejan: Ride booking platform with driver and rider apps."
+      },
+      "heading2": "Beejan",
+      "text2": "Ride booking platform with driver and rider apps.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

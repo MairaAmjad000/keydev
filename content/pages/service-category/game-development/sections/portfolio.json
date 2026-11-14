@@ -1,0 +1,119 @@
+{
+  "text": "The Portfolio",
+  "heading": "Our Unique And Creative Work",
+  "text2": "Have a quick glimpse of our amazing projects that amplified the business of clients.",
+  "items": [
+    {
+      "heading": "Fantasyji",
+      "text": "Fantasy sports game with live scores, contests and instant payouts.",
+      "image": {
+        "src": "/images/portfolio/fantasyji.jpg",
+        "alt": "Fantasyji — Fantasy sports game with live scores, contests and instant payouts.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Fantasyji",
+      "text2": "Fantasy sports game with live scores, contests and instant payouts.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Event & Community Building",
+      "text": "Community app for creating, discovering and joining events.",
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "Event & Community Building — Community app for creating, discovering and joining events.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Event & Community Building",
+      "text2": "Community app for creating, discovering and joining events.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Social Media",
+      "text": "Social networking app with feeds, chat and media sharing.",
+      "image": {
+        "src": "/images/portfolio/social-media.jpg",
+        "alt": "Social Media — Social networking app with feeds, chat and media sharing.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Social Media",
+      "text2": "Social networking app with feeds, chat and media sharing.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Healthcare & Fitness",
+      "text": "Fitness app with workout tracking and challenges.",
+      "image": {
+        "src": "/images/portfolio/healthcare-and-fitness.jpg",
+        "alt": "Healthcare & Fitness — Fitness app with workout tracking and challenges.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Healthcare & Fitness",
+      "text2": "Fitness app with workout tracking and challenges.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Delivery Shark",
+      "text": "Super app with real-time tracking for food delivery, rides and handyman services.",
+      "image": {
+        "src": "/images/portfolio/delivery-shark.jpg",
+        "alt": "Delivery Shark — Super app with real-time tracking for food delivery, rides and handyman services.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Delivery Shark",
+      "text2": "Super app with real-time tracking for food delivery, rides and handyman services.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Finance App",
+      "text": "Personal finance app with budgeting and spending insights.",
+      "image": {
+        "src": "/images/portfolio/finance-app.jpg",
+        "alt": "Finance App — Personal finance app with budgeting and spending insights.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Finance App",
+      "text2": "Personal finance app with budgeting and spending insights.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Real Estate",
+      "text": "Property search app with maps and agent chat.",
+      "image": {
+        "src": "/images/portfolio/real-estate.jpg",
+        "alt": "Real Estate — Property search app with maps and agent chat.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Real Estate",
+      "text2": "Property search app with maps and agent chat.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

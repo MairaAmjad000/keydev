@@ -1,0 +1,28 @@
+{
+  "heading": "User-centred UI/UX Design Agency",
+  "paragraphs": [
+    {
+      "html": "Clarity, usability and delight. If these three things rank high on your priorities for a digital product, KeyDevs Technologies is a perfect fit. Good design is not decoration — it is how your product feels, works and converts."
+    },
+    {
+      "html": "From mobile apps and web platforms to dashboards and eCommerce stores, our UI/UX design services help users get things done with less effort and help your business get better results."
+    },
+    {
+      "html": "Our designers work side by side with product owners and developers, so what we design is what gets built — pixel for pixel, and without surprises."
+    },
+    {
+      "html": "Start your design project with an experienced team for interfaces your users will love."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/ux-ui-design.jpg",
+    "alt": "UI/UX Design",
+    "width": "470",
+    "height": "314"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with cms development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/alghazi-tractors.jpg",
+        "alt": "ERP Development"
+      },
+      "title": "ERP Development",
+      "text": "Custom ERP systems that unite finance, inventory, sales and operations in one platform.",
+      "link": {
+        "href": "/service/erp-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/al-iftar-foods.jpg",
+        "alt": "CRM Development"
+      },
+      "title": "CRM Development",
+      "text": "Custom CRM systems to manage leads, customers and sales pipelines.",
+      "link": {
+        "href": "/service/crm-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/atlas-fuel.jpg",
+        "alt": "Software Development"
+      },
+      "title": "Software Development",
+      "text": "Custom software built around your business, from internal tools to full platforms.",
+      "link": {
+        "href": "/service/software-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/flyashs.jpg",
+        "alt": "Chatbot Development"
+      },
+      "title": "Chatbot Development",
+      "text": "AI chatbots that answer questions, qualify leads and support customers around the clock.",
+      "link": {
+        "href": "/service/chatbot-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/beejan.jpg",
+        "alt": "Fantasy Sports App Development"
+      },
+      "title": "Fantasy Sports App Development",
+      "text": "Fantasy sports apps with live scoring, contests, leagues and secure wallets.",
+      "link": {
+        "href": "/service/fantasy-sports-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/delivery-shark.jpg",
+        "alt": "iPhone App Development"
+      },
+      "title": "iPhone App Development",
+      "text": "Native iOS apps for iPhone and iPad, built in Swift and ready for the App Store.",
+      "link": {
+        "href": "/service/iphone-app-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

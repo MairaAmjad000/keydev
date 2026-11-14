@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Do you support Apple Silicon?",
+      "answer": "Yes. We build and test for Apple Silicon and Intel Macs."
+    },
+    {
+      "question": "Can the same game run on iOS?",
+      "answer": "Yes. Shared code makes iPhone and iPad versions practical."
+    },
+    {
+      "question": "Who handles notarization?",
+      "answer": "We do. Signing and notarization are part of the release process."
+    },
+    {
+      "question": "How long does mac game development take?",
+      "answer": "A simple casual game takes about 2 to 3 months, while a polished 3D or multiplayer game usually takes 6 months or more."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

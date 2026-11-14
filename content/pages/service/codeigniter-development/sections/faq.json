@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Why choose CodeIgniter?",
+      "answer": "It is lightweight, fast and simple, ideal for quick delivery and small to mid-sized projects."
+    },
+    {
+      "question": "CodeIgniter or Laravel?",
+      "answer": "Laravel suits larger, feature-rich projects. CodeIgniter suits lean, fast-to-market ones. We advise per project."
+    },
+    {
+      "question": "Can you take over my existing project?",
+      "answer": "Yes. We review the code and continue development or maintenance."
+    },
+    {
+      "question": "How long does codeigniter development take?",
+      "answer": "A business website usually takes 4 to 8 weeks, while custom web applications take 3 to 6 months depending on features and integrations."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

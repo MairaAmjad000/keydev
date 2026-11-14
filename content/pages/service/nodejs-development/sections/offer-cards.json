@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our NodeJS Development Services",
+  "text2": "Whatever stage you are at, our nodejs development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Node.js API Development"
+      },
+      "title": "Node.js API Development",
+      "text": "Fast REST and GraphQL APIs for web and mobile apps."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Real-time Applications"
+      },
+      "title": "Real-time Applications",
+      "text": "Chat, live tracking and notification systems built on WebSockets."
+    },
+    {
+      "image": {
+        "src": "/images/services/ecommerce-development.png",
+        "alt": "Microservices"
+      },
+      "title": "Microservices",
+      "text": "Scalable service architecture that is easy to deploy and evolve."
+    }
+  ]
+}

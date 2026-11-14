@@ -1,0 +1,119 @@
+{
+  "text": "The Portfolio",
+  "heading": "Our Unique And Creative Work",
+  "text2": "Have a quick glimpse of our amazing design and development projects that amplified the business of clients.",
+  "items": [
+    {
+      "heading": "Healthcare & Fitness",
+      "text": "Fitness app design with workout tracking and progress screens.",
+      "image": {
+        "src": "/images/portfolio/healthcare-and-fitness.jpg",
+        "alt": "Healthcare & Fitness — Fitness app design with workout tracking and progress screens.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Healthcare & Fitness",
+      "text2": "Fitness app design with workout tracking and progress screens.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Social Media",
+      "text": "Social networking app design with feeds, chat and profiles.",
+      "image": {
+        "src": "/images/portfolio/social-media.jpg",
+        "alt": "Social Media — Social networking app design with feeds, chat and profiles.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Social Media",
+      "text2": "Social networking app design with feeds, chat and profiles.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Finance App",
+      "text": "Personal finance app design with clear spending insights.",
+      "image": {
+        "src": "/images/portfolio/finance-app.jpg",
+        "alt": "Finance App — Personal finance app design with clear spending insights.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Finance App",
+      "text2": "Personal finance app design with clear spending insights.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Real Estate",
+      "text": "Property search experience with maps, filters and saved listings.",
+      "image": {
+        "src": "/images/portfolio/real-estate.jpg",
+        "alt": "Real Estate — Property search experience with maps, filters and saved listings.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Real Estate",
+      "text2": "Property search experience with maps, filters and saved listings.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Fantasyji",
+      "text": "Fantasy sports interface with live scores and contest flows.",
+      "image": {
+        "src": "/images/portfolio/fantasyji.jpg",
+        "alt": "Fantasyji — Fantasy sports interface with live scores and contest flows.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Fantasyji",
+      "text2": "Fantasy sports interface with live scores and contest flows.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Delivery Shark",
+      "text": "Multi-service on-demand app with real-time tracking.",
+      "image": {
+        "src": "/images/portfolio/delivery-shark.jpg",
+        "alt": "Delivery Shark — Multi-service on-demand app with real-time tracking.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Delivery Shark",
+      "text2": "Multi-service on-demand app with real-time tracking.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Event & Community Building",
+      "text": "Community and events app with discovery and sign-up flows.",
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "Event & Community Building — Community and events app with discovery and sign-up flows.",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Event & Community Building",
+      "text2": "Community and events app with discovery and sign-up flows.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

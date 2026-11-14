@@ -1,0 +1,27 @@
+{
+  "slug": "service/angularjs-development",
+  "seo": {
+    "title": "AngularJS Development Company | KeyDevs Technologies",
+    "description": "Single-page and progressive web apps with Angular’s structured, reusable architecture. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

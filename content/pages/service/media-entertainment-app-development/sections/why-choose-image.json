@@ -1,0 +1,27 @@
+{
+  "text": "Why Choose Us",
+  "heading": "What Makes KeyDevs Technologies the Prominent Media and Entertainment App Development Company",
+  "text2": "Here is what you can expect when you build your app project with us.",
+  "items": [
+    {
+      "icon": "svg-712708",
+      "title": "Industry know-how",
+      "text": "Experience building similar apps for real clients."
+    },
+    {
+      "icon": "svg-37c5e6",
+      "title": "Complete platform",
+      "text": "Customer app, provider app and admin panel from one team."
+    },
+    {
+      "icon": "svg-90d115",
+      "title": "Launch support",
+      "text": "Store submission and go-live help included."
+    },
+    {
+      "icon": "svg-b4eda3",
+      "title": "Room to grow",
+      "text": "New features and cities added without a rebuild."
+    }
+  ]
+}

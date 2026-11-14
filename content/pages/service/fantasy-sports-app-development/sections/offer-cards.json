@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Fantasy Sports App Development Services",
+  "text2": "Whatever stage you are at, our fantasy sports app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Contest and League Engine"
+      },
+      "title": "Contest and League Engine",
+      "text": "Public and private contests, leagues, auctions and leaderboards."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Live Score Integration"
+      },
+      "title": "Live Score Integration",
+      "text": "Real-time data feeds and automatic point calculation."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Wallet and Payouts"
+      },
+      "title": "Wallet and Payouts",
+      "text": "Secure wallets, deposits and withdrawals with an admin back office."
+    }
+  ]
+}

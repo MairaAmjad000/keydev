@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with finance app development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/healthcare-and-fitness.jpg",
+        "alt": "Taxi App Development"
+      },
+      "title": "Taxi App Development",
+      "text": "Ride-hailing apps with passenger and driver apps, live tracking and an admin panel.",
+      "link": {
+        "href": "/service/taxi-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/social-media.jpg",
+        "alt": "Food Delivery App Development"
+      },
+      "title": "Food Delivery App Development",
+      "text": "Food ordering platforms connecting customers, restaurants and delivery riders.",
+      "link": {
+        "href": "/service/food-delivery-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/real-estate.jpg",
+        "alt": "Car Wash App Development"
+      },
+      "title": "Car Wash App Development",
+      "text": "On-demand car wash booking apps with scheduling, payments and provider management.",
+      "link": {
+        "href": "/service/car-wash-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "SEO Services"
+      },
+      "title": "SEO Services",
+      "text": "Search engine optimization that grows qualified organic traffic and leads.",
+      "link": {
+        "href": "/service/seo-services",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "Real Estate App Development"
+      },
+      "title": "Real Estate App Development",
+      "text": "Property search and listing apps with maps, filters, saved searches and agent chat.",
+      "link": {
+        "href": "/service/real-estate-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/alghazi-tractors.jpg",
+        "alt": "Travel App Development"
+      },
+      "title": "Travel App Development",
+      "text": "Booking, itinerary and guide apps for flights, hotels, tours and trips.",
+      "link": {
+        "href": "/service/travel-app-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Social Media App Development Services",
+  "text2": "Whatever stage you are at, our social media app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Social Networking Apps"
+      },
+      "title": "Social Networking Apps",
+      "text": "Profiles, feeds, follows, likes and comments with fast media handling."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Community and Group Apps"
+      },
+      "title": "Community and Group Apps",
+      "text": "Private communities, events and discussions around shared interests."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Moderation and Admin Tools"
+      },
+      "title": "Moderation and Admin Tools",
+      "text": "Reporting, review queues and controls to keep the community healthy."
+    }
+  ]
+}

@@ -96,146 +96,146 @@
     "html": "Our Service <span class=\"fas fa-caret-down\"></span>"
   },
   "link7": {
-    "href": "/mobile-application-development",
+    "href": "/service-category/mobile-app-development",
     "text": "Mobile App Development"
   },
   "items2": [
     {
       "link": {
-        "href": "/iphone-app-development",
+        "href": "/service/iphone-app-development",
         "icon": "svg-8e0ee3",
         "text": "iPhone App Development"
       }
     },
     {
       "link": {
-        "href": "/androidAppDevelopment",
+        "href": "/service/android-app-development",
         "icon": "svg-3ce919",
         "text": "Android App Development"
       }
     },
     {
       "link": {
-        "href": "/flutter-application-development",
+        "href": "/service/flutter-app-development",
         "icon": "svg-647207",
         "text": "Flutter App Development"
       }
     },
     {
       "link": {
-        "href": "/cross-platform-mobile-app-development",
+        "href": "/service/cross-platform-app-development",
         "icon": "svg-9159da",
         "text": "Cross Platform App Development"
       }
     },
     {
       "link": {
-        "href": "/ios-game-development",
+        "href": "/service/ios-game-development",
         "icon": "svg-8e0ee3",
         "text": "iOS Game Development"
       }
     },
     {
       "link": {
-        "href": "/android-game-development",
+        "href": "/service/android-game-development",
         "icon": "svg-2f5f8c",
         "text": "Android Game Development"
       }
     }
   ],
   "link8": {
-    "href": "/web-development",
+    "href": "/service-category/web-development",
     "text": "Web Development"
   },
   "items3": [
     {
       "link": {
-        "href": "/php-web-development",
+        "href": "/service/php-web-development",
         "icon": "svg-3b512d",
         "text": "PHP Web Development"
       }
     },
     {
       "link": {
-        "href": "/wordpress-development",
+        "href": "/service/wordpress-development",
         "icon": "svg-4fd5d5",
         "text": "Wordpress Development"
       }
     },
     {
       "link": {
-        "href": "/php-codeigniter-development",
+        "href": "/service/codeigniter-development",
         "icon": "svg-f84258",
         "text": "Codeigniter Development"
       }
     },
     {
       "link": {
-        "href": "/laravel-development",
+        "href": "/service/laravel-development",
         "icon": "svg-d32aaa",
         "text": "Laravel Development"
       }
     },
     {
       "link": {
-        "href": "/angularjs-development",
+        "href": "/service/angularjs-development",
         "icon": "svg-9a7529",
         "text": "AngularJS Development"
       }
     },
     {
       "link": {
-        "href": "/nodejs-development",
+        "href": "/service/nodejs-development",
         "icon": "svg-c48fbc",
         "text": "NodeJS Development"
       }
     }
   ],
   "link9": {
-    "href": "/game-development",
-    "text": "Digital Marketing"
+    "href": "/service-category/game-development",
+    "text": "Game Development"
   },
   "items4": [
     {
       "link": {
-        "href": "/ios-game-development",
+        "href": "/service/ios-game-development",
         "icon": "svg-8e0ee3",
-        "text": "Search Engine Optimization"
+        "text": "iOS Game Development"
       }
     },
     {
       "link": {
-        "href": "/android-game-development",
+        "href": "/service/android-game-development",
         "icon": "svg-2f5f8c",
-        "text": "Social Media Marketing"
+        "text": "Android Game Development"
       }
     },
     {
       "link": {
-        "href": "/unity-2d-3d-game-development",
+        "href": "/service/unity-2d-3d-game-development",
         "icon": "svg-39e9ed",
-        "text": "Facebook Ads"
+        "text": "2D/3D Game Development"
       }
     },
     {
       "link": {
-        "href": "/augmented-reality-game-development",
+        "href": "/service/ar-game-development",
         "icon": "svg-8585d3",
-        "text": "Google Ads"
+        "text": "AR Game Development"
       }
     },
     {
       "link": {
-        "href": "/virtual-reality-game-development",
+        "href": "/service/vr-game-development",
         "icon": "svg-98c0e2",
-        "text": "E-commerce Ads"
+        "text": "VR Game Development"
       }
     },
     {
       "link": {
-        "href": "/mac-game-development",
+        "href": "/service/mac-game-development",
         "icon": "svg-c82c19",
-        "text": "Youtube Pormotion"
+        "text": "Mac Game Development"
       }
     }
   ],
@@ -244,41 +244,41 @@
     "text": "Enterprise Solutions"
   },
   "link11": {
-    "href": "/startup-mvp-development",
+    "href": "/service/mvp-development",
     "text": "Startup MVP Development"
   },
   "items5": [
     {
       "link": {
-        "href": "/erp-development",
+        "href": "/service/erp-development",
         "icon": "svg-a1dbcf",
         "text": "ERP Solutions"
       }
     },
     {
       "link": {
-        "href": "/crm-development",
+        "href": "/service/crm-development",
         "icon": "svg-5c779d",
         "text": "CRM Solutions"
       }
     },
     {
       "link": {
-        "href": "/cms-development",
+        "href": "/service/cms-development",
         "icon": "svg-cc0fb0",
         "text": "CMS Solutions"
       }
     },
     {
       "link": {
-        "href": "/ecommerce-web-development",
+        "href": "/service-category/ecommerce-development",
         "icon": "svg-3e1b19",
         "text": "Ecommerce Solutions"
       }
     },
     {
       "link": {
-        "href": "/ui-ux-design-development",
+        "href": "/service-category/ui-ux-design",
         "icon": "svg-1ba420",
         "text": "UI-UX Design"
       }
@@ -313,28 +313,28 @@
       "items": [
         {
           "link": {
-            "href": "/taxi-app-development",
+            "href": "/service/taxi-app-development",
             "icon": "svg-39bfa2",
             "text": "Taxi Book"
           }
         },
         {
           "link": {
-            "href": "/food-delivery-app-development",
+            "href": "/service/food-delivery-app-development",
             "icon": "svg-e2d0e8",
             "text": "Food Delivery"
           }
         },
         {
           "link": {
-            "href": "/car-wash-app-development",
+            "href": "/service/car-wash-app-development",
             "icon": "svg-dae781",
             "text": "Car Wash"
           }
         },
         {
           "link": {
-            "href": "/seo-services",
+            "href": "/service/seo-services",
             "icon": "svg-369e84",
             "text": "SEO Services"
           }
@@ -350,28 +350,28 @@
       "items": [
         {
           "link": {
-            "href": "/real-estate-app-development",
+            "href": "/service/real-estate-app-development",
             "icon": "svg-d7618a",
             "text": "Real Estate"
           }
         },
         {
           "link": {
-            "href": "/finance-app-development",
+            "href": "/service/finance-app-development",
             "icon": "svg-b68e51",
             "text": "Banking and Finance"
           }
         },
         {
           "link": {
-            "href": "/travel-app-development",
+            "href": "/service/travel-app-development",
             "icon": "svg-f95d40",
             "text": "Travel and Tourism"
           }
         },
         {
           "link": {
-            "href": "/health-fitness-app-development",
+            "href": "/service/health-fitness-app-development",
             "icon": "svg-1a5ee6",
             "text": "Health and Fitness"
           }
@@ -387,28 +387,28 @@
       "items": [
         {
           "link": {
-            "href": "/social-media-app-development",
+            "href": "/service/social-media-app-development",
             "icon": "svg-1ac9ab",
             "text": "Social Media"
           }
         },
         {
           "link": {
-            "href": "/dating-app-development",
+            "href": "/service/dating-app-development",
             "icon": "svg-af7dd9",
             "text": "Dating"
           }
         },
         {
           "link": {
-            "href": "/chat-instant-messaging-app-development",
+            "href": "/service/instant-messaging-app-development",
             "icon": "svg-d16673",
             "text": "Instant Messaging"
           }
         },
         {
           "link": {
-            "href": "/media-entertainment-app-development",
+            "href": "/service/media-entertainment-app-development",
             "icon": "svg-662a5a",
             "text": "Media and Entertainment"
           }
@@ -424,14 +424,14 @@
       "items": [
         {
           "link": {
-            "href": "/fantasy-sports-app-development",
+            "href": "/service/fantasy-sports-app-development",
             "icon": "svg-2858cc",
             "text": "Fantasy Sports"
           }
         },
         {
           "link": {
-            "href": "/chatbot-development",
+            "href": "/service/chatbot-development",
             "icon": "svg-1e8a6a",
             "text": "Chatbot"
           }

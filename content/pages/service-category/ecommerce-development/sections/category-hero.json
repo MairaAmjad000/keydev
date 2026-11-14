@@ -1,0 +1,70 @@
+{
+  "image": {
+    "src": "/images/category/ecommerce-development/banner-ecommerce-development.webp",
+    "alt": "E-Commerce Development company in Lahore, Pakistan — KeyDevs Technologies",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "ECOMMERCE DEVELOPMENT COMPANY",
+  "text": "KeyDevs Technologies is a full-cycle eCommerce development company. Wondering what that is? <br/><br/> If you want to sell online — whether a single store, a multi-vendor marketplace or a mobile shopping app — we can make that happen. From product catalog design to payment, inventory and delivery integrations, we take care of the entire nine yards of eCommerce development.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate Your eCommerce Development Cost"
+    }
+  ],
+  "form": {
+    "id": "ecommerce-banner_form",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Name",
+        "required": true,
+        "label": "Name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email",
+        "required": true,
+        "label": "Email"
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "placeholder": "Phone Number",
+        "required": true,
+        "minLength": 10,
+        "maxLength": 11,
+        "variant": "phone"
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "Project Descriptions",
+        "required": false,
+        "label": "Message",
+        "rows": 4
+      }
+    ],
+    "submitText": "Get Started Now!",
+    "errorId": "ecommerce-error_message_banner_form",
+    "successId": "ecommerce-success_message_banner_form"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "E-Commerce Development"
+    }
+  ]
+}

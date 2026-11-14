@@ -1,0 +1,237 @@
+{
+  "text": "That's How We Work",
+  "heading": "Our Proven UI/UX Design Process: Efficient, Streamlined, and Adaptive",
+  "text2": "KeyDevs Technologies employs an Agile approach to ensure faster delivery without compromising quality. We divide each design project into distinct phases, with each phase focused on moving the product toward a design that is tested and ready to build.",
+  "processItemsList": [
+    {
+      "dataWowDelay": "0",
+      "icon": {
+        "className": "fas fa-angle-right"
+      },
+      "icon2": "svg-0e8fd7",
+      "subheading": "01 Discover",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Stakeholder interviews"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>User research and personas"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Timeline and commercials"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "0.2s",
+      "icon": {
+        "className": "fas fa-angle-right"
+      },
+      "icon2": "svg-4571ef",
+      "subheading": "02 Information Design",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>User flows and sitemaps"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Wireframe designing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Content structure"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "0.4s",
+      "icon": {
+        "className": "fas fa-angle-right"
+      },
+      "icon2": "svg-6ebd40",
+      "subheading": "03 Prototypes",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Low-fidelity prototyping"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>High-fidelity prototyping"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Applying design thinking"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "0.6s",
+      "icon": {
+        "className": "fas fa-angle-down"
+      },
+      "icon2": "svg-56821f",
+      "subheading": "04 Visual Design",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Brand styling & preset creation"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>UI screens and components"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Design system creation"
+        }
+      ]
+    }
+  ],
+  "icon": "svg-a93881",
+  "subheading": "05 Usability Testing",
+  "items": [
+    {
+      "html": "<i class=\"fas fa-chevron-right\"></i>User test creation"
+    },
+    {
+      "html": "<i class=\"fas fa-chevron-right\"></i>Moderated testing"
+    },
+    {
+      "html": "<i class=\"fas fa-chevron-right\"></i>Feedback iteration"
+    }
+  ],
+  "processItemsList2": [
+    {
+      "dataWowDelay": "1s",
+      "icon": "svg-374796",
+      "subheading": "06 Handoff",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Developer specs and assets"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Design QA during build"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Style guide handover"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "1.2s",
+      "icon": "svg-7249bb",
+      "subheading": "07 Support & Iteration",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Post-launch review"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Analytics-driven improvements"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Managed services"
+        }
+      ]
+    }
+  ],
+  "items2": [
+    {
+      "icon": "svg-0e8fd7",
+      "subheading": "01 Discover",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Stakeholder interviews"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>User research and personas"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Timeline and commercials"
+        }
+      ]
+    },
+    {
+      "icon": "svg-4571ef",
+      "subheading": "02 Information Design",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>User flows and sitemaps"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Wireframe designing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Content structure"
+        }
+      ]
+    },
+    {
+      "icon": "svg-6ebd40",
+      "subheading": "03 Prototypes",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Low-fidelity prototyping"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>High-fidelity prototyping"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Applying design thinking"
+        }
+      ]
+    },
+    {
+      "icon": "svg-56821f",
+      "subheading": "04 Visual Design",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Brand styling & preset creation"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>UI screens and components"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Design system creation"
+        }
+      ]
+    },
+    {
+      "icon": "svg-a93881",
+      "subheading": "05 Usability Testing",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>User test creation"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Moderated testing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Feedback iteration"
+        }
+      ]
+    },
+    {
+      "icon": "svg-374796",
+      "subheading": "06 Handoff",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Developer specs and assets"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Design QA during build"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Style guide handover"
+        }
+      ]
+    },
+    {
+      "icon": "svg-7249bb",
+      "subheading": "07 Support & Iteration",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Post-launch review"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Analytics-driven improvements"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Managed services"
+        }
+      ]
+    }
+  ]
+}

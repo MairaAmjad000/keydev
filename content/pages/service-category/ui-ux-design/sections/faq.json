@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service category.",
+  "items": [
+    {
+      "question": "What UI/UX design services do you offer?",
+      "answer": "We offer UX research, wireframing, prototyping, mobile and web UI design, design systems, usability testing, UX audits and redesigns."
+    },
+    {
+      "question": "What is the difference between UI and UX design?",
+      "answer": "UX design is about how a product works and feels — flows, structure and usability. UI design is how it looks — colour, typography, layout and visual detail. A great product needs both."
+    },
+    {
+      "question": "How long does a design project take?",
+      "answer": "A website or small app design typically takes 3 to 6 weeks, while larger products and design systems take 2 to 4 months depending on scope."
+    },
+    {
+      "question": "Do you work with our development team?",
+      "answer": "Yes. We deliver developer-ready files and can stay involved during the build to make sure the final product matches the design."
+    },
+    {
+      "question": "Can you redesign an existing product?",
+      "answer": "Yes. We start with a UX audit to identify problems, then redesign the key flows and screens that will make the biggest difference."
+    }
+  ]
+}

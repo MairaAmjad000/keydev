@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Food Delivery App Development Services",
+  "text2": "Whatever stage you are at, our food delivery app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Customer Ordering App"
+      },
+      "title": "Customer Ordering App",
+      "text": "Browse menus, order, pay and track delivery in real time."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Restaurant and Rider Apps"
+      },
+      "title": "Restaurant and Rider Apps",
+      "text": "Receive orders, manage menus and dispatch riders efficiently."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Admin Dashboard"
+      },
+      "title": "Admin Dashboard",
+      "text": "Manage restaurants, commissions, promotions and reports."
+    }
+  ]
+}

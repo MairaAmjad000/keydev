@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Travel App Development Services",
+  "text2": "Whatever stage you are at, our travel app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Booking Apps"
+      },
+      "title": "Booking Apps",
+      "text": "Flights, hotels and tours with search, comparison and secure payment."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Itinerary and Guide Apps"
+      },
+      "title": "Itinerary and Guide Apps",
+      "text": "Trip planning, maps, offline guides and recommendations."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Agency Platforms"
+      },
+      "title": "Agency Platforms",
+      "text": "Back office tools for agents, packages and customer management."
+    }
+  ]
+}

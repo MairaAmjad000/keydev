@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service category.",
+  "items": [
+    {
+      "question": "What mobile app development services do you offer?",
+      "answer": "We build iPhone, Android, Flutter and cross platform apps, as well as AR and VR apps, along with the backend, admin panel, testing, store submission and ongoing support."
+    },
+    {
+      "question": "Should I build a native or cross platform app?",
+      "answer": "It depends on your goals, budget and timeline. Native gives the best performance and platform polish, while Flutter and other cross platform options cut cost and time. We explain the trade-offs before development begins."
+    },
+    {
+      "question": "How long does it take to build a mobile app?",
+      "answer": "A simple app usually takes 2 to 3 months, while feature-rich apps with custom backends take 4 to 8 months depending on complexity and integrations."
+    },
+    {
+      "question": "Will you publish the app on the App Store and Google Play?",
+      "answer": "Yes. We prepare store listings, handle submission and review feedback, and support your launch."
+    },
+    {
+      "question": "Do you offer support after the app is launched?",
+      "answer": "Yes. We provide bug fixes, OS compatibility updates, performance monitoring and new feature development."
+    }
+  ]
+}

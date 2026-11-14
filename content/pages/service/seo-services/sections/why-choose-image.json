@@ -1,0 +1,27 @@
+{
+  "text": "Why Choose Us",
+  "heading": "What Makes KeyDevs Technologies the Prominent SEO Services Company",
+  "text2": "Here is what you can expect when you build your SEO project with us.",
+  "items": [
+    {
+      "icon": "svg-712708",
+      "title": "Transparent reporting",
+      "text": "Clear reports on rankings, traffic and leads."
+    },
+    {
+      "icon": "svg-37c5e6",
+      "title": "White-hat methods",
+      "text": "Sustainable techniques that follow search engine guidelines."
+    },
+    {
+      "icon": "svg-90d115",
+      "title": "Tailored strategy",
+      "text": "A plan built around your market and goals."
+    },
+    {
+      "icon": "svg-b4eda3",
+      "title": "Dedicated specialist",
+      "text": "One point of contact who knows your site."
+    }
+  ]
+}

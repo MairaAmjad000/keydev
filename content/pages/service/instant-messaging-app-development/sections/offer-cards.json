@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Instant Messaging App Development Services",
+  "text2": "Whatever stage you are at, our instant messaging app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "One-to-one and Group Chat"
+      },
+      "title": "One-to-one and Group Chat",
+      "text": "Fast messaging with typing indicators, receipts and media sharing."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Voice and Video Calling"
+      },
+      "title": "Voice and Video Calling",
+      "text": "Reliable calls between users and in groups."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Business and Support Chat"
+      },
+      "title": "Business and Support Chat",
+      "text": "In-app chat for customer support and team collaboration."
+    }
+  ]
+}

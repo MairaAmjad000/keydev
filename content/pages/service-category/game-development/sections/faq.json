@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service category.",
+  "items": [
+    {
+      "question": "What types of games do you develop?",
+      "answer": "We develop 2D and 3D mobile games, casual and hyper-casual games, multiplayer games, and AR and VR experiences for iOS, Android, Windows and Mac."
+    },
+    {
+      "question": "Which engine do you use?",
+      "answer": "Primarily Unity, because it supports 2D, 3D, AR and VR across platforms from one project. We recommend the best tool for your game after reviewing your concept."
+    },
+    {
+      "question": "How long does it take to develop a game?",
+      "answer": "A simple casual game can take 2 to 3 months, while a polished 3D or multiplayer game typically takes 6 months or more depending on scope."
+    },
+    {
+      "question": "Can you help with monetization?",
+      "answer": "Yes. We integrate ads, in-app purchases and rewards, and design them around the gameplay so they support retention."
+    },
+    {
+      "question": "Do you support the game after launch?",
+      "answer": "Yes. We provide bug fixes, updates, new levels and events, and analytics-driven balancing."
+    }
+  ]
+}

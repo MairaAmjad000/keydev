@@ -1,0 +1,23 @@
+{
+  "heading": "NodeJS for Fast, Real-time Applications",
+  "paragraphs": [
+    {
+      "html": "Node.js handles many concurrent connections efficiently, which makes it ideal for chat, live tracking, notifications and APIs that serve web and mobile clients."
+    },
+    {
+      "html": "Using one language across server and client speeds development and simplifies teams. We build secure, well-tested services and deploy them to scalable cloud infrastructure."
+    },
+    {
+      "html": "Start your nodejs development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/web-application-development.webp",
+    "alt": "NodeJS Development"
+  }
+}

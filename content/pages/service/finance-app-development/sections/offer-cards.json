@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Finance App Development Services",
+  "text2": "Whatever stage you are at, our finance app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Mobile Banking and Wallets"
+      },
+      "title": "Mobile Banking and Wallets",
+      "text": "Account views, transfers, bill payments and digital wallets."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Personal Finance Apps"
+      },
+      "title": "Personal Finance Apps",
+      "text": "Budgeting, spending insights and goal tracking."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Lending and Investment Platforms"
+      },
+      "title": "Lending and Investment Platforms",
+      "text": "Application, scoring and portfolio tracking workflows."
+    }
+  ]
+}

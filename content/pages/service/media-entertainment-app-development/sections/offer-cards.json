@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Media and Entertainment App Development Services",
+  "text2": "Whatever stage you are at, our media and entertainment app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Video and Audio Streaming"
+      },
+      "title": "Video and Audio Streaming",
+      "text": "Adaptive playback, downloads and picture-in-picture on mobile."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Live Events and Podcasts"
+      },
+      "title": "Live Events and Podcasts",
+      "text": "Live streaming, scheduling and on-demand libraries."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Subscriptions and Ads"
+      },
+      "title": "Subscriptions and Ads",
+      "text": "Paywalls, premium tiers and advertising integrations."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service category.",
+  "items": [
+    {
+      "question": "Which eCommerce platform is best for my business?",
+      "answer": "It depends on catalog size, budget, customization needs and growth plans. We review your requirements and recommend WooCommerce, Shopify, Magento or a custom build, with the trade-offs explained."
+    },
+    {
+      "question": "Can you integrate local payment gateways and couriers?",
+      "answer": "Yes. We integrate card gateways, mobile wallets, bank transfer, cash on delivery and the leading courier services used in Pakistan and abroad."
+    },
+    {
+      "question": "How long does it take to build an online store?",
+      "answer": "A standard store usually takes 4 to 8 weeks, while custom stores and marketplaces take 3 to 6 months depending on features and integrations."
+    },
+    {
+      "question": "Will my store be SEO friendly and fast?",
+      "answer": "Yes. Every store is responsive, optimized for speed and built with search-friendly structure and on-page SEO basics."
+    },
+    {
+      "question": "Do you offer maintenance after launch?",
+      "answer": "Yes. We provide security updates, backups, performance tuning, hosting support and new feature development."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "text": "6 steps for media and entertainment app development",
+  "heading": "Our Proven Media and Entertainment App Development Process is Smart, Lean, & Agile",
+  "text2": "Our media and entertainment app development process runs from understanding your idea to launching and supporting the finished product. Each step has a clear outcome so you always know what is happening and what comes next.",
+  "items": [
+    {
+      "number": "01",
+      "icon": "svg-e05a7e",
+      "title": "Idea Workshop",
+      "text": "We work through your business model, users and must-have features for Media and Entertainment App Development.",
+      "dataWowDelay": ".3s",
+      "orderClass": "order-lg-0"
+    },
+    {
+      "number": "02",
+      "icon": "svg-b980a1",
+      "title": "Technical Analysis",
+      "text": "We pick platforms, integrations and architecture suited to your launch plan and budget.",
+      "dataWowDelay": ".6s",
+      "orderClass": "order-lg-1"
+    },
+    {
+      "number": "03",
+      "icon": "svg-7c124d",
+      "title": "UI/UX Prototyping",
+      "text": "Clickable prototypes for the user, provider and admin sides let you validate the experience.",
+      "dataWowDelay": ".9s",
+      "orderClass": "order-lg-2"
+    },
+    {
+      "number": "06",
+      "icon": "svg-9f6087",
+      "title": "Launch and Growth",
+      "text": "We publish the apps, monitor performance and help you iterate after launch.",
+      "dataWowDelay": "1.8s",
+      "orderClass": "order-lg-3 order-md-5 order-5"
+    },
+    {
+      "number": "05",
+      "icon": "svg-fd3dc0",
+      "title": "Build and Test in Sprints",
+      "text": "Apps and backend are built in sprints and tested on real devices at each milestone.",
+      "dataWowDelay": "1.5s",
+      "orderClass": "order-lg-4 order-md-4 order-4"
+    },
+    {
+      "number": "04",
+      "icon": "svg-2f2dff",
+      "title": "Functional Specification",
+      "text": "Features, roles and workflows are documented so the build stays on track.",
+      "dataWowDelay": "1.2s",
+      "orderClass": "order-lg-5 order-md-3 order-3"
+    }
+  ]
+}

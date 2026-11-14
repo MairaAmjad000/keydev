@@ -1,0 +1,42 @@
+{
+  "text": "Advantages",
+  "heading": "Key Features of Our Game Development",
+  "text2": "Great games are built on solid foundations. These are the qualities we put into every game we deliver.",
+  "subheading": "Why build your game in Unity?",
+  "items": [
+    {
+      "icon": "svg-c74f4f",
+      "html": "<strong>One project, many platforms</strong> — ship to iOS, Android, Windows, Mac, AR and VR from the same codebase."
+    },
+    {
+      "icon": "svg-153ded",
+      "html": "<strong>Rich asset ecosystem</strong> with ready-made tools and plugins that speed up development."
+    },
+    {
+      "icon": "svg-245c7d",
+      "html": "<strong>Powerful 2D and 3D engine</strong> with physics, lighting and animation built in."
+    },
+    {
+      "icon": "svg-44f4fb",
+      "html": "<strong>Built-in monetization</strong> through ads, in-app purchases and analytics integrations."
+    },
+    {
+      "icon": "svg-fc8601",
+      "html": "<strong>Fast prototyping</strong> so we can test the fun early and refine gameplay before heavy investment."
+    },
+    {
+      "icon": "svg-9fb70d",
+      "html": "<strong>Active community and support</strong> that keeps your game compatible with new devices and OS releases."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Game Expert Now"
+  },
+  "image": {
+    "src": "/images/category/game-development/features-game-development.webp",
+    "alt": "game development",
+    "width": "549",
+    "height": "528"
+  }
+}

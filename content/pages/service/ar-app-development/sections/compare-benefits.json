@@ -1,0 +1,47 @@
+{
+  "text": "Augmented Reality App Development Benefits",
+  "heading": "Benefits of Augmented Reality App Development",
+  "text2": "Being a trusted mobile app partner, we focus on outcomes you can measure, from faster delivery to a product your users and team will rely on.",
+  "compare": {
+    "before": {
+      "src": "/images/portfolio/finance-app.jpg",
+      "alt": "Augmented Reality App Development"
+    },
+    "after": {
+      "src": "/images/portfolio/healthcare-and-fitness.jpg",
+      "alt": "Augmented Reality App Development"
+    }
+  },
+  "items": [
+    {
+      "icon": "svg-4f24e7",
+      "title": "Reach customers directly",
+      "text": "Put Augmented Reality App Development in front of users on the device they check most, with push notifications for offers and updates."
+    },
+    {
+      "icon": "svg-72485b",
+      "title": "Faster, smoother experience",
+      "text": "Fast start-up, fluid screens and responsive controls keep people using your app instead of leaving."
+    },
+    {
+      "icon": "svg-92329f",
+      "title": "Use device features",
+      "text": "Camera, GPS, biometrics and sensors unlock features a mobile website cannot match."
+    },
+    {
+      "icon": "svg-677566",
+      "title": "Built to scale",
+      "text": "A clean architecture and scalable backend let the app grow from the first hundred users to the first million."
+    },
+    {
+      "icon": "svg-bd8d6e",
+      "title": "Save time and money",
+      "text": "Reusable components and an agile process get your app to market sooner and within budget."
+    },
+    {
+      "icon": "svg-afdd73",
+      "title": "Learn from real data",
+      "text": "Built-in analytics show how users behave so you can improve every release with evidence."
+    }
+  ]
+}

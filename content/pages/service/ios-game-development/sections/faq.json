@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Do you use Unity for iOS games?",
+      "answer": "Usually yes, because it supports many platforms. We also use native tools when they suit the game."
+    },
+    {
+      "question": "Can the game also run on Android?",
+      "answer": "Yes. A Unity project can ship to both platforms with little extra work."
+    },
+    {
+      "question": "How do you handle monetization?",
+      "answer": "We integrate ads and in-app purchases designed around gameplay."
+    },
+    {
+      "question": "How long does ios game development take?",
+      "answer": "A simple casual game takes about 2 to 3 months, while a polished 3D or multiplayer game usually takes 6 months or more."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

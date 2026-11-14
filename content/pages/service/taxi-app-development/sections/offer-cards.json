@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Taxi App Development Services",
+  "text2": "Whatever stage you are at, our taxi app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Passenger App"
+      },
+      "title": "Passenger App",
+      "text": "Book rides, track drivers, pay and rate trips from one simple app."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Driver App"
+      },
+      "title": "Driver App",
+      "text": "Accept requests, navigate, track earnings and manage availability."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Admin Panel"
+      },
+      "title": "Admin Panel",
+      "text": "Manage drivers, fares, trips, promotions and payouts."
+    }
+  ]
+}

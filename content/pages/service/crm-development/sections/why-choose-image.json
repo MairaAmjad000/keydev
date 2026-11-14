@@ -1,0 +1,27 @@
+{
+  "text": "Why Choose Us",
+  "heading": "What Makes KeyDevs Technologies the Prominent CRM Development Company",
+  "text2": "Here is what you can expect when you build your software project with us.",
+  "items": [
+    {
+      "icon": "svg-712708",
+      "title": "Process-first approach",
+      "text": "We understand your operations before writing code."
+    },
+    {
+      "icon": "svg-37c5e6",
+      "title": "Phased rollout",
+      "text": "Go live module by module to reduce risk."
+    },
+    {
+      "icon": "svg-90d115",
+      "title": "Integration expertise",
+      "text": "Connects with accounting, payment, courier and legacy systems."
+    },
+    {
+      "icon": "svg-b4eda3",
+      "title": "Long-term partnership",
+      "text": "Support, upgrades and new modules as you grow."
+    }
+  ]
+}

@@ -89,6 +89,12 @@ fill each section's data in the admin panel. Sections, in page order:
 Sticky tabs and scroll-spy for `serviceOfferings` live in `public/scripts/category-page.js` (+ `scroll-to-fixed.js`).
 The hero form is markup only, like the other forms in this project; hook your submit handler to the form `id`.
 
+Other category pages built from this template (same sections, own content): `/service-category/mobile-app-development`,
+`/service-category/ecommerce-development`, `/service-category/game-development`, `/service-category/ui-ux-design`
+(`content/pages/service-category/<slug>`; each is registered in `src/lib/cms/local.ts`). Banner, "features" and the six
+service listing pictures of these four pages are placeholders copied from the web-development set
+(`public/images/category/<slug>/banner-<slug>.webp`, `features-<slug>.webp`, `listing-1..6.webp`): overwrite them with real artwork.
+
 ## Service pages
 
 `/service/mvp-development` (`content/pages/service/mvp-development`) is the template for every individual service
@@ -104,6 +110,21 @@ bar), `testimonials`, `technologies`, `faq`, `featuredIn`, `blog`, `scheduleCall
 | `sprintProcess` | `SprintProcess` | numbered step cards; each sets its own grid order |
 | `techStackTabs` | `TechStackTabs` | technology logos in tabs; `idPrefix` keeps ids unique on the page |
 | `whyChooseImage` | `WhyChooseImage` | picture + card with icon rows |
+
+## Individual service pages (37)
+
+Every service linked from the menus has its own page at `/service/<slug>`, built from the MVP template
+(`content/pages/service/<slug>`): iphone-app-development, android-app-development, flutter-app-development,
+cross-platform-app-development, ar-app-development, vr-app-development, ios-game-development, android-game-development,
+unity-2d-3d-game-development, ar-game-development, vr-game-development, windows-game-development, mac-game-development,
+php-web-development, wordpress-development, codeigniter-development, laravel-development, angularjs-development,
+nodejs-development, erp-development, crm-development, cms-development, software-development, chatbot-development,
+taxi-app-development, food-delivery-app-development, car-wash-app-development, seo-services, real-estate-app-development,
+finance-app-development, travel-app-development, health-fitness-app-development, social-media-app-development,
+dating-app-development, instant-messaging-app-development, media-entertainment-app-development,
+fantasy-sports-app-development. They are registered in `src/lib/cms/local-services.ts` (add a page there when you add a folder).
+They reuse existing pictures (`public/images/services`, `public/images/portfolio`, `public/images/category/web-development/banner-web-development.webp`),
+so swap in service-specific artwork when you have it.
 
 ## Adding things
 

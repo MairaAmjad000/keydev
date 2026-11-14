@@ -1,0 +1,44 @@
+{
+  "text": "Choose What Suits You Best",
+  "heading": "Choose An Engagement Model Of Your Choice",
+  "text2": "KeyDevs Technologies offers three engagement models in web and mobile app development: part-time hiring, full-time hiring and hourly hiring. Our engagement models are designed to give you maximum flexibility while helping you meet your resource requirements.",
+  "blocks": [
+    {
+      "image": {
+        "src": "/images/engagement/part-time.svg",
+        "alt": "Hire a part time mobile app developer",
+        "width": "133",
+        "height": "166"
+      },
+      "text": "Part-time Hiring"
+    },
+    {
+      "image": {
+        "src": "/images/engagement/full-time.svg",
+        "alt": "Hire a full time mobile app developer in Pakistan",
+        "width": "133",
+        "height": "166"
+      },
+      "text": "Full-time Hiring"
+    },
+    {
+      "image": {
+        "src": "/images/engagement/dedicated.svg",
+        "alt": "Hire a dedicated mobile app developer in Pakistan",
+        "width": "133",
+        "height": "166"
+      },
+      "text": "Hourly Hiring"
+    }
+  ],
+  "headRequetBtn": {
+    "href": "javascript:;",
+    "text": "Let’s Discuss Your Requirement"
+  },
+  "boxShadow": {
+    "src": "/images/engagement/partnership-model.jpg",
+    "alt": "Understand the partnership model of best mobile application development companies and work on as per the need of your project requirement and budget",
+    "width": "549",
+    "height": "348"
+  }
+}

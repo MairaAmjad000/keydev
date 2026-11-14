@@ -1,0 +1,26 @@
+{
+  "slug": "service-category/game-development",
+  "seo": {
+    "title": "Mobile Game Development Company | iOS, Android, Unity | KeyDevs",
+    "description": "KeyDevs Technologies is a full-cycle game development company. We design and build 2D, 3D, AR and VR games for iOS, Android, Windows and Mac using Unity."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "serviceOfferings",
+    "featureList",
+    "advantageGrid",
+    "process",
+    "frameworkTabs",
+    "contactCta",
+    "whyChoose",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "text": "Advantages",
+  "heading": "Advantages of Custom Game Development",
+  "text2": "Our experience straddles domains and our expert teams have delivered consistently superior quality across projects of different scope.",
+  "items": [
+    {
+      "icon": "svg-5c93f0",
+      "title": "Original Gameplay",
+      "text": "Custom mechanics and original art help your game stand out from clones in a crowded store."
+    },
+    {
+      "icon": "svg-b0148a",
+      "title": "Smooth Performance",
+      "text": "Careful optimization keeps frame rates high and battery drain low across device tiers."
+    },
+    {
+      "icon": "svg-1111d6",
+      "title": "Engaging Art & Audio",
+      "text": "Characters, environments, effects and sound that give your game a memorable identity."
+    },
+    {
+      "icon": "svg-bb783d",
+      "title": "Multiplayer Ready",
+      "text": "Real-time and turn-based multiplayer with leaderboards, friends and matchmaking."
+    },
+    {
+      "icon": "svg-a8f81d",
+      "title": "Smart Monetization",
+      "text": "Ads, in-app purchases and rewards designed around the player experience, not against it."
+    },
+    {
+      "icon": "svg-591fc9",
+      "title": "Live Analytics",
+      "text": "Player behaviour data lets you balance the game and improve retention after launch."
+    },
+    {
+      "icon": "svg-a42334",
+      "title": "Faster Time to Market",
+      "text": "Reusable systems and fast prototyping get a playable build in front of testers quickly."
+    },
+    {
+      "icon": "svg-1b55d5",
+      "title": "Cross-platform Reach",
+      "text": "Build once and publish across mobile, desktop and immersive platforms."
+    },
+    {
+      "icon": "svg-eecd29",
+      "title": "Live Operations",
+      "text": "Events, updates and new content keep players returning long after launch."
+    }
+  ]
+}

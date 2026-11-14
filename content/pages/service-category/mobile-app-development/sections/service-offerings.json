@@ -1,0 +1,186 @@
+{
+  "text": "Our mobile app development offerings",
+  "heading": "Explore our mobile app expertise that covers every platform and device",
+  "items": [
+    {
+      "id": "mobile-app-section1",
+      "navIcon": "svg-522317",
+      "navTitle": "iPhone Apps",
+      "number": "01",
+      "heading": "iPhone app development",
+      "bodyHtml": "<div class=\"top-text-block\">Reach the most engaged mobile audience with a polished, high-performance iOS app built to App Store standards.</div><p>From iPhone and iPad apps to Apple Watch companions, our iOS developers work in Swift and Objective-C to deliver apps that feel native, load fast and pass App Store review the first time. We handle everything from UI to backend integration and submission.</p>",
+      "bullets": [
+        {
+          "html": "Native iOS apps in Swift and Objective-C"
+        },
+        {
+          "html": "App Store guidelines and submission handled end to end"
+        },
+        {
+          "html": "Support for iPhone, iPad and Apple Watch"
+        }
+      ],
+      "link": {
+        "href": "/service/iphone-app-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/mobile-app-development/listing-1.webp",
+        "alt": "iPhone app development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "mobile-app-section2",
+      "navIcon": "svg-4c0e6c",
+      "navTitle": "Android Apps",
+      "number": "02",
+      "heading": "Android app development",
+      "bodyHtml": "<div class=\"top-text-block\">Put your product in front of the largest smartphone audience with a fast, stable and beautifully designed Android app.</div><p>Our Android developers build apps in Kotlin and Java that run smoothly across the wide range of screen sizes, OS versions and devices in the market. Every build is tested on real devices before it reaches Google Play.</p>",
+      "bullets": [
+        {
+          "html": "Native Android apps in Kotlin and Java"
+        },
+        {
+          "html": "Optimized for a wide range of devices and screen sizes"
+        },
+        {
+          "html": "Google Play publishing and post-launch updates"
+        }
+      ],
+      "link": {
+        "href": "/service/android-app-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/mobile-app-development/listing-2.webp",
+        "alt": "Android app development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "mobile-app-section3",
+      "navIcon": "svg-aa3e20",
+      "navTitle": "Flutter Apps",
+      "number": "03",
+      "heading": "Flutter app development",
+      "bodyHtml": "<div class=\"top-text-block\">One codebase, two platforms, a near-native experience — at a fraction of the time and cost.</div><p>Flutter lets us ship iOS and Android apps from a single codebase with expressive UI and smooth animations. It is a strong fit for startups that want to validate an idea quickly and for businesses that need consistent branding across platforms.</p>",
+      "bullets": [
+        {
+          "html": "Single codebase for iOS and Android"
+        },
+        {
+          "html": "Rich, brand-consistent custom UI"
+        },
+        {
+          "html": "Faster time to market and lower maintenance cost"
+        }
+      ],
+      "link": {
+        "href": "/service/flutter-app-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/mobile-app-development/listing-3.webp",
+        "alt": "Flutter app development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "mobile-app-section4",
+      "navIcon": "svg-a9eeae",
+      "navTitle": "Cross Platform",
+      "number": "04",
+      "heading": "Cross platform app development",
+      "bodyHtml": "<div class=\"top-text-block\">Cover every platform without building every app twice.</div><p>When your users are split across iOS, Android and the web, a cross platform approach keeps features, design and data in sync. We help you choose the right framework for your product and build one app that behaves the same everywhere.</p>",
+      "bullets": [
+        {
+          "html": "Framework selection based on your goals and budget"
+        },
+        {
+          "html": "Shared business logic across platforms"
+        },
+        {
+          "html": "Consistent experience on phones and tablets"
+        }
+      ],
+      "link": {
+        "href": "/service/cross-platform-app-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/mobile-app-development/listing-4.webp",
+        "alt": "Cross platform app development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "mobile-app-section5",
+      "navIcon": "svg-34ba9a",
+      "navTitle": "AR & VR Apps",
+      "number": "05",
+      "heading": "AR and VR app development",
+      "bodyHtml": "<div class=\"top-text-block\">Create immersive experiences that make your product impossible to ignore.</div><p>From product visualization and virtual try-on to training simulations and virtual tours, our team builds augmented and virtual reality apps that turn a phone into a window to a new experience.</p>",
+      "bullets": [
+        {
+          "html": "ARKit, ARCore and Unity-based development"
+        },
+        {
+          "html": "Product visualization, training and virtual tours"
+        },
+        {
+          "html": "Optimized 3D performance on mobile hardware"
+        }
+      ],
+      "link": {
+        "href": "/service/ar-app-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/mobile-app-development/listing-5.webp",
+        "alt": "AR and VR app development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "mobile-app-section6",
+      "navIcon": "svg-eac249",
+      "navTitle": "App Maintenance",
+      "number": "06",
+      "heading": "App maintenance and support",
+      "bodyHtml": "<div class=\"top-text-block\">Launching is the beginning, not the end. Keep your app fast, secure and current.</div><p>Operating systems, devices and user expectations change every year. Our support plans cover bug fixes, OS compatibility updates, performance monitoring and new feature releases so your app keeps earning its place on the home screen.</p>",
+      "bullets": [
+        {
+          "html": "Bug fixes and OS version compatibility updates"
+        },
+        {
+          "html": "Performance and crash monitoring"
+        },
+        {
+          "html": "Feature enhancements and managed releases"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Get in Touch with Us"
+      },
+      "image": {
+        "src": "/images/category/mobile-app-development/listing-6.webp",
+        "alt": "App maintenance and support by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    }
+  ]
+}

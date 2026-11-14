@@ -1,0 +1,27 @@
+{
+  "text": "Why Choose Us",
+  "heading": "What Makes KeyDevs Technologies the Prominent AngularJS Development Company",
+  "text2": "Here is what you can expect when you build your web project with us.",
+  "items": [
+    {
+      "icon": "svg-712708",
+      "title": "Experienced developers",
+      "text": "Engineers who have shipped dozens of production projects."
+    },
+    {
+      "icon": "svg-37c5e6",
+      "title": "Clean, maintainable code",
+      "text": "Code your team can understand and extend."
+    },
+    {
+      "icon": "svg-90d115",
+      "title": "Transparent process",
+      "text": "Regular demos and updates so you always know where things stand."
+    },
+    {
+      "icon": "svg-b4eda3",
+      "title": "Ongoing maintenance",
+      "text": "Security updates, backups and new features after launch."
+    }
+  ]
+}

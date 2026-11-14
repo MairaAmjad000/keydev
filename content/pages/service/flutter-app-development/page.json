@@ -1,0 +1,27 @@
+{
+  "slug": "service/flutter-app-development",
+  "seo": {
+    "title": "Flutter App Development Company | KeyDevs Technologies",
+    "description": "One codebase for iOS and Android with a rich, near-native experience and faster delivery. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

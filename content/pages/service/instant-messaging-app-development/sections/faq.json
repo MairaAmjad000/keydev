@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Is end-to-end encryption available?",
+      "answer": "Yes. We can implement it where privacy requirements call for it."
+    },
+    {
+      "question": "Can the chat scale to many users?",
+      "answer": "Yes. We use scalable real-time infrastructure."
+    },
+    {
+      "question": "Can I add chat to an existing app?",
+      "answer": "Yes. Chat can be added to existing iOS, Android and web apps."
+    },
+    {
+      "question": "How long does instant messaging app development take?",
+      "answer": "A launch-ready first version takes 8 to 12 weeks, while a full platform with customer, provider and admin apps takes 4 to 8 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

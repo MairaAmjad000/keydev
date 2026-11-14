@@ -1,0 +1,79 @@
+{
+  "text": "Frameworks",
+  "heading": "Our suite of mobile app development platforms",
+  "text2": "KeyDevs Technologies has a large pool of developers who build apps with the top native and cross platform technologies.",
+  "items": [
+    {
+      "title": "iPhone App Development",
+      "image": {
+        "src": "/images/technologies/swift.svg",
+        "alt": "iPhone App Development"
+      },
+      "text": "Swift and Objective-C power the best apps on the App Store. Our iOS developers build fast, secure and beautifully designed iPhone and iPad apps that follow Apple’s design guidelines and get approved quickly.",
+      "link": {
+        "href": "/service/iphone-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Android App Development",
+      "image": {
+        "src": "/images/technologies/java.svg",
+        "alt": "Android App Development"
+      },
+      "text": "With Kotlin, Java and Material Design, we build Android apps that run reliably across thousands of devices. From simple utilities to complex marketplaces, our Android team has you covered.",
+      "link": {
+        "href": "/service/android-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Flutter App Development",
+      "image": {
+        "src": "/images/technologies/flutter.png",
+        "alt": "Flutter App Development"
+      },
+      "text": "Flutter gives you a single codebase for iOS and Android with expressive UI and native performance. Choose it to launch faster and keep your design consistent on every device.",
+      "link": {
+        "href": "/service/flutter-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "Cross Platform Development",
+      "image": {
+        "src": "/images/technologies/angular.svg",
+        "alt": "Cross Platform Development"
+      },
+      "text": "When you need one product everywhere, our cross platform engineers pick the right framework and build a single app that works across iOS, Android and the web.",
+      "link": {
+        "href": "/service/cross-platform-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "AR App Development",
+      "image": {
+        "src": "/images/technologies/augmented-reality-kit.png",
+        "alt": "AR App Development"
+      },
+      "text": "Bring products and places to life with augmented reality. We build ARKit and ARCore apps for retail, real estate, education and entertainment.",
+      "link": {
+        "href": "/service/ar-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "title": "VR App Development",
+      "image": {
+        "src": "/images/technologies/oculus-vr.svg",
+        "alt": "VR App Development"
+      },
+      "text": "Immersive virtual reality apps for training, tours and entertainment, built for Oculus, Google VR and mixed reality devices.",
+      "link": {
+        "href": "/service/vr-app-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

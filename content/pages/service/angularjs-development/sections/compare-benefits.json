@@ -1,0 +1,47 @@
+{
+  "text": "AngularJS Development Benefits",
+  "heading": "Benefits of AngularJS Development",
+  "text2": "Being a trusted web partner, we focus on outcomes you can measure, from faster delivery to a product your users and team will rely on.",
+  "compare": {
+    "before": {
+      "src": "/images/portfolio/alghazi-tractors.jpg",
+      "alt": "AngularJS Development"
+    },
+    "after": {
+      "src": "/images/portfolio/multan-chemicals-limited.jpg",
+      "alt": "AngularJS Development"
+    }
+  },
+  "items": [
+    {
+      "icon": "svg-4f24e7",
+      "title": "Faster development",
+      "text": "Mature tools and reusable components get your AngularJS Development project to launch sooner."
+    },
+    {
+      "icon": "svg-72485b",
+      "title": "Lower cost of ownership",
+      "text": "Clean, well-documented code is cheaper to maintain and extend."
+    },
+    {
+      "icon": "svg-92329f",
+      "title": "Secure by default",
+      "text": "We follow secure coding practices to protect your data and your users."
+    },
+    {
+      "icon": "svg-677566",
+      "title": "Built to scale",
+      "text": "Architecture that handles growth in traffic, data and features without a rewrite."
+    },
+    {
+      "icon": "svg-bd8d6e",
+      "title": "SEO and speed ready",
+      "text": "Fast loading, clean markup and mobile-first layouts help you rank and convert."
+    },
+    {
+      "icon": "svg-afdd73",
+      "title": "Easy integrations",
+      "text": "Payment gateways, CRMs, ERPs and third-party APIs connect without friction."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Is PHP still a good choice?",
+      "answer": "Yes. Modern PHP is fast, secure and well supported, with strong frameworks and tooling."
+    },
+    {
+      "question": "Which PHP frameworks do you use?",
+      "answer": "Laravel and CodeIgniter, chosen according to the project."
+    },
+    {
+      "question": "Can you upgrade my old PHP site?",
+      "answer": "Yes. We can modernize code, improve security and speed, and move it to current PHP."
+    },
+    {
+      "question": "How long does php web development take?",
+      "answer": "A business website usually takes 4 to 8 weeks, while custom web applications take 3 to 6 months depending on features and integrations."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

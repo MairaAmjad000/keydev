@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Is Node.js good for real-time apps?",
+      "answer": "Yes. Its event-driven design is well suited to chat, tracking and live updates."
+    },
+    {
+      "question": "Can Node.js replace my current backend?",
+      "answer": "Often yes. We assess your system and migrate in stages if it makes sense."
+    },
+    {
+      "question": "Do you use TypeScript?",
+      "answer": "Yes. We commonly use TypeScript for safer, easier-to-maintain code."
+    },
+    {
+      "question": "How long does nodejs development take?",
+      "answer": "A business website usually takes 4 to 8 weeks, while custom web applications take 3 to 6 months depending on features and integrations."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

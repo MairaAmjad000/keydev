@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our CRM Development Services",
+  "text2": "Whatever stage you are at, our crm development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Custom CRM Development"
+      },
+      "title": "Custom CRM Development",
+      "text": "A CRM designed around your sales stages, teams and reporting."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "CRM Integration"
+      },
+      "title": "CRM Integration",
+      "text": "Connect your CRM to website forms, email, messaging and billing."
+    },
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Sales Automation"
+      },
+      "title": "Sales Automation",
+      "text": "Automated reminders, assignments and follow-ups that keep deals moving."
+    }
+  ]
+}

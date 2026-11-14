@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Augmented Reality App Development Services",
+  "text2": "Whatever stage you are at, our augmented reality app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Product Visualization"
+      },
+      "title": "Product Visualization",
+      "text": "Let customers place and inspect products in their own space before buying."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "AR for Education and Training"
+      },
+      "title": "AR for Education and Training",
+      "text": "Interactive 3D lessons and guided procedures that make complex ideas easy to grasp."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Location and Marker-based AR"
+      },
+      "title": "Location and Marker-based AR",
+      "text": "Experiences triggered by images, objects or places for marketing, tourism and events."
+    }
+  ]
+}

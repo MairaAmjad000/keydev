@@ -111,7 +111,7 @@
         }
       ],
       "link": {
-        "href": "cms-development.php",
+        "href": "/service/cms-development",
         "text": "Explore More"
       },
       "image": {
@@ -141,7 +141,7 @@
         }
       ],
       "link": {
-        "href": "erp-development.php",
+        "href": "/service/erp-development",
         "text": "Explore More"
       },
       "image": {
@@ -171,7 +171,7 @@
         }
       ],
       "link": {
-        "href": "crm-development.php",
+        "href": "/service/crm-development",
         "text": "Explore More"
       },
       "image": {

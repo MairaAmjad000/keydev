@@ -1,0 +1,31 @@
+{
+  "image": {
+    "src": "/images/category/web-development/banner-web-development.webp",
+    "alt": "SEO Services by KeyDevs Technologies",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "SEO Services Company",
+  "text": "Get found by the customers already searching for what you offer. KeyDevs Technologies provides technical, on-page and content SEO to grow qualified organic traffic.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/contact",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Talk to Our Experts"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "SEO Services"
+    }
+  ]
+}

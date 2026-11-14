@@ -1,0 +1,70 @@
+{
+  "image": {
+    "src": "/images/category/ui-ux-design/banner-ui-ux-design.webp",
+    "alt": "UI/UX Design company in Lahore, Pakistan — KeyDevs Technologies",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "UI/UX DESIGN COMPANY",
+  "text": "KeyDevs Technologies is a full-cycle UI/UX design company. Wondering what that is? <br/><br/> If you want your website or app to be easy to use and a pleasure to look at, we can make that happen. From user research and wireframes to polished interfaces and design systems — we take care of the entire nine yards of product design.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate Your Design Cost"
+    }
+  ],
+  "form": {
+    "id": "ui-ux-banner_form",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Name",
+        "required": true,
+        "label": "Name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email",
+        "required": true,
+        "label": "Email"
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "placeholder": "Phone Number",
+        "required": true,
+        "minLength": 10,
+        "maxLength": 11,
+        "variant": "phone"
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "Project Descriptions",
+        "required": false,
+        "label": "Message",
+        "rows": 4
+      }
+    ],
+    "submitText": "Get Started Now!",
+    "errorId": "ui-ux-error_message_banner_form",
+    "successId": "ui-ux-success_message_banner_form"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "UI/UX Design"
+    }
+  ]
+}

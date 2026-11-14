@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our CodeIgniter Development Services",
+  "text2": "Whatever stage you are at, our codeigniter development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "CodeIgniter Web Applications"
+      },
+      "title": "CodeIgniter Web Applications",
+      "text": "Custom apps and portals built with clean MVC code and fast response times."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "API Development"
+      },
+      "title": "API Development",
+      "text": "REST APIs for your mobile apps and third-party integrations."
+    },
+    {
+      "image": {
+        "src": "/images/services/ecommerce-development.png",
+        "alt": "Migration and Upgrades"
+      },
+      "title": "Migration and Upgrades",
+      "text": "Upgrade older CodeIgniter projects to the current version."
+    }
+  ]
+}

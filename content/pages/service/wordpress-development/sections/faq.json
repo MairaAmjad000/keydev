@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Can I manage content myself?",
+      "answer": "Yes. WordPress is built so non-technical teams can edit pages, posts and products."
+    },
+    {
+      "question": "Will my WordPress site be secure?",
+      "answer": "We follow security best practices, keep it updated and offer maintenance plans."
+    },
+    {
+      "question": "Can you migrate my existing site?",
+      "answer": "Yes. We migrate content and design while protecting your SEO."
+    },
+    {
+      "question": "How long does wordpress development take?",
+      "answer": "A business website usually takes 4 to 8 weeks, while custom web applications take 3 to 6 months depending on features and integrations."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

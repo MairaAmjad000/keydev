@@ -1,0 +1,23 @@
+{
+  "heading": "CMS Development for Easy Content Management",
+  "paragraphs": [
+    {
+      "html": "Your content is a business asset. A good CMS lets editors publish quickly, keeps design consistent and gives developers a clean foundation to build on."
+    },
+    {
+      "html": "We build custom CMSs and extend platforms such as WordPress, with role-based access, workflows, multilingual support and fast, SEO-friendly output."
+    },
+    {
+      "html": "Start your cms development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/web-application-development.webp",
+    "alt": "CMS Development"
+  }
+}

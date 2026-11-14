@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with augmented reality app development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/social-media.jpg",
+        "alt": "iPhone App Development"
+      },
+      "title": "iPhone App Development",
+      "text": "Native iOS apps for iPhone and iPad, built in Swift and ready for the App Store.",
+      "link": {
+        "href": "/service/iphone-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/real-estate.jpg",
+        "alt": "Android App Development"
+      },
+      "title": "Android App Development",
+      "text": "Fast, stable Android apps in Kotlin and Java that run well on every screen and device.",
+      "link": {
+        "href": "/service/android-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "Flutter App Development"
+      },
+      "title": "Flutter App Development",
+      "text": "One codebase for iOS and Android with a rich, near-native experience and faster delivery.",
+      "link": {
+        "href": "/service/flutter-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "Cross Platform App Development"
+      },
+      "title": "Cross Platform App Development",
+      "text": "One app that runs on iOS, Android and the web, built with the framework that suits your product.",
+      "link": {
+        "href": "/service/cross-platform-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/alghazi-tractors.jpg",
+        "alt": "Virtual Reality App Development"
+      },
+      "title": "Virtual Reality App Development",
+      "text": "Immersive VR apps for training, virtual tours and entertainment on modern headsets.",
+      "link": {
+        "href": "/service/vr-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/al-iftar-foods.jpg",
+        "alt": "NodeJS Development"
+      },
+      "title": "NodeJS Development",
+      "text": "Fast, real-time, scalable backends and APIs powered by Node.js.",
+      "link": {
+        "href": "/service/nodejs-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

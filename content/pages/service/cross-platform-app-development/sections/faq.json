@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Which framework do you recommend?",
+      "answer": "It depends on your product. We review your needs and explain the trade-offs before choosing."
+    },
+    {
+      "question": "Will the app feel native?",
+      "answer": "Yes. We follow each platform’s design conventions and use native modules where needed."
+    },
+    {
+      "question": "Can one app also run on the web?",
+      "answer": "Some frameworks support web output. We advise on whether it suits your product."
+    },
+    {
+      "question": "How long does cross platform app development take?",
+      "answer": "A focused app usually takes 8 to 12 weeks, while feature-rich apps with custom backends take 4 to 8 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

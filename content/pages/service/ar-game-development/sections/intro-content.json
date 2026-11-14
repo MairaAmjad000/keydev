@@ -1,0 +1,23 @@
+{
+  "heading": "AR Games that Turn the World into a Playground",
+  "paragraphs": [
+    {
+      "html": "AR games bring a sense of wonder because the game happens where the player is. Location, camera and motion all become part of play."
+    },
+    {
+      "html": "Using ARKit, ARCore and Unity, we create AR games with stable tracking, optimized 3D assets and designs that work in small rooms and open spaces alike."
+    },
+    {
+      "html": "Start your augmented reality game development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-game-development.png",
+    "alt": "Augmented Reality Game Development"
+  }
+}

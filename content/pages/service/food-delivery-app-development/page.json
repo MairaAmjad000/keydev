@@ -1,0 +1,27 @@
+{
+  "slug": "service/food-delivery-app-development",
+  "seo": {
+    "title": "Food Delivery App Development Company | KeyDevs Technologies",
+    "description": "Food ordering platforms connecting customers, restaurants and delivery riders. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

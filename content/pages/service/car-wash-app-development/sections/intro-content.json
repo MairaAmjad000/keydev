@@ -1,0 +1,23 @@
+{
+  "heading": "On-demand Car Wash Apps",
+  "paragraphs": [
+    {
+      "html": "Customers want a clean car without the queue. An on-demand app lets them book a wash at home or at a nearby location in a few taps."
+    },
+    {
+      "html": "We build customer and provider apps with map search, scheduling, service packages, digital payments and ratings, plus an admin panel for managing operations."
+    },
+    {
+      "html": "Start your car wash app development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Car Wash App Development"
+  }
+}

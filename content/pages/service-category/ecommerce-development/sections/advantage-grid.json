@@ -1,0 +1,52 @@
+{
+  "text": "Advantages",
+  "heading": "Advantages of Custom eCommerce Development",
+  "text2": "Our experience straddles domains and our expert teams have delivered consistently superior quality across stores of every size.",
+  "items": [
+    {
+      "icon": "svg-5c93f0",
+      "title": "Higher Conversion",
+      "text": "Clean navigation, quick search and a short checkout turn more visitors into paying customers."
+    },
+    {
+      "icon": "svg-b0148a",
+      "title": "Scalable Catalog",
+      "text": "Handle thousands of products, variants and categories without slowing the store down."
+    },
+    {
+      "icon": "svg-1111d6",
+      "title": "Secure Payments",
+      "text": "PCI-conscious payment flows and encrypted customer data protect both you and your shoppers."
+    },
+    {
+      "icon": "svg-bb783d",
+      "title": "Real-time Inventory",
+      "text": "Stock levels update across web, app and warehouse so you never oversell."
+    },
+    {
+      "icon": "svg-a8f81d",
+      "title": "Unified Operations",
+      "text": "Orders, invoices and customers flow straight into your ERP and CRM with no double entry."
+    },
+    {
+      "icon": "svg-591fc9",
+      "title": "Marketing Ready",
+      "text": "Coupons, abandoned cart emails, product feeds and analytics are built in or one click away."
+    },
+    {
+      "icon": "svg-a42334",
+      "title": "Faster Time to Market",
+      "text": "Proven building blocks let us launch your store in weeks, not months."
+    },
+    {
+      "icon": "svg-1b55d5",
+      "title": "Omnichannel Selling",
+      "text": "Sell on your website, mobile app and social channels from one back office."
+    },
+    {
+      "icon": "svg-eecd29",
+      "title": "Customer Insights",
+      "text": "Sales and behaviour reports show what sells, who buys and where to grow next."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Cross Platform App Development Services",
+  "text2": "Whatever stage you are at, our cross platform app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Framework Selection"
+      },
+      "title": "Framework Selection",
+      "text": "We recommend the framework that fits your features, performance needs and budget."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Shared Codebase Development"
+      },
+      "title": "Shared Codebase Development",
+      "text": "One team building shared business logic and UI to ship to all platforms faster."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Platform-specific Polish"
+      },
+      "title": "Platform-specific Polish",
+      "text": "Where it matters, we add native touches so each platform feels at home."
+    }
+  ]
+}

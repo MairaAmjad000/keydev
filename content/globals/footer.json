@@ -63,43 +63,43 @@
       "items": [
         {
           "link": {
-            "href": "mobile-application-development",
+            "href": "/service-category/mobile-app-development",
             "text": "Mobile App Development"
           }
         },
         {
           "link": {
-            "href": "web-development",
+            "href": "/service-category/web-development",
             "text": "Web App Development"
           }
         },
         {
           "link": {
-            "href": "/game-development",
+            "href": "/service-category/game-development",
             "text": "Mobile Games Development"
           }
         },
         {
           "link": {
-            "href": "/augmented-reality-app-development",
+            "href": "/service/ar-app-development",
             "text": "Augmented Reality Development"
           }
         },
         {
           "link": {
-            "href": "/virtual-reality-app-development",
+            "href": "/service/vr-app-development",
             "text": "Virtual Reality Development"
           }
         },
         {
           "link": {
-            "href": "startup-mvp-development",
+            "href": "/service/mvp-development",
             "text": "Startup MVP Development"
           }
         },
         {
           "link": {
-            "href": "/software-development",
+            "href": "/service/software-development",
             "text": "Software Development"
           }
         }
@@ -111,43 +111,43 @@
       "items": [
         {
           "link": {
-            "href": "chat-instant-messaging-app-development",
+            "href": "/service/instant-messaging-app-development",
             "text": "Instant Messaging"
           }
         },
         {
           "link": {
-            "href": "car-wash-app-development",
+            "href": "/service/car-wash-app-development",
             "text": "Car Wash"
           }
         },
         {
           "link": {
-            "href": "health-fitness-app-development",
+            "href": "/service/health-fitness-app-development",
             "text": "Health & Fitness"
           }
         },
         {
           "link": {
-            "href": "taxi-app-development",
+            "href": "/service/taxi-app-development",
             "text": "Taxi Booking"
           }
         },
         {
           "link": {
-            "href": "food-delivery-app-development",
+            "href": "/service/food-delivery-app-development",
             "text": "Food Delivery"
           }
         },
         {
           "link": {
-            "href": "social-media-app-development",
+            "href": "/service/social-media-app-development",
             "text": "Social Media"
           }
         },
         {
           "link": {
-            "href": "travel-app-development",
+            "href": "/service/travel-app-development",
             "text": "Travel & Tourism"
           }
         }

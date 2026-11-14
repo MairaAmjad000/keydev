@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Which sports can you support?",
+      "answer": "Cricket, football and other sports, depending on data availability."
+    },
+    {
+      "question": "Do you integrate live score feeds?",
+      "answer": "Yes. We integrate sports data providers for live scoring."
+    },
+    {
+      "question": "Are there legal considerations?",
+      "answer": "Rules for paid contests vary by country. Please seek legal advice for your market before launch."
+    },
+    {
+      "question": "How long does fantasy sports app development take?",
+      "answer": "A launch-ready first version takes 8 to 12 weeks, while a full platform with customer, provider and admin apps takes 4 to 8 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

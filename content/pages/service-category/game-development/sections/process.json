@@ -1,0 +1,237 @@
+{
+  "text": "That's How We Work",
+  "heading": "Our Proven Game Development Process: Efficient, Streamlined, and Adaptive",
+  "text2": "KeyDevs Technologies employs an Agile project management approach to ensure faster delivery without compromising quality. We divide the entire game development project into distinct phases, with each phase focused on advancing the game toward a successful launch.",
+  "processItemsList": [
+    {
+      "dataWowDelay": "0",
+      "icon": {
+        "className": "fas fa-angle-right"
+      },
+      "icon2": "svg-0e8fd7",
+      "subheading": "01 Concept",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Game idea and market review"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Game design document"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Timeline and commercials"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "0.2s",
+      "icon": {
+        "className": "fas fa-angle-right"
+      },
+      "icon2": "svg-4571ef",
+      "subheading": "02 Art & Design",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Concept art and UI"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Character and environment design"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Audio direction"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "0.4s",
+      "icon": {
+        "className": "fas fa-angle-right"
+      },
+      "icon2": "svg-6ebd40",
+      "subheading": "03 Prototypes",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Playable prototype"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Core loop testing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Gameplay iteration"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "0.6s",
+      "icon": {
+        "className": "fas fa-angle-down"
+      },
+      "icon2": "svg-56821f",
+      "subheading": "04 Development",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Gameplay and systems programming"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Backend and multiplayer"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Ads and in-app purchases"
+        }
+      ]
+    }
+  ],
+  "icon": "svg-a93881",
+  "subheading": "05 Quality Assurance",
+  "items": [
+    {
+      "html": "<i class=\"fas fa-chevron-right\"></i>Device and performance testing"
+    },
+    {
+      "html": "<i class=\"fas fa-chevron-right\"></i>Playtesting and balancing"
+    },
+    {
+      "html": "<i class=\"fas fa-chevron-right\"></i>Automation testing"
+    }
+  ],
+  "processItemsList2": [
+    {
+      "dataWowDelay": "1s",
+      "icon": "svg-374796",
+      "subheading": "06 Launch",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Store listing and assets"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>App Store and Google Play release"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Soft launch support"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "1.2s",
+      "icon": "svg-7249bb",
+      "subheading": "07 Live Operations",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Updates and new content"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Analytics and balancing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Managed services"
+        }
+      ]
+    }
+  ],
+  "items2": [
+    {
+      "icon": "svg-0e8fd7",
+      "subheading": "01 Concept",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Game idea and market review"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Game design document"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Timeline and commercials"
+        }
+      ]
+    },
+    {
+      "icon": "svg-4571ef",
+      "subheading": "02 Art & Design",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Concept art and UI"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Character and environment design"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Audio direction"
+        }
+      ]
+    },
+    {
+      "icon": "svg-6ebd40",
+      "subheading": "03 Prototypes",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Playable prototype"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Core loop testing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Gameplay iteration"
+        }
+      ]
+    },
+    {
+      "icon": "svg-56821f",
+      "subheading": "04 Development",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Gameplay and systems programming"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Backend and multiplayer"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Ads and in-app purchases"
+        }
+      ]
+    },
+    {
+      "icon": "svg-a93881",
+      "subheading": "05 Quality Assurance",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Device and performance testing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Playtesting and balancing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Automation testing"
+        }
+      ]
+    },
+    {
+      "icon": "svg-374796",
+      "subheading": "06 Launch",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Store listing and assets"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>App Store and Google Play release"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Soft launch support"
+        }
+      ]
+    },
+    {
+      "icon": "svg-7249bb",
+      "subheading": "07 Live Operations",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Updates and new content"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Analytics and balancing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Managed services"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Health and Fitness App Development Services",
+  "text2": "Whatever stage you are at, our health and fitness app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Workout and Training Apps"
+      },
+      "title": "Workout and Training Apps",
+      "text": "Plans, video guidance, progress tracking and challenges."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Nutrition and Wellness"
+      },
+      "title": "Nutrition and Wellness",
+      "text": "Meal plans, calorie tracking and habit building."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Trainer and Gym Booking"
+      },
+      "title": "Trainer and Gym Booking",
+      "text": "Book trainers, classes and consultations in the app."
+    }
+  ]
+}

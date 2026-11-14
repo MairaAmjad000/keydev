@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Which channels can the chatbot run on?",
+      "answer": "Websites, WhatsApp, Messenger and mobile apps, depending on your needs."
+    },
+    {
+      "question": "Will it understand natural language?",
+      "answer": "Yes. We use language models and intent recognition to handle everyday phrasing."
+    },
+    {
+      "question": "Can it hand over to a human?",
+      "answer": "Yes. Conversations can be escalated to your team with full context."
+    },
+    {
+      "question": "How long does chatbot development take?",
+      "answer": "A focused system can go live in 8 to 12 weeks, while larger multi-department platforms take 4 to 9 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

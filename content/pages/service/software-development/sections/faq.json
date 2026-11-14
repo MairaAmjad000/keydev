@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "How do you start a custom software project?",
+      "answer": "With a discovery workshop to define goals, users and scope, followed by a plan and estimate."
+    },
+    {
+      "question": "Can you modernize my legacy system?",
+      "answer": "Yes. We can migrate in stages so your operations keep running."
+    },
+    {
+      "question": "Who owns the source code?",
+      "answer": "You do. The code and documentation are handed over to you."
+    },
+    {
+      "question": "How long does software development take?",
+      "answer": "A focused system can go live in 8 to 12 weeks, while larger multi-department platforms take 4 to 9 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "text": "6 steps for flutter app development",
+  "heading": "Our Proven Flutter App Development Process is Smart, Lean, & Agile",
+  "text2": "Our flutter app development process runs from understanding your idea to launching and supporting the finished product. Each step has a clear outcome so you always know what is happening and what comes next.",
+  "items": [
+    {
+      "number": "01",
+      "icon": "svg-e05a7e",
+      "title": "Discovery Workshop",
+      "text": "We sit down with you to understand your idea, users and goals for Flutter App Development, and agree on scope, priorities and success measures.",
+      "dataWowDelay": ".3s",
+      "orderClass": "order-lg-0"
+    },
+    {
+      "number": "02",
+      "icon": "svg-b980a1",
+      "title": "Technical Analysis",
+      "text": "We choose the right platform, architecture and integrations for Flutter App Development, and flag technical risks early.",
+      "dataWowDelay": ".6s",
+      "orderClass": "order-lg-1"
+    },
+    {
+      "number": "03",
+      "icon": "svg-7c124d",
+      "title": "UI/UX Prototyping",
+      "text": "Interactive prototypes let you tap through the app and approve flows before any code is written.",
+      "dataWowDelay": ".9s",
+      "orderClass": "order-lg-2"
+    },
+    {
+      "number": "06",
+      "icon": "svg-9f6087",
+      "title": "Launch and Support",
+      "text": "We publish to the stores, monitor the release and keep improving the app after launch.",
+      "dataWowDelay": "1.8s",
+      "orderClass": "order-lg-3 order-md-5 order-5"
+    },
+    {
+      "number": "05",
+      "icon": "svg-fd3dc0",
+      "title": "Build and Test in Sprints",
+      "text": "The app is built in short sprints with testing at every milestone on real devices.",
+      "dataWowDelay": "1.5s",
+      "orderClass": "order-lg-4 order-md-4 order-4"
+    },
+    {
+      "number": "04",
+      "icon": "svg-2f2dff",
+      "title": "Functional Specification",
+      "text": "Every screen, feature and API is documented so developers, designers and testers work from one plan.",
+      "dataWowDelay": "1.2s",
+      "orderClass": "order-lg-5 order-md-3 order-3"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Augmented Reality Game Development Services",
+  "text2": "Whatever stage you are at, our augmented reality game development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-game-development.png",
+        "alt": "Image and Surface Tracking Games"
+      },
+      "title": "Image and Surface Tracking Games",
+      "text": "Games triggered by images, tables and floors that feel anchored to the real world."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Location-based AR Games"
+      },
+      "title": "Location-based AR Games",
+      "text": "Explore-and-collect experiences connected to real places."
+    },
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "AR Marketing Games"
+      },
+      "title": "AR Marketing Games",
+      "text": "Branded AR games that drive engagement at events and in campaigns."
+    }
+  ]
+}

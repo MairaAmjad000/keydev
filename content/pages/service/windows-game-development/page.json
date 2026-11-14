@@ -1,0 +1,27 @@
+{
+  "slug": "service/windows-game-development",
+  "seo": {
+    "title": "Windows Game Development Company | KeyDevs Technologies",
+    "description": "PC games with higher fidelity graphics, controller support and store-ready builds. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Car Wash App Development Services",
+  "text2": "Whatever stage you are at, our car wash app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Customer Booking App"
+      },
+      "title": "Customer Booking App",
+      "text": "Find nearby providers, choose a package, book a slot and pay in the app."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Provider App"
+      },
+      "title": "Provider App",
+      "text": "Receive jobs, manage schedules and track earnings."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Admin Panel"
+      },
+      "title": "Admin Panel",
+      "text": "Control services, pricing, providers and reports."
+    }
+  ]
+}

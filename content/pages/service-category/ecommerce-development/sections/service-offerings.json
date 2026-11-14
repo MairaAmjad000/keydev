@@ -1,0 +1,186 @@
+{
+  "text": "Our eCommerce development offerings",
+  "heading": "Explore our eCommerce expertise across every kind of online store",
+  "items": [
+    {
+      "id": "ecommerce-section1",
+      "navIcon": "svg-522317",
+      "navTitle": "Custom Stores",
+      "number": "01",
+      "heading": "Custom eCommerce development",
+      "bodyHtml": "<div class=\"top-text-block\">When templates do not fit your catalog, pricing or workflow, a store built around your business does.</div><p>We design and build custom online stores with the exact catalog structure, pricing rules, checkout flow and integrations your business needs, on a codebase you fully own.</p>",
+      "bullets": [
+        {
+          "html": "Tailor-made catalog, pricing and checkout logic"
+        },
+        {
+          "html": "Fast, SEO-friendly and mobile-first storefront"
+        },
+        {
+          "html": "Highly scalable architecture that grows with sales"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Talk to Our Expert"
+      },
+      "image": {
+        "src": "/images/category/ecommerce-development/listing-1.webp",
+        "alt": "Custom eCommerce development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "ecommerce-section2",
+      "navIcon": "svg-4c0e6c",
+      "navTitle": "WooCommerce",
+      "number": "02",
+      "heading": "WooCommerce and WordPress stores",
+      "bodyHtml": "<div class=\"top-text-block\">Launch quickly on the platform that powers a large share of online stores.</div><p>Our WooCommerce developers build flexible stores with custom themes, plugins and integrations — ideal for businesses that want fast launch, easy content management and a huge plugin ecosystem.</p>",
+      "bullets": [
+        {
+          "html": "Custom themes and plugin development"
+        },
+        {
+          "html": "Product, order and stock management"
+        },
+        {
+          "html": "Payment gateway and shipping integration"
+        }
+      ],
+      "link": {
+        "href": "/service/wordpress-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/ecommerce-development/listing-2.webp",
+        "alt": "WooCommerce and WordPress stores by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "ecommerce-section3",
+      "navIcon": "svg-aa3e20",
+      "navTitle": "Shopify & Magento",
+      "number": "03",
+      "heading": "Shopify and Magento development",
+      "bodyHtml": "<div class=\"top-text-block\">Hosted or self-hosted — we help you pick and build on the right platform.</div><p>We set up, customize and migrate stores on Shopify and Magento, including custom themes, apps, extensions and performance tuning, so your store looks unique and runs fast.</p>",
+      "bullets": [
+        {
+          "html": "Custom theme and extension development"
+        },
+        {
+          "html": "Platform migration without losing SEO ranking"
+        },
+        {
+          "html": "Performance and speed optimization"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Get in Touch with Us"
+      },
+      "image": {
+        "src": "/images/category/ecommerce-development/listing-3.webp",
+        "alt": "Shopify and Magento development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "ecommerce-section4",
+      "navIcon": "svg-a9eeae",
+      "navTitle": "Marketplaces",
+      "number": "04",
+      "heading": "Multi-vendor marketplace development",
+      "bodyHtml": "<div class=\"top-text-block\">Build the next Daraz-style marketplace where many sellers share one storefront.</div><p>We build marketplaces with vendor onboarding, separate dashboards, commission rules, split payments and dispute handling, plus an admin panel to keep the whole platform under control.</p>",
+      "bullets": [
+        {
+          "html": "Vendor dashboards, commissions and payouts"
+        },
+        {
+          "html": "Product moderation and reviews"
+        },
+        {
+          "html": "Scalable infrastructure for growing traffic"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Talk to Our Expert"
+      },
+      "image": {
+        "src": "/images/category/ecommerce-development/listing-4.webp",
+        "alt": "Multi-vendor marketplace development by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "ecommerce-section5",
+      "navIcon": "svg-34ba9a",
+      "navTitle": "Mobile Commerce",
+      "number": "05",
+      "heading": "Mobile commerce apps",
+      "bodyHtml": "<div class=\"top-text-block\">Give shoppers a faster, more personal way to buy.</div><p>Native and Flutter shopping apps with push notifications, wishlists, one-tap checkout and live order tracking, connected to the same catalog and inventory as your website.</p>",
+      "bullets": [
+        {
+          "html": "iOS and Android shopping apps"
+        },
+        {
+          "html": "Push notifications and loyalty features"
+        },
+        {
+          "html": "Shared catalog and orders with your website"
+        }
+      ],
+      "link": {
+        "href": "/service-category/mobile-app-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/ecommerce-development/listing-5.webp",
+        "alt": "Mobile commerce apps by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "ecommerce-section6",
+      "navIcon": "svg-eac249",
+      "navTitle": "Integrations",
+      "number": "06",
+      "heading": "ERP, CRM and logistics integration",
+      "bodyHtml": "<div class=\"top-text-block\">A store that talks to the rest of your business saves hours every day.</div><p>We connect your store with ERP, CRM, accounting, courier and payment services so orders, stock, invoices and shipments stay in sync automatically.</p>",
+      "bullets": [
+        {
+          "html": "ERP and inventory synchronization"
+        },
+        {
+          "html": "Courier and delivery integrations"
+        },
+        {
+          "html": "Local and international payment gateways"
+        }
+      ],
+      "link": {
+        "href": "/service/erp-development",
+        "text": "Explore More"
+      },
+      "image": {
+        "src": "/images/category/ecommerce-development/listing-6.webp",
+        "alt": "ERP, CRM and logistics integration by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    }
+  ]
+}

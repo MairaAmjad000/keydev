@@ -1,0 +1,23 @@
+{
+  "heading": "Media and Entertainment Apps for Every Screen",
+  "paragraphs": [
+    {
+      "html": "Great media apps are fast, personal and reliable. Viewers expect instant playback, good recommendations and a catalog that is easy to browse."
+    },
+    {
+      "html": "We build video and audio streaming apps, podcast and live event platforms with subscriptions, ads, downloads and cross-device sync."
+    },
+    {
+      "html": "Start your media and entertainment app development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Media and Entertainment App Development"
+  }
+}

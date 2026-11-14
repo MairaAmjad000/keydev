@@ -1,0 +1,23 @@
+{
+  "heading": "Taxi Booking Apps for Modern Mobility",
+  "paragraphs": [
+    {
+      "html": "A taxi platform is three products in one: a passenger app, a driver app and a dispatch panel. We build all three so they work together smoothly from day one."
+    },
+    {
+      "html": "Features include live map tracking, fare estimation, driver matching, multiple payment options, ratings and trip history, with a scalable backend that grows as you add cities."
+    },
+    {
+      "html": "Start your taxi app development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Taxi App Development"
+  }
+}

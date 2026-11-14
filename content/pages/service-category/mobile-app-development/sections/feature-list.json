@@ -1,0 +1,42 @@
+{
+  "text": "Advantages",
+  "heading": "Key Features of Our Mobile App Development",
+  "text2": "A well-built mobile app does more than look good. These are the qualities we build into every app we deliver.",
+  "subheading": "What you get with every app",
+  "items": [
+    {
+      "icon": "svg-c74f4f",
+      "html": "<strong>Native-grade performance</strong> with fast launch times and smooth scrolling on both iOS and Android."
+    },
+    {
+      "icon": "svg-153ded",
+      "html": "<strong>Secure by design</strong> — encrypted data storage, secure authentication and safe payment integrations."
+    },
+    {
+      "icon": "svg-245c7d",
+      "html": "<strong>Offline-ready</strong> experiences so users can keep working when the connection drops."
+    },
+    {
+      "icon": "svg-44f4fb",
+      "html": "<strong>Push notifications</strong> and in-app messaging that bring users back at the right moment."
+    },
+    {
+      "icon": "svg-fc8601",
+      "html": "<strong>Third-party integrations</strong> — payment gateways, maps, social login, analytics and your existing systems."
+    },
+    {
+      "icon": "svg-9fb70d",
+      "html": "<strong>Scalable backend</strong> and admin panel so the app keeps working as your user base grows."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our App Expert Now"
+  },
+  "image": {
+    "src": "/images/category/mobile-app-development/features-mobile-app-development.webp",
+    "alt": "mobile app development",
+    "width": "549",
+    "height": "528"
+  }
+}

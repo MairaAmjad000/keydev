@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Flutter App Development Services",
+  "text2": "Whatever stage you are at, our flutter app development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Flutter App Development"
+      },
+      "title": "Flutter App Development",
+      "text": "Cross platform apps with custom, pixel-perfect UI and smooth animation on iOS and Android."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Flutter Migration"
+      },
+      "title": "Flutter Migration",
+      "text": "Move your existing native or older cross platform app to Flutter with minimal disruption."
+    },
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Flutter with Firebase"
+      },
+      "title": "Flutter with Firebase",
+      "text": "Add authentication, real-time data, push notifications and analytics with Firebase."
+    }
+  ]
+}

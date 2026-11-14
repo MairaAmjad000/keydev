@@ -1,0 +1,27 @@
+{
+  "slug": "service/android-app-development",
+  "seo": {
+    "title": "Android App Development Company | KeyDevs Technologies",
+    "description": "Fast, stable Android apps in Kotlin and Java that run well on every screen and device. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

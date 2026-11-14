@@ -1,0 +1,27 @@
+{
+  "slug": "service/codeigniter-development",
+  "seo": {
+    "title": "CodeIgniter Development Company | KeyDevs Technologies",
+    "description": "Lightweight, fast PHP applications built on the CodeIgniter framework. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "text": "SEO Services Benefits",
+  "heading": "Benefits of SEO Services",
+  "text2": "Being a trusted SEO partner, we focus on outcomes you can measure, from faster delivery to a product your users and team will rely on.",
+  "compare": {
+    "before": {
+      "src": "/images/portfolio/atlas-fuel.jpg",
+      "alt": "SEO Services"
+    },
+    "after": {
+      "src": "/images/portfolio/al-iftar-foods.jpg",
+      "alt": "SEO Services"
+    }
+  },
+  "items": [
+    {
+      "icon": "svg-4f24e7",
+      "title": "Qualified organic traffic",
+      "text": "People searching for what you offer find SEO Services content at the moment they are ready to act."
+    },
+    {
+      "icon": "svg-72485b",
+      "title": "Lower cost per lead",
+      "text": "Organic visitors keep arriving without paying for every click."
+    },
+    {
+      "icon": "svg-92329f",
+      "title": "Trust and credibility",
+      "text": "Ranking well signals authority and gives visitors confidence in your brand."
+    },
+    {
+      "icon": "svg-677566",
+      "title": "Faster, better site",
+      "text": "Technical fixes improve speed and usability for every visitor, not just search engines."
+    },
+    {
+      "icon": "svg-bd8d6e",
+      "title": "Compounding results",
+      "text": "Good content and links keep delivering value long after they are published."
+    },
+    {
+      "icon": "svg-afdd73",
+      "title": "Measurable progress",
+      "text": "Rankings, traffic and leads are tracked so you can see exactly what is working."
+    }
+  ]
+}

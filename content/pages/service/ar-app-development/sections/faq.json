@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Which devices support AR apps?",
+      "answer": "Most recent iPhones and Android phones support ARKit and ARCore respectively."
+    },
+    {
+      "question": "Do you create the 3D models?",
+      "answer": "Yes. Our artists can create or optimize 3D models for mobile AR."
+    },
+    {
+      "question": "Can AR be added to an existing app?",
+      "answer": "Yes. We can add AR features to an existing iOS or Android app."
+    },
+    {
+      "question": "How long does augmented reality app development take?",
+      "answer": "A focused app usually takes 8 to 12 weeks, while feature-rich apps with custom backends take 4 to 8 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

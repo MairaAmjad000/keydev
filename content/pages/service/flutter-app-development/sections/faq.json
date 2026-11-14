@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Is Flutter as fast as native?",
+      "answer": "Flutter compiles to native code and delivers smooth performance for most business and consumer apps."
+    },
+    {
+      "question": "How much can I save with Flutter?",
+      "answer": "Sharing one codebase typically cuts development and maintenance effort significantly compared with two native apps."
+    },
+    {
+      "question": "Can Flutter use native device features?",
+      "answer": "Yes. Plugins and platform channels give access to camera, GPS, biometrics and more."
+    },
+    {
+      "question": "How long does flutter app development take?",
+      "answer": "A focused app usually takes 8 to 12 weeks, while feature-rich apps with custom backends take 4 to 8 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "text": "Travel App Development Benefits",
+  "heading": "Benefits of Travel App Development",
+  "text2": "Being a trusted app partner, we focus on outcomes you can measure, from faster delivery to a product your users and team will rely on.",
+  "compare": {
+    "before": {
+      "src": "/images/portfolio/delivery-shark.jpg",
+      "alt": "Travel App Development"
+    },
+    "after": {
+      "src": "/images/portfolio/social-media.jpg",
+      "alt": "Travel App Development"
+    }
+  },
+  "items": [
+    {
+      "icon": "svg-4f24e7",
+      "title": "Ready-made building blocks",
+      "text": "Proven modules for sign-up, payments, chat and tracking speed up Travel App Development without sacrificing customization."
+    },
+    {
+      "icon": "svg-72485b",
+      "title": "Complete ecosystem",
+      "text": "Customer app, provider app and admin panel working together as one platform."
+    },
+    {
+      "icon": "svg-92329f",
+      "title": "Real-time experience",
+      "text": "Live updates, notifications and tracking keep every user informed."
+    },
+    {
+      "icon": "svg-677566",
+      "title": "Secure payments",
+      "text": "Cards, wallets and cash options with encrypted data and safe payment flows."
+    },
+    {
+      "icon": "svg-bd8d6e",
+      "title": "Launch and learn",
+      "text": "Start with a focused first version, then grow features based on real user feedback."
+    },
+    {
+      "icon": "svg-afdd73",
+      "title": "Scalable platform",
+      "text": "Infrastructure that grows with your users, locations and revenue."
+    }
+  ]
+}

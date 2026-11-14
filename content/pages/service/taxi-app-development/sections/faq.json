@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Can the app work in my city?",
+      "answer": "Yes. We configure maps, fares and payment options for your market."
+    },
+    {
+      "question": "Do you build the driver app too?",
+      "answer": "Yes. Passenger app, driver app and admin panel are delivered together."
+    },
+    {
+      "question": "Can you add features like ride sharing?",
+      "answer": "Yes. Additional ride types can be added."
+    },
+    {
+      "question": "How long does taxi app development take?",
+      "answer": "A launch-ready first version takes 8 to 12 weeks, while a full platform with customer, provider and admin apps takes 4 to 8 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

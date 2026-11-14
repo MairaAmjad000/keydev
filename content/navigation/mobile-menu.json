@@ -70,49 +70,49 @@
     },
     {
       "link": {
-        "href": "/mobile-application-development",
+        "href": "/service-category/mobile-app-development",
         "className": "",
         "text": "Mobile App Development"
       }
     },
     {
       "link": {
-        "href": "/iphone-app-development",
+        "href": "/service/iphone-app-development",
         "className": "",
         "text": "iPhone App Development"
       }
     },
     {
       "link": {
-        "href": "/androidAppDevelopment",
+        "href": "/service/android-app-development",
         "className": "",
         "text": "Android App Development"
       }
     },
     {
       "link": {
-        "href": "/flutter-application-development",
+        "href": "/service/flutter-app-development",
         "className": "",
         "text": "Flutter App Development"
       }
     },
     {
       "link": {
-        "href": "/cross-platform-mobile-app-development",
+        "href": "/service/cross-platform-app-development",
         "className": "",
         "text": "Cross Platform App Development"
       }
     },
     {
       "link": {
-        "href": "/augmented-reality-app-development",
+        "href": "/service/ar-app-development",
         "className": "",
         "text": "AR App Development"
       }
     },
     {
       "link": {
-        "href": "/virtual-reality-app-development",
+        "href": "/service/vr-app-development",
         "className": "",
         "text": "VR App Development"
       }
@@ -132,49 +132,49 @@
     },
     {
       "link": {
-        "href": "/web-development",
+        "href": "/service-category/web-development",
         "className": "",
         "text": "Web Development"
       }
     },
     {
       "link": {
-        "href": "/php-web-development",
+        "href": "/service/php-web-development",
         "className": "",
         "text": "PHP Web Development"
       }
     },
     {
       "link": {
-        "href": "/wordpress-development",
+        "href": "/service/wordpress-development",
         "className": "",
         "text": "WordPress Development"
       }
     },
     {
       "link": {
-        "href": "/php-codeigniter-development",
+        "href": "/service/codeigniter-development",
         "className": "",
         "text": "Codeigniter Development"
       }
     },
     {
       "link": {
-        "href": "/laravel-development",
+        "href": "/service/laravel-development",
         "className": "",
         "text": "Laravel Development"
       }
     },
     {
       "link": {
-        "href": "/angularjs-development",
+        "href": "/service/angularjs-development",
         "className": "",
         "text": "AngularJS Development"
       }
     }
   ],
   "link7": {
-    "href": "/nodejs-development",
+    "href": "/service/nodejs-development",
     "text": "NodeJS Development"
   },
   "link8": {
@@ -191,56 +191,56 @@
     },
     {
       "link": {
-        "href": "/game-development",
+        "href": "/service-category/game-development",
         "className": "",
         "text": "Game Development"
       }
     },
     {
       "link": {
-        "href": "/ios-game-development",
+        "href": "/service/ios-game-development",
         "className": "",
         "text": "iOS Game Development"
       }
     },
     {
       "link": {
-        "href": "/android-game-development",
+        "href": "/service/android-game-development",
         "className": "",
         "text": "Android Game Development"
       }
     },
     {
       "link": {
-        "href": "/unity-2d-3d-game-development",
+        "href": "/service/unity-2d-3d-game-development",
         "className": "",
         "text": "2D/3D Game Development"
       }
     },
     {
       "link": {
-        "href": "/augmented-reality-game-development",
+        "href": "/service/ar-game-development",
         "className": "",
         "text": "AR Game Development"
       }
     },
     {
       "link": {
-        "href": "/virtual-reality-game-development",
+        "href": "/service/vr-game-development",
         "className": "",
         "text": "VR Game Development"
       }
     },
     {
       "link": {
-        "href": "/windows-game-development",
+        "href": "/service/windows-game-development",
         "className": "",
         "text": "Windows Game Development"
       }
     },
     {
       "link": {
-        "href": "/mac-game-development",
+        "href": "/service/mac-game-development",
         "className": "",
         "text": "Mac Game Development"
       }
@@ -266,42 +266,42 @@
     },
     {
       "link": {
-        "href": "/startup-mvp-development",
+        "href": "/service/mvp-development",
         "className": "",
         "text": "Startup MVP Development"
       }
     },
     {
       "link": {
-        "href": "/erp-development",
+        "href": "/service/erp-development",
         "className": "",
         "text": "ERP Solutions"
       }
     },
     {
       "link": {
-        "href": "/crm-development",
+        "href": "/service/crm-development",
         "className": "",
         "text": "CRM Solutions"
       }
     },
     {
       "link": {
-        "href": "/cms-development",
+        "href": "/service/cms-development",
         "className": "",
         "text": "CMS Solutions"
       }
     },
     {
       "link": {
-        "href": "/ecommerce-web-development",
+        "href": "/service-category/ecommerce-development",
         "className": "",
         "text": "Ecommerce Solutions"
       }
     }
   ],
   "link10": {
-    "href": "/ui-ux-design-development",
+    "href": "/service-category/ui-ux-design",
     "text": "UI-UX Design"
   },
   "link11": {
@@ -328,21 +328,21 @@
         },
         {
           "link": {
-            "href": "/taxi-app-development",
+            "href": "/service/taxi-app-development",
             "className": "",
             "text": "Taxi Booking"
           }
         },
         {
           "link": {
-            "href": "/food-delivery-app-development",
+            "href": "/service/food-delivery-app-development",
             "className": "",
             "text": "Food Delivery"
           }
         },
         {
           "link": {
-            "href": "/car-wash-app-development",
+            "href": "/service/car-wash-app-development",
             "className": "",
             "text": "Car Wash"
           }
@@ -364,28 +364,28 @@
         },
         {
           "link": {
-            "href": "/real-estate-app-development",
+            "href": "/service/real-estate-app-development",
             "className": "",
             "text": "Real Estate"
           }
         },
         {
           "link": {
-            "href": "/finance-app-development",
+            "href": "/service/finance-app-development",
             "className": "",
             "text": "Banking & Finance"
           }
         },
         {
           "link": {
-            "href": "/travel-app-development",
+            "href": "/service/travel-app-development",
             "className": "",
             "text": "Travel & Tourism"
           }
         },
         {
           "link": {
-            "href": "/health-fitness-app-development",
+            "href": "/service/health-fitness-app-development",
             "className": "",
             "text": "Health & Fitness"
           }
@@ -407,28 +407,28 @@
         },
         {
           "link": {
-            "href": "/social-media-app-development",
+            "href": "/service/social-media-app-development",
             "className": "",
             "text": "Social Media"
           }
         },
         {
           "link": {
-            "href": "/dating-app-development",
+            "href": "/service/dating-app-development",
             "className": "",
             "text": "Dating"
           }
         },
         {
           "link": {
-            "href": "/chat-instant-messaging-app-development",
+            "href": "/service/instant-messaging-app-development",
             "className": "",
             "text": "Instant Messaging"
           }
         },
         {
           "link": {
-            "href": "/media-entertainment-app-development",
+            "href": "/service/media-entertainment-app-development",
             "className": "",
             "text": "Media & Entertainment"
           }
@@ -450,14 +450,14 @@
         },
         {
           "link": {
-            "href": "/fantasy-sports-app-development",
+            "href": "/service/fantasy-sports-app-development",
             "className": "",
             "text": "Fantasy Sports"
           }
         },
         {
           "link": {
-            "href": "/chatbot-development",
+            "href": "/service/chatbot-development",
             "className": "",
             "text": "Chatbot"
           }

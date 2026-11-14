@@ -1,0 +1,42 @@
+{
+  "text": "Advantages",
+  "heading": "Key Features of Our eCommerce Development",
+  "text2": "A store that sells is built on details. These are the features we include in the online stores we deliver.",
+  "subheading": "What your store includes",
+  "items": [
+    {
+      "icon": "svg-c74f4f",
+      "html": "<strong>Fast product pages</strong> that stay lightning quick even with thousands of products."
+    },
+    {
+      "icon": "svg-153ded",
+      "html": "<strong>Smooth, secure checkout</strong> with cards, wallets, bank transfer and cash on delivery."
+    },
+    {
+      "icon": "svg-245c7d",
+      "html": "<strong>Inventory and order management</strong> with an admin panel your team can use from day one."
+    },
+    {
+      "icon": "svg-44f4fb",
+      "html": "<strong>Flexible shipping and tax rules</strong> that work for local and international orders."
+    },
+    {
+      "icon": "svg-fc8601",
+      "html": "<strong>SEO-ready structure</strong> with clean URLs, schema markup and fast loading to win organic traffic."
+    },
+    {
+      "icon": "svg-9fb70d",
+      "html": "<strong>Responsive design</strong> that gives shoppers a great experience on every screen size."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our eCommerce Expert Now"
+  },
+  "image": {
+    "src": "/images/category/ecommerce-development/features-ecommerce-development.webp",
+    "alt": "ecommerce development",
+    "width": "549",
+    "height": "528"
+  }
+}

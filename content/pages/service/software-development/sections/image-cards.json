@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with software development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/al-iftar-foods.jpg",
+        "alt": "ERP Development"
+      },
+      "title": "ERP Development",
+      "text": "Custom ERP systems that unite finance, inventory, sales and operations in one platform.",
+      "link": {
+        "href": "/service/erp-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/atlas-fuel.jpg",
+        "alt": "CRM Development"
+      },
+      "title": "CRM Development",
+      "text": "Custom CRM systems to manage leads, customers and sales pipelines.",
+      "link": {
+        "href": "/service/crm-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/flyashs.jpg",
+        "alt": "CMS Development"
+      },
+      "title": "CMS Development",
+      "text": "Content management systems that make publishing simple, secure and scalable.",
+      "link": {
+        "href": "/service/cms-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/beejan.jpg",
+        "alt": "Chatbot Development"
+      },
+      "title": "Chatbot Development",
+      "text": "AI chatbots that answer questions, qualify leads and support customers around the clock.",
+      "link": {
+        "href": "/service/chatbot-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/delivery-shark.jpg",
+        "alt": "Flutter App Development"
+      },
+      "title": "Flutter App Development",
+      "text": "One codebase for iOS and Android with a rich, near-native experience and faster delivery.",
+      "link": {
+        "href": "/service/flutter-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/fantasyji.jpg",
+        "alt": "Cross Platform App Development"
+      },
+      "title": "Cross Platform App Development",
+      "text": "One app that runs on iOS, Android and the web, built with the framework that suits your product.",
+      "link": {
+        "href": "/service/cross-platform-app-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Do you create the game art?",
+      "answer": "Yes. Our artists create characters, environments, UI and animations."
+    },
+    {
+      "question": "Can you build multiplayer games?",
+      "answer": "Yes. We build real-time and turn-based multiplayer with a scalable backend."
+    },
+    {
+      "question": "2D or 3D: which is better?",
+      "answer": "It depends on genre, budget and audience. We advise based on your concept."
+    },
+    {
+      "question": "How long does 2d/3d game development take?",
+      "answer": "A simple casual game takes about 2 to 3 months, while a polished 3D or multiplayer game usually takes 6 months or more."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

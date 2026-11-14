@@ -1,0 +1,47 @@
+{
+  "text": "CRM Development Benefits",
+  "heading": "Benefits of CRM Development",
+  "text2": "Being a trusted software partner, we focus on outcomes you can measure, from faster delivery to a product your users and team will rely on.",
+  "compare": {
+    "before": {
+      "src": "/images/portfolio/atlas-fuel.jpg",
+      "alt": "CRM Development"
+    },
+    "after": {
+      "src": "/images/portfolio/al-iftar-foods.jpg",
+      "alt": "CRM Development"
+    }
+  },
+  "items": [
+    {
+      "icon": "svg-4f24e7",
+      "title": "Automate manual work",
+      "text": "CRM Development replaces spreadsheets and repeat data entry so your team can focus on higher-value work."
+    },
+    {
+      "icon": "svg-72485b",
+      "title": "One source of truth",
+      "text": "Data from every department lives in one place, so decisions are made on current, accurate numbers."
+    },
+    {
+      "icon": "svg-92329f",
+      "title": "Fits your process",
+      "text": "Built around how your business actually runs rather than forcing you into a rigid template."
+    },
+    {
+      "icon": "svg-677566",
+      "title": "Role-based security",
+      "text": "Permissions, audit trails and backups keep sensitive business data protected."
+    },
+    {
+      "icon": "svg-bd8d6e",
+      "title": "Real-time reporting",
+      "text": "Dashboards and reports show sales, stock, finance and performance as they happen."
+    },
+    {
+      "icon": "svg-afdd73",
+      "title": "Grows with you",
+      "text": "Add users, branches, modules and integrations as your business expands."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "service/android-game-development",
+  "seo": {
+    "title": "Android Game Development Company | KeyDevs Technologies",
+    "description": "Games that reach the largest mobile audience and run smoothly across Android devices. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our Windows Game Development Services",
+  "text2": "Whatever stage you are at, our windows game development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/mobile-game-development.png",
+        "alt": "New Windows Games"
+      },
+      "title": "New Windows Games",
+      "text": "Full-featured games for PC in 2D and 3D, from casual to action."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "Mobile to PC Porting"
+      },
+      "title": "Mobile to PC Porting",
+      "text": "Adapt your mobile game for PC with upgraded visuals and controls."
+    },
+    {
+      "image": {
+        "src": "/images/services/mobile-app-development.png",
+        "alt": "Store Packaging"
+      },
+      "title": "Store Packaging",
+      "text": "Builds, installers and store assets prepared for release."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with codeigniter development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/finance-app.jpg",
+        "alt": "PHP Web Development"
+      },
+      "title": "PHP Web Development",
+      "text": "Cost-effective, flexible PHP websites and web applications that perform and scale.",
+      "link": {
+        "href": "/service/php-web-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/healthcare-and-fitness.jpg",
+        "alt": "WordPress Development"
+      },
+      "title": "WordPress Development",
+      "text": "Scalable, easy-to-manage WordPress websites with custom themes and plugins.",
+      "link": {
+        "href": "/service/wordpress-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/social-media.jpg",
+        "alt": "Laravel Development"
+      },
+      "title": "Laravel Development",
+      "text": "Secure, elegant, scalable web applications built on Laravel.",
+      "link": {
+        "href": "/service/laravel-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/real-estate.jpg",
+        "alt": "AngularJS Development"
+      },
+      "title": "AngularJS Development",
+      "text": "Single-page and progressive web apps with Angular’s structured, reusable architecture.",
+      "link": {
+        "href": "/service/angularjs-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/event-and-community-building.jpg",
+        "alt": "NodeJS Development"
+      },
+      "title": "NodeJS Development",
+      "text": "Fast, real-time, scalable backends and APIs powered by Node.js.",
+      "link": {
+        "href": "/service/nodejs-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/multan-chemicals-limited.jpg",
+        "alt": "CRM Development"
+      },
+      "title": "CRM Development",
+      "text": "Custom CRM systems to manage leads, customers and sales pipelines.",
+      "link": {
+        "href": "/service/crm-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

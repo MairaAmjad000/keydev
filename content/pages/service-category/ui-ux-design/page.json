@@ -1,0 +1,26 @@
+{
+  "slug": "service-category/ui-ux-design",
+  "seo": {
+    "title": "UI/UX Design Company | Web and Mobile App Design | KeyDevs Technologies",
+    "description": "KeyDevs Technologies is a user-centred UI/UX design company. We research, wireframe, prototype and design web and mobile products that people enjoy using and businesses grow with."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "serviceOfferings",
+    "featureList",
+    "advantageGrid",
+    "process",
+    "frameworkTabs",
+    "contactCta",
+    "whyChoose",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Can the app list properties for sale and rent?",
+      "answer": "Yes. Sales, rentals and commercial listings are all supported."
+    },
+    {
+      "question": "Can agents manage their own listings?",
+      "answer": "Yes. Agent dashboards include listings, leads and analytics."
+    },
+    {
+      "question": "Can you integrate with my existing listings?",
+      "answer": "Yes. We can import listings through feeds and APIs."
+    },
+    {
+      "question": "How long does real estate app development take?",
+      "answer": "A launch-ready first version takes 8 to 12 weeks, while a full platform with customer, provider and admin apps takes 4 to 8 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

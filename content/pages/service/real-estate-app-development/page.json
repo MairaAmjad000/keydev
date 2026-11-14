@@ -1,0 +1,27 @@
+{
+  "slug": "service/real-estate-app-development",
+  "seo": {
+    "title": "Real Estate App Development Company | KeyDevs Technologies",
+    "description": "Property search and listing apps with maps, filters, saved searches and agent chat. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

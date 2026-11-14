@@ -1,0 +1,27 @@
+{
+  "text": "Got Questions?",
+  "heading": "Frequently Asked Questions",
+  "text2": "Quick answers to the questions we hear most about this service.",
+  "items": [
+    {
+      "question": "Do you test on real Android devices?",
+      "answer": "Yes. Every build is tested on a range of real devices and Android versions."
+    },
+    {
+      "question": "Kotlin or Java?",
+      "answer": "New projects use Kotlin. We also work with existing Java codebases."
+    },
+    {
+      "question": "Can you build the backend too?",
+      "answer": "Yes. We build APIs, admin panels and databases alongside the app."
+    },
+    {
+      "question": "How long does android app development take?",
+      "answer": "A focused app usually takes 8 to 12 weeks, while feature-rich apps with custom backends take 4 to 8 months."
+    },
+    {
+      "question": "Do you offer support after launch?",
+      "answer": "Yes. We provide maintenance, updates, monitoring and new feature development after launch."
+    }
+  ]
+}

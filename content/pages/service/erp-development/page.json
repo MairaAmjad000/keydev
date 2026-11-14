@@ -1,0 +1,27 @@
+{
+  "slug": "service/erp-development",
+  "seo": {
+    "title": "ERP Development Company | KeyDevs Technologies",
+    "description": "Custom ERP systems that unite finance, inventory, sales and operations in one platform. Talk to KeyDevs Technologies, Lahore."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "offerCards",
+    "imageCards",
+    "compareBenefits",
+    "sprintProcess",
+    "techStackTabs",
+    "contactCta",
+    "whyChooseImage",
+    "portfolio",
+    "testimonials",
+    "technologies",
+    "faq",
+    "featuredIn",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "text": "That's How We Work",
+  "heading": "Our Proven Mobile App Development Process: Efficient, Streamlined, and Adaptive",
+  "text2": "KeyDevs Technologies employs an Agile project management approach to ensure faster delivery without compromising quality. We divide the entire mobile app development project into distinct phases, with each phase focused on advancing the project toward successful completion.",
+  "processItemsList": [
+    {
+      "dataWowDelay": "0",
+      "icon": {
+        "className": "fas fa-angle-right"
+      },
+      "icon2": "svg-0e8fd7",
+      "subheading": "01 Discover",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Requirement gathering"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Market and competitor review"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Timeline and commercials"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "0.2s",
+      "icon": {
+        "className": "fas fa-angle-right"
+      },
+      "icon2": "svg-4571ef",
+      "subheading": "02 UI/UX Design",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>User flows and wireframes"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Platform-specific UI design"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Brand styling & preset creation"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "0.4s",
+      "icon": {
+        "className": "fas fa-angle-right"
+      },
+      "icon2": "svg-6ebd40",
+      "subheading": "03 Prototypes",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Clickable prototypes"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>User feedback sessions"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Design thinking workshops"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "0.6s",
+      "icon": {
+        "className": "fas fa-angle-down"
+      },
+      "icon2": "svg-56821f",
+      "subheading": "04 Development",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Native or cross platform build"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>API and backend integration"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>DevOps in action"
+        }
+      ]
+    }
+  ],
+  "icon": "svg-a93881",
+  "subheading": "05 Quality Assurance",
+  "items": [
+    {
+      "html": "<i class=\"fas fa-chevron-right\"></i>Real-device testing"
+    },
+    {
+      "html": "<i class=\"fas fa-chevron-right\"></i>Manual testing"
+    },
+    {
+      "html": "<i class=\"fas fa-chevron-right\"></i>Automation testing"
+    }
+  ],
+  "processItemsList2": [
+    {
+      "dataWowDelay": "1s",
+      "icon": "svg-374796",
+      "subheading": "06 Deployment",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>App Store submission"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Google Play launch"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Application handover"
+        }
+      ]
+    },
+    {
+      "dataWowDelay": "1.2s",
+      "icon": "svg-7249bb",
+      "subheading": "07 Support & Maintenance",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Crash monitoring"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>OS compatibility updates"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Managed services"
+        }
+      ]
+    }
+  ],
+  "items2": [
+    {
+      "icon": "svg-0e8fd7",
+      "subheading": "01 Discover",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Requirement gathering"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Market and competitor review"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Timeline and commercials"
+        }
+      ]
+    },
+    {
+      "icon": "svg-4571ef",
+      "subheading": "02 UI/UX Design",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>User flows and wireframes"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Platform-specific UI design"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Brand styling & preset creation"
+        }
+      ]
+    },
+    {
+      "icon": "svg-6ebd40",
+      "subheading": "03 Prototypes",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Clickable prototypes"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>User feedback sessions"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Design thinking workshops"
+        }
+      ]
+    },
+    {
+      "icon": "svg-56821f",
+      "subheading": "04 Development",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Native or cross platform build"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>API and backend integration"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>DevOps in action"
+        }
+      ]
+    },
+    {
+      "icon": "svg-a93881",
+      "subheading": "05 Quality Assurance",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Real-device testing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Manual testing"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Automation testing"
+        }
+      ]
+    },
+    {
+      "icon": "svg-374796",
+      "subheading": "06 Deployment",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>App Store submission"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Google Play launch"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Application handover"
+        }
+      ]
+    },
+    {
+      "icon": "svg-7249bb",
+      "subheading": "07 Support & Maintenance",
+      "items": [
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Crash monitoring"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>OS compatibility updates"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Managed services"
+        }
+      ]
+    }
+  ]
+}

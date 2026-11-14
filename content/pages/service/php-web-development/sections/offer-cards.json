@@ -1,0 +1,31 @@
+{
+  "text": "Our offerings",
+  "heading": "Our PHP Web Development Services",
+  "text2": "Whatever stage you are at, our php web development services are shaped to help you move from idea to a product that performs.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/services/web-application-development.webp",
+        "alt": "Custom PHP Websites"
+      },
+      "title": "Custom PHP Websites",
+      "text": "Tailor-made business websites and portals built to your design and workflow."
+    },
+    {
+      "image": {
+        "src": "/images/services/ux-ui-design.jpg",
+        "alt": "PHP Web Applications"
+      },
+      "title": "PHP Web Applications",
+      "text": "Feature-rich web apps with dashboards, user roles and reporting."
+    },
+    {
+      "image": {
+        "src": "/images/services/ecommerce-development.png",
+        "alt": "PHP Maintenance and Upgrades"
+      },
+      "title": "PHP Maintenance and Upgrades",
+      "text": "Fixes, security patches and upgrades to modern PHP versions."
+    }
+  ]
+}

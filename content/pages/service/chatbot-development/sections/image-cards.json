@@ -1,0 +1,79 @@
+{
+  "text": "Related Services",
+  "heading": "Explore More of What We Build",
+  "text2": "Looking for something related? These services often go hand in hand with chatbot development.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/portfolio/atlas-fuel.jpg",
+        "alt": "ERP Development"
+      },
+      "title": "ERP Development",
+      "text": "Custom ERP systems that unite finance, inventory, sales and operations in one platform.",
+      "link": {
+        "href": "/service/erp-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/flyashs.jpg",
+        "alt": "CRM Development"
+      },
+      "title": "CRM Development",
+      "text": "Custom CRM systems to manage leads, customers and sales pipelines.",
+      "link": {
+        "href": "/service/crm-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/beejan.jpg",
+        "alt": "CMS Development"
+      },
+      "title": "CMS Development",
+      "text": "Content management systems that make publishing simple, secure and scalable.",
+      "link": {
+        "href": "/service/cms-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/delivery-shark.jpg",
+        "alt": "Software Development"
+      },
+      "title": "Software Development",
+      "text": "Custom software built around your business, from internal tools to full platforms.",
+      "link": {
+        "href": "/service/software-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/fantasyji.jpg",
+        "alt": "Virtual Reality App Development"
+      },
+      "title": "Virtual Reality App Development",
+      "text": "Immersive VR apps for training, virtual tours and entertainment on modern headsets.",
+      "link": {
+        "href": "/service/vr-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/portfolio/finance-app.jpg",
+        "alt": "iOS Game Development"
+      },
+      "title": "iOS Game Development",
+      "text": "Beautiful, smooth games for iPhone and iPad built to take full advantage of Apple hardware.",
+      "link": {
+        "href": "/service/ios-game-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "text": "Why Choose Us",
+  "heading": "What Makes KeyDevs Technologies the Prominent iOS Game Development Company",
+  "text2": "Here is what you can expect when you build your game project with us.",
+  "items": [
+    {
+      "icon": "svg-712708",
+      "title": "Dedicated game team",
+      "text": "Designers, artists and Unity engineers working together."
+    },
+    {
+      "icon": "svg-37c5e6",
+      "title": "Cross-platform builds",
+      "text": "Ship to multiple platforms from a single project."
+    },
+    {
+      "icon": "svg-90d115",
+      "title": "Monetization built in",
+      "text": "Ads, purchases and analytics integrated from the start."
+    },
+    {
+      "icon": "svg-b4eda3",
+      "title": "Post-launch support",
+      "text": "Updates and new content to keep players engaged."
+    }
+  ]
+}
