@@ -47,7 +47,7 @@ export function CategoryHero({ data }: { data: CategoryHeroContent }) {
     ? 'col-xl-8 col-lg-7 col-md-12 col-sm-12 col-12'
     : 'col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12';
   return (
-    <section className={data.image ? 'banner innerbanner' : 'banner innerbanner innerbanner-plain'}>
+    <section className="banner innerbanner">
       {data.image && (
         <div className="video">
           <img src={data.image.src} alt={data.image.alt} width={data.image.width} height={data.image.height} />
@@ -83,6 +83,16 @@ export function CategoryHero({ data }: { data: CategoryHeroContent }) {
                         {form.fields.map((field) => (
                           <Field key={field.name} field={field} />
                         ))}
+                        <div className="form-group col-md-6 text-center text-md-left">
+                          <div id={`${form.id.replace(/-banner_form$/, '')}-intelGrecaptchaInnerBannerContact`} />
+                          {' '}
+                          <input
+                            type="hidden"
+                            className="form-control"
+                            name="grecaptcha_inner_banner"
+                            id={`${form.id.replace(/-banner_form$/, '')}-grecaptcha_inner_banner`}
+                          />
+                        </div>
                       </div>
                       <div className="row align-items-center submitbar">
                         <div className="form-group w-auto m-0 d-inline-flex">

@@ -24,6 +24,9 @@
 @import './layout/call-back-sidebar.css';
 
 /* Page sections, in page order */
+/* Inner-page banner base rules must come before the responsive (@media) rules in hero.css and the sections
+   below, exactly as in the original stylesheet, or its fixed font sizes would override the breakpoints. */
+@import './sections/category-hero.css';
 @import './sections/hero.css';
 @import './sections/brand-logos.css';
 @import './sections/about.css';
@@ -40,7 +43,6 @@
 @import './sections/schedule-call.css';
 @import './sections/engagement.css';
 @import './sections/locations.css';
-@import './sections/category-hero.css';
 @import './sections/intro-content.css';
 @import './sections/service-offerings.css';
 @import './sections/feature-list.css';
