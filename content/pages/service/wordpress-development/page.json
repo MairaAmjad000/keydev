@@ -2,23 +2,19 @@
   "slug": "service/wordpress-development",
   "seo": {
     "title": "WordPress Development Company | KeyDevs Technologies",
-    "description": "Scalable, easy-to-manage WordPress websites with custom themes and plugins. Talk to KeyDevs Technologies, Lahore."
+    "description": "WordPress is the Internet’s backbone. More than 25% of the websites on the internet are built using WordPress. It can be a cornerstone CMS for your business…"
   },
   "sections": [
     "categoryHero",
-    "brandLogos",
     "introContent",
-    "offerCards",
-    "imageCards",
-    "compareBenefits",
-    "sprintProcess",
-    "techStackTabs",
-    "whyChooseImage",
+    "iconCards",
+    "featureList",
+    "whyChoose",
+    "brandLogos",
     "portfolio",
     "testimonials",
-    "technologies",
-    "faq",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }

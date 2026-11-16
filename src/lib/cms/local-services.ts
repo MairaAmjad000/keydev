@@ -216,102 +216,6 @@ import macGameDevelopment_technologies from '../../../content/pages/service/mac-
 import macGameDevelopment_faq from '../../../content/pages/service/mac-game-development/sections/faq.json';
 import macGameDevelopment_featuredIn from '../../../content/pages/service/mac-game-development/sections/featured-in.json';
 import macGameDevelopment_blog from '../../../content/pages/service/mac-game-development/sections/blog.json';
-import phpWebDevelopmentPage from '../../../content/pages/service/php-web-development/page.json';
-import phpWebDevelopment_categoryHero from '../../../content/pages/service/php-web-development/sections/category-hero.json';
-import phpWebDevelopment_brandLogos from '../../../content/pages/service/php-web-development/sections/brand-logos.json';
-import phpWebDevelopment_introContent from '../../../content/pages/service/php-web-development/sections/intro-content.json';
-import phpWebDevelopment_offerCards from '../../../content/pages/service/php-web-development/sections/offer-cards.json';
-import phpWebDevelopment_imageCards from '../../../content/pages/service/php-web-development/sections/image-cards.json';
-import phpWebDevelopment_compareBenefits from '../../../content/pages/service/php-web-development/sections/compare-benefits.json';
-import phpWebDevelopment_sprintProcess from '../../../content/pages/service/php-web-development/sections/sprint-process.json';
-import phpWebDevelopment_techStackTabs from '../../../content/pages/service/php-web-development/sections/tech-stack-tabs.json';
-import phpWebDevelopment_whyChooseImage from '../../../content/pages/service/php-web-development/sections/why-choose-image.json';
-import phpWebDevelopment_portfolio from '../../../content/pages/service/php-web-development/sections/portfolio.json';
-import phpWebDevelopment_testimonials from '../../../content/pages/service/php-web-development/sections/testimonials.json';
-import phpWebDevelopment_technologies from '../../../content/pages/service/php-web-development/sections/technologies.json';
-import phpWebDevelopment_faq from '../../../content/pages/service/php-web-development/sections/faq.json';
-import phpWebDevelopment_featuredIn from '../../../content/pages/service/php-web-development/sections/featured-in.json';
-import phpWebDevelopment_blog from '../../../content/pages/service/php-web-development/sections/blog.json';
-import wordpressDevelopmentPage from '../../../content/pages/service/wordpress-development/page.json';
-import wordpressDevelopment_categoryHero from '../../../content/pages/service/wordpress-development/sections/category-hero.json';
-import wordpressDevelopment_brandLogos from '../../../content/pages/service/wordpress-development/sections/brand-logos.json';
-import wordpressDevelopment_introContent from '../../../content/pages/service/wordpress-development/sections/intro-content.json';
-import wordpressDevelopment_offerCards from '../../../content/pages/service/wordpress-development/sections/offer-cards.json';
-import wordpressDevelopment_imageCards from '../../../content/pages/service/wordpress-development/sections/image-cards.json';
-import wordpressDevelopment_compareBenefits from '../../../content/pages/service/wordpress-development/sections/compare-benefits.json';
-import wordpressDevelopment_sprintProcess from '../../../content/pages/service/wordpress-development/sections/sprint-process.json';
-import wordpressDevelopment_techStackTabs from '../../../content/pages/service/wordpress-development/sections/tech-stack-tabs.json';
-import wordpressDevelopment_whyChooseImage from '../../../content/pages/service/wordpress-development/sections/why-choose-image.json';
-import wordpressDevelopment_portfolio from '../../../content/pages/service/wordpress-development/sections/portfolio.json';
-import wordpressDevelopment_testimonials from '../../../content/pages/service/wordpress-development/sections/testimonials.json';
-import wordpressDevelopment_technologies from '../../../content/pages/service/wordpress-development/sections/technologies.json';
-import wordpressDevelopment_faq from '../../../content/pages/service/wordpress-development/sections/faq.json';
-import wordpressDevelopment_featuredIn from '../../../content/pages/service/wordpress-development/sections/featured-in.json';
-import wordpressDevelopment_blog from '../../../content/pages/service/wordpress-development/sections/blog.json';
-import codeigniterDevelopmentPage from '../../../content/pages/service/codeigniter-development/page.json';
-import codeigniterDevelopment_categoryHero from '../../../content/pages/service/codeigniter-development/sections/category-hero.json';
-import codeigniterDevelopment_brandLogos from '../../../content/pages/service/codeigniter-development/sections/brand-logos.json';
-import codeigniterDevelopment_introContent from '../../../content/pages/service/codeigniter-development/sections/intro-content.json';
-import codeigniterDevelopment_offerCards from '../../../content/pages/service/codeigniter-development/sections/offer-cards.json';
-import codeigniterDevelopment_imageCards from '../../../content/pages/service/codeigniter-development/sections/image-cards.json';
-import codeigniterDevelopment_compareBenefits from '../../../content/pages/service/codeigniter-development/sections/compare-benefits.json';
-import codeigniterDevelopment_sprintProcess from '../../../content/pages/service/codeigniter-development/sections/sprint-process.json';
-import codeigniterDevelopment_techStackTabs from '../../../content/pages/service/codeigniter-development/sections/tech-stack-tabs.json';
-import codeigniterDevelopment_whyChooseImage from '../../../content/pages/service/codeigniter-development/sections/why-choose-image.json';
-import codeigniterDevelopment_portfolio from '../../../content/pages/service/codeigniter-development/sections/portfolio.json';
-import codeigniterDevelopment_testimonials from '../../../content/pages/service/codeigniter-development/sections/testimonials.json';
-import codeigniterDevelopment_technologies from '../../../content/pages/service/codeigniter-development/sections/technologies.json';
-import codeigniterDevelopment_faq from '../../../content/pages/service/codeigniter-development/sections/faq.json';
-import codeigniterDevelopment_featuredIn from '../../../content/pages/service/codeigniter-development/sections/featured-in.json';
-import codeigniterDevelopment_blog from '../../../content/pages/service/codeigniter-development/sections/blog.json';
-import laravelDevelopmentPage from '../../../content/pages/service/laravel-development/page.json';
-import laravelDevelopment_categoryHero from '../../../content/pages/service/laravel-development/sections/category-hero.json';
-import laravelDevelopment_brandLogos from '../../../content/pages/service/laravel-development/sections/brand-logos.json';
-import laravelDevelopment_introContent from '../../../content/pages/service/laravel-development/sections/intro-content.json';
-import laravelDevelopment_offerCards from '../../../content/pages/service/laravel-development/sections/offer-cards.json';
-import laravelDevelopment_imageCards from '../../../content/pages/service/laravel-development/sections/image-cards.json';
-import laravelDevelopment_compareBenefits from '../../../content/pages/service/laravel-development/sections/compare-benefits.json';
-import laravelDevelopment_sprintProcess from '../../../content/pages/service/laravel-development/sections/sprint-process.json';
-import laravelDevelopment_techStackTabs from '../../../content/pages/service/laravel-development/sections/tech-stack-tabs.json';
-import laravelDevelopment_whyChooseImage from '../../../content/pages/service/laravel-development/sections/why-choose-image.json';
-import laravelDevelopment_portfolio from '../../../content/pages/service/laravel-development/sections/portfolio.json';
-import laravelDevelopment_testimonials from '../../../content/pages/service/laravel-development/sections/testimonials.json';
-import laravelDevelopment_technologies from '../../../content/pages/service/laravel-development/sections/technologies.json';
-import laravelDevelopment_faq from '../../../content/pages/service/laravel-development/sections/faq.json';
-import laravelDevelopment_featuredIn from '../../../content/pages/service/laravel-development/sections/featured-in.json';
-import laravelDevelopment_blog from '../../../content/pages/service/laravel-development/sections/blog.json';
-import angularjsDevelopmentPage from '../../../content/pages/service/angularjs-development/page.json';
-import angularjsDevelopment_categoryHero from '../../../content/pages/service/angularjs-development/sections/category-hero.json';
-import angularjsDevelopment_brandLogos from '../../../content/pages/service/angularjs-development/sections/brand-logos.json';
-import angularjsDevelopment_introContent from '../../../content/pages/service/angularjs-development/sections/intro-content.json';
-import angularjsDevelopment_offerCards from '../../../content/pages/service/angularjs-development/sections/offer-cards.json';
-import angularjsDevelopment_imageCards from '../../../content/pages/service/angularjs-development/sections/image-cards.json';
-import angularjsDevelopment_compareBenefits from '../../../content/pages/service/angularjs-development/sections/compare-benefits.json';
-import angularjsDevelopment_sprintProcess from '../../../content/pages/service/angularjs-development/sections/sprint-process.json';
-import angularjsDevelopment_techStackTabs from '../../../content/pages/service/angularjs-development/sections/tech-stack-tabs.json';
-import angularjsDevelopment_whyChooseImage from '../../../content/pages/service/angularjs-development/sections/why-choose-image.json';
-import angularjsDevelopment_portfolio from '../../../content/pages/service/angularjs-development/sections/portfolio.json';
-import angularjsDevelopment_testimonials from '../../../content/pages/service/angularjs-development/sections/testimonials.json';
-import angularjsDevelopment_technologies from '../../../content/pages/service/angularjs-development/sections/technologies.json';
-import angularjsDevelopment_faq from '../../../content/pages/service/angularjs-development/sections/faq.json';
-import angularjsDevelopment_featuredIn from '../../../content/pages/service/angularjs-development/sections/featured-in.json';
-import angularjsDevelopment_blog from '../../../content/pages/service/angularjs-development/sections/blog.json';
-import nodejsDevelopmentPage from '../../../content/pages/service/nodejs-development/page.json';
-import nodejsDevelopment_categoryHero from '../../../content/pages/service/nodejs-development/sections/category-hero.json';
-import nodejsDevelopment_brandLogos from '../../../content/pages/service/nodejs-development/sections/brand-logos.json';
-import nodejsDevelopment_introContent from '../../../content/pages/service/nodejs-development/sections/intro-content.json';
-import nodejsDevelopment_offerCards from '../../../content/pages/service/nodejs-development/sections/offer-cards.json';
-import nodejsDevelopment_imageCards from '../../../content/pages/service/nodejs-development/sections/image-cards.json';
-import nodejsDevelopment_compareBenefits from '../../../content/pages/service/nodejs-development/sections/compare-benefits.json';
-import nodejsDevelopment_sprintProcess from '../../../content/pages/service/nodejs-development/sections/sprint-process.json';
-import nodejsDevelopment_techStackTabs from '../../../content/pages/service/nodejs-development/sections/tech-stack-tabs.json';
-import nodejsDevelopment_whyChooseImage from '../../../content/pages/service/nodejs-development/sections/why-choose-image.json';
-import nodejsDevelopment_portfolio from '../../../content/pages/service/nodejs-development/sections/portfolio.json';
-import nodejsDevelopment_testimonials from '../../../content/pages/service/nodejs-development/sections/testimonials.json';
-import nodejsDevelopment_technologies from '../../../content/pages/service/nodejs-development/sections/technologies.json';
-import nodejsDevelopment_faq from '../../../content/pages/service/nodejs-development/sections/faq.json';
-import nodejsDevelopment_featuredIn from '../../../content/pages/service/nodejs-development/sections/featured-in.json';
-import nodejsDevelopment_blog from '../../../content/pages/service/nodejs-development/sections/blog.json';
 import erpDevelopmentPage from '../../../content/pages/service/erp-development/page.json';
 import erpDevelopment_categoryHero from '../../../content/pages/service/erp-development/sections/category-hero.json';
 import erpDevelopment_brandLogos from '../../../content/pages/service/erp-development/sections/brand-logos.json';
@@ -600,6 +504,76 @@ import fantasySportsAppDevelopment_technologies from '../../../content/pages/ser
 import fantasySportsAppDevelopment_faq from '../../../content/pages/service/fantasy-sports-app-development/sections/faq.json';
 import fantasySportsAppDevelopment_featuredIn from '../../../content/pages/service/fantasy-sports-app-development/sections/featured-in.json';
 import fantasySportsAppDevelopment_blog from '../../../content/pages/service/fantasy-sports-app-development/sections/blog.json';
+import phpWebDevelopmentPage from '../../../content/pages/service/php-web-development/page.json';
+import phpWebDevelopment_categoryHero from '../../../content/pages/service/php-web-development/sections/category-hero.json';
+import phpWebDevelopment_introContent from '../../../content/pages/service/php-web-development/sections/intro-content.json';
+import phpWebDevelopment_iconCards from '../../../content/pages/service/php-web-development/sections/icon-cards.json';
+import phpWebDevelopment_featureList from '../../../content/pages/service/php-web-development/sections/feature-list.json';
+import phpWebDevelopment_whyChoose from '../../../content/pages/service/php-web-development/sections/why-choose.json';
+import phpWebDevelopment_brandLogos from '../../../content/pages/service/php-web-development/sections/brand-logos.json';
+import phpWebDevelopment_portfolio from '../../../content/pages/service/php-web-development/sections/portfolio.json';
+import phpWebDevelopment_testimonials from '../../../content/pages/service/php-web-development/sections/testimonials.json';
+import phpWebDevelopment_featuredIn from '../../../content/pages/service/php-web-development/sections/featured-in.json';
+import phpWebDevelopment_technologies from '../../../content/pages/service/php-web-development/sections/technologies.json';
+import phpWebDevelopment_blog from '../../../content/pages/service/php-web-development/sections/blog.json';
+import wordpressDevelopmentPage from '../../../content/pages/service/wordpress-development/page.json';
+import wordpressDevelopment_categoryHero from '../../../content/pages/service/wordpress-development/sections/category-hero.json';
+import wordpressDevelopment_introContent from '../../../content/pages/service/wordpress-development/sections/intro-content.json';
+import wordpressDevelopment_iconCards from '../../../content/pages/service/wordpress-development/sections/icon-cards.json';
+import wordpressDevelopment_featureList from '../../../content/pages/service/wordpress-development/sections/feature-list.json';
+import wordpressDevelopment_whyChoose from '../../../content/pages/service/wordpress-development/sections/why-choose.json';
+import wordpressDevelopment_brandLogos from '../../../content/pages/service/wordpress-development/sections/brand-logos.json';
+import wordpressDevelopment_portfolio from '../../../content/pages/service/wordpress-development/sections/portfolio.json';
+import wordpressDevelopment_testimonials from '../../../content/pages/service/wordpress-development/sections/testimonials.json';
+import wordpressDevelopment_featuredIn from '../../../content/pages/service/wordpress-development/sections/featured-in.json';
+import wordpressDevelopment_technologies from '../../../content/pages/service/wordpress-development/sections/technologies.json';
+import wordpressDevelopment_blog from '../../../content/pages/service/wordpress-development/sections/blog.json';
+import codeigniterDevelopmentPage from '../../../content/pages/service/codeigniter-development/page.json';
+import codeigniterDevelopment_categoryHero from '../../../content/pages/service/codeigniter-development/sections/category-hero.json';
+import codeigniterDevelopment_introContent from '../../../content/pages/service/codeigniter-development/sections/intro-content.json';
+import codeigniterDevelopment_iconCards from '../../../content/pages/service/codeigniter-development/sections/icon-cards.json';
+import codeigniterDevelopment_whyChoose from '../../../content/pages/service/codeigniter-development/sections/why-choose.json';
+import codeigniterDevelopment_brandLogos from '../../../content/pages/service/codeigniter-development/sections/brand-logos.json';
+import codeigniterDevelopment_portfolio from '../../../content/pages/service/codeigniter-development/sections/portfolio.json';
+import codeigniterDevelopment_testimonials from '../../../content/pages/service/codeigniter-development/sections/testimonials.json';
+import codeigniterDevelopment_featuredIn from '../../../content/pages/service/codeigniter-development/sections/featured-in.json';
+import codeigniterDevelopment_technologies from '../../../content/pages/service/codeigniter-development/sections/technologies.json';
+import codeigniterDevelopment_blog from '../../../content/pages/service/codeigniter-development/sections/blog.json';
+import laravelDevelopmentPage from '../../../content/pages/service/laravel-development/page.json';
+import laravelDevelopment_categoryHero from '../../../content/pages/service/laravel-development/sections/category-hero.json';
+import laravelDevelopment_introContent from '../../../content/pages/service/laravel-development/sections/intro-content.json';
+import laravelDevelopment_iconCards from '../../../content/pages/service/laravel-development/sections/icon-cards.json';
+import laravelDevelopment_whyChoose from '../../../content/pages/service/laravel-development/sections/why-choose.json';
+import laravelDevelopment_brandLogos from '../../../content/pages/service/laravel-development/sections/brand-logos.json';
+import laravelDevelopment_portfolio from '../../../content/pages/service/laravel-development/sections/portfolio.json';
+import laravelDevelopment_testimonials from '../../../content/pages/service/laravel-development/sections/testimonials.json';
+import laravelDevelopment_featuredIn from '../../../content/pages/service/laravel-development/sections/featured-in.json';
+import laravelDevelopment_technologies from '../../../content/pages/service/laravel-development/sections/technologies.json';
+import laravelDevelopment_blog from '../../../content/pages/service/laravel-development/sections/blog.json';
+import angularjsDevelopmentPage from '../../../content/pages/service/angularjs-development/page.json';
+import angularjsDevelopment_categoryHero from '../../../content/pages/service/angularjs-development/sections/category-hero.json';
+import angularjsDevelopment_introContent from '../../../content/pages/service/angularjs-development/sections/intro-content.json';
+import angularjsDevelopment_iconCards from '../../../content/pages/service/angularjs-development/sections/icon-cards.json';
+import angularjsDevelopment_advantageGrid from '../../../content/pages/service/angularjs-development/sections/advantage-grid.json';
+import angularjsDevelopment_whyChoose from '../../../content/pages/service/angularjs-development/sections/why-choose.json';
+import angularjsDevelopment_brandLogos from '../../../content/pages/service/angularjs-development/sections/brand-logos.json';
+import angularjsDevelopment_portfolio from '../../../content/pages/service/angularjs-development/sections/portfolio.json';
+import angularjsDevelopment_testimonials from '../../../content/pages/service/angularjs-development/sections/testimonials.json';
+import angularjsDevelopment_featuredIn from '../../../content/pages/service/angularjs-development/sections/featured-in.json';
+import angularjsDevelopment_technologies from '../../../content/pages/service/angularjs-development/sections/technologies.json';
+import angularjsDevelopment_blog from '../../../content/pages/service/angularjs-development/sections/blog.json';
+import nodejsDevelopmentPage from '../../../content/pages/service/nodejs-development/page.json';
+import nodejsDevelopment_categoryHero from '../../../content/pages/service/nodejs-development/sections/category-hero.json';
+import nodejsDevelopment_introContent from '../../../content/pages/service/nodejs-development/sections/intro-content.json';
+import nodejsDevelopment_coreValues from '../../../content/pages/service/nodejs-development/sections/core-values.json';
+import nodejsDevelopment_advantageGrid from '../../../content/pages/service/nodejs-development/sections/advantage-grid.json';
+import nodejsDevelopment_whyChoose from '../../../content/pages/service/nodejs-development/sections/why-choose.json';
+import nodejsDevelopment_brandLogos from '../../../content/pages/service/nodejs-development/sections/brand-logos.json';
+import nodejsDevelopment_portfolio from '../../../content/pages/service/nodejs-development/sections/portfolio.json';
+import nodejsDevelopment_testimonials from '../../../content/pages/service/nodejs-development/sections/testimonials.json';
+import nodejsDevelopment_featuredIn from '../../../content/pages/service/nodejs-development/sections/featured-in.json';
+import nodejsDevelopment_technologies from '../../../content/pages/service/nodejs-development/sections/technologies.json';
+import nodejsDevelopment_blog from '../../../content/pages/service/nodejs-development/sections/blog.json';
 
 export const servicePageSources: { manifest: { slug: string; seo?: { title?: string; description?: string }; sections: string[] }; data: Partial<SectionDataMap> }[] = [
   { manifest: iphoneAppDevelopmentPage, data: { categoryHero: iphoneAppDevelopment_categoryHero, brandLogos: iphoneAppDevelopment_brandLogos, introContent: iphoneAppDevelopment_introContent, offerCards: iphoneAppDevelopment_offerCards, imageCards: iphoneAppDevelopment_imageCards, compareBenefits: iphoneAppDevelopment_compareBenefits, sprintProcess: iphoneAppDevelopment_sprintProcess, techStackTabs: iphoneAppDevelopment_techStackTabs, whyChooseImage: iphoneAppDevelopment_whyChooseImage, portfolio: iphoneAppDevelopment_portfolio, testimonials: iphoneAppDevelopment_testimonials, technologies: iphoneAppDevelopment_technologies, faq: iphoneAppDevelopment_faq, featuredIn: iphoneAppDevelopment_featuredIn, industryTabs: iphoneAppDevelopment_industryTabs, blog: iphoneAppDevelopment_blog, } },
@@ -615,12 +589,6 @@ export const servicePageSources: { manifest: { slug: string; seo?: { title?: str
   { manifest: vrGameDevelopmentPage, data: { categoryHero: vrGameDevelopment_categoryHero, brandLogos: vrGameDevelopment_brandLogos, introContent: vrGameDevelopment_introContent, offerCards: vrGameDevelopment_offerCards, imageCards: vrGameDevelopment_imageCards, compareBenefits: vrGameDevelopment_compareBenefits, sprintProcess: vrGameDevelopment_sprintProcess, techStackTabs: vrGameDevelopment_techStackTabs, whyChooseImage: vrGameDevelopment_whyChooseImage, portfolio: vrGameDevelopment_portfolio, testimonials: vrGameDevelopment_testimonials, technologies: vrGameDevelopment_technologies, faq: vrGameDevelopment_faq, featuredIn: vrGameDevelopment_featuredIn, blog: vrGameDevelopment_blog, } },
   { manifest: windowsGameDevelopmentPage, data: { categoryHero: windowsGameDevelopment_categoryHero, brandLogos: windowsGameDevelopment_brandLogos, introContent: windowsGameDevelopment_introContent, offerCards: windowsGameDevelopment_offerCards, imageCards: windowsGameDevelopment_imageCards, compareBenefits: windowsGameDevelopment_compareBenefits, sprintProcess: windowsGameDevelopment_sprintProcess, techStackTabs: windowsGameDevelopment_techStackTabs, whyChooseImage: windowsGameDevelopment_whyChooseImage, portfolio: windowsGameDevelopment_portfolio, testimonials: windowsGameDevelopment_testimonials, technologies: windowsGameDevelopment_technologies, faq: windowsGameDevelopment_faq, featuredIn: windowsGameDevelopment_featuredIn, blog: windowsGameDevelopment_blog, } },
   { manifest: macGameDevelopmentPage, data: { categoryHero: macGameDevelopment_categoryHero, brandLogos: macGameDevelopment_brandLogos, introContent: macGameDevelopment_introContent, offerCards: macGameDevelopment_offerCards, imageCards: macGameDevelopment_imageCards, compareBenefits: macGameDevelopment_compareBenefits, sprintProcess: macGameDevelopment_sprintProcess, techStackTabs: macGameDevelopment_techStackTabs, whyChooseImage: macGameDevelopment_whyChooseImage, portfolio: macGameDevelopment_portfolio, testimonials: macGameDevelopment_testimonials, technologies: macGameDevelopment_technologies, faq: macGameDevelopment_faq, featuredIn: macGameDevelopment_featuredIn, blog: macGameDevelopment_blog, } },
-  { manifest: phpWebDevelopmentPage, data: { categoryHero: phpWebDevelopment_categoryHero, brandLogos: phpWebDevelopment_brandLogos, introContent: phpWebDevelopment_introContent, offerCards: phpWebDevelopment_offerCards, imageCards: phpWebDevelopment_imageCards, compareBenefits: phpWebDevelopment_compareBenefits, sprintProcess: phpWebDevelopment_sprintProcess, techStackTabs: phpWebDevelopment_techStackTabs, whyChooseImage: phpWebDevelopment_whyChooseImage, portfolio: phpWebDevelopment_portfolio, testimonials: phpWebDevelopment_testimonials, technologies: phpWebDevelopment_technologies, faq: phpWebDevelopment_faq, featuredIn: phpWebDevelopment_featuredIn, blog: phpWebDevelopment_blog, } },
-  { manifest: wordpressDevelopmentPage, data: { categoryHero: wordpressDevelopment_categoryHero, brandLogos: wordpressDevelopment_brandLogos, introContent: wordpressDevelopment_introContent, offerCards: wordpressDevelopment_offerCards, imageCards: wordpressDevelopment_imageCards, compareBenefits: wordpressDevelopment_compareBenefits, sprintProcess: wordpressDevelopment_sprintProcess, techStackTabs: wordpressDevelopment_techStackTabs, whyChooseImage: wordpressDevelopment_whyChooseImage, portfolio: wordpressDevelopment_portfolio, testimonials: wordpressDevelopment_testimonials, technologies: wordpressDevelopment_technologies, faq: wordpressDevelopment_faq, featuredIn: wordpressDevelopment_featuredIn, blog: wordpressDevelopment_blog, } },
-  { manifest: codeigniterDevelopmentPage, data: { categoryHero: codeigniterDevelopment_categoryHero, brandLogos: codeigniterDevelopment_brandLogos, introContent: codeigniterDevelopment_introContent, offerCards: codeigniterDevelopment_offerCards, imageCards: codeigniterDevelopment_imageCards, compareBenefits: codeigniterDevelopment_compareBenefits, sprintProcess: codeigniterDevelopment_sprintProcess, techStackTabs: codeigniterDevelopment_techStackTabs, whyChooseImage: codeigniterDevelopment_whyChooseImage, portfolio: codeigniterDevelopment_portfolio, testimonials: codeigniterDevelopment_testimonials, technologies: codeigniterDevelopment_technologies, faq: codeigniterDevelopment_faq, featuredIn: codeigniterDevelopment_featuredIn, blog: codeigniterDevelopment_blog, } },
-  { manifest: laravelDevelopmentPage, data: { categoryHero: laravelDevelopment_categoryHero, brandLogos: laravelDevelopment_brandLogos, introContent: laravelDevelopment_introContent, offerCards: laravelDevelopment_offerCards, imageCards: laravelDevelopment_imageCards, compareBenefits: laravelDevelopment_compareBenefits, sprintProcess: laravelDevelopment_sprintProcess, techStackTabs: laravelDevelopment_techStackTabs, whyChooseImage: laravelDevelopment_whyChooseImage, portfolio: laravelDevelopment_portfolio, testimonials: laravelDevelopment_testimonials, technologies: laravelDevelopment_technologies, faq: laravelDevelopment_faq, featuredIn: laravelDevelopment_featuredIn, blog: laravelDevelopment_blog, } },
-  { manifest: angularjsDevelopmentPage, data: { categoryHero: angularjsDevelopment_categoryHero, brandLogos: angularjsDevelopment_brandLogos, introContent: angularjsDevelopment_introContent, offerCards: angularjsDevelopment_offerCards, imageCards: angularjsDevelopment_imageCards, compareBenefits: angularjsDevelopment_compareBenefits, sprintProcess: angularjsDevelopment_sprintProcess, techStackTabs: angularjsDevelopment_techStackTabs, whyChooseImage: angularjsDevelopment_whyChooseImage, portfolio: angularjsDevelopment_portfolio, testimonials: angularjsDevelopment_testimonials, technologies: angularjsDevelopment_technologies, faq: angularjsDevelopment_faq, featuredIn: angularjsDevelopment_featuredIn, blog: angularjsDevelopment_blog, } },
-  { manifest: nodejsDevelopmentPage, data: { categoryHero: nodejsDevelopment_categoryHero, brandLogos: nodejsDevelopment_brandLogos, introContent: nodejsDevelopment_introContent, offerCards: nodejsDevelopment_offerCards, imageCards: nodejsDevelopment_imageCards, compareBenefits: nodejsDevelopment_compareBenefits, sprintProcess: nodejsDevelopment_sprintProcess, techStackTabs: nodejsDevelopment_techStackTabs, whyChooseImage: nodejsDevelopment_whyChooseImage, portfolio: nodejsDevelopment_portfolio, testimonials: nodejsDevelopment_testimonials, technologies: nodejsDevelopment_technologies, faq: nodejsDevelopment_faq, featuredIn: nodejsDevelopment_featuredIn, blog: nodejsDevelopment_blog, } },
   { manifest: erpDevelopmentPage, data: { categoryHero: erpDevelopment_categoryHero, brandLogos: erpDevelopment_brandLogos, introContent: erpDevelopment_introContent, offerCards: erpDevelopment_offerCards, imageCards: erpDevelopment_imageCards, compareBenefits: erpDevelopment_compareBenefits, sprintProcess: erpDevelopment_sprintProcess, techStackTabs: erpDevelopment_techStackTabs, whyChooseImage: erpDevelopment_whyChooseImage, portfolio: erpDevelopment_portfolio, testimonials: erpDevelopment_testimonials, technologies: erpDevelopment_technologies, faq: erpDevelopment_faq, featuredIn: erpDevelopment_featuredIn, blog: erpDevelopment_blog, } },
   { manifest: crmDevelopmentPage, data: { categoryHero: crmDevelopment_categoryHero, brandLogos: crmDevelopment_brandLogos, introContent: crmDevelopment_introContent, offerCards: crmDevelopment_offerCards, imageCards: crmDevelopment_imageCards, compareBenefits: crmDevelopment_compareBenefits, sprintProcess: crmDevelopment_sprintProcess, techStackTabs: crmDevelopment_techStackTabs, whyChooseImage: crmDevelopment_whyChooseImage, portfolio: crmDevelopment_portfolio, testimonials: crmDevelopment_testimonials, technologies: crmDevelopment_technologies, faq: crmDevelopment_faq, featuredIn: crmDevelopment_featuredIn, blog: crmDevelopment_blog, } },
   { manifest: cmsDevelopmentPage, data: { categoryHero: cmsDevelopment_categoryHero, brandLogos: cmsDevelopment_brandLogos, introContent: cmsDevelopment_introContent, offerCards: cmsDevelopment_offerCards, imageCards: cmsDevelopment_imageCards, compareBenefits: cmsDevelopment_compareBenefits, sprintProcess: cmsDevelopment_sprintProcess, techStackTabs: cmsDevelopment_techStackTabs, whyChooseImage: cmsDevelopment_whyChooseImage, portfolio: cmsDevelopment_portfolio, testimonials: cmsDevelopment_testimonials, technologies: cmsDevelopment_technologies, faq: cmsDevelopment_faq, featuredIn: cmsDevelopment_featuredIn, blog: cmsDevelopment_blog, } },
@@ -639,4 +607,10 @@ export const servicePageSources: { manifest: { slug: string; seo?: { title?: str
   { manifest: instantMessagingAppDevelopmentPage, data: { categoryHero: instantMessagingAppDevelopment_categoryHero, brandLogos: instantMessagingAppDevelopment_brandLogos, introContent: instantMessagingAppDevelopment_introContent, offerCards: instantMessagingAppDevelopment_offerCards, imageCards: instantMessagingAppDevelopment_imageCards, compareBenefits: instantMessagingAppDevelopment_compareBenefits, sprintProcess: instantMessagingAppDevelopment_sprintProcess, techStackTabs: instantMessagingAppDevelopment_techStackTabs, whyChooseImage: instantMessagingAppDevelopment_whyChooseImage, portfolio: instantMessagingAppDevelopment_portfolio, testimonials: instantMessagingAppDevelopment_testimonials, technologies: instantMessagingAppDevelopment_technologies, faq: instantMessagingAppDevelopment_faq, featuredIn: instantMessagingAppDevelopment_featuredIn, blog: instantMessagingAppDevelopment_blog, } },
   { manifest: mediaEntertainmentAppDevelopmentPage, data: { categoryHero: mediaEntertainmentAppDevelopment_categoryHero, brandLogos: mediaEntertainmentAppDevelopment_brandLogos, introContent: mediaEntertainmentAppDevelopment_introContent, offerCards: mediaEntertainmentAppDevelopment_offerCards, imageCards: mediaEntertainmentAppDevelopment_imageCards, compareBenefits: mediaEntertainmentAppDevelopment_compareBenefits, sprintProcess: mediaEntertainmentAppDevelopment_sprintProcess, techStackTabs: mediaEntertainmentAppDevelopment_techStackTabs, whyChooseImage: mediaEntertainmentAppDevelopment_whyChooseImage, portfolio: mediaEntertainmentAppDevelopment_portfolio, testimonials: mediaEntertainmentAppDevelopment_testimonials, technologies: mediaEntertainmentAppDevelopment_technologies, faq: mediaEntertainmentAppDevelopment_faq, featuredIn: mediaEntertainmentAppDevelopment_featuredIn, blog: mediaEntertainmentAppDevelopment_blog, } },
   { manifest: fantasySportsAppDevelopmentPage, data: { categoryHero: fantasySportsAppDevelopment_categoryHero, brandLogos: fantasySportsAppDevelopment_brandLogos, introContent: fantasySportsAppDevelopment_introContent, offerCards: fantasySportsAppDevelopment_offerCards, imageCards: fantasySportsAppDevelopment_imageCards, compareBenefits: fantasySportsAppDevelopment_compareBenefits, sprintProcess: fantasySportsAppDevelopment_sprintProcess, techStackTabs: fantasySportsAppDevelopment_techStackTabs, whyChooseImage: fantasySportsAppDevelopment_whyChooseImage, portfolio: fantasySportsAppDevelopment_portfolio, testimonials: fantasySportsAppDevelopment_testimonials, technologies: fantasySportsAppDevelopment_technologies, faq: fantasySportsAppDevelopment_faq, featuredIn: fantasySportsAppDevelopment_featuredIn, blog: fantasySportsAppDevelopment_blog, } },
+  { manifest: phpWebDevelopmentPage, data: { categoryHero: phpWebDevelopment_categoryHero, introContent: phpWebDevelopment_introContent, iconCards: phpWebDevelopment_iconCards, featureList: phpWebDevelopment_featureList, whyChoose: phpWebDevelopment_whyChoose, brandLogos: phpWebDevelopment_brandLogos, portfolio: phpWebDevelopment_portfolio, testimonials: phpWebDevelopment_testimonials, featuredIn: phpWebDevelopment_featuredIn, technologies: phpWebDevelopment_technologies, blog: phpWebDevelopment_blog, } },
+  { manifest: wordpressDevelopmentPage, data: { categoryHero: wordpressDevelopment_categoryHero, introContent: wordpressDevelopment_introContent, iconCards: wordpressDevelopment_iconCards, featureList: wordpressDevelopment_featureList, whyChoose: wordpressDevelopment_whyChoose, brandLogos: wordpressDevelopment_brandLogos, portfolio: wordpressDevelopment_portfolio, testimonials: wordpressDevelopment_testimonials, featuredIn: wordpressDevelopment_featuredIn, technologies: wordpressDevelopment_technologies, blog: wordpressDevelopment_blog, } },
+  { manifest: codeigniterDevelopmentPage, data: { categoryHero: codeigniterDevelopment_categoryHero, introContent: codeigniterDevelopment_introContent, iconCards: codeigniterDevelopment_iconCards, whyChoose: codeigniterDevelopment_whyChoose, brandLogos: codeigniterDevelopment_brandLogos, portfolio: codeigniterDevelopment_portfolio, testimonials: codeigniterDevelopment_testimonials, featuredIn: codeigniterDevelopment_featuredIn, technologies: codeigniterDevelopment_technologies, blog: codeigniterDevelopment_blog, } },
+  { manifest: laravelDevelopmentPage, data: { categoryHero: laravelDevelopment_categoryHero, introContent: laravelDevelopment_introContent, iconCards: laravelDevelopment_iconCards, whyChoose: laravelDevelopment_whyChoose, brandLogos: laravelDevelopment_brandLogos, portfolio: laravelDevelopment_portfolio, testimonials: laravelDevelopment_testimonials, featuredIn: laravelDevelopment_featuredIn, technologies: laravelDevelopment_technologies, blog: laravelDevelopment_blog, } },
+  { manifest: angularjsDevelopmentPage, data: { categoryHero: angularjsDevelopment_categoryHero, introContent: angularjsDevelopment_introContent, iconCards: angularjsDevelopment_iconCards, advantageGrid: angularjsDevelopment_advantageGrid, whyChoose: angularjsDevelopment_whyChoose, brandLogos: angularjsDevelopment_brandLogos, portfolio: angularjsDevelopment_portfolio, testimonials: angularjsDevelopment_testimonials, featuredIn: angularjsDevelopment_featuredIn, technologies: angularjsDevelopment_technologies, blog: angularjsDevelopment_blog, } },
+  { manifest: nodejsDevelopmentPage, data: { categoryHero: nodejsDevelopment_categoryHero, introContent: nodejsDevelopment_introContent, coreValues: nodejsDevelopment_coreValues, advantageGrid: nodejsDevelopment_advantageGrid, whyChoose: nodejsDevelopment_whyChoose, brandLogos: nodejsDevelopment_brandLogos, portfolio: nodejsDevelopment_portfolio, testimonials: nodejsDevelopment_testimonials, featuredIn: nodejsDevelopment_featuredIn, technologies: nodejsDevelopment_technologies, blog: nodejsDevelopment_blog, } },
 ];

@@ -1,0 +1,49 @@
+{
+  "text": "Our offerings",
+  "heading": "Our suite of CodeIgniter Development Services",
+  "text2": "Our wide-range of web development services will help you make the best use of CodeIgniter anyway you want.",
+  "heightClass": "m-height-380",
+  "background": "white",
+  "items": [
+    {
+      "icon": "svg-b5dae1",
+      "title": "Backend for Mobile Apps",
+      "text": "Our developers use highly reliable PHP Codeigniter framework for the backend for feature-rich mobile application development solutions."
+    },
+    {
+      "icon": "svg-65903d",
+      "title": "Custom e-Commerce Solution",
+      "text": "Build a single vendor or multi-vendor online store that can sell to the world at large with payment integrations, product catalog and high-end security."
+    },
+    {
+      "icon": "svg-67b70c",
+      "title": "Enterprise Website Development",
+      "text": "With the huge complication of functionality, we prefer CodeIgniter framework for enterprise web application development solutions."
+    },
+    {
+      "icon": "svg-4b048f",
+      "title": "Web Portal Development",
+      "text": "Develop critical web applications for business productivity, operations or customer engagement with CodeIgniter’s versatility."
+    },
+    {
+      "icon": "svg-1de30f",
+      "title": "Custom Web Applications",
+      "text": "Our proficient team of developers create custom web application as per business requirement with best UI/X Design."
+    },
+    {
+      "icon": "svg-140de5",
+      "title": "Application Maintenance & Support",
+      "text": "Minimize downtimes, maximize up times and troubleshoot issues instantly with our ‘always-on’ maintenance and support facilities."
+    },
+    {
+      "icon": "svg-9d277e",
+      "title": "Application Migration",
+      "text": "We offer Application Migration service from other PHP frameworks to CodeIgniter. Our team will help you migrate your entire web application."
+    },
+    {
+      "icon": "svg-949f2d",
+      "title": "Payment gateway integration",
+      "text": "We provide various payment gateway and third-party library integration with your online store and CodeIgniter web application."
+    }
+  ]
+}

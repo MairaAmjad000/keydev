@@ -66,6 +66,8 @@ If your CMS returns a different JSON shape, adapt it in `src/lib/cms/api.ts` onl
 
 ## Category (service) pages
 
+> `service-category/web-development` mirrors the supplied HTML exactly: categoryHero, introContent, serviceOfferings, frameworkTabs, whyChoose, brandLogos, portfolio, testimonials, featuredIn, technologies, blog (then the global sections). The table below lists the other category pages' sections.
+
 `/service-category/web-development` (`content/pages/service-category/web-development`) is the template for every
 service category page. To add another category, create a page with a new slug and the same list of sections, then
 fill each section's data in the admin panel. Sections, in page order:
@@ -277,3 +279,8 @@ Reused as they were: `categoryHero`, `introContent`, `process`, `appPlatforms`, 
 `appWhyChoose` and `industryTabs` gained an optional callout bar (and `appWhyChoose.sectionClass`); `industryTabs`
 skips its title block when `heading` is empty. Icons in these sections are keys of the icon registry (`svg-xxxxxx`);
 inline SVG markup still works.
+
+## Web technology service pages (`/service/php-web-development`, `wordpress-development`, `codeigniter-development`, `laravel-development`, `angularjs-development`, `nodejs-development`)
+
+Page order: `categoryHero` (no form), `introContent`, `iconCards` (Node.js uses `coreValues`), optional `featureList` / `advantageGrid`, `whyChoose`, then `brandLogos`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, and the global sections last.
+`iconCards` is the only new section type (`IconCards`, styles already in `why-choose.css`). `advantageGrid` and `coreValues` gained optional `sectionClass` / `heightClass` / `columnClass` fields.

@@ -1,0 +1,54 @@
+{
+  "text": "Our offerings",
+  "heading": "Our suite of Laravel Development Services",
+  "text2": "Laravel is a capable open-source web development framework. At Inteliviate we leverage the full capabilities of Laravel to build robust, scalable and customized web applications.",
+  "heightClass": "m-height-340",
+  "background": "white",
+  "items": [
+    {
+      "icon": "svg-c03360",
+      "title": "Restful API Development",
+      "text": "Want to extend the reach of your applications beyond web browsers and into mobile applications and connected devices? Our Laravel developers can make that happen with their command over Laravel API generator packages."
+    },
+    {
+      "icon": "svg-b5dae1",
+      "title": "Backend for Mobile Apps",
+      "text": "Empower your mobile apps to do more for users with the power of Laravel. Our Laravel web development services include backend development for mobile apps on all platforms including Android, iOS, Bada, Windows and much more."
+    },
+    {
+      "icon": "svg-0ced03",
+      "title": "Custom Web Applications",
+      "text": "For out of box ideas that cannot built with conventional technologies, you need something more robust, flexible and also scalable. Laravel is our answer to all your custom web application development requirements."
+    },
+    {
+      "icon": "svg-3662cc",
+      "title": "e-Commerce Development",
+      "text": "Building an online store that can handle large influx of traffic, complex customer journeys and eCommerce transactions it not an easy task. Our Laravel web development services will make it easy for you."
+    },
+    {
+      "icon": "svg-6080c1",
+      "title": "Laravel Migration",
+      "text": "Stuck with a web framework that is slowing you down or not helping productivity? We will help you migrate from any web framework to Laravel from without breaking into a sweat."
+    },
+    {
+      "icon": "svg-6ceef1",
+      "title": "Web Portal Development",
+      "text": "Claim your stake on the eCommerce market pie with our custom web portal solutions for building single vendor or multi-vendor eCommerce store on B2B and B2C portals."
+    },
+    {
+      "icon": "svg-11fd2c",
+      "title": "Laravel CMS Development",
+      "text": "Take control and stay in control of your Laravel website and applications with a neatly build CMS. Add and modify contents quickly, set up controls for authentications, enable push notifications and do much more with our Laravel CMS development."
+    },
+    {
+      "icon": "svg-1da36e",
+      "title": "Laravel Extension Development",
+      "text": "There is no web development challenge that Laravel cannot solve. Even if you encounter a tall order, we can help you develop a Laravel extension that can fix it for good. From payment gateways for eCommerce to inventory management, there is a Laravel extension for everything."
+    },
+    {
+      "icon": "svg-dd5786",
+      "title": "Maintenance & Support",
+      "text": "Being stuck is a feeling that we don’t like either. With our 24*7 maintenance and support services, you will never be lost for assistance. We are always reachable through phone, email or through a comprehensive ticketing system."
+    }
+  ]
+}

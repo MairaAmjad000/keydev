@@ -1,0 +1,43 @@
+{
+  "text": "Why Go WordPress?",
+  "heading": "Benefits of WordPress development",
+  "text2": "WordPress changed the digital landscape on its axis by empowering professionals as well as amateurs to build blogs and websites on their own. There is more to it than user-friendliness.",
+  "subheading": "What makes WordPress awesome?",
+  "items": [
+    {
+      "icon": "svg-d183f9",
+      "html": "An <strong>easy-to-use content management system</strong> that requires no prior training or technical expertise."
+    },
+    {
+      "icon": "svg-bc6063",
+      "html": "From single page personal blogs to eCommerce stores with thousands of individual product pages, <strong>WordPress can build anything.</strong>"
+    },
+    {
+      "icon": "svg-ceb251",
+      "html": "WordPress has <strong>built-in SEO parameters</strong> that makes websites SEO friendly. Additional plugins can also be used to extend the SEO-friendliness of the website."
+    },
+    {
+      "icon": "svg-4cc9b3",
+      "html": "WordPress is a <strong>100% customizable</strong> CMS platform. It helps users perfect their website look and feel to any brand preset that they wish."
+    },
+    {
+      "icon": "svg-09e6af",
+      "html": "<strong>Sturdy performance</strong> that is unabated by the number of pages, application or traffic. There is a reason why one-fourth of the internet uses WordPress."
+    },
+    {
+      "icon": "svg-d3af70",
+      "html": "<strong>Establish total control</strong> over website or blog management with admin, editor and user level privileges."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our WordPress Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/service/wordpress-development/features.webp",
+    "alt": "Why Go WordPress?",
+    "width": "549",
+    "height": "528"
+  }
+}

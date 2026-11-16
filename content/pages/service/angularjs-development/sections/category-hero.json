@@ -1,22 +1,22 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "AngularJS Development by KeyDevs Technologies",
+    "src": "/images/service/angularjs-development/banner.webp",
+    "alt": "angular js development services",
     "width": "1920",
     "height": "800"
   },
-  "heading": "AngularJS Development Company",
-  "text": "Create fast, interactive single-page apps and progressive web apps with Angular. KeyDevs Technologies builds structured front ends that scale with your product.",
+  "heading": "AngularJS DEVELOPMENT",
+  "text": "As a benchmarked front end framework, AngularJS offers complete functionalities required by expert developers. Single page applications and cross platform applications demand a versatile framework that incorporates flexibility to create rich applications. This is where our specialist teams excel with expert AngularJS Development Services, while others offer average services. We leverage the options of the AngularJS Development framework to offer superior results.",
   "links": [
     {
       "href": "/portfolio",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "View Our Work"
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     },
     {
       "href": "/app-development-cost-calculator",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate Your Web Development Cost"
+      "text": "Calculate Your Web Development Cost",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -29,7 +29,7 @@
       "href": "/service-category/web-development"
     },
     {
-      "text": "AngularJS Development"
+      "text": "Angular Js Development"
     }
   ]
 }

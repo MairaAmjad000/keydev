@@ -1,0 +1,54 @@
+{
+  "text": "Advantages",
+  "heading": "Advantages of AngularJS Web Development",
+  "text2": "Knowledge and exposure to the right kind of projects of the right size determine the ability of teams. Our teams are credited with some of the best solutions.",
+  "sectionClass": "padding-6030 web-advantages-section",
+  "heightClass": "m-height-220",
+  "items": [
+    {
+      "icon": "svg-5210eb",
+      "title": "Optimize Security",
+      "text": "Server agnostic framework renders superior security."
+    },
+    {
+      "icon": "svg-fc3307",
+      "title": "Best for Developing Single Page App",
+      "text": "Multiple challenges in developing single page applications are addressed effortlessly."
+    },
+    {
+      "icon": "svg-2a2a05",
+      "title": "Two-way Data Binding",
+      "text": "Rendering templates in plain HTML which are detected and changed automatically."
+    },
+    {
+      "icon": "svg-e077ec",
+      "title": "Material Design",
+      "text": "The complete set of fully tested, easily accessible components for a unified and optimized design."
+    },
+    {
+      "icon": "svg-e7ab64",
+      "title": "Command Line Interface",
+      "text": "The high quality tool set that facilitates development."
+    },
+    {
+      "icon": "svg-91796e",
+      "title": "Less Coding",
+      "text": "The flexibility of developing applications with less code."
+    },
+    {
+      "icon": "svg-12e15c",
+      "title": "Testing Made Easy",
+      "text": "Simplified and comprehensive testing reinforces the developers confidence in the developed modules."
+    },
+    {
+      "icon": "svg-6e4d9b",
+      "title": "Easy Maintenance",
+      "text": "Lightweight and dynamic single page application, offers easy maintenance."
+    },
+    {
+      "icon": "svg-e89ca9",
+      "title": "Improved Server Performance",
+      "text": "With the support of caching and many other processes, it reduces the load on the server and improves the performance."
+    }
+  ]
+}

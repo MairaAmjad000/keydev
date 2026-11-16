@@ -7,7 +7,7 @@ import { SectionTitle } from './shared/SectionTitle';
 export function FrameworkTabs({ data }: { data: FrameworkTabsContent }) {
   const tabId = (i: number) => `tab_1_${i + 1}`;
   return (
-    <section className="padding-60 bg-light web-app-sev-lang">
+    <section className={data.sectionClass ?? 'padding-60 bg-light web-app-sev-lang'}>
       <div className="container">
         <SectionTitle text={data.text} heading={data.heading} paragraphs={[data.text2]} />
       </div>

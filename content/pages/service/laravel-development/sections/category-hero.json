@@ -1,22 +1,22 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "Laravel Development by KeyDevs Technologies",
+    "src": "/images/service/laravel-development/banner.webp",
+    "alt": "laravel development company",
     "width": "1920",
     "height": "800"
   },
-  "heading": "Laravel Development Company",
-  "text": "Build robust web applications on Laravel with KeyDevs Technologies. Our developers use the framework’s elegant structure to deliver secure, scalable and maintainable products.",
+  "heading": "LARAVEL DEVELOPMENT COMPANY",
+  "text": "Laravel is a web development framework that helps reduce the distance between an idea and turning into a MVP (Minimum Viable Product). As a Laravel development company that has helped many enterprises hatch their ideas into MVP and full-scale projects, we will help you build the ideal web application with Laravel’s open-source awesomeness. Have an idea but clueless where to begin? Talk to our experts to set the ball rolling.",
   "links": [
     {
       "href": "/portfolio",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "View Our Work"
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     },
     {
       "href": "/app-development-cost-calculator",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate Your Web Development Cost"
+      "text": "Calculate Your Web Development Cost",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [

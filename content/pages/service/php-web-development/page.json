@@ -2,23 +2,19 @@
   "slug": "service/php-web-development",
   "seo": {
     "title": "PHP Web Development Company | KeyDevs Technologies",
-    "description": "Cost-effective, flexible PHP websites and web applications that perform and scale. Talk to KeyDevs Technologies, Lahore."
+    "description": "From Facebook to Wikipedia, the world’s most visited websites are built using PHP. Shouldn’t your website also be built using the same capable and…"
   },
   "sections": [
     "categoryHero",
-    "brandLogos",
     "introContent",
-    "offerCards",
-    "imageCards",
-    "compareBenefits",
-    "sprintProcess",
-    "techStackTabs",
-    "whyChooseImage",
+    "iconCards",
+    "featureList",
+    "whyChoose",
+    "brandLogos",
     "portfolio",
     "testimonials",
-    "technologies",
-    "faq",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }

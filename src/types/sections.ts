@@ -728,13 +728,33 @@ export interface FeatureListContent {
 }
 
 export interface AdvantageGridContent {
+  /** Classes of the <section> (default "bg-light padding-6030 web-advantages-section"). */
+  sectionClass?: string;
+  /** Equal-height helper class of the card grid (default "m-height-240"). */
+  heightClass?: string;
   text: string;
   heading: string;
   text2: string;
   items: Array<{ icon: string; title: string; text: string }>;
 }
 
+/** Grid of icon cards (icon in a circle, title, text) used on the web-technology service pages. */
+export interface IconCardsContent {
+  text: string;
+  heading: string;
+  text2: string;
+  /** Section background: "light" (default) or "white". */
+  background?: string;
+  /** Equal-height helper class of the section (default "m-height-380"). */
+  heightClass?: string;
+  /** Classes of each card column (default "col-lg-3 col-md-4 col-sm-6 col-12 mb-30"). */
+  columnClass?: string;
+  items: Array<{ icon: string; title: string; text: string }>;
+}
+
 export interface FrameworkTabsContent {
+  /** Classes of the <section> (default "padding-60 bg-light web-app-sev-lang"). */
+  sectionClass?: string;
   text: string;
   heading: string;
   text2: string;
@@ -1036,6 +1056,10 @@ export interface MissionVisionContent {
 }
 
 export interface CoreValuesContent {
+  /** Classes of the <section> (default "padding-6030 our-core-value-section bg-white"). */
+  sectionClass?: string;
+  /** Classes of each card column (default "col-lg-3 col-md-6 col-sm-6 col-12 mb-30"). */
+  columnClass?: string;
   text: string;
   heading: string;
   paragraph: string;

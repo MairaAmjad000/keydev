@@ -1,0 +1,33 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "Our USPs as a Laravel development company",
+  "paragraphs": [
+    {
+      "html": "Bespoke to your business requirements. Data security as a paramount priority. Design that speaks. These are some factors that has made our customers happy."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-5e24a3",
+      "title": "Customer Satisfaction",
+      "text": "At KeyDevs Technologies we have an organizational culture where only one thing matters the most - customer satisfaction. We take good care of our employees so that they take good care of our customers."
+    },
+    {
+      "icon": "svg-629db8",
+      "title": "Secure Development",
+      "text": "Every byte of data that you provide to us a customer would be stored and processed in a secure environment. Apart from being GDPR compliant, we also take stringent measures to keep cyber security threats at bay."
+    },
+    {
+      "icon": "svg-ccb87f",
+      "title": "100% Custom Application",
+      "text": "Each customer we work with, each requirement that deliver and each project that we initiate is treated as a separate unit. There is no cookie cutting or reusing of what has been done for someone else."
+    },
+    {
+      "icon": "svg-62c5d5",
+      "title": "Interactive Design",
+      "text": "Design is at the heart of everything we do at KeyDevs Technologies. From figuring out the right shade of color for CTAs to wireframing a product interface, we live by the tenets of interactive design."
+    }
+  ]
+}

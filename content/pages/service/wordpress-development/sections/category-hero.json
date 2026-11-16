@@ -1,63 +1,24 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "WordPress Development by KeyDevs Technologies",
+    "src": "/images/service/wordpress-development/banner.webp",
+    "alt": "wordpress development company",
     "width": "1920",
     "height": "800"
   },
-  "heading": "WordPress Development Company",
-  "text": "From business sites and blogs to WooCommerce stores, KeyDevs Technologies builds WordPress websites that look great, load fast and are easy for your team to manage.",
+  "heading": "WORDPRESS DEVELOPMENT COMPANY",
+  "text": "WordPress is the Internet’s backbone. More than 25% of the websites on the internet are built using WordPress. It can be a cornerstone CMS for your business as well. Start off on the right foot with our WordPress development services.<br/><br/>Be it to develop a custom website on WordPress or to create a WP plugin or even integrate one into your existing website, as a true-blue WordPress development company we are game for everything.",
   "links": [
     {
       "href": "/portfolio",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "View Our Work"
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     },
     {
       "href": "/app-development-cost-calculator",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate Your Web Development Cost"
+      "text": "Calculate Your Web Development Cost",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
-  "form": {
-    "id": "wordpress-development-banner_form",
-    "fields": [
-      {
-        "type": "text",
-        "name": "name",
-        "placeholder": "Name",
-        "required": true,
-        "label": "Name"
-      },
-      {
-        "type": "email",
-        "name": "email",
-        "placeholder": "Email",
-        "required": true,
-        "label": "Email"
-      },
-      {
-        "type": "text",
-        "name": "phone",
-        "placeholder": "Phone Number",
-        "required": true,
-        "minLength": 10,
-        "maxLength": 11,
-        "variant": "phone"
-      },
-      {
-        "type": "textarea",
-        "name": "message",
-        "placeholder": "Project Descriptions",
-        "required": false,
-        "label": "Message",
-        "rows": 4
-      }
-    ],
-    "submitText": "Get Started Now!",
-    "errorId": "wordpress-development-error_message_banner_form",
-    "successId": "wordpress-development-success_message_banner_form"
-  },
   "breadcrumbs": [
     {
       "text": "Home",
@@ -68,7 +29,7 @@
       "href": "/service-category/web-development"
     },
     {
-      "text": "WordPress Development"
+      "text": "Wordpress Development"
     }
   ]
 }

@@ -61,6 +61,7 @@ import { AnchorNav } from './AnchorNav';
 import { SectionAnchor } from './SectionAnchor';
 import { IntroSlider } from './IntroSlider';
 import { OfferGrid } from './OfferGrid';
+import { IconCards } from './IconCards';
 
 function renderSection(block: SectionBlock, forms: FormsContent) {
   switch (block.type) {
@@ -125,6 +126,7 @@ function renderSection(block: SectionBlock, forms: FormsContent) {
     case 'sectionAnchor': return <SectionAnchor data={block.data} />;
     case 'introSlider': return <IntroSlider data={block.data} />;
     case 'offerGrid': return <OfferGrid data={block.data} />;
+    case 'iconCards': return <IconCards data={block.data} />;
     default: return null;
   }
 }

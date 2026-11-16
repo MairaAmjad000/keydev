@@ -1,93 +1,115 @@
 {
-  "callout": {
-    "text": "Do you have a <span id=\"callouts-type\"></span> We have a TEAM to get you there.",
-    "link": {
-      "href": "/contact",
-      "text": "Get In Touch"
-    }
-  },
   "text": "The Portfolio",
   "heading": "Our Unique And Creative Work",
+  "text2": "Have a quick glimpse of our amazing web development projects that amplified the business of clients.",
   "items": [
     {
-      "heading": "Multan Chemicals Limited",
-      "text": "Corporate website with a full ERP system to track manufacturing and sales operations.",
+      "heading": "Form Assist",
+      "text": "From the out-of-shape to ripped model, an app that helps users get fit.",
       "image": {
-        "src": "/images/portfolio/multan-chemicals-limited.jpg",
-        "alt": "Multan Chemicals Limited: Corporate website with a full ERP system to track manufacturing and sales operations."
+        "src": "/images/category/web-development/portfolio-form-assist.webp",
+        "alt": "KeyDevs Technologies is recognised as top php web development company in Pakistan",
+        "width": "430",
+        "height": "560"
       },
-      "heading2": "Multan Chemicals Limited",
-      "text2": "Corporate website with a full ERP system to track manufacturing and sales operations.",
+      "heading2": "Form Assist",
+      "text2": "From the out-of-shape to ripped model, an app that helps users get fit.",
       "link": {
         "href": "/portfolio",
         "text": "Explore More"
       }
     },
     {
-      "heading": "Alghazi Tractors",
-      "text": "eCommerce website for a tractor and farm equipment dealer.",
+      "heading": "PMU Stock",
+      "text": "eCommerce website for Microblading and semi-permanent make-up supplies in the Pakistan.",
       "image": {
-        "src": "/images/portfolio/alghazi-tractors.jpg",
-        "alt": "Alghazi Tractors: eCommerce website for a tractor and farm equipment dealer."
+        "src": "/images/category/web-development/portfolio-pmu-stock.webp",
+        "alt": "are you looking for custom php development? KeyDevs Technologies is a team of proficient web designers and developers, empowering business with top class php web applications.",
+        "width": "430",
+        "height": "560"
       },
-      "heading2": "Alghazi Tractors",
-      "text2": "eCommerce website for a tractor and farm equipment dealer.",
+      "heading2": "PMU Stock",
+      "text2": "eCommerce website for Microblading and semi-permanent make-up supplies in the Pakistan.",
       "link": {
         "href": "/portfolio",
         "text": "Explore More"
       }
     },
     {
-      "heading": "Al-Iftar Foods",
-      "text": "Website with ERP and CRM to track manufacturing, orders and sales.",
+      "heading": "Traveling Peach",
+      "text": "A news portal full of exclusive interviews, stories and advice for people across the world.",
       "image": {
-        "src": "/images/portfolio/al-iftar-foods.jpg",
-        "alt": "Al-Iftar Foods: Website with ERP and CRM to track manufacturing, orders and sales."
+        "src": "/images/category/web-development/portfolio-traveling-peach.webp",
+        "alt": "KeyDevs Technologies is a php website development company in Lahore, Paksitan. It provdes creative and flexible web application development solutions for startups and SMEs",
+        "width": "430",
+        "height": "560"
       },
-      "heading2": "Al-Iftar Foods",
-      "text2": "Website with ERP and CRM to track manufacturing, orders and sales.",
+      "heading2": "Traveling Peach",
+      "text2": "A news portal full of exclusive interviews, stories and advice for people across the world.",
       "link": {
         "href": "/portfolio",
         "text": "Explore More"
       }
     },
     {
-      "heading": "Atlas Fuel",
-      "text": "ERP system with MYOB integration for an Australian client.",
+      "heading": "Virtual House",
+      "text": "Real estate business with a 360-degree Virtual Reality experience for its customers",
       "image": {
-        "src": "/images/portfolio/atlas-fuel.jpg",
-        "alt": "Atlas Fuel: ERP system with MYOB integration for an Australian client."
+        "src": "/images/category/web-development/portfolio-virtual-house.webp",
+        "alt": "if your are looking for php application development company, KeyDevs Technologies is right fit for your requirements. Our PHP development services empowers businesses in scaling up",
+        "width": "430",
+        "height": "560"
       },
-      "heading2": "Atlas Fuel",
-      "text2": "ERP system with MYOB integration for an Australian client.",
+      "heading2": "Virtual House",
+      "text2": "Real estate business with a 360-degree Virtual Reality experience for its customers",
       "link": {
         "href": "/portfolio",
         "text": "Explore More"
       }
     },
     {
-      "heading": "Flyashs",
-      "text": "Flight, travel and tourism booking website and mobile apps.",
+      "heading": "Metal Recycling",
+      "text": "Wordpress website developed for Fort worth metal recycling, a scrap metal recycling service provider.",
       "image": {
-        "src": "/images/portfolio/flyashs.jpg",
-        "alt": "Flyashs: Flight, travel and tourism booking website and mobile apps."
+        "src": "/images/category/web-development/portfolio-metal-recycling.webp",
+        "alt": "GoodFirms, the B2B platform has recognised KeyDevs Technologies as one of the top php development companies in the Pakistan. Hire our expert PHP developers for your startups.",
+        "width": "430",
+        "height": "560"
       },
-      "heading2": "Flyashs",
-      "text2": "Flight, travel and tourism booking website and mobile apps.",
+      "heading2": "Metal Recycling",
+      "text2": "Wordpress website developed for Fort worth metal recycling, a scrap metal recycling service provider.",
       "link": {
         "href": "/portfolio",
         "text": "Explore More"
       }
     },
     {
-      "heading": "Beejan",
-      "text": "Ride booking platform with driver and rider apps.",
+      "heading": "New Haven Cafe",
+      "text": "A cafe and catering business website based in Timperley to display menu and operational timing",
       "image": {
-        "src": "/images/portfolio/beejan.jpg",
-        "alt": "Beejan: Ride booking platform with driver and rider apps."
+        "src": "/images/category/web-development/portfolio-new-haven-cafe.webp",
+        "alt": "Team KeyDevs Technologies has a expert team of web designers and web developers for all kinds of php website development. we have successfully empowered 50+ startups and enterprises.",
+        "width": "430",
+        "height": "560"
       },
-      "heading2": "Beejan",
-      "text2": "Ride booking platform with driver and rider apps.",
+      "heading2": "New Haven Cafe",
+      "text2": "A cafe and catering business website based in Timperley to display menu and operational timing",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Stag Villa",
+      "text": "A website designed for a Farm Stay kind of a resort.",
+      "image": {
+        "src": "/images/category/web-development/portfolio-stag-villa.webp",
+        "alt": "php development company Pakistan",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Stag Villa",
+      "text2": "A website designed for a Farm Stay kind of a resort.",
       "link": {
         "href": "/portfolio",
         "text": "Explore More"

@@ -1,0 +1,43 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "Expertise, experience & commitment",
+  "paragraphs": [
+    {
+      "html": "KeyDevs Technologies is driven by a burning passion to help clients reach their goals in the most efficient manner. To serve that purpose we bring together our collective expertise, experience and professional commitment."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-b969c5",
+      "title": "PHP Solution Expertise",
+      "text": "Expertise that has been honed to perfection with over a decade long experience of serving a global client base."
+    },
+    {
+      "icon": "svg-629db8",
+      "title": "Secure Development",
+      "text": "PHP development initiatives that puts client data integrity and security at the help."
+    },
+    {
+      "icon": "svg-c79f68",
+      "title": "Proficient Developers",
+      "text": "We have assembled a world-class team of PHP developers who can accomplish any challenging requirement."
+    },
+    {
+      "icon": "svg-5e24a3",
+      "title": "Customer Satisfaction",
+      "text": "An inspired team of professionals who have vowed to deliver nothing but the best service for our customers."
+    },
+    {
+      "icon": "svg-dd903a",
+      "title": "On Time Delivery",
+      "text": "A well-defined project management plan combined with efficient project managers ensure that your projects are delivered on time, everytime."
+    },
+    {
+      "icon": "svg-f610fd",
+      "title": "Maintenance and Support",
+      "text": "KeyDevs Technologies takes pride in providing continued maintenance and support to our customers at any time and in any mode that they want."
+    }
+  ]
+}

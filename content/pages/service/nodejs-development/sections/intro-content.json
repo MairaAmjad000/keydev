@@ -1,14 +1,17 @@
 {
-  "heading": "NodeJS for Fast, Real-time Applications",
+  "heading": "The Bespoke NodeJS development company",
   "paragraphs": [
     {
-      "html": "Node.js handles many concurrent connections efficiently, which makes it ideal for chat, live tracking, notifications and APIs that serve web and mobile clients."
+      "html": "We have consistently created lightweight, high speed web applications that are fully scalable and flexible. Open source, cross platform frameworks come with a challenge – all applications developed on open source frameworks may appear to be the same, without major differentiators. At KeyDevs Technologies, we possess the expertise and proven experience in Node JS Development solutions that are superior. This is possible largely as a result of our ability to use functions and features intelligently and in a manner that makes a difference."
     },
     {
-      "html": "Using one language across server and client speeds development and simplifies teams. We build secure, well-tested services and deploy them to scalable cloud infrastructure."
+      "html": "The V8 engine for instance, is high speed and our experience helps us to create applications that write the file system at superior speeds. Our NodeJS Development Solutions have helped businesses achieve scalability easily through the use of event loop, which is one of the best functional features of NodeJS."
     },
     {
-      "html": "Start your nodejs development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+      "html": "Real time applications involve a different area of expertise. Chats and similar applications in websites demand two way communication channels, and Node JS development offers superior open 2 way communications through Web Sockets. The challenge is in integrating the channel and delivering solutions that work seamlessly."
+    },
+    {
+      "html": "If you're planning to build a feature-rich NodeJS Application and want to discuss the challenges of converting your idea into an innovation. Get in touch with us, the experts at KeyDevs Technologies will help you with all your queries."
     }
   ],
   "link": {
@@ -17,7 +20,9 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/web-application-development.webp",
-    "alt": "NodeJS Development"
-  }
+    "src": "/images/service/nodejs-development/intro.webp",
+    "alt": "Web Development Company"
+  },
+  "imageClass": "rounded10",
+  "sectionClass": "service-main-content service-web-inner padding-60 bg-white"
 }

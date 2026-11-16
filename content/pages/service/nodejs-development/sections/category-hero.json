@@ -1,22 +1,22 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "NodeJS Development by KeyDevs Technologies",
+    "src": "/images/service/nodejs-development/banner.webp",
+    "alt": "nodejs development company",
     "width": "1920",
     "height": "800"
   },
-  "heading": "NodeJS Development Company",
-  "text": "Build real-time, high-performance applications on Node.js. KeyDevs Technologies delivers fast APIs and backends for chat, tracking, streaming and data-heavy platforms.",
+  "heading": "NodeJS DEVELOPMENT",
+  "text": "This ‘JavaScript everywhere’ environment unifies web application development in a single programming language. NodeJS application development enables server side scripting and client side scripting to be carried out in a single language to create dynamic webpages seamlessly. At KeyDevs Technologies, our dedicated teams have proven expertise NodeJS Development Services, a versatile open source, cross platform run time environment, that offers unmatched results.",
   "links": [
     {
       "href": "/portfolio",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "View Our Work"
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     },
     {
       "href": "/app-development-cost-calculator",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate Your Web Development Cost"
+      "text": "Calculate Your Web Development Cost",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -29,7 +29,7 @@
       "href": "/service-category/web-development"
     },
     {
-      "text": "NodeJS Development"
+      "text": "Node Js Development"
     }
   ]
 }

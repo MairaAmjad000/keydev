@@ -1,0 +1,49 @@
+{
+  "text": "Services We Offer",
+  "heading": "Our AngularJS Development Services",
+  "text2": "Advantages of engaging a professional team with structured workflows, with agile methodology are manifold, across the entire scope of project",
+  "heightClass": "m-height-380",
+  "background": "light",
+  "items": [
+    {
+      "icon": "svg-e43e0a",
+      "title": "Dynamic Web Application Development",
+      "text": "Suitable for creating applications that work on desktops and mobile, through dynamic and responsive applications that are more suitable for the ‘mobile first’ era."
+    },
+    {
+      "icon": "svg-db2172",
+      "title": "Single Page App Development",
+      "text": "Peer and community supported knowledge base in building single page applications help improve the outcomes. Simple yet effective, single page apps have carved a separate identity for themselves."
+    },
+    {
+      "icon": "svg-9f4bcf",
+      "title": "AngularJS App Upgrade and Maintenance",
+      "text": "Complete end to end services for upgrade of apps and maintenance support offer clients freedom from woes. Our support goes beyond delivery with extended maintenance improving performance."
+    },
+    {
+      "icon": "svg-6f9dd2",
+      "title": "Enterprise App Interface and Development",
+      "text": "Intuitive, clean and appealing interface for customer facing applications make a huge difference to the user experience and our teams leverage the full features for interesting interfaces."
+    },
+    {
+      "icon": "svg-ee042f",
+      "title": "Application Migration Services",
+      "text": "Best practices to simplify the migration processes from legacy to the latest, resulting in a seamless smooth migration that is structured and planned down to the last detail."
+    },
+    {
+      "icon": "svg-48f2a8",
+      "title": "User Interactive Module Development",
+      "text": "Development of modules that engage users with uncluttered and simplified interactive interfaces. Minimalism is the key to engagement in an era where frills are distractive."
+    },
+    {
+      "icon": "svg-f6eccc",
+      "title": "Custom AngularJS Development",
+      "text": "Customized solutions to meet specific needs without the need for improvisations of rigid solutions. High levels of customization ensure that solutions are perfectly aligned with business and technical requirements."
+    },
+    {
+      "icon": "svg-2ecb73",
+      "title": "PHP Development in AngularJS",
+      "text": "Powerful PHP scripting, interpreted by web server and embedded in HTML ensures that programming is simplified, ensuring that the whole application works smoothly and seamlessly."
+    }
+  ]
+}

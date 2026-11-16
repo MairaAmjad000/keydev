@@ -1,23 +1,28 @@
 {
-  "heading": "PHP Development for Websites and Web Apps",
+  "heading": "Front-running PHP Development Company",
   "paragraphs": [
     {
-      "html": "PHP powers a large share of the web for good reason: it is open source, runs on almost any hosting and has a huge ecosystem. It remains a practical choice for everything from business sites to large portals."
+      "html": "KeyDevs Technologies harnesses the open-source power of PHP to create stunning web portals and applications. Our PHP web developers are experienced professionals whose PHP web development services have helped several businesses gain a foothold in the hyper-competitive digital landscape."
     },
     {
-      "html": "Our PHP developers build custom websites, portals and APIs with clean architecture, and connect them to payment gateways, CRMs and third-party services."
+      "html": "Be it an enterprise website that can collect dynamic user input or an eCommerce store that has thousands of underlying product pages — As a custom PHP development agency KeyDevs Technologies can ideate, create and launch any kind of website of your choice."
     },
     {
-      "html": "Start your php web development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+      "html": "We have worked with all sizes and types of businesses — from the pioneers who are setting the trends to the visionaries who are on their way to change the IT world."
+    },
+    {
+      "html": "If you have an idea that needs a scalable, time-proof, and affordable solution, our PHP website development services have the answer. Our services would help you reach the market quickly with websites and web applications that are stable, bug-free, and also enriched with great UX."
     }
   ],
   "link": {
     "href": "/contact",
-    "text": "Talk to Our Expert Now",
+    "text": "Get in Touch with Us",
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/web-application-development.webp",
-    "alt": "PHP Web Development"
-  }
+    "src": "/images/service/php-web-development/intro.webp",
+    "alt": "php development services"
+  },
+  "imageClass": "rounded10",
+  "sectionClass": "service-main-content service-web-inner padding-60 bg-white"
 }

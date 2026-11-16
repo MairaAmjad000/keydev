@@ -6,7 +6,7 @@ import { SectionTitle } from './shared/SectionTitle';
 /** Four value cards (icon, title, text) under an intro. */
 export function CoreValues({ data }: { data: CoreValuesContent }) {
   return (
-    <section className="padding-6030 our-core-value-section bg-white">
+    <section className={data.sectionClass ?? 'padding-6030 our-core-value-section bg-white'}>
       <div className="container">
         <SectionTitle text={data.text} heading={data.heading} paragraphs={data.paragraph ? [data.paragraph] : []} />
         {' '}
@@ -14,7 +14,7 @@ export function CoreValues({ data }: { data: CoreValuesContent }) {
           {data.items.map((item, i) => (
             <Fragment key={i}>
               {i > 0 && ' '}
-              <div className="col-lg-3 col-md-6 col-sm-6 col-12 mb-30">
+              <div className={data.columnClass ?? 'col-lg-3 col-md-6 col-sm-6 col-12 mb-30'}>
                 <div className="our-core-value-box rounded10">
                   <div className="our-core-value-icon rounded10">
                     <Icon name={item.icon} />

@@ -1,22 +1,22 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "PHP Web Development by KeyDevs Technologies",
+    "src": "/images/service/php-web-development/banner.webp",
+    "alt": "KeyDevs Technologies is proficient php development company based in Lahore, Paksitan.",
     "width": "1920",
     "height": "800"
   },
-  "heading": "PHP Web Development Company",
-  "text": "Hire dedicated PHP developers from KeyDevs Technologies. We build fast, secure and cost-effective websites and web applications on one of the most widely supported web languages.",
+  "heading": "PHP WEB DEVELOPMENT",
+  "text": "From Facebook to Wikipedia, the world’s most visited websites are built using PHP. Shouldn’t your website also be built using the same capable and universally compatible web development framework?<br/><br/>KeyDevs Technologies’s PHP development services can help you build any kind of website with a sophisticated backend and a user-friendly front end.",
   "links": [
     {
       "href": "/portfolio",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "View Our Work"
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     },
     {
       "href": "/app-development-cost-calculator",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate Your Web Development Cost"
+      "text": "Calculate Your Web Development Cost",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [

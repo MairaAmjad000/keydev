@@ -1,0 +1,49 @@
+{
+  "text": "Our offerings",
+  "heading": "Our suite of PHP development services",
+  "text2": "Explore our growing range of bespoke PHP web development services that aspire to enable every business with a custom-built website.",
+  "heightClass": "m-height-380",
+  "background": "light",
+  "items": [
+    {
+      "icon": "svg-8a06fa",
+      "title": "Custom Web Development",
+      "text": "Custom-built and not cookie-cut is the future of web development. We will help you leverage PHP’s open-source capabilities and thousands of libraries to build custom web applications."
+    },
+    {
+      "icon": "svg-e1061f",
+      "title": "Content Management System",
+      "text": "Unique business models require robust content management systems. An off-the-shelf CMS may not serve your business well. Allow us to build one for you with the might of PHP."
+    },
+    {
+      "icon": "svg-5effd2",
+      "title": "CRM Solutions",
+      "text": "As an open-source development framework, PHP makes it possible to build high-end CRM solutions that can help manage your customer data, sales pipeline and selling efforts."
+    },
+    {
+      "icon": "svg-9392af",
+      "title": "Enterprise Web Portal",
+      "text": "PHP’s server-side scripting will help create web-based solutions, desktop applications and customized enterprise applications that can help your business work efficiently."
+    },
+    {
+      "icon": "svg-28eea6",
+      "title": "Custom eCommerce",
+      "text": "An eCommerce store might begin with one product and scale upto a million of product listing. We will help you scale seamlessly and effortlessly with our PHP development expertise."
+    },
+    {
+      "icon": "svg-246df2",
+      "title": "Cloud SaaS Application",
+      "text": "The future of the web is vested in the cloud. A cloud-based SaaS solution can empower your workforce, lighten your workload and maximize productivity. Our custom PHP development services offer all of that."
+    },
+    {
+      "icon": "svg-7c291a",
+      "title": "Social Networking Solutions",
+      "text": "Collaboration ranks high on the must-have digital capabilities for the future. With PHP by your side, you can build a social networking website that will become the centre of all collaborative efforts."
+    },
+    {
+      "icon": "svg-09e912",
+      "title": "Backend Solutions",
+      "text": "Like a performance car’s turbo-powered engine, every robust web application requires a strong backend. We will help you build the most powerful, stable & scalable backends with PHP as the foundation."
+    }
+  ]
+}

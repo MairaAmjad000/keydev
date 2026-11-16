@@ -31,15 +31,11 @@ import catCategoryHero from '../../../content/pages/service-category/web-develop
 import catBrandLogos from '../../../content/pages/service-category/web-development/sections/brand-logos.json';
 import catIntroContent from '../../../content/pages/service-category/web-development/sections/intro-content.json';
 import catServiceOfferings from '../../../content/pages/service-category/web-development/sections/service-offerings.json';
-import catFeatureList from '../../../content/pages/service-category/web-development/sections/feature-list.json';
-import catAdvantageGrid from '../../../content/pages/service-category/web-development/sections/advantage-grid.json';
-import catProcess from '../../../content/pages/service-category/web-development/sections/process.json';
 import catFrameworkTabs from '../../../content/pages/service-category/web-development/sections/framework-tabs.json';
 import catWhyChoose from '../../../content/pages/service-category/web-development/sections/why-choose.json';
 import catPortfolio from '../../../content/pages/service-category/web-development/sections/portfolio.json';
 import catTestimonials from '../../../content/pages/service-category/web-development/sections/testimonials.json';
 import catTechnologies from '../../../content/pages/service-category/web-development/sections/technologies.json';
-import catFaq from '../../../content/pages/service-category/web-development/sections/faq.json';
 import catFeaturedIn from '../../../content/pages/service-category/web-development/sections/featured-in.json';
 import catBlog from '../../../content/pages/service-category/web-development/sections/blog.json';
 import servicePage from '../../../content/pages/service/mvp-development/page.json';
@@ -194,15 +190,11 @@ const categoryWebDevelopmentSections: Partial<SectionDataMap> = {
   brandLogos: catBrandLogos,
   introContent: catIntroContent,
   serviceOfferings: catServiceOfferings,
-  featureList: catFeatureList,
-  advantageGrid: catAdvantageGrid,
-  process: catProcess,
   frameworkTabs: catFrameworkTabs,
     whyChoose: catWhyChoose,
   portfolio: catPortfolio,
   testimonials: catTestimonials,
   technologies: catTechnologies,
-  faq: catFaq,
   featuredIn: catFeaturedIn,
   blog: catBlog,
   };

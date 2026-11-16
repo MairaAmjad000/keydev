@@ -1,14 +1,14 @@
 {
-  "heading": "CodeIgniter Apps Delivered Fast",
+  "heading": "Mission-focused PHP Codeigniter Development Services",
   "paragraphs": [
     {
-      "html": "CodeIgniter is small, quick and easy to learn, which makes it a great fit for projects that need to launch on a lean budget without sacrificing quality."
+      "html": "There are millions of web applications in the internet. But, not all of them make it to the leaderboard. The ones that secure the ranks in the leaderboard are lightweight in footprint but heavy-duty in performance. If you are yearning to build a web application that can make it to the leaderboards, CodeIgniter is the right choice. It is a powerful PHP framework that can help build web applications that does not demand heavy resources to run smoothly."
     },
     {
-      "html": "Our developers use its clean MVC structure to build custom websites, portals and APIs with solid performance and straightforward maintenance."
+      "html": "As a provider of PHP CodeIgniter development services, KeyDevs Technologies helps you build web applications that have a small footprint but a large scope of application. Our PHP expertise will ensure that you are able to build dynamic websites that can interact fluently with users. As a matter of fact, a lion share of the enterprise-grade applications we have delivered are built with the power of CodeIgniter."
     },
     {
-      "html": "Start your codeigniter development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+      "html": "We harness the power of CodeIgniter open-source development to build web applications that can load in as quick as 50 ms. To amplify application performance we also make use of CodeIgniter’s built-in MVC Architecture which keeps logic, presentation and data separate from each other. We also have a dedicated team of quality assurance professionals who ensure that the application is run down for any bugs or errors before it can be pushed to live production."
     }
   ],
   "link": {
@@ -17,7 +17,9 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/web-application-development.webp",
-    "alt": "CodeIgniter Development"
-  }
+    "src": "/images/service/codeigniter-development/intro.webp",
+    "alt": "Web Development Company"
+  },
+  "imageClass": "rounded10",
+  "sectionClass": "service-main-content service-web-inner padding-60 bg-white"
 }

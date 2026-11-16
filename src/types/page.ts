@@ -12,7 +12,7 @@ import type {
   ProcessStepsContent, ClutchReviewsContent, ClientReviewsContent,
   TechnologyGroupsContent, EstimateWizardContent, BlogPostContent, PolicyContentContent,
   IndustryTabsContent, AppPlatformsContent, AppWhyChooseContent,
-  AnchorNavContent, SectionAnchorContent, IntroSliderContent, OfferGridContent,
+  AnchorNavContent, SectionAnchorContent, IntroSliderContent, OfferGridContent, IconCardsContent,
 } from './sections';
 import type {
   HeaderContent, MobileMenuContent, GetQuoteButtonContent, CallBackSidebarContent, FooterContent,
@@ -83,6 +83,7 @@ export interface SectionDataMap {
   sectionAnchor: SectionAnchorContent;
   introSlider: IntroSliderContent;
   offerGrid: OfferGridContent;
+  iconCards: IconCardsContent;
 }
 
 export type SectionType = keyof SectionDataMap;

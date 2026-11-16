@@ -1,0 +1,43 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "Why Choose our Wordpress Development Services",
+  "paragraphs": [
+    {
+      "html": "The internet has countless websites. If you want your website to stand out from the crowd and create its own identity, you need an expert’s help. That’s where Inteliviate comes in."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-0e10e4",
+      "title": "Dedicated Wordpress team",
+      "text": "An exclusive WordPress development team that stays on top of the latest trends and complex development practices."
+    },
+    {
+      "icon": "svg-626a1b",
+      "title": "WordPress coding compliance",
+      "text": "All WordPress development offerings of KeyDevs Technologies comply to the coding standards set forth by WordPress."
+    },
+    {
+      "icon": "svg-b33e58",
+      "title": "Result-oriented Process",
+      "text": "All our WordPress development efforts are done with the long-term goal and results in mind. No quick fixes whatsoever."
+    },
+    {
+      "icon": "svg-80cca4",
+      "title": "Full-service Development",
+      "text": "From designing to development and post-launch WordPress maintenance, we offer full service for your WordPress requirements."
+    },
+    {
+      "icon": "svg-536f2d",
+      "title": "Responsive Design",
+      "text": "Our WordPress web designers build websites that deliver your content seamlessly on all platforms."
+    },
+    {
+      "icon": "svg-71306d",
+      "title": "Continued Support",
+      "text": "Once a client, always a client. KeyDevs Technologies will be by your side to provide continued support after the project launch."
+    }
+  ]
+}

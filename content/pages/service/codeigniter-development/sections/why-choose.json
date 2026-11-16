@@ -1,0 +1,33 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "What makes KeyDevs Technologies an ideal ally for CodeIgniter development",
+  "paragraphs": [
+    {
+      "html": "A rare combination of experience, expertise and customer service — these are the three factors that makes KeyDevs Technologies an ideal ally for your CodeIgniter development projects."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-929012",
+      "title": "Long Experience",
+      "text": "Our combined CodeIgniter development experience spans a long decade and more. Rest assured we know our way around CodeIgniter to make things work for you."
+    },
+    {
+      "icon": "svg-127ebd",
+      "title": "Deep Expertise",
+      "text": "From building simple web portals to engineering sophisticated eCommerce websites from ground up, we are capable of doing everything with CodeIgniter."
+    },
+    {
+      "icon": "svg-7d7c3b",
+      "title": "Diverse offerings",
+      "text": "Custom web development. Integration development, application migration — we are your one stop shop for all CodeIgniter requirements."
+    },
+    {
+      "icon": "svg-668b4b",
+      "title": "Customer centricity",
+      "text": "Our relationship with customers does not with a single transaction. We nurture them as long standing relationships with customers at the heart of it."
+    }
+  ]
+}

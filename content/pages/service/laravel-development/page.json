@@ -2,23 +2,18 @@
   "slug": "service/laravel-development",
   "seo": {
     "title": "Laravel Development Company | KeyDevs Technologies",
-    "description": "Secure, elegant, scalable web applications built on Laravel. Talk to KeyDevs Technologies, Lahore."
+    "description": "Laravel is a web development framework that helps reduce the distance between an idea and turning into a MVP (Minimum Viable Product). As a Laravel…"
   },
   "sections": [
     "categoryHero",
-    "brandLogos",
     "introContent",
-    "offerCards",
-    "imageCards",
-    "compareBenefits",
-    "sprintProcess",
-    "techStackTabs",
-    "whyChooseImage",
+    "iconCards",
+    "whyChoose",
+    "brandLogos",
     "portfolio",
     "testimonials",
-    "technologies",
-    "faq",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }

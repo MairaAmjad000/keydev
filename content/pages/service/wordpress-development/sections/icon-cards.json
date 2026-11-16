@@ -1,0 +1,39 @@
+{
+  "text": "Our offerings",
+  "heading": "Our suite of WordPress Development Services",
+  "text2": "Discover our growing range of WordPress web development services that aim to empower businesses with a custom-built and unique website.",
+  "heightClass": "m-height-260",
+  "background": "white",
+  "items": [
+    {
+      "icon": "svg-c03360",
+      "title": "Custom WordPress Development",
+      "text": "Build any kind and type of website of your choice with our custom WordPress website development services."
+    },
+    {
+      "icon": "svg-b5dae1",
+      "title": "WordPress Theme Development",
+      "text": "Build WordPress themes to amplify the look and feel of your website, standardize web pages or for marketplace selling."
+    },
+    {
+      "icon": "svg-0ced03",
+      "title": "WordPress Plugin Development",
+      "text": "Help other WordPress developers and users simplify their lives with WordPress plugins for design, eCommerce, marketing, etc."
+    },
+    {
+      "icon": "svg-3662cc",
+      "title": "WordPress Migration Services",
+      "text": "Migrate from other CMS platforms to the awesomeness of WordPress with our expertise."
+    },
+    {
+      "icon": "svg-6080c1",
+      "title": "WordPress eCommerce Solution",
+      "text": "Build online stores easily and quickly with our WordPress eCommerce solutions."
+    },
+    {
+      "icon": "svg-6ceef1",
+      "title": "WordPress API Integration",
+      "text": "Integrate your WordPress applications and web services with other applications with API integration."
+    }
+  ]
+}

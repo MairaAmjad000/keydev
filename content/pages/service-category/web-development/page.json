@@ -6,19 +6,15 @@
   },
   "sections": [
     "categoryHero",
-    "brandLogos",
     "introContent",
     "serviceOfferings",
-    "featureList",
-    "advantageGrid",
-    "process",
     "frameworkTabs",
     "whyChoose",
+    "brandLogos",
     "portfolio",
     "testimonials",
-    "technologies",
-    "faq",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }

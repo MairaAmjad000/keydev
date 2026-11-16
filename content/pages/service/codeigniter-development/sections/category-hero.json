@@ -1,22 +1,22 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "CodeIgniter Development by KeyDevs Technologies",
+    "src": "/images/service/codeigniter-development/banner.webp",
+    "alt": "codeigniter development company",
     "width": "1920",
     "height": "800"
   },
-  "heading": "CodeIgniter Development Company",
-  "text": "Need a web application on a tight timeline? KeyDevs Technologies builds fast, lightweight apps with CodeIgniter that are simple to maintain and quick to launch.",
+  "heading": "CODEIGNITER DEVELOPMENT COMPANY",
+  "text": "CodeIgniter is like the Swiss army knife of all web development frameworks. It is small in size but has an entire toolkit that will equip a web developer to weave magic. What happens when a Swiss army knife is handed to a veteran? Magic happens. Each of KeyDevs Technologies’s web developers are veterans of developing web pages with CodeIgniter. Come, talk to our experts to find out how we can weave magic for you.",
   "links": [
     {
       "href": "/portfolio",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "View Our Work"
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     },
     {
       "href": "/app-development-cost-calculator",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate Your Web Development Cost"
+      "text": "Calculate Your Web Development Cost",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -29,7 +29,7 @@
       "href": "/service-category/web-development"
     },
     {
-      "text": "CodeIgniter Development"
+      "text": "PHP Codeigniter Development"
     }
   ]
 }

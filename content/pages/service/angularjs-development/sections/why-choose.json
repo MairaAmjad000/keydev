@@ -1,0 +1,33 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "Why KeyDevs Technologies for Your AngularJS Web Development",
+  "paragraphs": [
+    {
+      "html": "We owe our reputation as one of the best AngularJS Development Company to our experienced OOJS Teams and our success in projects"
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-13cab7",
+      "title": "Dedicated",
+      "text": "We offer dedicated teams for development which has helped the teams to remain focused on the projects with a laser edge."
+    },
+    {
+      "icon": "svg-3725e7",
+      "title": "Flexible",
+      "text": "Our processes are flexible, with agile methodology and this allows the sprints in development to help reach milestones at speed."
+    },
+    {
+      "icon": "svg-fdb4f6",
+      "title": "Fast",
+      "text": "Our projects proceed at the right speed for faster time to market as a result of a focused to projects with exclusive and dedicated teams assigned."
+    },
+    {
+      "icon": "svg-1ee27d",
+      "title": "Timelines",
+      "text": "We stick to agreed timelines focusing on projects one at a time. Projects are taken up consecutively and not simultaneously."
+    }
+  ]
+}

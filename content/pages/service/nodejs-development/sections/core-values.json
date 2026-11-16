@@ -1,0 +1,39 @@
+{
+  "sectionClass": "padding-6030 service-we-offer-web-inner bg-light",
+  "columnClass": "col-lg-4 col-md-4 col-sm-6 col-12 mb-30",
+  "text": "Services We Offer",
+  "heading": "Our NodeJS Development Services",
+  "paragraph": "There is no substitute for professionalism. Backed by agile processes, our dedicated teams have built applications and dynamic webpages surpassing expectations.",
+  "items": [
+    {
+      "icon": "svg-91b91c",
+      "title": "Nodejs Api Development And Integration",
+      "text": "Dynamic End to end Rest APIs."
+    },
+    {
+      "icon": "svg-bb783d",
+      "title": "Real Time Apps With Nodejs",
+      "text": "Integration of various library modules in the application."
+    },
+    {
+      "icon": "svg-b8c8d0",
+      "title": "Nodejs Product Support And Maintenance",
+      "text": "Indepth knowledge of NodeJS architecture helps deliver comprehensive support."
+    },
+    {
+      "icon": "svg-670d23",
+      "title": "Nodejs Version Migration",
+      "text": "Comprehensive support for smooth version migration."
+    },
+    {
+      "icon": "svg-0ece46",
+      "title": "Nodejs Cms Development",
+      "text": "Slash development time with powerful API."
+    },
+    {
+      "icon": "svg-f6eccc",
+      "title": "Nodejs Web App Development",
+      "text": "Dynamic website server side programming for building applications."
+    }
+  ]
+}

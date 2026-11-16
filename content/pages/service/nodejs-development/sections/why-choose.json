@@ -1,0 +1,33 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "Why should KeyDevs Technologies be your Choice for Nodejs Development",
+  "paragraphs": [
+    {
+      "html": "Our experience and track record in executing big ticket projects have earned us a reputation as a reliable Node JS Development Company. Join our growing list of clients."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-fdd57d",
+      "title": "Large Exposure",
+      "text": "Our teams have exposure to big ticket projects. Leverage our experience and expertise to develop projects that fully meet requirements."
+    },
+    {
+      "icon": "svg-7d6040",
+      "title": "Experience",
+      "text": "Cross trained, expert developers on teams. Every member on our team is cross trained; this fosters collaboration from a trained and informed perspective."
+    },
+    {
+      "icon": "svg-0e10e4",
+      "title": "Dedicated",
+      "text": "We have a dedicated team of developers for NodeJS Development. Teams exclusively handle NodeJS Development and this specialization offers greater focus."
+    },
+    {
+      "icon": "svg-71d12b",
+      "title": "Support",
+      "text": "Our support & maintenance have been critical dimensions of our success. Projects go beyond delivery with extended support and maintenance offering true value to clients."
+    }
+  ]
+}
