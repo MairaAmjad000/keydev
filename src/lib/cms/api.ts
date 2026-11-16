@@ -6,7 +6,7 @@
  */
 import type {
   CallBackSidebarContent, CookieAlertContent, FooterContent, FormsContent, GetQuoteButtonContent,
-  HeaderContent, HireStickyBarContent, MobileMenuContent, PageData, QuotePopupContent, SiteData,
+  GlobalSectionsContent, HeaderContent, HireStickyBarContent, MobileMenuContent, PageData, QuotePopupContent, SiteData,
   SiteSettings,
 } from '@/types';
 import { fetchFromCms } from './client';
@@ -22,7 +22,7 @@ export function getSiteSettings(): Promise<SiteSettings> {
 
 /** Settings, navigation and global blocks shared by every page. */
 export async function getSiteData(): Promise<SiteData> {
-  const [settings, forms, header, mobileMenu, getQuoteButton, callBackSidebar, footer, quotePopup, cookieAlert, hireStickyBar] =
+  const [settings, forms, header, mobileMenu, getQuoteButton, callBackSidebar, footer, quotePopup, cookieAlert, hireStickyBar, globalSections] =
     await Promise.all([
       getSiteSettings(),
       load<FormsContent>('settings/forms', localSite.forms),
@@ -34,8 +34,9 @@ export async function getSiteData(): Promise<SiteData> {
       load<QuotePopupContent>('globals/quote-popup', localSite.quotePopup),
       load<CookieAlertContent>('globals/cookie-alert', localSite.cookieAlert),
       load<HireStickyBarContent>('globals/hire-sticky-bar', localSite.hireStickyBar),
+      load<GlobalSectionsContent>('globals/global-sections', localSite.globalSections),
     ]);
-  return { settings, forms, header, mobileMenu, getQuoteButton, callBackSidebar, footer, quotePopup, cookieAlert, hireStickyBar };
+  return { settings, forms, header, mobileMenu, getQuoteButton, callBackSidebar, footer, quotePopup, cookieAlert, hireStickyBar, globalSections };
 }
 
 /** One page: SEO plus its ordered sections. `slug` is "home" for the front page. */

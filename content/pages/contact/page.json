@@ -9,5 +9,11 @@
     "contactForm",
     "contactInfo",
     "contactMap"
+  ],
+  "hideGlobalSections": [
+    "contactCta",
+    "scheduleCall",
+    "engagement",
+    "locations"
   ]
 }

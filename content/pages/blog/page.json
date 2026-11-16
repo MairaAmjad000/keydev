@@ -7,7 +7,6 @@
   "sections": [
     "categoryHero",
     "blogList",
-    "testimonials",
-    "scheduleCall"
+    "testimonials"
   ]
 }

@@ -9,7 +9,6 @@
     "brandLogos",
     "introContent",
     "featureTabs",
-    "contactCta",
     "whyChoose",
     "technologies",
     "idealBusiness",
@@ -19,8 +18,6 @@
     "whyInvest",
     "testimonials",
     "featuredIn",
-    "blog",
-    "scheduleCall",
-    "engagement"
+    "blog"
   ]
 }

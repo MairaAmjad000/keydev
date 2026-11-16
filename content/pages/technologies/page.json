@@ -7,12 +7,9 @@
   "sections": [
     "categoryHero",
     "technologyGroups",
-    "contactCta",
     "testimonials",
     "featuredIn",
     "blog",
-    "technologies",
-    "scheduleCall",
-    "engagement"
+    "technologies"
   ]
 }

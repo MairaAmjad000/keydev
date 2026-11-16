@@ -23,13 +23,9 @@ import callout from '../../../content/pages/home/sections/callout.json';
 import processSection from '../../../content/pages/home/sections/process.json';
 import testimonials from '../../../content/pages/home/sections/testimonials.json';
 import portfolio from '../../../content/pages/home/sections/portfolio.json';
-import contactCta from '../../../content/pages/home/sections/contact-cta.json';
 import whatsAppAnchor from '../../../content/pages/home/sections/whatsapp-anchor.json';
 import technologies from '../../../content/pages/home/sections/technologies.json';
 import blog from '../../../content/pages/home/sections/blog.json';
-import scheduleCall from '../../../content/pages/home/sections/schedule-call.json';
-import engagement from '../../../content/pages/home/sections/engagement.json';
-import locations from '../../../content/pages/home/sections/locations.json';
 import categoryWebDevelopmentPage from '../../../content/pages/service-category/web-development/page.json';
 import catCategoryHero from '../../../content/pages/service-category/web-development/sections/category-hero.json';
 import catBrandLogos from '../../../content/pages/service-category/web-development/sections/brand-logos.json';
@@ -39,7 +35,6 @@ import catFeatureList from '../../../content/pages/service-category/web-developm
 import catAdvantageGrid from '../../../content/pages/service-category/web-development/sections/advantage-grid.json';
 import catProcess from '../../../content/pages/service-category/web-development/sections/process.json';
 import catFrameworkTabs from '../../../content/pages/service-category/web-development/sections/framework-tabs.json';
-import catContactCta from '../../../content/pages/service-category/web-development/sections/contact-cta.json';
 import catWhyChoose from '../../../content/pages/service-category/web-development/sections/why-choose.json';
 import catPortfolio from '../../../content/pages/service-category/web-development/sections/portfolio.json';
 import catTestimonials from '../../../content/pages/service-category/web-development/sections/testimonials.json';
@@ -47,7 +42,6 @@ import catTechnologies from '../../../content/pages/service-category/web-develop
 import catFaq from '../../../content/pages/service-category/web-development/sections/faq.json';
 import catFeaturedIn from '../../../content/pages/service-category/web-development/sections/featured-in.json';
 import catBlog from '../../../content/pages/service-category/web-development/sections/blog.json';
-import catScheduleCall from '../../../content/pages/service-category/web-development/sections/schedule-call.json';
 import servicePage from '../../../content/pages/service/mvp-development/page.json';
 import svcCategoryHero from '../../../content/pages/service/mvp-development/sections/category-hero.json';
 import svcBrandLogos from '../../../content/pages/service/mvp-development/sections/brand-logos.json';
@@ -57,7 +51,6 @@ import svcImageCards from '../../../content/pages/service/mvp-development/sectio
 import svcCompareBenefits from '../../../content/pages/service/mvp-development/sections/compare-benefits.json';
 import svcSprintProcess from '../../../content/pages/service/mvp-development/sections/sprint-process.json';
 import svcTechStackTabs from '../../../content/pages/service/mvp-development/sections/tech-stack-tabs.json';
-import svcContactCta from '../../../content/pages/service/mvp-development/sections/contact-cta.json';
 import svcWhyChooseImage from '../../../content/pages/service/mvp-development/sections/why-choose-image.json';
 import svcPortfolio from '../../../content/pages/service/mvp-development/sections/portfolio.json';
 import svcTestimonials from '../../../content/pages/service/mvp-development/sections/testimonials.json';
@@ -65,8 +58,7 @@ import svcTechnologies from '../../../content/pages/service/mvp-development/sect
 import svcFaq from '../../../content/pages/service/mvp-development/sections/faq.json';
 import svcFeaturedIn from '../../../content/pages/service/mvp-development/sections/featured-in.json';
 import svcBlog from '../../../content/pages/service/mvp-development/sections/blog.json';
-import svcScheduleCall from '../../../content/pages/service/mvp-development/sections/schedule-call.json';
-import svcEngagement from '../../../content/pages/service/mvp-development/sections/engagement.json';
+import globalSections from '../../../content/globals/global-sections.json';
 import { servicePageSources } from './local-services';
 import { solutionPageSources } from './local-solutions';
 import { portfolioPageSources } from './local-portfolio';
@@ -77,7 +69,7 @@ import { howWeWorkPageSources } from './local-how-we-work';
 import { clientReviewPageSources } from './local-client-review';
 import { technologiesPageSources } from './local-technologies';
 import { estimatePageSources } from './local-estimate';
-import type { PageData, SectionBlock, SectionDataMap, SectionType, SiteData } from '@/types';
+import type { GlobalSectionsContent, PageData, SectionBlock, SectionDataMap, SectionType, SiteData } from '@/types';
 import mobileAppDevelopmentPage from '../../../content/pages/service-category/mobile-app-development/page.json';
 import mobileAppDevelopmentCategoryHero from '../../../content/pages/service-category/mobile-app-development/sections/category-hero.json';
 import mobileAppDevelopmentBrandLogos from '../../../content/pages/service-category/mobile-app-development/sections/brand-logos.json';
@@ -87,7 +79,6 @@ import mobileAppDevelopmentFeatureList from '../../../content/pages/service-cate
 import mobileAppDevelopmentAdvantageGrid from '../../../content/pages/service-category/mobile-app-development/sections/advantage-grid.json';
 import mobileAppDevelopmentProcess from '../../../content/pages/service-category/mobile-app-development/sections/process.json';
 import mobileAppDevelopmentFrameworkTabs from '../../../content/pages/service-category/mobile-app-development/sections/framework-tabs.json';
-import mobileAppDevelopmentContactCta from '../../../content/pages/service-category/mobile-app-development/sections/contact-cta.json';
 import mobileAppDevelopmentWhyChoose from '../../../content/pages/service-category/mobile-app-development/sections/why-choose.json';
 import mobileAppDevelopmentPortfolio from '../../../content/pages/service-category/mobile-app-development/sections/portfolio.json';
 import mobileAppDevelopmentTestimonials from '../../../content/pages/service-category/mobile-app-development/sections/testimonials.json';
@@ -95,7 +86,6 @@ import mobileAppDevelopmentTechnologies from '../../../content/pages/service-cat
 import mobileAppDevelopmentFaq from '../../../content/pages/service-category/mobile-app-development/sections/faq.json';
 import mobileAppDevelopmentFeaturedIn from '../../../content/pages/service-category/mobile-app-development/sections/featured-in.json';
 import mobileAppDevelopmentBlog from '../../../content/pages/service-category/mobile-app-development/sections/blog.json';
-import mobileAppDevelopmentScheduleCall from '../../../content/pages/service-category/mobile-app-development/sections/schedule-call.json';
 import ecommerceDevelopmentPage from '../../../content/pages/service-category/ecommerce-development/page.json';
 import ecommerceDevelopmentCategoryHero from '../../../content/pages/service-category/ecommerce-development/sections/category-hero.json';
 import ecommerceDevelopmentBrandLogos from '../../../content/pages/service-category/ecommerce-development/sections/brand-logos.json';
@@ -105,7 +95,6 @@ import ecommerceDevelopmentFeatureList from '../../../content/pages/service-cate
 import ecommerceDevelopmentAdvantageGrid from '../../../content/pages/service-category/ecommerce-development/sections/advantage-grid.json';
 import ecommerceDevelopmentProcess from '../../../content/pages/service-category/ecommerce-development/sections/process.json';
 import ecommerceDevelopmentFrameworkTabs from '../../../content/pages/service-category/ecommerce-development/sections/framework-tabs.json';
-import ecommerceDevelopmentContactCta from '../../../content/pages/service-category/ecommerce-development/sections/contact-cta.json';
 import ecommerceDevelopmentWhyChoose from '../../../content/pages/service-category/ecommerce-development/sections/why-choose.json';
 import ecommerceDevelopmentPortfolio from '../../../content/pages/service-category/ecommerce-development/sections/portfolio.json';
 import ecommerceDevelopmentTestimonials from '../../../content/pages/service-category/ecommerce-development/sections/testimonials.json';
@@ -113,7 +102,6 @@ import ecommerceDevelopmentTechnologies from '../../../content/pages/service-cat
 import ecommerceDevelopmentFaq from '../../../content/pages/service-category/ecommerce-development/sections/faq.json';
 import ecommerceDevelopmentFeaturedIn from '../../../content/pages/service-category/ecommerce-development/sections/featured-in.json';
 import ecommerceDevelopmentBlog from '../../../content/pages/service-category/ecommerce-development/sections/blog.json';
-import ecommerceDevelopmentScheduleCall from '../../../content/pages/service-category/ecommerce-development/sections/schedule-call.json';
 import gameDevelopmentPage from '../../../content/pages/service-category/game-development/page.json';
 import gameDevelopmentCategoryHero from '../../../content/pages/service-category/game-development/sections/category-hero.json';
 import gameDevelopmentBrandLogos from '../../../content/pages/service-category/game-development/sections/brand-logos.json';
@@ -123,7 +111,6 @@ import gameDevelopmentFeatureList from '../../../content/pages/service-category/
 import gameDevelopmentAdvantageGrid from '../../../content/pages/service-category/game-development/sections/advantage-grid.json';
 import gameDevelopmentProcess from '../../../content/pages/service-category/game-development/sections/process.json';
 import gameDevelopmentFrameworkTabs from '../../../content/pages/service-category/game-development/sections/framework-tabs.json';
-import gameDevelopmentContactCta from '../../../content/pages/service-category/game-development/sections/contact-cta.json';
 import gameDevelopmentWhyChoose from '../../../content/pages/service-category/game-development/sections/why-choose.json';
 import gameDevelopmentPortfolio from '../../../content/pages/service-category/game-development/sections/portfolio.json';
 import gameDevelopmentTestimonials from '../../../content/pages/service-category/game-development/sections/testimonials.json';
@@ -131,7 +118,6 @@ import gameDevelopmentTechnologies from '../../../content/pages/service-category
 import gameDevelopmentFaq from '../../../content/pages/service-category/game-development/sections/faq.json';
 import gameDevelopmentFeaturedIn from '../../../content/pages/service-category/game-development/sections/featured-in.json';
 import gameDevelopmentBlog from '../../../content/pages/service-category/game-development/sections/blog.json';
-import gameDevelopmentScheduleCall from '../../../content/pages/service-category/game-development/sections/schedule-call.json';
 import uiUxDesignPage from '../../../content/pages/service-category/ui-ux-design/page.json';
 import uiUxDesignCategoryHero from '../../../content/pages/service-category/ui-ux-design/sections/category-hero.json';
 import uiUxDesignBrandLogos from '../../../content/pages/service-category/ui-ux-design/sections/brand-logos.json';
@@ -141,7 +127,6 @@ import uiUxDesignFeatureList from '../../../content/pages/service-category/ui-ux
 import uiUxDesignAdvantageGrid from '../../../content/pages/service-category/ui-ux-design/sections/advantage-grid.json';
 import uiUxDesignProcess from '../../../content/pages/service-category/ui-ux-design/sections/process.json';
 import uiUxDesignFrameworkTabs from '../../../content/pages/service-category/ui-ux-design/sections/framework-tabs.json';
-import uiUxDesignContactCta from '../../../content/pages/service-category/ui-ux-design/sections/contact-cta.json';
 import uiUxDesignWhyChoose from '../../../content/pages/service-category/ui-ux-design/sections/why-choose.json';
 import uiUxDesignPortfolio from '../../../content/pages/service-category/ui-ux-design/sections/portfolio.json';
 import uiUxDesignTestimonials from '../../../content/pages/service-category/ui-ux-design/sections/testimonials.json';
@@ -149,7 +134,6 @@ import uiUxDesignTechnologies from '../../../content/pages/service-category/ui-u
 import uiUxDesignFaq from '../../../content/pages/service-category/ui-ux-design/sections/faq.json';
 import uiUxDesignFeaturedIn from '../../../content/pages/service-category/ui-ux-design/sections/featured-in.json';
 import uiUxDesignBlog from '../../../content/pages/service-category/ui-ux-design/sections/blog.json';
-import uiUxDesignScheduleCall from '../../../content/pages/service-category/ui-ux-design/sections/schedule-call.json';
 
 export const localSite: SiteData = {
   settings: site,
@@ -162,6 +146,7 @@ export const localSite: SiteData = {
   quotePopup,
   cookieAlert,
   hireStickyBar,
+  globalSections: globalSections as unknown as GlobalSectionsContent,
 };
 
 const homeSections: Partial<SectionDataMap> = {
@@ -175,13 +160,9 @@ const homeSections: Partial<SectionDataMap> = {
   process: processSection,
   testimonials,
   portfolio,
-  contactCta,
   whatsAppAnchor,
   technologies,
   blog,
-  scheduleCall,
-  engagement,
-  locations,
 };
 
 /** Sections of the "MVP Development" service page (content/pages/service/mvp-development). */
@@ -194,17 +175,14 @@ const serviceMvpSections: Partial<SectionDataMap> = {
   compareBenefits: svcCompareBenefits,
   sprintProcess: svcSprintProcess,
   techStackTabs: svcTechStackTabs,
-  contactCta: svcContactCta,
-  whyChooseImage: svcWhyChooseImage,
+    whyChooseImage: svcWhyChooseImage,
   portfolio: svcPortfolio,
   testimonials: svcTestimonials,
   technologies: svcTechnologies,
   faq: svcFaq,
   featuredIn: svcFeaturedIn,
   blog: svcBlog,
-  scheduleCall: svcScheduleCall,
-  engagement: svcEngagement,
-};
+    };
 
 /** Sections of the "Web Development" category page (content/pages/service-category/web-development). */
 const categoryWebDevelopmentSections: Partial<SectionDataMap> = {
@@ -216,16 +194,14 @@ const categoryWebDevelopmentSections: Partial<SectionDataMap> = {
   advantageGrid: catAdvantageGrid,
   process: catProcess,
   frameworkTabs: catFrameworkTabs,
-  contactCta: catContactCta,
-  whyChoose: catWhyChoose,
+    whyChoose: catWhyChoose,
   portfolio: catPortfolio,
   testimonials: catTestimonials,
   technologies: catTechnologies,
   faq: catFaq,
   featuredIn: catFeaturedIn,
   blog: catBlog,
-  scheduleCall: catScheduleCall,
-};
+  };
 
 /** Sections of the "Mobile App Development" category page (content/pages/service-category/mobile-app-development). */
 const mobileAppDevelopmentSections: Partial<SectionDataMap> = {
@@ -237,16 +213,14 @@ const mobileAppDevelopmentSections: Partial<SectionDataMap> = {
   advantageGrid: mobileAppDevelopmentAdvantageGrid,
   process: mobileAppDevelopmentProcess,
   frameworkTabs: mobileAppDevelopmentFrameworkTabs,
-  contactCta: mobileAppDevelopmentContactCta,
-  whyChoose: mobileAppDevelopmentWhyChoose,
+    whyChoose: mobileAppDevelopmentWhyChoose,
   portfolio: mobileAppDevelopmentPortfolio,
   testimonials: mobileAppDevelopmentTestimonials,
   technologies: mobileAppDevelopmentTechnologies,
   faq: mobileAppDevelopmentFaq,
   featuredIn: mobileAppDevelopmentFeaturedIn,
   blog: mobileAppDevelopmentBlog,
-  scheduleCall: mobileAppDevelopmentScheduleCall,
-};
+  };
 
 /** Sections of the "E-Commerce Development" category page (content/pages/service-category/ecommerce-development). */
 const ecommerceDevelopmentSections: Partial<SectionDataMap> = {
@@ -258,16 +232,14 @@ const ecommerceDevelopmentSections: Partial<SectionDataMap> = {
   advantageGrid: ecommerceDevelopmentAdvantageGrid,
   process: ecommerceDevelopmentProcess,
   frameworkTabs: ecommerceDevelopmentFrameworkTabs,
-  contactCta: ecommerceDevelopmentContactCta,
-  whyChoose: ecommerceDevelopmentWhyChoose,
+    whyChoose: ecommerceDevelopmentWhyChoose,
   portfolio: ecommerceDevelopmentPortfolio,
   testimonials: ecommerceDevelopmentTestimonials,
   technologies: ecommerceDevelopmentTechnologies,
   faq: ecommerceDevelopmentFaq,
   featuredIn: ecommerceDevelopmentFeaturedIn,
   blog: ecommerceDevelopmentBlog,
-  scheduleCall: ecommerceDevelopmentScheduleCall,
-};
+  };
 
 /** Sections of the "Game Development" category page (content/pages/service-category/game-development). */
 const gameDevelopmentSections: Partial<SectionDataMap> = {
@@ -279,16 +251,14 @@ const gameDevelopmentSections: Partial<SectionDataMap> = {
   advantageGrid: gameDevelopmentAdvantageGrid,
   process: gameDevelopmentProcess,
   frameworkTabs: gameDevelopmentFrameworkTabs,
-  contactCta: gameDevelopmentContactCta,
-  whyChoose: gameDevelopmentWhyChoose,
+    whyChoose: gameDevelopmentWhyChoose,
   portfolio: gameDevelopmentPortfolio,
   testimonials: gameDevelopmentTestimonials,
   technologies: gameDevelopmentTechnologies,
   faq: gameDevelopmentFaq,
   featuredIn: gameDevelopmentFeaturedIn,
   blog: gameDevelopmentBlog,
-  scheduleCall: gameDevelopmentScheduleCall,
-};
+  };
 
 /** Sections of the "UI/UX Design" category page (content/pages/service-category/ui-ux-design). */
 const uiUxDesignSections: Partial<SectionDataMap> = {
@@ -300,16 +270,14 @@ const uiUxDesignSections: Partial<SectionDataMap> = {
   advantageGrid: uiUxDesignAdvantageGrid,
   process: uiUxDesignProcess,
   frameworkTabs: uiUxDesignFrameworkTabs,
-  contactCta: uiUxDesignContactCta,
-  whyChoose: uiUxDesignWhyChoose,
+    whyChoose: uiUxDesignWhyChoose,
   portfolio: uiUxDesignPortfolio,
   testimonials: uiUxDesignTestimonials,
   technologies: uiUxDesignTechnologies,
   faq: uiUxDesignFaq,
   featuredIn: uiUxDesignFeaturedIn,
   blog: uiUxDesignBlog,
-  scheduleCall: uiUxDesignScheduleCall,
-};
+  };
 
 /** Builds a page from its manifest (slug, seo, ordered list of section types). */
 function buildPage(

@@ -6,5 +6,11 @@
   },
   "sections": [
     "estimateWizard"
+  ],
+  "hideGlobalSections": [
+    "contactCta",
+    "scheduleCall",
+    "engagement",
+    "locations"
   ]
 }

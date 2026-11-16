@@ -1,0 +1,334 @@
+{
+  "sections": [
+    {
+      "type": "contactCta",
+      "enabled": true,
+      "data": {
+        "image": {
+          "src": "/images/header/consultant-avatar.webp",
+          "alt": "For your business digital transformation and startup consultancy talk to Yasser, the co-founder of top web and mobile development company in Lahore, Lahore, Paksitan."
+        },
+        "subheading": "We would love to hear from you",
+        "text": "A thousand mile journey starts with a single step. Get in touch with us and we will begin a partnership that will take your business to new heights.",
+        "headRequetBtn": {
+          "href": "javascript:;",
+          "text": "Schedule a Meeting"
+        },
+        "orangeText": "OR",
+        "item": "Call Me",
+        "link": {
+          "href": "https://wa.me/923395393387/?text=hi",
+          "title": "+92 339 5393387",
+          "ariaLabel": "call"
+        },
+        "link2": {
+          "href": "https://wa.me/923395393387/?text=hi",
+          "title": "+92 339 5393387"
+        },
+        "link3": {
+          "href": "https://wa.me/923395393387/?text=hi",
+          "title": "+92 339 5393387"
+        },
+        "link4": {
+          "href": "https://wa.me/923395393387/?text=hi",
+          "title": "+92 339 5393387"
+        },
+        "link5": {
+          "href": "https://wa.me/923395393387/?text=hi",
+          "title": "+92 339 5393387"
+        },
+        "link6": {
+          "href": "https://wa.me/923395393387/?text=hi",
+          "title": "+92 339 5393387"
+        },
+        "link7": {
+          "href": "https://wa.me/923395393387/?text=hi",
+          "title": "+92 339 5393387"
+        },
+        "link8": {
+          "href": "https://wa.me/923395393387/?text=hi",
+          "title": "+92 339 5393387"
+        },
+        "background": "bg-light"
+      }
+    },
+    {
+      "type": "scheduleCall",
+      "enabled": true,
+      "data": {
+        "text": "Connect with us to Discuss More",
+        "heading": "Schedule a Call Now",
+        "blocks": [
+          {
+            "link": {
+              "href": "https://clutch.co/profile/keydevs-technologies",
+              "image": {
+                "src": "/images/reviews/clutch.webp",
+                "alt": "Clutch top rated mobile app development company in Pakistan",
+                "width": "172",
+                "height": "68"
+              },
+              "orangeText": "Reviewed On",
+              "strong": "5.0",
+              "text": "12 Reviews"
+            }
+          },
+          {
+            "link": {
+              "href": "https://www.goodfirms.co/company/keydevs-technologies",
+              "image": {
+                "src": "/images/reviews/goodfirms.webp",
+                "alt": "Top Mobile App Developers on GoodFirms",
+                "width": "172",
+                "height": "68"
+              },
+              "orangeText": "Reviewed On",
+              "strong": "5.0",
+              "text": "2 Reviews"
+            }
+          }
+        ],
+        "items": [
+          {
+            "link": {
+              "href": "https://www.upwork.com/o/companies/~012085085920f5cdea/",
+              "image": {
+                "src": "/images/reviews/upwork.webp",
+                "alt": "Top Rated Freelance App developer on Upwork",
+                "width": "200",
+                "height": "75"
+              },
+              "topRatingImg": {
+                "src": "/images/brand/upwork-rating.webp",
+                "alt": "KeyDevs Technologies UpWork Rating",
+                "width": "35"
+              },
+              "image2": {
+                "src": "/images/author/star-user.svg",
+                "alt": "Mobile App Developers Lahore",
+                "width": "50",
+                "height": "50"
+              },
+              "text": "Rating <strong>4.7</strong>"
+            }
+          },
+          {
+            "link": {
+              "href": "https://www.peopleperhour.com/freelancer/design/unitygames-tech-mobile-app-and-game-development-mwnaam",
+              "image": {
+                "src": "/images/reviews/peopleperhour.webp",
+                "alt": "Top Pakistan Mobile App Development Companies",
+                "width": "200",
+                "height": "75"
+              },
+              "topRatingImg": {
+                "src": "/images/brand/pph.webp",
+                "alt": "Top Developers",
+                "width": "40"
+              },
+              "image2": {
+                "src": "/images/author/star-user.svg",
+                "alt": "Top Rating Developers",
+                "width": "50",
+                "height": "50"
+              },
+              "text": "Rating<strong>9/10</strong>"
+            }
+          }
+        ],
+        "link": {
+          "href": "https://www.freelancer.com.jm/u/UnityGamesTech",
+          "image": {
+            "src": "/images/reviews/freelancer.webp",
+            "alt": "Hire Best mobile app developers",
+            "width": "200",
+            "height": "75"
+          },
+          "image2": {
+            "src": "/images/author/star-user.svg",
+            "alt": "Top Mobile Application Developers Pakistan",
+            "width": "50",
+            "height": "50"
+          },
+          "text": "Rating<strong>4.8</strong>"
+        },
+        "heading2": "Hire us on",
+        "formGroups": [
+          {
+            "label": {
+              "for": "name",
+              "text": "Name",
+              "formControl": {
+                "type": "text",
+                "name": "name",
+                "placeholder": "Name"
+              }
+            }
+          },
+          {
+            "label": {
+              "for": "email",
+              "text": "Email",
+              "formControl": {
+                "type": "email",
+                "name": "email",
+                "placeholder": "Email"
+              }
+            }
+          }
+        ],
+        "formControl": {
+          "placeholder": "Contact No"
+        },
+        "label": "Company Name",
+        "formControl2": {
+          "placeholder": "Company Name"
+        },
+        "label2": "Budget",
+        "label3": "Service",
+        "label4": "Reference",
+        "label5": "Message",
+        "formControl3": {
+          "placeholder": "Message"
+        },
+        "contactCustomeBtn": "<i class=\"fa fa-spinner fa-spin start-loader\"></i>Send Message"
+      }
+    },
+    {
+      "type": "engagement",
+      "enabled": true,
+      "data": {
+        "text": "Choose What Suits You Best",
+        "heading": "Choose An Engagement Model Of Your Choice",
+        "text2": "KeyDevs Technologies offers three engagement models in web and mobile app development: part-time hiring, full-time hiring and hourly hiring. Our engagement models are designed to give you maximum flexibility while helping you meet your resource requirements.",
+        "blocks": [
+          {
+            "image": {
+              "src": "/images/engagement/part-time.svg",
+              "alt": "Hire a part time mobile app developer",
+              "width": "133",
+              "height": "166"
+            },
+            "text": "Part-time Hiring"
+          },
+          {
+            "image": {
+              "src": "/images/engagement/full-time.svg",
+              "alt": "Hire a full time mobile app developer in Pakistan",
+              "width": "133",
+              "height": "166"
+            },
+            "text": "Full-time Hiring"
+          },
+          {
+            "image": {
+              "src": "/images/engagement/dedicated.svg",
+              "alt": "Hire a dedicated mobile app developer in Pakistan",
+              "width": "133",
+              "height": "166"
+            },
+            "text": "Hourly Hiring"
+          }
+        ],
+        "headRequetBtn": {
+          "href": "javascript:;",
+          "text": "Let’s Discuss Your Requirement"
+        },
+        "boxShadow": {
+          "src": "/images/engagement/partnership-model.jpg",
+          "alt": "Understand the partnership model of best mobile application development companies and work on as per the need of your project requirement and budget",
+          "width": "549",
+          "height": "348"
+        }
+      }
+    },
+    {
+      "type": "locations",
+      "enabled": true,
+      "data": {
+        "text": "Connect with us",
+        "heading": "We Are Available At",
+        "boxShadow": {
+          "src": "/images/locations/lahore.png",
+          "alt": "KeyDevs Technologies web and mobile development company in Leeds.",
+          "width": "360",
+          "height": "227"
+        },
+        "subheading": "Lahore",
+        "text2": "30B A1 Block Johar Town Lahore",
+        "items": [
+          {
+            "icon": "svg-2c9057",
+            "link": {
+              "href": "tel:+442034677741",
+              "text": "+92 339 5393387"
+            }
+          },
+          {
+            "icon": "svg-837901",
+            "link": {
+              "href": "mailto:sales@keydevs.com",
+              "text": "sales@keydevs.com"
+            }
+          }
+        ],
+        "blocks": [
+          {
+            "className": "col-lg-4 col-md-4 col-12 mb-md-4 mb-0",
+            "boxShadow": {
+              "src": "/images/locations/united-states.png",
+              "alt": "KeyDevs Technologies is one of the leading web and mobile development companies in Lahore. We have a team of experienced UI/IX, app developers and developers.",
+              "width": "360",
+              "height": "227"
+            },
+            "subheading": "United State",
+            "text": "8 The Green, Suit A, Dover , PO 19901",
+            "items": [
+              {
+                "icon": "svg-2c9057",
+                "link": {
+                  "href": "tel:+16164693940",
+                  "text": "+1 616 4693940"
+                }
+              },
+              {
+                "icon": "svg-837901",
+                "link": {
+                  "href": "mailto:sales@keydevs.com",
+                  "text": "sales@keydevs.com"
+                }
+              }
+            ]
+          },
+          {
+            "className": "col-lg-4 col-md-4 col-12",
+            "boxShadow": {
+              "src": "/images/locations/dubai.jpg",
+              "alt": "KeyDevs Technologies Mobile App Development Office",
+              "width": "360",
+              "height": "227"
+            },
+            "subheading": "Dubai",
+            "text": "Office 12 Opp. Alkhail Mall, Alquoz Dubai",
+            "items": [
+              {
+                "icon": "svg-2c9057",
+                "link": {
+                  "href": "tel:+971525897315",
+                  "text": "+971525897315"
+                }
+              },
+              {
+                "icon": "svg-837901",
+                "link": {
+                  "href": "mailto:sales@keydevs.com",
+                  "text": "sales@keydevs.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -8,10 +8,8 @@ import clientReview_brandLogos from '../../../content/pages/client-review/sectio
 import clientReview_categoryHero from '../../../content/pages/client-review/sections/category-hero.json';
 import clientReview_clientReviews from '../../../content/pages/client-review/sections/client-reviews.json';
 import clientReview_clutchReviews from '../../../content/pages/client-review/sections/clutch-reviews.json';
-import clientReview_engagement from '../../../content/pages/client-review/sections/engagement.json';
-import clientReview_scheduleCall from '../../../content/pages/client-review/sections/schedule-call.json';
 import clientReview_technologies from '../../../content/pages/client-review/sections/technologies.json';
 
 export const clientReviewPageSources: Array<{ manifest: { slug: string; seo?: { title?: string; description?: string }; sections: string[] }; data: Partial<SectionDataMap> }> = [
-  { manifest: clientReviewPage, data: { blog: clientReview_blog, brandLogos: clientReview_brandLogos, categoryHero: clientReview_categoryHero, clientReviews: clientReview_clientReviews, clutchReviews: clientReview_clutchReviews, engagement: clientReview_engagement, scheduleCall: clientReview_scheduleCall, technologies: clientReview_technologies } as Partial<SectionDataMap> },
+  { manifest: clientReviewPage, data: { blog: clientReview_blog, brandLogos: clientReview_brandLogos, categoryHero: clientReview_categoryHero, clientReviews: clientReview_clientReviews, clutchReviews: clientReview_clutchReviews, technologies: clientReview_technologies } as Partial<SectionDataMap> },
 ];

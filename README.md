@@ -215,6 +215,16 @@ pictures, reviewer photos, office photos, three technology logos) were not avail
 copied from existing images. `public/images/PLACEHOLDERS.txt` lists each placeholder and its source. Replace a placeholder by
 saving the real image under the same path and file name.
 
+## Global sections
+
+Four sections are shared by all pages and shown at the end, above the footer, always in this order: **Connect With Us**
+(`contactCta`), **Schedule Meeting** (`scheduleCall`), **Engagement Models** (`engagement`), **Locations** (`locations`).
+Their content lives once in `content/globals/global-sections.json` (API path `globals/global-sections`):
+`{ "sections": [ { "type", "enabled", "data" }, ... ] }`. `enabled: false` hides a section on every page.
+A page can opt out of some or all with `hideGlobalSections` in its `page.json` (the contact and estimate pages hide all four).
+Pages no longer list these four types in their own `sections`; if an API page still does, they are ignored and the global
+ones are used (see `src/lib/cms/global-sections.ts`).
+
 ## Adding things
 
 * **New page**: create it in the admin panel (or add `content/pages/<slug>/page.json`) and it is served at `/<slug>`.

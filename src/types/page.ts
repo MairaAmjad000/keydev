@@ -83,6 +83,21 @@ export interface PageData {
   slug: string;
   seo?: { title?: string; description?: string };
   sections: SectionBlock[];
+  /** Global sections this page does NOT show (e.g. the contact page hides all four). */
+  hideGlobalSections?: GlobalSectionType[];
+}
+
+/** Sections shared by every page, shown at the end above the footer, always in this order. */
+export const GLOBAL_SECTION_ORDER = ['contactCta', 'scheduleCall', 'engagement', 'locations'] as const;
+export type GlobalSectionType = (typeof GLOBAL_SECTION_ORDER)[number];
+
+/** One global section: its content is written once and `enabled` switches it on or off site-wide. */
+export type GlobalSectionBlock = {
+  [K in GlobalSectionType]: { type: K; enabled: boolean; data: SectionDataMap[K] };
+}[GlobalSectionType];
+
+export interface GlobalSectionsContent {
+  sections: GlobalSectionBlock[];
 }
 
 /** Everything that is shared by all pages. */
@@ -97,4 +112,5 @@ export interface SiteData {
   quotePopup: QuotePopupContent;
   cookieAlert: CookieAlertContent;
   hireStickyBar: HireStickyBarContent;
+  globalSections: GlobalSectionsContent;
 }

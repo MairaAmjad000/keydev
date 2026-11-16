@@ -1,4 +1,5 @@
 import type { PageData, SiteData } from '@/types';
+import { withGlobalSections } from '@/lib/cms';
 import { SectionRenderer } from '@/components/sections/SectionRenderer';
 import { SiteScripts } from '@/components/scripts/SiteScripts';
 import { ScrollTop } from './ScrollTop';
@@ -28,7 +29,7 @@ export function SiteShell({ site, page }: { site: SiteData; page: PageData }) {
       </div>
       {' '}
       <div>
-        <SectionRenderer sections={page.sections} forms={site.forms} />
+        <SectionRenderer sections={withGlobalSections(page, site.globalSections)} forms={site.forms} />
         {' '}
         <Footer data={site.footer} />
         {' '}
