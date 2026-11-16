@@ -5555,7 +5555,7 @@
   
   
 src:
-    url("/fonts/font-f80b8a05.woff2") format("woff2");}
+    url("/fonts/fa-brands-400.woff2") format("woff2");}
 
 .fab {
   font-family: "Font Awesome 5 Brands";
@@ -5568,7 +5568,7 @@ src:
   
   
 src:
-    url("/fonts/font-569693c9.woff2") format("woff2");}
+    url("/fonts/fa-regular-400.woff2") format("woff2");}
 
 .far {
   font-weight: 400;
@@ -5581,7 +5581,7 @@ src:
   
   
 src:
-    url("/fonts/font-59ea9019.woff2") format("woff2");}
+    url("/fonts/fa-solid-900.woff2") format("woff2");}
 
 .fa,
 .far,

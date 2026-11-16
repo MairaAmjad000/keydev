@@ -16,8 +16,8 @@ const nextConfig: NextConfig = {
       { source: '/:path*', headers: securityHeaders },
       // Images keep readable (not hashed) names, so cache for a day then revalidate in the background.
       { source: '/images/:path*', headers: [{ key: 'Cache-Control', value: 'public, max-age=86400, stale-while-revalidate=604800' }] },
-      // Fonts rarely change.
-      { source: '/fonts/:path*', headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }] },
+      // Fonts keep stable names, so no year-long "immutable" cache: a missing or replaced font file must be picked up quickly.
+      { source: '/fonts/:path*', headers: [{ key: 'Cache-Control', value: 'public, max-age=86400, stale-while-revalidate=604800' }] },
       // Third-party scripts keep stable names: cache for a day, then revalidate in the background.
       { source: '/scripts/:path*', headers: [{ key: 'Cache-Control', value: 'public, max-age=86400, stale-while-revalidate=604800' }] },
     ];
