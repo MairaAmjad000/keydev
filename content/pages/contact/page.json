@@ -1,0 +1,13 @@
+{
+  "slug": "contact",
+  "seo": {
+    "title": "Contact Us | Talk to Our Experts | KeyDevs Technologies",
+    "description": "Contact KeyDevs Technologies. Call us, email us or schedule a meeting with our experts for web, mobile app and game development projects. Offices in Leeds, Lahore and India."
+  },
+  "sections": [
+    "categoryHero",
+    "contactForm",
+    "contactInfo",
+    "contactMap"
+  ]
+}

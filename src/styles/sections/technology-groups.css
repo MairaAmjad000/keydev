@@ -1,0 +1,42 @@
+/* technology-groups: technology logo groups under the sticky tab bar. Extracted from the technologies template. */
+.max-wid-600.title p {
+  max-width: 580px;
+}
+.technology-box li {
+  text-align: center;
+  min-height: 290px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ecedee;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.technology-box li img {
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -o-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.technology-box li:hover {
+  -webkit-box-shadow: 0 0 16px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 0 16px 0 rgba(0,0,0,.15);
+  box-shadow: 0 0 16px 0 rgba(0,0,0,.15);
+}
+.technology-box li:hover img {
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  transform: scale(1.05);
+}
+.what-we-offer-main-slider-section+div {
+  height: auto !important;
+}

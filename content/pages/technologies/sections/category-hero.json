@@ -1,0 +1,27 @@
+{
+  "textClass": "text-center",
+  "heading": "Our Tech Framework",
+  "text": "Like a wrench to a mechanic, a stethoscope to a doctor, or a hammer to a mason—the right tool in skilled hands can create remarkable results. At KeyDevs Technologies, we have carefully selected digital technologies that enable us to provide exceptional value to our clients.",
+  "links": [
+    {
+      "href": "/contact",
+      "className": "btn waves-effect waves-light btn-custome",
+      "text": "Book Your Consultancy"
+    }
+  ],
+  "image": {
+    "src": "/images/technologies-page/technologies-banner.webp",
+    "alt": "mobile consultancy services",
+    "width": "1920",
+    "height": "800"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Technologies"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "portfolio",
+  "seo": {
+    "title": "Portfolio | Mobile App, Web & Game Development Work | KeyDevs Technologies",
+    "description": "Explore the KeyDevs Technologies portfolio: highly rated mobile apps, AR/VR, mobile games and web applications built for clients around the world."
+  },
+  "sections": [
+    "categoryHero",
+    "portfolioShowcase",
+    "callout",
+    "testimonials",
+    "featuredIn",
+    "technologies",
+    "blog",
+    "contactCta",
+    "scheduleCall",
+    "engagement"
+  ]
+}

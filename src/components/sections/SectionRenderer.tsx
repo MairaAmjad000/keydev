@@ -37,6 +37,21 @@ import { IdealBusiness } from './IdealBusiness';
 import { SolutionCta } from './SolutionCta';
 import { OtherSolutions } from './OtherSolutions';
 import { WhyInvest } from './WhyInvest';
+import { PortfolioShowcase } from './PortfolioShowcase';
+import { BlogList } from './BlogList';
+import { ContactForm } from './ContactForm';
+import { ContactInfo } from './ContactInfo';
+import { ContactMap } from './ContactMap';
+import { StatsCounters } from './StatsCounters';
+import { Leadership } from './Leadership';
+import { MissionVision } from './MissionVision';
+import { CoreValues } from './CoreValues';
+import { HistoryTimeline } from './HistoryTimeline';
+import { ProcessSteps } from './ProcessSteps';
+import { ClutchReviews } from './ClutchReviews';
+import { ClientReviews } from './ClientReviews';
+import { TechnologyGroups } from './TechnologyGroups';
+import { EstimateWizard } from './EstimateWizard';
 
 function renderSection(block: SectionBlock, forms: FormsContent) {
   switch (block.type) {
@@ -77,6 +92,21 @@ function renderSection(block: SectionBlock, forms: FormsContent) {
     case 'solutionCta': return <SolutionCta data={block.data} />;
     case 'otherSolutions': return <OtherSolutions data={block.data} />;
     case 'whyInvest': return <WhyInvest data={block.data} />;
+    case 'portfolioShowcase': return <PortfolioShowcase data={block.data} />;
+    case 'blogList': return <BlogList data={block.data} />;
+    case 'contactForm': return <ContactForm data={block.data} forms={forms} />;
+    case 'contactInfo': return <ContactInfo data={block.data} />;
+    case 'contactMap': return <ContactMap data={block.data} />;
+    case 'statsCounters': return <StatsCounters data={block.data} />;
+    case 'leadership': return <Leadership data={block.data} />;
+    case 'missionVision': return <MissionVision data={block.data} />;
+    case 'coreValues': return <CoreValues data={block.data} />;
+    case 'historyTimeline': return <HistoryTimeline data={block.data} />;
+    case 'processSteps': return <ProcessSteps data={block.data} />;
+    case 'clutchReviews': return <ClutchReviews data={block.data} />;
+    case 'clientReviews': return <ClientReviews data={block.data} />;
+    case 'technologyGroups': return <TechnologyGroups data={block.data} />;
+    case 'estimateWizard': return <EstimateWizard data={block.data} forms={forms} />;
     default: return null;
   }
 }

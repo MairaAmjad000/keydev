@@ -1,0 +1,2321 @@
+{
+  "steps": [
+    {
+      "key": "project_type",
+      "question": "What kind of project are you developing?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 1,
+      "answer_required": true,
+      "first_step": true,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Mobile App",
+          "icon": "/images/estimate/APP/app.svg",
+          "next_step": "app_start",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Web",
+          "icon": "/images/estimate/WEB/web.svg",
+          "next_step": "web_code",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Game",
+          "icon": "/images/estimate/GAME/game.svg",
+          "next_step": "game",
+          "sort_order": 3,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "app_start",
+      "question": "How would you like to start?",
+      "help_text": "Please specify if your app needs to be built from scratch or do we need to modify an existing build?",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 2,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "New",
+          "icon": "/images/estimate/NEW/newcode.svg",
+          "next_step": "app_platform",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Old",
+          "icon": "/images/estimate/NEW/old-code.svg",
+          "next_step": "old_app",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "old_app",
+      "question": "For which platform is your app developed?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 3,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "iOS",
+          "icon": "/images/estimate/APP/ios.svg",
+          "next_step": "old_app_ios_android",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Android",
+          "icon": "/images/estimate/APP/android.svg",
+          "next_step": "old_app_ios_android",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/both-android-ios.svg",
+          "next_step": "old_app_ios_android",
+          "sort_order": 3,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "old_app_ios_android",
+      "question": "On which device is the app used on?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 4,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "iPhone",
+          "icon": "/images/estimate/APP/iPhone.svg",
+          "next_step": "app_technology",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "iPad",
+          "icon": "/images/estimate/APP/iPad.svg",
+          "next_step": "app_technology",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/both-iPhone-iPad.svg",
+          "next_step": "app_technology",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Phone",
+          "icon": "/images/estimate/APP/phone.svg",
+          "next_step": "app_technology",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Tablet",
+          "icon": "/images/estimate/APP/tablet.svg",
+          "next_step": "app_technology",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/both-phone-tablet.svg",
+          "next_step": "app_technology",
+          "sort_order": 6,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "app_technology",
+      "question": "What technology has been used to develop the app?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 5,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Java",
+          "icon": "/images/estimate/NEW/java.svg",
+          "next_step": "old_app_category",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Kotlin",
+          "icon": "/images/estimate/NEW/kotlin.svg",
+          "next_step": "old_app_category",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Xamarin",
+          "icon": "/images/estimate/NEW/xamrin.svg",
+          "next_step": "old_app_category",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Ionic",
+          "icon": "/images/estimate/NEW/ionic.svg",
+          "next_step": "old_app_category",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "PhoneGap",
+          "icon": "/images/estimate/NEW/phonegap.svg",
+          "next_step": "old_app_category",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Flutter",
+          "icon": "/images/estimate/NEW/flutter.svg",
+          "next_step": "old_app_category",
+          "sort_order": 6,
+          "active": true
+        },
+        {
+          "label": "React Native",
+          "icon": "/images/estimate/NEW/react-native.svg",
+          "next_step": "old_app_category",
+          "sort_order": 7,
+          "active": true
+        },
+        {
+          "label": "I don't know",
+          "icon": "/images/estimate/NEW/i-dont-know.svg",
+          "next_step": "old_app_category",
+          "sort_order": 8,
+          "active": true
+        },
+        {
+          "label": "Others",
+          "icon": "/images/estimate/APP/category.svg",
+          "next_step": "old_app_category",
+          "sort_order": 9,
+          "active": true
+        },
+        {
+          "label": "Swift",
+          "icon": "/images/estimate/NEW/swift_ios.svg",
+          "next_step": "old_app_category",
+          "sort_order": 10,
+          "active": true
+        },
+        {
+          "label": "Objective C",
+          "icon": "/images/estimate/NEW/objective-c.svg",
+          "next_step": "old_app_category",
+          "sort_order": 11,
+          "active": true
+        },
+        {
+          "label": "Xamarin",
+          "icon": "/images/estimate/NEW/xamrin.svg",
+          "next_step": "old_app_category",
+          "sort_order": 12,
+          "active": true
+        },
+        {
+          "label": "Ionic",
+          "icon": "/images/estimate/NEW/ionic.svg",
+          "next_step": "old_app_category",
+          "sort_order": 13,
+          "active": true
+        },
+        {
+          "label": "PhoneGap",
+          "icon": "/images/estimate/NEW/phonegap.svg",
+          "next_step": "old_app_category",
+          "sort_order": 14,
+          "active": true
+        },
+        {
+          "label": "Flutter",
+          "icon": "/images/estimate/NEW/flutter.svg",
+          "next_step": "old_app_category",
+          "sort_order": 15,
+          "active": true
+        },
+        {
+          "label": "React Native",
+          "icon": "/images/estimate/NEW/react-native.svg",
+          "next_step": "old_app_category",
+          "sort_order": 16,
+          "active": true
+        },
+        {
+          "label": "I don't know",
+          "icon": "/images/estimate/NEW/i-dont-know.svg",
+          "next_step": "old_app_category",
+          "sort_order": 17,
+          "active": true
+        },
+        {
+          "label": "Others",
+          "icon": "/images/estimate/APP/category.svg",
+          "next_step": "old_app_category",
+          "sort_order": 18,
+          "active": true
+        },
+        {
+          "label": "Java",
+          "icon": "/images/estimate/NEW/java.svg",
+          "next_step": "old_app_category",
+          "sort_order": 19,
+          "active": true
+        },
+        {
+          "label": "Kotlin",
+          "icon": "/images/estimate/NEW/kotlin.svg",
+          "next_step": "old_app_category",
+          "sort_order": 20,
+          "active": true
+        },
+        {
+          "label": "Swift",
+          "icon": "/images/estimate/NEW/swift_ios.svg",
+          "next_step": "old_app_category",
+          "sort_order": 21,
+          "active": true
+        },
+        {
+          "label": "Objective C",
+          "icon": "/images/estimate/NEW/objective-c.svg",
+          "next_step": "old_app_category",
+          "sort_order": 22,
+          "active": true
+        },
+        {
+          "label": "Xamarin",
+          "icon": "/images/estimate/NEW/xamrin.svg",
+          "next_step": "old_app_category",
+          "sort_order": 23,
+          "active": true
+        },
+        {
+          "label": "Ionic",
+          "icon": "/images/estimate/NEW/ionic.svg",
+          "next_step": "old_app_category",
+          "sort_order": 24,
+          "active": true
+        },
+        {
+          "label": "PhoneGap",
+          "icon": "/images/estimate/NEW/phonegap.svg",
+          "next_step": "old_app_category",
+          "sort_order": 25,
+          "active": true
+        },
+        {
+          "label": "Flutter",
+          "icon": "/images/estimate/NEW/flutter.svg",
+          "next_step": "old_app_category",
+          "sort_order": 26,
+          "active": true
+        },
+        {
+          "label": "React Native",
+          "icon": "/images/estimate/NEW/react-native.svg",
+          "next_step": "old_app_category",
+          "sort_order": 27,
+          "active": true
+        },
+        {
+          "label": "I don't Know",
+          "icon": "/images/estimate/NEW/i-dont-know.svg",
+          "next_step": "old_app_category",
+          "sort_order": 28,
+          "active": true
+        },
+        {
+          "label": "Others",
+          "icon": "/images/estimate/APP/category.svg",
+          "next_step": "old_app_category",
+          "sort_order": 29,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "old_app_category",
+      "question": "What is the app used for?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 6,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "eCommerce",
+          "icon": "/images/estimate/APP/e-commorce.svg",
+          "next_step": "old_app_brief_description",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Travel",
+          "icon": "/images/estimate/APP/travel.svg",
+          "next_step": "old_app_brief_description",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Chat",
+          "icon": "/images/estimate/APP/chatting.svg",
+          "next_step": "old_app_brief_description",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Education",
+          "icon": "/images/estimate/APP/education.svg",
+          "next_step": "old_app_brief_description",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Food Delivery",
+          "icon": "/images/estimate/APP/food-delivary.svg",
+          "next_step": "old_app_brief_description",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Health & Fitness",
+          "icon": "/images/estimate/APP/heart-checkup.svg",
+          "next_step": "old_app_brief_description",
+          "sort_order": 6,
+          "active": true
+        },
+        {
+          "label": "Live Streaming",
+          "icon": "/images/estimate/APP/live-streaming.svg",
+          "next_step": "old_app_brief_description",
+          "sort_order": 7,
+          "active": true
+        },
+        {
+          "label": "Social Media",
+          "icon": "/images/estimate/APP/social-media.svg",
+          "next_step": "old_app_brief_description",
+          "sort_order": 8,
+          "active": true
+        },
+        {
+          "label": "Taxi Booking",
+          "icon": "/images/estimate/APP/taxi-booking.svg",
+          "next_step": "old_app_brief_description",
+          "sort_order": 9,
+          "active": true
+        },
+        {
+          "label": "Other",
+          "icon": "/images/estimate/APP/category.svg",
+          "next_step": "old_app_brief_description",
+          "sort_order": 10,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "old_app_brief_description",
+      "question": "Please provide a brief description of the changes required",
+      "help_text": "",
+      "answer_type": "text",
+      "next_step": null,
+      "sort_order": 7,
+      "answer_required": false,
+      "first_step": false,
+      "active": true,
+      "placeholder": "Please include details of all Frontend and Backend modification that are required in your existing application.",
+      "options": []
+    },
+    {
+      "key": "app_platform",
+      "question": "What platform do you want the app to be developed on?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 8,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "iOS",
+          "icon": "/images/estimate/APP/ios.svg",
+          "next_step": "ios_android",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Android",
+          "icon": "/images/estimate/APP/android.svg",
+          "next_step": "ios_android",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/both-android-ios.svg",
+          "next_step": "ios_android",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Not Sure",
+          "icon": "/images/estimate/NEW/not-sure.svg",
+          "next_step": "ios_android",
+          "sort_order": 4,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "ios_android",
+      "question": "What device will the app be used on?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 9,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "iPhone",
+          "icon": "/images/estimate/APP/iPhone.svg",
+          "next_step": "app_need_design",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "iPad",
+          "icon": "/images/estimate/APP/iPad.svg",
+          "next_step": "app_need_design",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/both-iPhone-iPad.svg",
+          "next_step": "app_need_design",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Not Sure",
+          "icon": "/images/estimate/NEW/not-sure.svg",
+          "next_step": "app_need_design",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Phone",
+          "icon": "/images/estimate/APP/phone.svg",
+          "next_step": "app_need_design",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Tablet",
+          "icon": "/images/estimate/APP/tablet.svg",
+          "next_step": "app_need_design",
+          "sort_order": 6,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/both-phone-tablet.svg",
+          "next_step": "app_need_design",
+          "sort_order": 7,
+          "active": true
+        },
+        {
+          "label": "Not Sure",
+          "icon": "/images/estimate/NEW/not-sure.svg",
+          "next_step": "app_need_design",
+          "sort_order": 8,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "app_need_design",
+      "question": "Do you need us to design the app?",
+      "help_text": "Designing the app requires producing UI designs on Photoshop, Sketch or Figma. If you already have designs you can share with the team.",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 10,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/NEW/yes.svg",
+          "next_step": "app_category",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/NEW/no.svg",
+          "next_step": "app_category",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "app_category",
+      "question": "What will the app be used for?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 11,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "eCommerce",
+          "icon": "/images/estimate/APP/e-commorce.svg",
+          "next_step": "sign_up",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Travel",
+          "icon": "/images/estimate/APP/travel.svg",
+          "next_step": "sign_up",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Chatting",
+          "icon": "/images/estimate/APP/chatting.svg",
+          "next_step": "sign_up",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Education",
+          "icon": "/images/estimate/APP/education.svg",
+          "next_step": "sign_up",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Food Delivery",
+          "icon": "/images/estimate/APP/food-delivary.svg",
+          "next_step": "sign_up",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Health & Fitness",
+          "icon": "/images/estimate/APP/heart-checkup.svg",
+          "next_step": "sign_up",
+          "sort_order": 6,
+          "active": true
+        },
+        {
+          "label": "Live Streaming",
+          "icon": "/images/estimate/APP/live-streaming.svg",
+          "next_step": "sign_up",
+          "sort_order": 7,
+          "active": true
+        },
+        {
+          "label": "Social Media",
+          "icon": "/images/estimate/APP/social-media.svg",
+          "next_step": "sign_up",
+          "sort_order": 8,
+          "active": true
+        },
+        {
+          "label": "Taxi Booking",
+          "icon": "/images/estimate/APP/taxi-booking.svg",
+          "next_step": "sign_up",
+          "sort_order": 9,
+          "active": true
+        },
+        {
+          "label": "Other",
+          "icon": "/images/estimate/APP/category.svg",
+          "next_step": "sign_up",
+          "sort_order": 10,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "sign_up",
+      "question": "What type of login is needed?",
+      "help_text": "How will the users be accessing your mobile application",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 12,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Email",
+          "icon": "/images/estimate/APP/email.svg",
+          "next_step": "backend_cms",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Social Media",
+          "icon": "/images/estimate/APP/social-media.svg",
+          "next_step": "backend_cms",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/sign-up-both.svg",
+          "next_step": "backend_cms",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "None",
+          "icon": "/images/estimate/APP/sign-up-both-none.svg",
+          "next_step": "backend_cms",
+          "sort_order": 4,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "backend_cms",
+      "question": "Do you require an admin panel for managing the app?",
+      "help_text": "Will your app need to access data from a website, or use content management systems to manage data from the backend.",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 13,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/NEW/yes.svg",
+          "next_step": "gps_required",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/NEW/no.svg",
+          "next_step": "gps_required",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "gps_required",
+      "question": "Is GPS integration required?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 14,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/APP/gps-yes.svg",
+          "next_step": "chat_feature",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/APP/gps-no.svg",
+          "next_step": "chat_feature",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "chat_feature",
+      "question": "Does the app need a chat feature?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 15,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/APP/chatting.svg",
+          "next_step": "earn_app",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/APP/chatting-no.svg",
+          "next_step": "earn_app",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "earn_app",
+      "question": "How will you earn from the app?",
+      "help_text": "",
+      "answer_type": "multiple_choice",
+      "next_step": "payment_gateway",
+      "sort_order": 16,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "In-App Purchase",
+          "icon": "/images/estimate/APP/in-app-purchase.svg",
+          "next_step": "payment_gateway",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Sell Products",
+          "icon": "/images/estimate/APP/sell-product.svg",
+          "next_step": "payment_gateway",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Advertise",
+          "icon": "/images/estimate/APP/advertise.svg",
+          "next_step": "payment_gateway",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Subscription",
+          "icon": "/images/estimate/NEW/subscription.svg",
+          "next_step": "payment_gateway",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Paid App",
+          "icon": "/images/estimate/NEW/paid-app.svg",
+          "next_step": "payment_gateway",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "None",
+          "icon": "/images/estimate/NEW/none.svg",
+          "next_step": "payment_gateway",
+          "sort_order": 6,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "payment_gateway",
+      "question": "Do you need payment integration?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 17,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/APP/payment-yes.svg",
+          "next_step": null,
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/APP/payment-no.svg",
+          "next_step": null,
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_code",
+      "question": "How would you like to start?",
+      "help_text": "Please specify if your . website or web application needs to be developed from scratch, or if modifications are required to an existing system.",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 18,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "New",
+          "icon": "/images/estimate/NEW/newcode.svg",
+          "next_step": "web_category",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Old",
+          "icon": "/images/estimate/NEW/old-code.svg",
+          "next_step": "old_web_category",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "old_web_category",
+      "question": "What category best describes your web application",
+      "help_text": "Please select a category that describes your web application development",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 19,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Dynamic",
+          "icon": "/images/estimate/WEB/dynamic.svg",
+          "next_step": "old_web_dynamic_option",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Static",
+          "icon": "/images/estimate/WEB/static.svg",
+          "next_step": "web_old_static_plateform",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_old_static_plateform",
+      "question": "In which technology was your website originally built?",
+      "help_text": "Please specify which technology is used to build your existing website",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 20,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "PHP",
+          "icon": "/images/estimate/WEB/php.svg",
+          "next_step": "web_old_static_design_changes",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Laravel",
+          "icon": "/images/estimate/WEB/laravel.svg",
+          "next_step": "web_old_static_design_changes",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Codeigniter",
+          "icon": "/images/estimate/WEB/codigniter.svg",
+          "next_step": "web_old_static_design_changes",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Wordpress",
+          "icon": "/images/estimate/WEB/wordpress.svg",
+          "next_step": "web_old_static_design_changes",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Other",
+          "icon": "/images/estimate/WEB/category.svg",
+          "next_step": "web_old_static_design_changes",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "I don't Know",
+          "icon": "/images/estimate/NEW/i-dont-know.svg",
+          "next_step": "web_old_static_design_changes",
+          "sort_order": 6,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_old_static_design_changes",
+      "question": "Do you need design changes?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 21,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/NEW/yes.svg",
+          "next_step": "web_old_static_brief_description",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/NEW/no.svg",
+          "next_step": "web_old_static_brief_description",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_old_static_brief_description",
+      "question": "Please provide a brief description of the changes required",
+      "help_text": "",
+      "answer_type": "text",
+      "next_step": null,
+      "sort_order": 22,
+      "answer_required": false,
+      "first_step": false,
+      "active": true,
+      "placeholder": "Please include details of all Frontend and Backend modification that are required in the existing website.",
+      "options": []
+    },
+    {
+      "key": "old_web_dynamic_option",
+      "question": "What category best describes your web application?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 23,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "eCommerce",
+          "icon": "/images/estimate/NEW/e-commerce-solution.svg",
+          "next_step": "web_old_dynamic_plateform",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "CMS Application",
+          "icon": "/images/estimate/WEB/laravel.svg",
+          "next_step": "web_old_dynamic_plateform",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Custom Web Solution",
+          "icon": "/images/estimate/NEW/custom-web-development.svg",
+          "next_step": "web_old_dynamic_plateform",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Online Portal",
+          "icon": "/images/estimate/NEW/portal-development.svg",
+          "next_step": "web_old_dynamic_plateform",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Blog",
+          "icon": "/images/estimate/NEW/blogging-web-development.svg",
+          "next_step": "web_old_dynamic_plateform",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Educational Application",
+          "icon": "/images/estimate/NEW/educational-application.svg",
+          "next_step": "web_old_dynamic_plateform",
+          "sort_order": 6,
+          "active": true
+        },
+        {
+          "label": "Social Media",
+          "icon": "/images/estimate/NEW/social-networking.svg",
+          "next_step": "web_old_dynamic_plateform",
+          "sort_order": 7,
+          "active": true
+        },
+        {
+          "label": "Other",
+          "icon": "/images/estimate/WEB/category.svg",
+          "next_step": "web_old_dynamic_plateform",
+          "sort_order": 8,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_old_dynamic_plateform",
+      "question": "What technology is used to develop your web application?",
+      "help_text": "Please specify the technology in which your existing web application is developed",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 24,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "WooCommerce",
+          "icon": "/images/estimate/NEW/woocomerce.svg",
+          "next_step": "web_old_dynamic_design_changes",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Magento",
+          "icon": "/images/estimate/NEW/magento.svg",
+          "next_step": "web_old_dynamic_design_changes",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Shopify",
+          "icon": "/images/estimate/NEW/shopify.svg",
+          "next_step": "web_old_dynamic_design_changes",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "PHP",
+          "icon": "/images/estimate/WEB/php.svg",
+          "next_step": "web_old_dynamic_design_changes",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Laravel",
+          "icon": "/images/estimate/WEB/laravel.svg",
+          "next_step": "web_old_dynamic_design_changes",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Codeigniter",
+          "icon": "/images/estimate/WEB/codigniter.svg",
+          "next_step": "web_old_dynamic_design_changes",
+          "sort_order": 6,
+          "active": true
+        },
+        {
+          "label": "Wordpress",
+          "icon": "/images/estimate/WEB/wordpress.svg",
+          "next_step": "web_old_dynamic_design_changes",
+          "sort_order": 7,
+          "active": true
+        },
+        {
+          "label": "Other",
+          "icon": "/images/estimate/WEB/category.svg",
+          "next_step": "web_old_dynamic_design_changes",
+          "sort_order": 8,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_old_dynamic_design_changes",
+      "question": "Do you need design changes?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 25,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/NEW/yes.svg",
+          "next_step": "mobile_app_too",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/NEW/no.svg",
+          "next_step": "mobile_app_too",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_category",
+      "question": "What type of web solution do you need?",
+      "help_text": "Please select a category that describes your web application development",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 26,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Dynamic",
+          "icon": "/images/estimate/WEB/dynamic.svg",
+          "next_step": "web_dynamic_option",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Static",
+          "icon": "/images/estimate/WEB/static.svg",
+          "next_step": "web_new_static_plateform",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "I don't know",
+          "icon": "/images/estimate/NEW/i-dont-know.svg",
+          "next_step": "web_dynamic_option",
+          "sort_order": 3,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_new_static_plateform",
+      "question": "Which technology would you like to use?",
+      "help_text": "Which technology do you want us to use to develop your website?",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 27,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "PHP",
+          "icon": "/images/estimate/WEB/php.svg",
+          "next_step": "web_new_static_ui_option",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Laravel",
+          "icon": "/images/estimate/WEB/laravel.svg",
+          "next_step": "web_new_static_ui_option",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Codeigniter",
+          "icon": "/images/estimate/WEB/codigniter.svg",
+          "next_step": "web_new_static_ui_option",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Wordpress",
+          "icon": "/images/estimate/WEB/wordpress.svg",
+          "next_step": "web_new_static_ui_option",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Other",
+          "icon": "/images/estimate/WEB/category.svg",
+          "next_step": "web_new_static_ui_option",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "I don't Know",
+          "icon": "/images/estimate/NEW/i-dont-know.svg",
+          "next_step": "web_new_static_ui_option",
+          "sort_order": 6,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_new_static_ui_option",
+      "question": "Design options",
+      "help_text": "Would you prefer a ready-made template or do you need a fully customised website completely designed from scratch?",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 28,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Ready Theme",
+          "icon": "/images/estimate/WEB/basic.svg",
+          "next_step": null,
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Custom UI",
+          "icon": "/images/estimate/WEB/standard.svg",
+          "next_step": null,
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_dynamic_option",
+      "question": "What category best describes your web application?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 29,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "eCommerce Solution",
+          "icon": "/images/estimate/NEW/e-commerce-solution.svg",
+          "next_step": "web_plateform",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Custom Web Development",
+          "icon": "/images/estimate/NEW/custom-web-development.svg",
+          "next_step": "web_plateform",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Portal Development",
+          "icon": "/images/estimate/NEW/portal-development.svg",
+          "next_step": "web_plateform",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Blog Development",
+          "icon": "/images/estimate/NEW/blogging-web-development.svg",
+          "next_step": "web_plateform",
+          "sort_order": 4,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_plateform",
+      "question": "Which technology would you like to use?",
+      "help_text": "Please specify the platform you would like to choose for your web development solutions",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 30,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "WooCommerce",
+          "icon": "/images/estimate/NEW/woocomerce.svg",
+          "next_step": "web_creative_ui_option",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Magento",
+          "icon": "/images/estimate/NEW/magento.svg",
+          "next_step": "web_creative_ui_option",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Shopify",
+          "icon": "/images/estimate/NEW/shopify.svg",
+          "next_step": "web_creative_ui_option",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "PHP",
+          "icon": "/images/estimate/WEB/php.svg",
+          "next_step": "web_creative_ui_option",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Laravel",
+          "icon": "/images/estimate/WEB/laravel.svg",
+          "next_step": "web_creative_ui_option",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Codeigniter",
+          "icon": "/images/estimate/WEB/codigniter.svg",
+          "next_step": "web_creative_ui_option",
+          "sort_order": 6,
+          "active": true
+        },
+        {
+          "label": "Wordpress",
+          "icon": "/images/estimate/WEB/wordpress.svg",
+          "next_step": "web_creative_ui_option",
+          "sort_order": 7,
+          "active": true
+        },
+        {
+          "label": "I don't know",
+          "icon": "/images/estimate/NEW/i-dont-know.svg",
+          "next_step": "web_creative_ui_option",
+          "sort_order": 8,
+          "active": true
+        },
+        {
+          "label": "Other",
+          "icon": "/images/estimate/WEB/category.svg",
+          "next_step": "web_creative_ui_option",
+          "sort_order": 9,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_creative_ui_option",
+      "question": "Design Options",
+      "help_text": "Would you prefer a ready-made template or do you need a fully customised website completely designed from scratch?",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 31,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Ready Theme",
+          "icon": "/images/estimate/WEB/basic.svg",
+          "next_step": "web_payment",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Custom UI",
+          "icon": "/images/estimate/WEB/standard.svg",
+          "next_step": "web_payment",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_payment",
+      "question": "Payment integration required?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 32,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/WEB/payment-yes.svg",
+          "next_step": "mobile_app_too",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/WEB/payment-no.svg",
+          "next_step": "mobile_app_too",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "mobile_app_too",
+      "question": "Do you need a mobile app too?",
+      "help_text": "Complement your web-solution with a mobile app to reach a wider audience.",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 33,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/WEB/mobile-app-yes.svg",
+          "next_step": "web_mobile_app",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/WEB/mobile-app-no.svg",
+          "next_step": null,
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_mobile_app",
+      "question": "What platform do you want the app to be developed on?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 34,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "iOS",
+          "icon": "/images/estimate/APP/ios.svg",
+          "next_step": "web_mobile_ios_android",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Android",
+          "icon": "/images/estimate/APP/android.svg",
+          "next_step": "web_mobile_ios_android",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/both-android-ios.svg",
+          "next_step": "web_mobile_ios_android",
+          "sort_order": 3,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_mobile_ios_android",
+      "question": "What device will the app be used on?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 35,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "iPhone",
+          "icon": "/images/estimate/APP/iPhone.svg",
+          "next_step": "web_mobile_app_category",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "iPad",
+          "icon": "/images/estimate/APP/iPad.svg",
+          "next_step": "web_mobile_app_category",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/both-iPhone-iPad.svg",
+          "next_step": "web_mobile_app_category",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Phone",
+          "icon": "/images/estimate/APP/phone.svg",
+          "next_step": "web_mobile_app_category",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Tablet",
+          "icon": "/images/estimate/APP/tablet.svg",
+          "next_step": "web_mobile_app_category",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/both-phone-tablet.svg",
+          "next_step": "web_mobile_app_category",
+          "sort_order": 6,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_mobile_app_category",
+      "question": "What kind of app do you want to develop ?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 36,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "eCommerce",
+          "icon": "/images/estimate/APP/e-commorce.svg",
+          "next_step": "web_mobile_sign_up",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Travel",
+          "icon": "/images/estimate/APP/travel.svg",
+          "next_step": "web_mobile_sign_up",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Chatting",
+          "icon": "/images/estimate/APP/chatting.svg",
+          "next_step": "web_mobile_sign_up",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Education",
+          "icon": "/images/estimate/APP/education.svg",
+          "next_step": "web_mobile_sign_up",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Food Delivery",
+          "icon": "/images/estimate/APP/food-delivary.svg",
+          "next_step": "web_mobile_sign_up",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Health & Fitness",
+          "icon": "/images/estimate/APP/heart-checkup.svg",
+          "next_step": "web_mobile_sign_up",
+          "sort_order": 6,
+          "active": true
+        },
+        {
+          "label": "Live Streaming",
+          "icon": "/images/estimate/APP/live-streaming.svg",
+          "next_step": "web_mobile_sign_up",
+          "sort_order": 7,
+          "active": true
+        },
+        {
+          "label": "Social Media",
+          "icon": "/images/estimate/APP/social-media.svg",
+          "next_step": "web_mobile_sign_up",
+          "sort_order": 8,
+          "active": true
+        },
+        {
+          "label": "Taxi Booking",
+          "icon": "/images/estimate/APP/taxi-booking.svg",
+          "next_step": "web_mobile_sign_up",
+          "sort_order": 9,
+          "active": true
+        },
+        {
+          "label": "Other",
+          "icon": "/images/estimate/APP/category.svg",
+          "next_step": "web_mobile_sign_up",
+          "sort_order": 10,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_mobile_sign_up",
+      "question": "What type of login is needed?",
+      "help_text": "How will the users be accessing your mobile application.",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 37,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Email",
+          "icon": "/images/estimate/APP/email.svg",
+          "next_step": "web_mobile_need_design_changes",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Social Media",
+          "icon": "/images/estimate/APP/social-media.svg",
+          "next_step": "web_mobile_need_design_changes",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/APP/sign-up-both.svg",
+          "next_step": "web_mobile_need_design_changes",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "None",
+          "icon": "/images/estimate/APP/sign-up-both-none.svg",
+          "next_step": "web_mobile_need_design_changes",
+          "sort_order": 4,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_mobile_need_design_changes",
+      "question": "Do you need design of the app?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 38,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/NEW/yes.svg",
+          "next_step": "web_mobile_gps_required",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/NEW/no.svg",
+          "next_step": "web_mobile_gps_required",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_mobile_gps_required",
+      "question": "Is GPS integration required?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 39,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/APP/gps-yes.svg",
+          "next_step": "web_mobile_chat_feature",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/APP/gps-no.svg",
+          "next_step": "web_mobile_chat_feature",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_mobile_chat_feature",
+      "question": "Do you need a chatting feature?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 40,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/APP/chatting.svg",
+          "next_step": "web_mobile_earn_app",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/APP/chatting-no.svg",
+          "next_step": "web_mobile_earn_app",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_mobile_earn_app",
+      "question": "How will you make money from your website ?",
+      "help_text": "",
+      "answer_type": "multiple_choice",
+      "next_step": null,
+      "sort_order": 41,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Sell Products",
+          "icon": "/images/estimate/APP/sell-product.svg",
+          "next_step": null,
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Advertise",
+          "icon": "/images/estimate/APP/advertise.svg",
+          "next_step": null,
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Subscription",
+          "icon": "/images/estimate/NEW/subscription.svg",
+          "next_step": null,
+          "sort_order": 3,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_payment_2",
+      "question": "Payment integration required?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 42,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/WEB/payment-yes.svg",
+          "next_step": null,
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/WEB/payment-no.svg",
+          "next_step": null,
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_advertise",
+      "question": "Advertise?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 43,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/WEB/advertise-yes.svg",
+          "next_step": null,
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/WEB/advertise-no.svg",
+          "next_step": null,
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "web_old_dynamic_brief_description",
+      "question": "Please provide a brief description of the changes required",
+      "help_text": "",
+      "answer_type": "text",
+      "next_step": null,
+      "sort_order": 44,
+      "answer_required": false,
+      "first_step": false,
+      "active": true,
+      "placeholder": "Please include details of all Frontend and Backend modification that are require in your existing web application.",
+      "options": []
+    },
+    {
+      "key": "game",
+      "question": "What platform would you like your game developed for?",
+      "help_text": "Please specify which platform you would like to develop your game.",
+      "answer_type": "multiple_choice",
+      "next_step": "game_type",
+      "sort_order": 45,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Android",
+          "icon": "/images/estimate/GAME/android.svg",
+          "next_step": "game_type",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "iOS",
+          "icon": "/images/estimate/GAME/ios.svg",
+          "next_step": "game_type",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Desktop",
+          "icon": "/images/estimate/GAME/desktop.svg",
+          "next_step": "game_type",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Web",
+          "icon": "/images/estimate/GAME/web.svg",
+          "next_step": "game_type",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Steam",
+          "icon": "/images/estimate/GAME/steam.svg",
+          "next_step": "game_type",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "All",
+          "icon": "/images/estimate/GAME/all.svg",
+          "next_step": "game_type",
+          "sort_order": 6,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "game_type",
+      "question": "What type of game will it be?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 46,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "2D",
+          "icon": "/images/estimate/GAME/2D.svg",
+          "next_step": "game_mode",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "3D",
+          "icon": "/images/estimate/GAME/3D.svg",
+          "next_step": "game_mode",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "game_mode",
+      "question": "Single or Multiplayer?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 47,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Single",
+          "icon": "/images/estimate/GAME/singal.svg",
+          "next_step": "game_category",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Multiplayer",
+          "icon": "/images/estimate/GAME/multiplayer.svg",
+          "next_step": "game_category",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "game_category",
+      "question": "Which category best defines your game?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 48,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Sport",
+          "icon": "/images/estimate/GAME/sports-game.svg",
+          "next_step": "game_graphics",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Shooting",
+          "icon": "/images/estimate/GAME/shooting-game.svg",
+          "next_step": "game_graphics",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Racing",
+          "icon": "/images/estimate/GAME/racing-game.svg",
+          "next_step": "game_graphics",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "Adventure",
+          "icon": "/images/estimate/GAME/adventure.svg",
+          "next_step": "game_graphics",
+          "sort_order": 4,
+          "active": true
+        },
+        {
+          "label": "Puzzle",
+          "icon": "/images/estimate/GAME/puzzle-game.svg",
+          "next_step": "game_graphics",
+          "sort_order": 5,
+          "active": true
+        },
+        {
+          "label": "Fighting",
+          "icon": "/images/estimate/GAME/fighting-game.svg",
+          "next_step": "game_graphics",
+          "sort_order": 6,
+          "active": true
+        },
+        {
+          "label": "Action Game",
+          "icon": "/images/estimate/GAME/action-game.svg",
+          "next_step": "game_graphics",
+          "sort_order": 7,
+          "active": true
+        },
+        {
+          "label": "Board",
+          "icon": "/images/estimate/GAME/board-game.svg",
+          "next_step": "game_graphics",
+          "sort_order": 8,
+          "active": true
+        },
+        {
+          "label": "Simulator",
+          "icon": "/images/estimate/GAME/simulator-game.svg",
+          "next_step": "game_graphics",
+          "sort_order": 9,
+          "active": true
+        },
+        {
+          "label": "Other",
+          "icon": "/images/estimate/APP/category.svg",
+          "next_step": "game_graphics",
+          "sort_order": 10,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "game_graphics",
+      "question": "Will you need the graphics designed?",
+      "help_text": "Please specify if you have graphic ready or if you’d like us to prepare them.",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 49,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Yes",
+          "icon": "/images/estimate/GAME/graphicsrequire-yes.svg",
+          "next_step": "game_signup",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "No",
+          "icon": "/images/estimate/GAME/graphicsrequire-no.svg",
+          "next_step": "game_signup",
+          "sort_order": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "game_signup",
+      "question": "How will the user log in to the game?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 50,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Email",
+          "icon": "/images/estimate/GAME/email.svg",
+          "next_step": "game_manage",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "social Media",
+          "icon": "/images/estimate/GAME/social-media.svg",
+          "next_step": "game_manage",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Both",
+          "icon": "/images/estimate/GAME/social-media-both.svg",
+          "next_step": "game_manage",
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "None",
+          "icon": "/images/estimate/APP/sign-up-both-none.svg",
+          "next_step": "game_manage",
+          "sort_order": 4,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "game_manage",
+      "question": "How will you manage the game?",
+      "help_text": "",
+      "answer_type": "single_choice",
+      "next_step": null,
+      "sort_order": 51,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Admin Panel",
+          "icon": "/images/estimate/GAME/backend-cms.svg",
+          "next_step": "game_earn_app",
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Static",
+          "icon": "/images/estimate/GAME/static.svg",
+          "next_step": "game_earn_app",
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "I don't Know",
+          "icon": "/images/estimate/NEW/i-dont-know.svg",
+          "next_step": "game_earn_app",
+          "sort_order": 3,
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "game_earn_app",
+      "question": "How will you earn from the game?",
+      "help_text": "",
+      "answer_type": "multiple_choice",
+      "next_step": null,
+      "sort_order": 52,
+      "answer_required": true,
+      "first_step": false,
+      "active": true,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "In-App Purchase",
+          "icon": "/images/estimate/GAME/in-app-purchase.svg",
+          "next_step": null,
+          "sort_order": 1,
+          "active": true
+        },
+        {
+          "label": "Advertise",
+          "icon": "/images/estimate/GAME/advertise.svg",
+          "next_step": null,
+          "sort_order": 2,
+          "active": true
+        },
+        {
+          "label": "Paid App",
+          "icon": "/images/estimate/NEW/paid-app.svg",
+          "next_step": null,
+          "sort_order": 3,
+          "active": true
+        },
+        {
+          "label": "None",
+          "icon": "/images/estimate/NEW/none.svg",
+          "next_step": null,
+          "sort_order": 4,
+          "active": true
+        }
+      ]
+    }
+  ],
+  "form": {
+    "title": "Fill in the Below Form to Receive a Detailed Estimation",
+    "text": "You're just one step away from receiving a detailed estimation from our team",
+    "action": "/estimate",
+    "submitText": "GET ESTIMATE",
+    "ndaText": "* All information disclosed will be kept confidential under our NDA",
+    "prevText": "Prev",
+    "nextText": "Next",
+    "selectAtLeastOneText": "Select at least one",
+    "placeholders": {
+      "name": "Name",
+      "email": "Email",
+      "mobile": "Contact No",
+      "company": "Company Name",
+      "attachment": "Add Attachment",
+      "androidLink": "Android Play Store Link",
+      "iosLink": "Apple App Store Link",
+      "additional": "Short description of the project requirement"
+    },
+    "successTitle": "Success!",
+    "errorTitle": "Oops...",
+    "errorText": "Something went wrong!",
+    "networkErrorText": "Could not send the form. Please try again."
+  }
+}

@@ -35,6 +35,14 @@
 @import './sections/other-solutions.css';
 @import './sections/why-invest.css';
 @import './sections/faq-list.css';
+@import './sections/portfolio-showcase.css';
+@import './sections/blog-list.css';
+@import './sections/contact-page.css';
+@import './sections/about-page.css';
+@import './sections/process-steps.css';
+@import './sections/client-review.css';
+@import './sections/technology-groups.css';
+@import './sections/estimate-page.css';
 @import './sections/hero.css';
 @import './sections/brand-logos.css';
 @import './sections/about.css';

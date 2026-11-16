@@ -1,0 +1,20 @@
+{
+  "slug": "how-we-work",
+  "seo": {
+    "title": "How We Work | Agile App Development Process | KeyDevs Technologies",
+    "description": "See how KeyDevs Technologies delivers value with an agile-driven process: discovery, UI/UX design, development, testing, launch and support for web and mobile apps."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "processSteps",
+    "contactCta",
+    "testimonials",
+    "portfolio",
+    "technologies",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

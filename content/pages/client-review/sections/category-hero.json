@@ -1,0 +1,31 @@
+{
+  "heading": "OUR HAPPY CLIENT REVIEWS",
+  "text": "It gives great self-satisfaction in knowing we have done our job well and served the client's critical problem and walkthrough to achieve business goals. We have been thoroughly trusted by our clients and been rewarded with repeat projects time and again.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate App Development Cost"
+    }
+  ],
+  "image": {
+    "src": "/images/client-review/client-review-banner.webp",
+    "alt": "mobile apps company reviews",
+    "width": "1920",
+    "height": "800"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Client Review"
+    }
+  ]
+}

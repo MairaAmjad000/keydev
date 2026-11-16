@@ -1,0 +1,31 @@
+{
+  "heading": "How KeyDevs Technologies delivers value to your business",
+  "text": "Agile-driven process. That is the magic word that enables KeyDevs Technologies to deliver value to its clients. Agile methodology helps us model project deliverables that can be continuously improved to meet stakeholder requirements. Our agile-driven process is certain to give your projects the much needed agility, for highly complicated projects.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate App Development Cost"
+    }
+  ],
+  "image": {
+    "src": "/images/how-we-work/how-we-work-banner.webp",
+    "alt": "custom application company",
+    "width": "1920",
+    "height": "800"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "How We Work"
+    }
+  ]
+}

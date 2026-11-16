@@ -1,0 +1,22 @@
+{
+  "sectionClass": "aboutusbanner",
+  "heading": "We are KeyDevs Technologies Crafting Code, Transforming Visions into Reality.",
+  "headingHtml": "<span>We are KeyDevs Technologies</span> Crafting Code, Transforming Visions into Reality.",
+  "text": "Based in the vibrant city of Lahore, Pakistan, we are a team of passionate mobile app developers dedicated to delivering tech solutions that drive change. Our mission is to help businesses make a positive impact on the world. Since our founding in 2015 as a small group of freelancers, we've evolved into a global leader in mobile technology solutions. We are always at the forefront of innovation and seek like-minded clients who share our enthusiasm for transformation. Join us as we continue to shape the future with cutting-edge mobile solutions.",
+  "links": [],
+  "image": {
+    "src": "/images/about/about-banner.jpg",
+    "alt": "KeyDevs Technologies careers",
+    "width": "1920",
+    "height": "800"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "About Us"
+    }
+  ]
+}

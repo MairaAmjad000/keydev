@@ -1,0 +1,909 @@
+{
+  "filters": [
+    {
+      "label": "All",
+      "filter": "*",
+      "icon": "svg-afd587"
+    },
+    {
+      "label": "Mobile App",
+      "filter": ".mobapp",
+      "icon": "svg-932316"
+    },
+    {
+      "label": "AR / VR App",
+      "filter": ".arvrapp",
+      "icon": "svg-8b1129"
+    },
+    {
+      "label": "Games",
+      "filter": ".gameapp",
+      "icon": "svg-9961e4"
+    },
+    {
+      "label": "Website",
+      "filter": ".websiteapp",
+      "icon": "svg-a3988f"
+    }
+  ],
+  "items": [
+    {
+      "id": "virtual-reality-app",
+      "classes": "arvrapp bluebg",
+      "background": "/images/portfolio/backgrounds/virtual-reality-app.jpg",
+      "reverse": true,
+      "logo": {
+        "src": "/images/portfolio/mainpage/microsoft-art-of-work-logo.png",
+        "alt": ""
+      },
+      "title": "A 360-Degree Virtual Reality App for Microsoft",
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Microsoft wanted to build an app for artists to share their creative work with the world at large. The technology for the idea was introduced through a SAP and Microsoft Azure partnership. KeyDevs Technologies capitalized on the possibilities of the technology and built a virtual reality app with the capabilities of Unity 3D. The app experience was also enriched with a virtual reality 360-Degree experience."
+      ],
+      "links": [
+        {
+          "href": "https://www.microsoft.com/en-in/p/art-of-work-by-microsoft/9p0ftv7qv4kv?activetab=pivot%3Aoverviewtab",
+          "text": "View Website",
+          "className": "btn-custome btn waves-effect waves-light"
+        }
+      ],
+      "thumb": {
+        "layout": "single",
+        "images": [
+          "/images/portfolio/mainpage/microsoft-art-of-work-laptop.png"
+        ]
+      }
+    },
+    {
+      "id": "FormAssist",
+      "classes": "mobapp FormAssist",
+      "background": "/images/portfolio/backgrounds/FormAssist.jpg",
+      "logo": {
+        "src": "/images/portfolio/mainpage/form-assist-logo.png",
+        "alt": "",
+        "width": "127",
+        "height": "129"
+      },
+      "logoText": {
+        "name": "FormAssist",
+        "tagline": "A Fitness app with personal guide to keep in shape",
+        "nameClass": "text-yellow"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "From the out-of-shape to ripped model, an app that helps users get fit. Form Assist is a fitness training mobile app that will train users on what to eat, how to work out and how to become the best selves that they want to be. The app is integrated with features like recipe finding, workout planning, chat with dietitians and trainers, goal setting and activity tracking and much more. On the timeline, users can track all the activities such as terms of diet, exercise, weight, walking step."
+      ],
+      "links": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.acts.FormAssist",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/tr/app/formassist-diet-and-exercise/id1345964523",
+          "title": "App Store",
+          "image": {
+            "src": "/images/portfolio/app-store.png",
+            "alt": "mobile app development company Pakistan",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "opt2",
+        "images": [
+          "/images/portfolio/mainpage/form-assist-mobile.png",
+          "/images/portfolio/mainpage/form-assist-mobile1.png",
+          "/images/portfolio/mainpage/form-assist-mobile2.png",
+          "/images/portfolio/mainpage/form-assist-mobile2.png"
+        ]
+      }
+    },
+    {
+      "id": "SNLyft",
+      "classes": "mobapp SNLyft",
+      "background": "/images/portfolio/backgrounds/SNLyft.jpg",
+      "reverse": true,
+      "logo": {
+        "src": "/images/portfolio/mainpage/sn-lyft-logo.png",
+        "alt": ""
+      },
+      "logoText": {
+        "name": "SN Lyft",
+        "tagline": "On Demand Delivery App"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "SNLyft is a multi-purpose mobile app developed by KeyDevs Technologies that offers a one-stop solution for travellers, foodies, and general customers. The app, available on Android and iOS platforms, enables users to order food from restaurants, send parcels to loved ones, and book taxis to reach specific destinations.",
+        "SNLyft is designed to replace three different applications, making it a convenient and space-saving solution for users. The app's user-friendly interface and innovative features showcase KeyDevs Technologies's expertise in mobile app development, providing a seamless experience for users."
+      ],
+      "thumb": {
+        "layout": "default",
+        "images": [
+          "/images/portfolio/mainpage/sn-lyft-mobile.png",
+          "/images/portfolio/mainpage/sn-lyft-mobile1.png",
+          "/images/portfolio/mainpage/sn-lyft-mobile2.png",
+          "/images/portfolio/mainpage/sn-lyft-mobile2.png"
+        ]
+      }
+    },
+    {
+      "id": "PakistanEats",
+      "classes": "mobapp websiteapp PakistanEats",
+      "logo": {
+        "src": "/images/portfolio/mainpage/Pakistan-eats-logo.png",
+        "alt": "",
+        "width": "127",
+        "height": "129"
+      },
+      "logoText": {
+        "name": "Pakistan Eats",
+        "tagline": "Food ordering app"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Pakistan Eats is a cutting-edge food ordering app designed to provide customers with the quickest doorstep delivery of their favorite food. With a user-friendly interface, customers can easily search and discover top restaurants, cuisines, and dishes from their mobile devices. The app provides a filter feature that enables users to get exactly what they want, whether it's breakfast, lunch, dinner, snack, or any other meal."
+      ],
+      "links": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.Pakistaneats",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/gb/app/Pakistan-eats/id1625634102",
+          "title": "App Store",
+          "image": {
+            "src": "/images/portfolio/app-store.png",
+            "alt": "mobile app development company Pakistan",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://Pakistan-eats.co.Pakistan/",
+          "title": "Website",
+          "image": {
+            "src": "/images/portfolio/website.png",
+            "alt": "website",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "opt2",
+        "images": [
+          "/images/portfolio/mainpage/Pakistan-eats-mobile.png",
+          "/images/portfolio/mainpage/Pakistan-eats-mobile2.png",
+          "/images/portfolio/mainpage/Pakistan-eats-mobile1.png",
+          "/images/portfolio/mainpage/Pakistan-eats-mobile1.png"
+        ]
+      }
+    },
+    {
+      "id": "OliveGarden",
+      "classes": "mobapp OliveGarden",
+      "background": "/images/portfolio/backgrounds/OliveGarden.jpg",
+      "reverse": true,
+      "logo": {
+        "src": "/images/portfolio/mainpage/olive-garden-logo.png",
+        "alt": ""
+      },
+      "logoText": {
+        "name": "Olive Garden (OG2GO)",
+        "tagline": "Food Ordering App"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "OG2Go provides users with the ability to order their favorite Italian dishes for delivery or collection, and even pre-order meals weeks in advance. Customers can book their delivery slots ahead of time, ensuring guaranteed food at their doorstep. The app's easy-to-use tracking feature allows customers to monitor their orders from preparation to delivery, giving them peace of mind and ensuring a smooth dining experience."
+      ],
+      "links": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.og2go.olivegarden",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/gb/app/og2go/id1552365853",
+          "title": "App Store",
+          "image": {
+            "src": "/images/portfolio/app-store.png",
+            "alt": "mobile app development company Pakistan",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "default",
+        "images": [
+          "/images/portfolio/mainpage/olive-garden-mobile.png",
+          "/images/portfolio/mainpage/olive-garden-mobile2.png",
+          "/images/portfolio/mainpage/olive-garden-mobile1.png",
+          "/images/portfolio/mainpage/olive-garden-mobile1.png"
+        ]
+      }
+    },
+    {
+      "id": "mfm",
+      "classes": "mobapp mfm",
+      "background": "/images/portfolio/backgrounds/mfm.jpg",
+      "logo": {
+        "src": "/images/portfolio/mainpage/mfm-logo.png",
+        "alt": "",
+        "width": "127",
+        "height": "129"
+      },
+      "logoText": {
+        "name": "My Fit Month",
+        "tagline": "A Fitness app with personal guide to keep in shape"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "MFM is a fitness app developed by KeyDevs Technologies that helps users achieve their health and fitness goals. The app provides everything users need to succeed on their fitness journey, including motivation, workout plans, and a user-friendly interface that takes out the guesswork.",
+        "With MFM, users can focus on their progress one workout, one week, and one month at a time. MFM showcases KeyDevs Technologies's expertise in developing innovative solutions that simplify users' lives and helps them achieve their fitness goals."
+      ],
+      "links": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.mfm.myfitmonth",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://myfitmonth.com/",
+          "title": "Website",
+          "image": {
+            "src": "/images/portfolio/website.png",
+            "alt": "website",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "opt2",
+        "images": [
+          "/images/portfolio/mainpage/mfm-mobile.png",
+          "/images/portfolio/mainpage/mfm-mobile1.png",
+          "/images/portfolio/mainpage/mfm-mobile2.png",
+          "/images/portfolio/mainpage/mfm-mobile2.png"
+        ]
+      }
+    },
+    {
+      "id": "clued-app",
+      "classes": "mobapp gameapp cluedbg",
+      "background": "/images/portfolio/backgrounds/clued-app.jpg",
+      "reverse": true,
+      "logo": {
+        "src": "/images/portfolio/mainpage/clued-logo.png",
+        "alt": ""
+      },
+      "logoText": {
+        "name": "Clued App",
+        "tagline": "The Crime-solving Adventure Game"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "CluedUpp is an award-winning crime-solving adventure game app played by over 250,000 budding detectives. CluedUpp host murder-mystery manhunt events all across the globe, allowing the team of detectives to put their sleuthing skills to the test. The crime-solving teams hunt all over their chosen city, finding virtual witnesses, eliminating suspects and bringing the killer to justice.",
+        "The game was developed for both Android and iOS. The app has won multiple awards by the Pakistan's top publications such as BBC, Nottingham Post, The Sun, Daily Mail, Manchester Evening News."
+      ],
+      "links": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.cluedupp.geogames",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/us/app/cluedupp-geogames/id1495022341",
+          "title": "App Store",
+          "image": {
+            "src": "/images/portfolio/app-store.png",
+            "alt": "mobile app development company Pakistan",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "default",
+        "images": [
+          "/images/portfolio/mainpage/clued-app-mobile.png",
+          "/images/portfolio/mainpage/clued-app-mobile1.png",
+          "/images/portfolio/mainpage/clued-app-mobile2.png",
+          "/images/portfolio/mainpage/clued-app-mobile2.png"
+        ]
+      }
+    },
+    {
+      "id": "Handley",
+      "classes": "mobapp Handley",
+      "background": "/images/portfolio/backgrounds/Handley.jpg",
+      "logo": {
+        "src": "/images/portfolio/mainpage/handley-logo.png",
+        "alt": "",
+        "width": "127",
+        "height": "129"
+      },
+      "logoText": {
+        "name": "Handley",
+        "tagline": "Social Networking App"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Handley is a social media app developed by KeyDevs Technologies that organizes users' social media accounts into one platform, making it easier for them to connect with new and mutual followers. It features a single searchable directory that combines social media directory listing and a search engine for users to connect with their Handleys and add social media accounts.",
+        "KeyDevs Technologies designed and developed Handley for iOS and Android platforms, creating a unique social media experience for users. Handley showcases KeyDevs Technologies's expertise in mobile app development, as well as their ability to create innovative solutions that simplify users' lives."
+      ],
+      "links": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.apps.handley",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/app/handley/id1630766208",
+          "title": "App Store",
+          "image": {
+            "src": "/images/portfolio/app-store.png",
+            "alt": "mobile app development company Pakistan",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "opt2",
+        "images": [
+          "/images/portfolio/mainpage/handley-mobile.png",
+          "/images/portfolio/mainpage/handley-mobile1.png",
+          "/images/portfolio/mainpage/handley-mobile2.png",
+          "/images/portfolio/mainpage/handley-mobile2.png"
+        ]
+      }
+    },
+    {
+      "id": "Kloe",
+      "classes": "mobapp Kloe",
+      "background": "/images/portfolio/backgrounds/Kloe.jpg",
+      "reverse": true,
+      "logo": {
+        "src": "/images/portfolio/mainpage/kloe-logo.png",
+        "alt": ""
+      },
+      "logoText": {
+        "name": "Kloe",
+        "tagline": "Friendships & Dating App"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Kloé is a modern and stylish dating app designed for real people like you. The app is available in multiple languages, enabling users from different countries to join the community for free and begin their journey.",
+        "Whether you're looking for friendship, dating, or a relationship, Kloé is the perfect app for you. Our user-friendly interface and advanced features make it easy for users to find their perfect match and connect with them in a meaningful way."
+      ],
+      "links": [
+        {
+          "href": "https://apps.apple.com/us/app/kloe-friendships-dating/id1615851041",
+          "title": "App Store",
+          "image": {
+            "src": "/images/portfolio/app-store.png",
+            "alt": "mobile app development company Pakistan",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "default",
+        "images": [
+          "/images/portfolio/mainpage/kloe-mobile.png",
+          "/images/portfolio/mainpage/kloe-mobile2.png",
+          "/images/portfolio/mainpage/kloe-mobile1.png",
+          "/images/portfolio/mainpage/kloe-mobile1.png"
+        ]
+      }
+    },
+    {
+      "id": "claireabella",
+      "classes": "mobapp claireabella",
+      "background": "/images/portfolio/backgrounds/claireabella.jpg",
+      "logo": {
+        "src": "/images/portfolio/mainpage/claireabella-logo.png",
+        "alt": "",
+        "width": "127",
+        "height": "129"
+      },
+      "logoText": {
+        "name": "Claireabella",
+        "tagline": "A Personalized Emoji Building App"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Claireabella is a fun and interactive personalized emoji building app that allows users to create their own ClaireaBella characters and express themselves in a unique way. With Claireabella, users can customize their emojis to match their personality and style, and share them with their friends for a more personalized messaging experience.",
+        "Claireabella app is feature-rich and enables users to customize every aspect of the emoji, including skin tone, hair, eye color, facial expressions, body, outfit, and more."
+      ],
+      "links": [
+        {
+          "href": "https://apps.apple.com/us/app/claireabella/id1291769080",
+          "title": "App Store",
+          "image": {
+            "src": "/images/portfolio/app-store.png",
+            "alt": "mobile app development company Pakistan",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "opt2",
+        "images": [
+          "/images/portfolio/mainpage/claireabella-mobile-view.png",
+          "/images/portfolio/mainpage/claireabella-mobile-view1.png",
+          "/images/portfolio/mainpage/claireabella-mobile-view2.png",
+          "/images/portfolio/mainpage/claireabella-mobile-view2.png"
+        ]
+      }
+    },
+    {
+      "id": "PayPark",
+      "classes": "mobapp PayPark",
+      "background": "/images/portfolio/backgrounds/PayPark.jpg",
+      "reverse": true,
+      "logo": {
+        "src": "/images/portfolio/mainpage/pay-park-logo.png",
+        "alt": ""
+      },
+      "logoText": {
+        "name": "Pay N Park",
+        "tagline": "Hassle-free parking Solution App"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Pay N Park, a parking app developed by KeyDevs Technologies, provides hassle-free parking solutions for users. The user-friendly app, available on Apple and Android platforms, offers quick registration, easy booking, and access to thousands of hidden parking spaces at lower prices.",
+        "With advanced features such as live facial detection for user ID verification, Pay N Park showcases KeyDevs Technologies's expertise in mobile app development and innovative solutions that simplify users' lives."
+      ],
+      "links": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.parkway.paynpark",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "default",
+        "images": [
+          "/images/portfolio/mainpage/pay-park-mobile.png",
+          "/images/portfolio/mainpage/pay-park-mobile2.png",
+          "/images/portfolio/mainpage/pay-park-mobile1.png",
+          "/images/portfolio/mainpage/pay-park-mobile1.png"
+        ]
+      }
+    },
+    {
+      "id": "LabelXChange",
+      "classes": "mobapp LabelXChange",
+      "background": "/images/portfolio/backgrounds/LabelXChange.jpg",
+      "logo": {
+        "src": "/images/portfolio/mainpage/LabelXChange-logo.png",
+        "alt": "",
+        "width": "127",
+        "height": "129"
+      },
+      "logoText": {
+        "name": "LabelXChange",
+        "tagline": "A B2B marketplace app for designer apparel and fashion businesses"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "LabelxChange is a B2B marketplace app that simplifies designer apparel shopping by bringing multiple brands onto a single platform. KeyDevs Technologies developed a front-end website and marketplace app to create an elegant eCommerce solution that offers an enhanced user experience.",
+        "The LabelxChange project demonstrates KeyDevs Technologies's expertise in app development and front-end web design, delivering a unique shopping experience for customers and showcasing their ability to provide high-quality, customized solutions to B2B clients."
+      ],
+      "links": [
+        {
+          "href": "https://www.labelxchange.co.Pakistan/",
+          "title": "Website",
+          "image": {
+            "src": "/images/portfolio/website.png",
+            "alt": "website",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "opt2",
+        "images": [
+          "/images/portfolio/mainpage/LabelXChange-mobile.png",
+          "/images/portfolio/mainpage/LabelXChange-mobile2.png",
+          "/images/portfolio/mainpage/LabelXChange-mobile1.png",
+          "/images/portfolio/mainpage/LabelXChange-mobile1.png"
+        ]
+      }
+    },
+    {
+      "id": "fantasyji",
+      "classes": "mobapp gameapp fantasybg",
+      "background": "/images/portfolio/backgrounds/fantasyji.jpg",
+      "reverse": true,
+      "logo": {
+        "src": "/images/portfolio/mainpage/fantasyji-logo-icon.png",
+        "alt": ""
+      },
+      "logoText": {
+        "name": "Fantasyji",
+        "tagline": "A Fantasy Game App Designed for Cricket Fanatics"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Cricket is a 11-player game. But, who said one player cannot play them all? Fantasyji is a fantasy sports app that allows users to play a fantasy game of cricket complete with a star-decked team, matches, tournaments and leagues. Users can form their own teams through auctioning, create their own private leagues, play according to real-time performance of players and accumulate rewards for their match wins."
+      ],
+      "links": [
+        {
+          "href": "https://s3.ap-south-1.amazonaws.com/devfantasyji/android_apk/v_3_1_1/fantasyji_3_1_1.apk",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/in/app/fantasyji/id1453701051",
+          "title": "App Store",
+          "image": {
+            "src": "/images/portfolio/app-store.png",
+            "alt": "mobile app development company Pakistan",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "default",
+        "images": [
+          "/images/portfolio/mainpage/fantasyji-mobile.png",
+          "/images/portfolio/mainpage/fantasyji-mobile1.png",
+          "/images/portfolio/mainpage/fantasyji-mobile2.png",
+          "/images/portfolio/mainpage/fantasyji-mobile2.png"
+        ]
+      }
+    },
+    {
+      "id": "MyLivin",
+      "classes": "mobapp MyLivin",
+      "background": "/images/portfolio/backgrounds/MyLivin.jpg",
+      "logo": {
+        "src": "/images/portfolio/mainpage/my-livin-logo.png",
+        "alt": ""
+      },
+      "logoText": {
+        "name": "My Livin",
+        "tagline": "A self-service app to manage their tenancy with ease"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "My Livin is a self-service app that enables users to manage their tenancy with ease. Whether it's reporting a repair, paying rent, checking rent accounts, or giving feedback, My Livin provides a one-stop solution for all your tenancy needs. With this app, users can track their enquiries, view repair history, set up direct debit, and much more."
+      ],
+      "links": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.meritec.mylivin",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/us/app/my-livin/id1624424429",
+          "title": "App Store",
+          "image": {
+            "src": "/images/portfolio/app-store.png",
+            "alt": "mobile app development company Pakistan",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "opt2",
+        "images": [
+          "/images/portfolio/mainpage/my-livin-mobile.png",
+          "/images/portfolio/mainpage/my-livin-mobile2.png",
+          "/images/portfolio/mainpage/my-livin-mobile1.png",
+          "/images/portfolio/mainpage/my-livin-mobile1.png"
+        ]
+      }
+    },
+    {
+      "id": "Flanter",
+      "classes": "mobapp Flanter",
+      "background": "/images/portfolio/backgrounds/Flanter.jpg",
+      "reverse": true,
+      "logo": {
+        "src": "/images/portfolio/mainpage/flanter-logo.png",
+        "alt": ""
+      },
+      "logoText": {
+        "name": "Flanter",
+        "tagline": "Friendships & Dating App"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Flanter is a dating app developed by KeyDevs Technologies that instantly connects people looking for friendships and relationships. Our team engineered an advanced algorithm to provide users with a match in no time.",
+        "Flanter is designed to bring people together for meaningful relationships, with a user-friendly and intuitive interface. Join the Flanter community today and start connecting with like-minded individuals. Download the app now and let us help you find your perfect match!"
+      ],
+      "thumb": {
+        "layout": "default",
+        "images": [
+          "/images/portfolio/mainpage/flanter-mobile.png",
+          "/images/portfolio/mainpage/flanter-mobile2.png",
+          "/images/portfolio/mainpage/flanter-mobile1.png",
+          "/images/portfolio/mainpage/flanter-mobile1.png"
+        ]
+      }
+    },
+    {
+      "id": "appai",
+      "classes": "mobapp arvrapp appai appaibg",
+      "background": "/images/portfolio/backgrounds/appai.jpg",
+      "logo": {
+        "src": "/images/portfolio/mainpage/appai-logo-icon.png",
+        "alt": "",
+        "width": "126",
+        "height": "128"
+      },
+      "logoText": {
+        "name": "Search by Shape AI",
+        "tagline": "An Augmented Reality and 3D-Based Object Detection App"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Search by Shape AI is a mobile app that is powered by Augmented Reality and 3D modeling. It works by allowing users to click real-time locations, upload them to the app and to detect objects. The 3D models of detected objects can then be placed on other real-time environments with the help of Augmented Reality. KeyDevs Technologies’s expertise in building immersive reality apps using ARKit for iOS devices made this idea become a reality."
+      ],
+      "links": [
+        {
+          "href": "/contact",
+          "text": "Request a Demo",
+          "className": "btn-custome btn waves-effect waves-light"
+        }
+      ],
+      "thumb": {
+        "layout": "opt2",
+        "images": [
+          "/images/portfolio/mainpage/appai-device-view.png",
+          "/images/portfolio/mainpage/appai-device-mobile2.png",
+          "/images/portfolio/mainpage/appai-device-mobile1.png",
+          "/images/portfolio/mainpage/appai-device-mobile1.png"
+        ]
+      }
+    },
+    {
+      "id": "adani-saksham",
+      "classes": "mobapp adanibg",
+      "background": "/images/portfolio/backgrounds/adani-saksham.png",
+      "reverse": true,
+      "logo": {
+        "src": "/images/portfolio/mainpage/adani-logo-icon.png",
+        "alt": ""
+      },
+      "logoText": {
+        "name": "Adani Saksham",
+        "tagline": "A Comprehensive Mobile App for Adani Group’s Skill Development Programs"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "The Adani Foundation of Skill Development for the Youth of India that had partnered with Government of India's Skill India Mission needed a resourceful mobile application. Thus was created Adani Saksham, a comprehensive mobile application that provides all skill development program information like types of courses, location and centres. To further disseminate information, the mobile app was released on Android and iOS platforms along with a full-fledged website."
+      ],
+      "links": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.adani.saksham&hl=en",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://www.adanisaksham.com/",
+          "title": "Website",
+          "image": {
+            "src": "/images/portfolio/website.png",
+            "alt": "website",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "default",
+        "images": [
+          "/images/portfolio/mainpage/adani-mobile.png",
+          "/images/portfolio/mainpage/adani-mobile1.png",
+          "/images/portfolio/mainpage/adani-mobile2.png",
+          "/images/portfolio/mainpage/adani-mobile2.png"
+        ]
+      }
+    },
+    {
+      "id": "yoca",
+      "classes": "mobapp yoca lightgreenbg",
+      "background": "/images/portfolio/backgrounds/yoca.jpg",
+      "logo": {
+        "src": "/images/portfolio/mainpage/yoca-main-logo-icon.png",
+        "alt": ""
+      },
+      "logoText": {
+        "name": "Yoca",
+        "tagline": "The Uber for Coffee-ordering"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Coffee gives an instant jolt of energy. But, ordering it does not always happen instantly. Yoca helps get customers get their cup of coffee in quicktime. It is like an UBER for coffee-ordering. Users can browse coffee menus, order coffees from their favorite cafes, pay for it through the app, set up pickup time or even collect it on the go. Coffee shop owners can use an order management system to keep their deliveries organized."
+      ],
+      "links": [
+        {
+          "href": "/contact",
+          "text": "Request a Demo",
+          "className": "btn-custome btn waves-effect waves-light"
+        }
+      ],
+      "thumb": {
+        "layout": "opt2",
+        "images": [
+          "/images/portfolio/mainpage/yoca-device-view.png",
+          "/images/portfolio/mainpage/yoca-mobile1.png",
+          "/images/portfolio/mainpage/yoca-mobile2.png",
+          "/images/portfolio/mainpage/yoca-mobile2.png"
+        ]
+      }
+    },
+    {
+      "id": "squshy",
+      "classes": "mobapp arvrapp squshybg",
+      "background": "/images/portfolio/backgrounds/squshy.jpg",
+      "reverse": true,
+      "logo": {
+        "src": "/images/portfolio/mainpage/squshy-logo-icon.png",
+        "alt": "",
+        "className": "landscape"
+      },
+      "logoText": {
+        "name": "Squishysaurus",
+        "tagline": "Bundle of Interactive, Fun, Educational Augmented App"
+      },
+      "tags": [
+        "Design",
+        "Development"
+      ],
+      "paragraphs": [
+        "Squishy Saurus is an augmented reality based fun and educational app that lets children to scan a QR code and interact with characters through actions buttons or voice commands. The app has three central characters Emma, Madison and Alifie. The characters can be made to read through voice commands. The app also has provision for in-app purchases of toys scanned with QR code. Unity 3D and Augmentation are the core technologies that power this app."
+      ],
+      "links": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.squishysaurus&hl=en_IN",
+          "title": "Play Store",
+          "image": {
+            "src": "/images/portfolio/play-store.png",
+            "alt": "KeyDevs Technologies",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/us/app/squishy-ar/id1463014175",
+          "title": "App Store",
+          "image": {
+            "src": "/images/portfolio/app-store.png",
+            "alt": "mobile app development company Pakistan",
+            "width": "40",
+            "height": "40"
+          }
+        }
+      ],
+      "thumb": {
+        "layout": "landscape",
+        "images": [
+          "/images/portfolio/mainpage/squshy-mobile.png",
+          "/images/portfolio/mainpage/squshy-mobile2.png",
+          "/images/portfolio/mainpage/squshy-mobile1.png",
+          "/images/portfolio/mainpage/squshy-mobile1.png"
+        ]
+      }
+    }
+  ]
+}

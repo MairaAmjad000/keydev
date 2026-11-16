@@ -1,0 +1,18 @@
+{
+  "slug": "technologies",
+  "seo": {
+    "title": "Technologies We Use | Our Tech Stack & Frameworks | KeyDevs Technologies",
+    "description": "Explore the technologies KeyDevs Technologies uses for design, database, cloud, mobile and web app development, and how the right tools shape better products."
+  },
+  "sections": [
+    "categoryHero",
+    "technologyGroups",
+    "contactCta",
+    "testimonials",
+    "featuredIn",
+    "blog",
+    "technologies",
+    "scheduleCall",
+    "engagement"
+  ]
+}

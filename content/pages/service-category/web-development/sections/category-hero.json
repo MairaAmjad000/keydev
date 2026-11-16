@@ -9,12 +9,12 @@
   "text": "KeyDevs Technologies is a full-cycle custom web development company. Wondering what that is? <br/><br/> If you are nurturing a business idea that needs to harness the power of the web, KeyDevs Technologies can make that happen. From prototyping an idea to launching the web portal with enterprise-grade features — we will take care of the entire nine yards of bespoke web development for your business.",
   "links": [
     {
-      "href": "portfolio",
+      "href": "/portfolio",
       "className": "btn waves-effect waves-light btn-custome mb-3",
       "text": "View Our Work"
     },
     {
-      "href": "app-development-cost-calculator",
+      "href": "/app-development-cost-calculator",
       "className": "btn waves-effect waves-light btn-custome mb-3",
       "text": "Calculate Your Web Development Cost"
     }
@@ -61,7 +61,7 @@
   "breadcrumbs": [
     {
       "text": "Home",
-      "href": "index.php"
+      "href": "/"
     },
     {
       "text": "Web Development"

@@ -221,8 +221,9 @@ export interface CalloutContent {
     href: string;
     text: string;
   };
+  /** When set, the bar is wrapped in a <section> with these classes (e.g. "py-md-5 bg-white p-relative"). */
+  wrapperClass?: string;
 }
-
 
 export interface ProcessContent {
   /** Icon key of the first step of the second row (defaults to the home page's icon). */
@@ -641,9 +642,23 @@ export interface CategoryHeroContent {
   /** Background photo. Omit for a plain dark banner. */
   image?: CmsImage;
   heading: string;
+  /** HTML version of the heading (e.g. with a <span>); used instead of `heading` when present. */
+  headingHtml?: string;
+  /** Optional second heading (h2) between the title and the intro text. */
+  subheading?: string;
   /** Rich text (may contain <br/>). */
   text: string;
-  links: Array<{ href: string; className: string; text: string }>;
+  links: Array<{
+    href: string;
+    className: string;
+    text: string;
+    /** Small word shown before the button, e.g. "OR". */
+    separator?: string;
+  }>;
+  /** Extra classes of the banner section, e.g. "height668" (tall banner). */
+  sectionClass?: string;
+  /** Extra classes of the text column, e.g. "text-center". */
+  textClass?: string;
   /** Extra classes of the heading, e.g. "text-uppercase f-40". */
   headingClass?: string;
   /** Phone / product picture at the bottom right of the banner (solution pages). */
@@ -668,6 +683,16 @@ export interface IntroContentContent {
   image: CmsImage;
   /** Classes of the picture (default "rounded10 box-shadow"; use "" for a transparent illustration). */
   imageClass?: string;
+  /** Classes of the <section> (default "service-main-content padding-60 bg-white"). */
+  sectionClass?: string;
+  /** Classes of the row (default "row align-items-center"). */
+  rowClass?: string;
+  /** Classes of the heading (default "h4 mb-3"). */
+  headingClass?: string;
+  /** When set, heading, text and button are wrapped in a <div> with this class. */
+  contentClass?: string;
+  /** When set, the picture is wrapped in a <div> with this class. */
+  imageWrapClass?: string;
 }
 
 export interface ServiceOfferingsContent {
@@ -859,4 +884,301 @@ export interface WhyInvestContent {
   heading: string;
   text2: string;
   items: Array<{ icon: string; title: string; text: string }>;
+}
+
+// ---------------------------------------------------------------------------------------------
+// Portfolio page (content/pages/portfolio).
+// ---------------------------------------------------------------------------------------------
+
+export interface PortfolioShowcaseItem {
+  /** Hash id of the row (data-hash), e.g. "FormAssist". */
+  id: string;
+  /** Filter categories + colour class, e.g. "mobapp gameapp cluedbg". */
+  classes: string;
+  /** Row background picture. */
+  background?: string;
+  /** Put the text on the right on large screens. */
+  reverse?: boolean;
+  logo: CmsImage & { className?: string };
+  logoText?: { name: string; tagline: string; nameClass?: string };
+  /** Optional heading (used when the logo has no name text). */
+  title?: string;
+  tags: string[];
+  paragraphs: string[];
+  links?: Array<{
+    href: string;
+    /** Text button (with className) ... */
+    text?: string;
+    className?: string;
+    /** ... or a store badge (with image and title). */
+    title?: string;
+    image?: CmsImage;
+  }>;
+  thumb: {
+    /** single = one picture; default / opt2 / landscape = device stack with three side pictures. */
+    layout: 'single' | 'default' | 'opt2' | 'landscape';
+    /** [main, one, two, three] (single uses only the first). */
+    images: string[];
+  };
+}
+
+export interface PortfolioShowcaseContent {
+  filters: Array<{ label: string; /** CSS selector, "*" for all */ filter: string; icon: string }>;
+  items: PortfolioShowcaseItem[];
+}
+
+// ---------------------------------------------------------------------------------------------
+// Blog listing page (content/pages/blog).
+// ---------------------------------------------------------------------------------------------
+
+export interface BlogListItem {
+  title: string;
+  /** Link of the article (image, title and button). */
+  href: string;
+  image: CmsImage;
+  author: { name: string; href: string; image: CmsImage };
+  /** Shown as written, e.g. "June 19, 2023". */
+  date: string;
+  category: { text: string; href: string };
+  /** Plain-text teaser. */
+  excerpt: string;
+  buttonText: string;
+}
+
+export interface BlogListContent {
+  /** Articles shown at first; the rest appear when "Load More" is pressed. */
+  pageSize: number;
+  loadMoreText: string;
+  items: BlogListItem[];
+  sidebar: {
+    social: { title: string; items: Array<{ href: string; /** Font Awesome classes, e.g. "fab fa-twitter" */ iconClass: string }> };
+    categories: { title: string; items: Array<{ text: string; href: string; active?: boolean }> };
+    tweets: { title: string; text: string; href: string };
+    facebook: { title: string };
+    cta: { text: string; buttonText: string; href: string };
+  };
+}
+
+// ---------------------------------------------------------------------------------------------
+// Contact page (content/pages/contact).
+// ---------------------------------------------------------------------------------------------
+
+export type ContactFormField =
+  | { kind: 'input'; type: string; name: string; placeholder: string; required: boolean; colClass: string; minLength?: number; maxLength?: number; /** "phone" = phone-number field */ variant?: string }
+  /** Options come from the shared lists in content/settings/forms.json (`list`). */
+  | { kind: 'select'; name: string; list: 'budget' | 'region' | 'service' | 'reference'; required: boolean; colClass: string }
+  | { kind: 'file'; name: string; placeholder: string; colClass: string }
+  | { kind: 'textarea'; name: string; placeholder: string; rows: number; colClass: string };
+
+export interface ContactFormContent {
+  form: { id: string; fields: ContactFormField[]; submitText: string };
+  /** Card on the right: photo, headings, text and a button that opens the meeting popup. */
+  meeting: {
+    image: CmsImage;
+    heading: string;
+    subheading: string;
+    paragraphs: string[];
+    button: { text: string; href: string };
+  };
+}
+
+export interface ContactInfoContent {
+  items: Array<{ icon: string; tool: string; link: { href: string; text: string; title?: string } }>;
+  follow: { heading: string; items: Array<{ href: string; /** Font Awesome classes */ iconClass: string; label: string }> };
+}
+
+export interface ContactMapContent {
+  tabs: Array<{ id: string; title: string; image: CmsImage; /** Google Maps embed URL */ mapUrl: string }>;
+}
+
+// ---------------------------------------------------------------------------------------------
+// Who we are page (content/pages/who-we-are).
+// ---------------------------------------------------------------------------------------------
+
+export interface StatsCountersContent {
+  items: Array<{
+    image: CmsImage;
+    /** Number the counter animates to. */
+    count: string;
+    /** Font Awesome classes of the sign after the number, e.g. "fas fa-plus". */
+    iconClass: string;
+    /** Label (may contain <br/>). */
+    text: string;
+  }>;
+}
+
+export interface LeadershipContent {
+  text: string;
+  heading: string;
+  paragraph: string;
+  people: Array<{
+    name: string;
+    image: CmsImage;
+    title: string;
+    paragraphs: string[];
+    social: Array<{ href: string; iconClass: string }>;
+    /** Extra classes of the row and the two columns (these control left / right placement). */
+    rowClass?: string;
+    imageColClass: string;
+    contentColClass: string;
+  }>;
+}
+
+export interface MissionVisionContent {
+  text: string;
+  heading: string;
+  paragraph: string;
+  items: Array<{ icon: string; title: string; text: string }>;
+}
+
+export interface CoreValuesContent {
+  text: string;
+  heading: string;
+  paragraph: string;
+  items: Array<{ icon: string; title: string; text: string }>;
+}
+
+export interface HistoryTimelineContent {
+  text: string;
+  heading: string;
+  paragraph: string;
+  image: CmsImage;
+  /** One slide per year; the year strip below the slider is built from the same list. */
+  items: Array<{ year: string; title: string; icon: string; text: string }>;
+}
+
+// ---------------------------------------------------------------------------------------------
+// How we work page (content/pages/how-we-work).
+// ---------------------------------------------------------------------------------------------
+
+export interface ProcessStepsContent {
+  text: string;
+  heading: string;
+  steps: Array<{
+    /** Anchor id of the step (also the target of its navigator link), e.g. "Discover". */
+    id: string;
+    /** Step number shown on the card, e.g. "01". */
+    number: string;
+    title: string;
+    /** Icon of the step in the sticky navigator. */
+    icon: string;
+    /** Short name in the navigator (defaults to `title`). */
+    navLabel?: string;
+    text: string;
+    image: CmsImage;
+    /** Text on the right, picture on the left (large screens). */
+    reverse?: boolean;
+  }>;
+}
+
+// ---------------------------------------------------------------------------------------------
+// Client review page (content/pages/client-review).
+// ---------------------------------------------------------------------------------------------
+
+export interface ClutchReviewsContent {
+  text: string;
+  heading: string;
+  paragraph: string;
+  /** Clutch.co review widget (loaded by public/scripts/client-review-page.js). */
+  widget: {
+    companyId: string;
+    url: string;
+    widgetType: string;
+    height: string;
+    expandIframe: boolean;
+    snippets: boolean;
+  };
+}
+
+export interface ClientReviewsContent {
+  text: string;
+  heading: string;
+  paragraph: string;
+  items: Array<{
+    image: CmsImage;
+    name: string;
+    country: string;
+    ratedByText: string;
+    /** Number of stars (1-5). */
+    rating: number;
+    /** Review text (HTML allowed). */
+    text: string;
+  }>;
+}
+
+// ---------------------------------------------------------------------------------------------
+// Technologies page (content/pages/technologies).
+// ---------------------------------------------------------------------------------------------
+
+export interface TechnologyGroupsContent {
+  groups: Array<{
+    /** Anchor id; the sticky tab bar scrolls to it. */
+    id: string;
+    navIcon: string;
+    navTitle: string;
+    heading: string;
+    text: string;
+    logos: Array<{ src: string; alt: string }>;
+  }>;
+}
+
+// ---------------------------------------------------------------------------------------------
+// Project estimate page (content/pages/app-development-cost-calculator).
+// The `steps` use the same shape as the admin panel's estimate-steps export.
+// ---------------------------------------------------------------------------------------------
+
+export interface EstimateOption {
+  label: string;
+  /** Icon image path (an SVG is inlined by the page script so CSS can recolour it). */
+  icon: string;
+  /** key of the step shown next; empty falls back to the step's next_step, then to the final form. */
+  next_step: string | null;
+  sort_order: number;
+  active: boolean;
+}
+
+export interface EstimateStep {
+  key: string;
+  question: string;
+  help_text: string;
+  /** single_choice: pick one and continue; multiple_choice: tick several, then Next; text: free text, then Next. */
+  answer_type: 'single_choice' | 'multiple_choice' | 'text';
+  next_step: string | null;
+  sort_order: number;
+  answer_required: boolean;
+  /** The step the wizard starts with (shown as big icon tiles). */
+  first_step: boolean;
+  active: boolean;
+  /** Placeholder of the text answer. */
+  placeholder: string;
+  options: EstimateOption[];
+}
+
+export interface EstimateWizardContent {
+  steps: EstimateStep[];
+  form: {
+    title: string;
+    text: string;
+    /** URL the finished form is POSTed to (expects JSON {status, message}). */
+    action: string;
+    submitText: string;
+    ndaText: string;
+    prevText: string;
+    nextText: string;
+    selectAtLeastOneText: string;
+    placeholders: {
+      name: string;
+      email: string;
+      mobile: string;
+      company: string;
+      attachment: string;
+      androidLink: string;
+      iosLink: string;
+      additional: string;
+    };
+    successTitle: string;
+    errorTitle: string;
+    errorText: string;
+    networkErrorText: string;
+  };
 }

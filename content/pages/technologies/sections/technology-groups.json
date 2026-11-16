@@ -1,0 +1,226 @@
+{
+  "groups": [
+    {
+      "id": "section1",
+      "navIcon": "svg-248870",
+      "navTitle": "Design",
+      "heading": "Design",
+      "text": "From crafting prototypes to visualizing designs, we utilize a range of design tools that bring ideas to life.",
+      "logos": [
+        {
+          "src": "/images/technologies/adobe-photoshop.svg",
+          "alt": "Adobe Photoshop"
+        },
+        {
+          "src": "/images/technologies/adobe-illustrator.svg",
+          "alt": "Adobe Illustrator"
+        },
+        {
+          "src": "/images/technologies/adobe-after-effects.svg",
+          "alt": "Adobe After Effects"
+        },
+        {
+          "src": "/images/technologies/sketch.svg",
+          "alt": "Sketch"
+        },
+        {
+          "src": "/images/technologies/invision.svg",
+          "alt": "Invision"
+        },
+        {
+          "src": "/images/technologies/justinmind.svg",
+          "alt": "Justinmind"
+        },
+        {
+          "src": "/images/technologies/figma.svg",
+          "alt": "Figma"
+        },
+        {
+          "src": "/images/technologies/adobe-xd.svg",
+          "alt": "Adobe Xd"
+        }
+      ]
+    },
+    {
+      "id": "section2",
+      "navIcon": "svg-311ca6",
+      "navTitle": "Database",
+      "heading": "Database",
+      "text": "Your data should be stored in an optimal location that is both easily accessible and secure. After extensive research and consideration, we have selected the ideal database platforms to host your data.",
+      "logos": [
+        {
+          "src": "/images/technologies/firebase.svg",
+          "alt": "Firebase"
+        },
+        {
+          "src": "/images/technologies/mongodb.svg",
+          "alt": "Mongodb"
+        },
+        {
+          "src": "/images/technologies/mysql.svg",
+          "alt": "Mysql"
+        }
+      ]
+    },
+    {
+      "id": "section3",
+      "navIcon": "svg-aca07a",
+      "navTitle": "Cloud",
+      "heading": "Cloud",
+      "text": "Grow your business dynamically without overspending. Enjoy the advantages of scalability, flexibility, and cost-effectiveness with the power of the cloud.",
+      "logos": [
+        {
+          "src": "/images/technologies/amazon-web-services.svg",
+          "alt": "Amazon Web Services"
+        },
+        {
+          "src": "/images/technologies/linode.svg",
+          "alt": "Linode"
+        },
+        {
+          "src": "/images/technologies/icloud.svg",
+          "alt": "Icloud"
+        }
+      ]
+    },
+    {
+      "id": "section4",
+      "navIcon": "svg-d2e0de",
+      "navTitle": "App Technologies",
+      "heading": "App Technologies",
+      "text": "Creating applications for the web and mobile demands a distinct set of skills. These technologies provide the necessary capabilities to achieve that.",
+      "logos": [
+        {
+          "src": "/images/technologies/swift.svg",
+          "alt": "Swift"
+        },
+        {
+          "src": "/images/technologies/objective-c.png",
+          "alt": "Objective C"
+        },
+        {
+          "src": "/images/technologies/java.svg",
+          "alt": "Java"
+        },
+        {
+          "src": "/images/technologies/flutter.png",
+          "alt": "Flutter"
+        },
+        {
+          "src": "/images/technologies/augmented-reality-android.png",
+          "alt": "Augmented Reality Android"
+        },
+        {
+          "src": "/images/technologies/augmented-reality-kit.png",
+          "alt": "Augmented Reality Kit"
+        },
+        {
+          "src": "/images/technologies/unity.png",
+          "alt": "Unity"
+        },
+        {
+          "src": "/images/technologies/google-virtual-reality.png",
+          "alt": "Google Virtual Reality"
+        },
+        {
+          "src": "/images/technologies/oculus-vr.svg",
+          "alt": "Oculus Vr"
+        },
+        {
+          "src": "/images/technologies/vive.png",
+          "alt": "Vive"
+        },
+        {
+          "src": "/images/technologies/windows-mixed-reality.png",
+          "alt": "Windows Mixed Reality"
+        }
+      ]
+    },
+    {
+      "id": "section5",
+      "navIcon": "svg-a9eeae",
+      "navTitle": "Web Technologies",
+      "heading": "Web Technologies",
+      "text": "Your apps should operate continuously, year-round. We rely on these server technologies and platforms to ensure maximum uptime for your business.",
+      "logos": [
+        {
+          "src": "/images/technologies/php.svg",
+          "alt": "Php"
+        },
+        {
+          "src": "/images/technologies/codeigniter.svg",
+          "alt": "Codeigniter"
+        },
+        {
+          "src": "/images/technologies/wordpress.svg",
+          "alt": "Wordpress"
+        },
+        {
+          "src": "/images/technologies/laravel.svg",
+          "alt": "Laravel"
+        },
+        {
+          "src": "/images/technologies/node-js.svg",
+          "alt": "Node Js"
+        },
+        {
+          "src": "/images/technologies/angular.svg",
+          "alt": "Angular"
+        },
+        {
+          "src": "/images/technologies/html5.svg",
+          "alt": "Html5"
+        },
+        {
+          "src": "/images/technologies/css3.svg",
+          "alt": "Css3"
+        },
+        {
+          "src": "/images/technologies/jquery.svg",
+          "alt": "Jquery"
+        },
+        {
+          "src": "/images/technologies/bootstrap-4.svg",
+          "alt": "Bootstrap 4"
+        }
+      ]
+    },
+    {
+      "id": "section6",
+      "navIcon": "svg-975e60",
+      "navTitle": "Strategies & Communication",
+      "heading": "Strategies & Communication",
+      "text": "Effective communication and collaboration are the cornerstones of productivity. KeyDevs Technologies relies on these tools to help us strategize, communicate, and collaborate effortlessly.",
+      "logos": [
+        {
+          "src": "/images/technologies/basecamp.svg",
+          "alt": "Basecamp"
+        },
+        {
+          "src": "/images/technologies/trello.svg",
+          "alt": "Trello"
+        },
+        {
+          "src": "/images/technologies/asana.svg",
+          "alt": "Asana"
+        },
+        {
+          "src": "/images/technologies/slack.svg",
+          "alt": "Slack"
+        },
+        {
+          "src": "/images/technologies/bitbucket.svg",
+          "alt": "Bitbucket"
+        },
+        {
+          "src": "/images/technologies/skype.svg",
+          "alt": "Skype"
+        },
+        {
+          "src": "/images/technologies/google-hangouts.svg",
+          "alt": "Google Hangouts"
+        }
+      ]
+    }
+  ]
+}

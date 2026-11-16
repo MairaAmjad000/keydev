@@ -1,0 +1,22 @@
+{
+  "sectionClass": "blog",
+  "textClass": "text-center",
+  "heading": "Keep up with the latest Web and Mobile App Technologies and Trends",
+  "text": "In the terms of technologies, we explore to the core and bring a fascinating news and updates for the Entrepreneurs, Business Owners, Customers and of course our Development Community. We at KeyDevs Technologies are adding values to the business challenges and changing the lifestyles by intervening technology with the team of creative brains.",
+  "links": [],
+  "image": {
+    "src": "/images/blog/blog-banner.jpg",
+    "alt": "mobile app development company Pakistan - KeyDevs Technologies",
+    "width": "1920",
+    "height": "800"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Blog"
+    }
+  ]
+}

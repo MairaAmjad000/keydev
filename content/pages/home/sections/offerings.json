@@ -110,7 +110,7 @@
     }
   ],
   "link2": {
-    "href": "app-development-cost-calculator",
+    "href": "/app-development-cost-calculator",
     "text": "Calculate App Development Cost"
   },
   "image2": {
@@ -160,7 +160,7 @@
     }
   ],
   "link5": {
-    "href": "app-development-cost-calculator",
+    "href": "/app-development-cost-calculator",
     "text": "Calculate Web App Development Cost"
   },
   "image3": {
@@ -191,7 +191,7 @@
   },
   "or": "OR",
   "link8": {
-    "href": "app-development-cost-calculator",
+    "href": "/app-development-cost-calculator",
     "text": "Calculate E-Commerce Development Cost"
   },
   "image4": {
@@ -234,7 +234,7 @@
     }
   ],
   "link10": {
-    "href": "app-development-cost-calculator",
+    "href": "/app-development-cost-calculator",
     "text": "Calculate Game Development Cost"
   },
   "image5": {
@@ -261,7 +261,7 @@
     }
   ],
   "link12": {
-    "href": "app-development-cost-calculator",
+    "href": "/app-development-cost-calculator",
     "text": "Calculate UX & UI Design Cost"
   }
 }

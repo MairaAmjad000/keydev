@@ -1,0 +1,25 @@
+{
+  "heading": "How it works",
+  "paragraphs": [
+    {
+      "html": "Modern businesses—whether startups, SMBs, or enterprises—have similar needs: they want projects completed quickly, without issues, and with top quality. For nearly a decade, KeyDevs Technologies has been meeting these growing expectations through our agile process."
+    },
+    {
+      "html": "To ensure consistent quality, we’ve developed a company-wide approach that promotes a culture of excellence, innovation, and integrity in software development. Our goal is to deliver maximum value to clients as efficiently as possible, on time, and within budget."
+    },
+    {
+      "html": "This process combines the efforts of scrum masters, project managers, developers, UI/UX designers, testers, and stakeholders. Their teamwork guarantees flawless results. That's how KeyDevs Technologies has been driving businesses toward digital transformation for years."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/how-we-work/how-it-works.webp",
+    "alt": "How it works",
+    "width": "470",
+    "height": "500"
+  }
+}

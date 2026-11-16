@@ -21,14 +21,14 @@
     },
     {
       "link": {
-        "href": "/about-us",
+        "href": "/who-we-are",
         "className": "",
         "text": "Who We are"
       }
     },
     {
       "link": {
-        "href": "/process",
+        "href": "/how-we-work",
         "className": "",
         "text": "How we Work"
       }
@@ -328,21 +328,21 @@
         },
         {
           "link": {
-            "href": "/service/taxi-app-development",
+            "href": "/solutions/taxi-app-development",
             "className": "",
             "text": "Taxi Booking"
           }
         },
         {
           "link": {
-            "href": "/service/food-delivery-app-development",
+            "href": "/solutions/food-delivery-app-development",
             "className": "",
             "text": "Food Delivery"
           }
         },
         {
           "link": {
-            "href": "/service/car-wash-app-development",
+            "href": "/solutions/car-wash-app-development",
             "className": "",
             "text": "Car Wash"
           }
@@ -364,28 +364,28 @@
         },
         {
           "link": {
-            "href": "/service/real-estate-app-development",
+            "href": "/solutions/real-estate-app-development",
             "className": "",
             "text": "Real Estate"
           }
         },
         {
           "link": {
-            "href": "/service/finance-app-development",
+            "href": "/solutions/finance-app-development",
             "className": "",
             "text": "Banking & Finance"
           }
         },
         {
           "link": {
-            "href": "/service/travel-app-development",
+            "href": "/solutions/travel-app-development",
             "className": "",
             "text": "Travel & Tourism"
           }
         },
         {
           "link": {
-            "href": "/service/health-fitness-app-development",
+            "href": "/solutions/health-fitness-app-development",
             "className": "",
             "text": "Health & Fitness"
           }
@@ -407,28 +407,28 @@
         },
         {
           "link": {
-            "href": "/service/social-media-app-development",
+            "href": "/solutions/social-media-app-development",
             "className": "",
             "text": "Social Media"
           }
         },
         {
           "link": {
-            "href": "/service/dating-app-development",
+            "href": "/solutions/dating-app-development",
             "className": "",
             "text": "Dating"
           }
         },
         {
           "link": {
-            "href": "/service/instant-messaging-app-development",
+            "href": "/solutions/chat-instant-messaging-app-development",
             "className": "",
             "text": "Instant Messaging"
           }
         },
         {
           "link": {
-            "href": "/service/media-entertainment-app-development",
+            "href": "/solutions/media-entertainment-app-development",
             "className": "",
             "text": "Media & Entertainment"
           }
@@ -450,14 +450,14 @@
         },
         {
           "link": {
-            "href": "/service/fantasy-sports-app-development",
+            "href": "/solutions/fantasy-sports-app-development",
             "className": "",
             "text": "Fantasy Sports"
           }
         },
         {
           "link": {
-            "href": "/service/chatbot-development",
+            "href": "/solutions/chatbot-development",
             "className": "",
             "text": "Chatbot"
           }

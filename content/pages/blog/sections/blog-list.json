@@ -1,0 +1,190 @@
+{
+  "pageSize": 6,
+  "loadMoreText": "Load More",
+  "items": [
+    {
+      "title": "Starting an Online Business in the Pakistan: A Complete Guide for Beginners",
+      "href": "/blog/how-to-start-an-online-business",
+      "image": {
+        "src": "/images/blog/mainpage/how-to-start-an-online-business-in-the-pakistan.png",
+        "alt": "Starting an Online Business in the Pakistan: A Complete Guide for Beginners"
+      },
+      "author": {
+        "name": "Dhaval Sarvaiya",
+        "href": "/blog/author/dhaval1sarvaiya",
+        "image": {
+          "src": "/images/blog/mainpage/dhaval-sarvaiya.jpg",
+          "alt": "Dhaval-Author"
+        }
+      },
+      "date": "June 19, 2023",
+      "category": {
+        "text": "eCommerce",
+        "href": "/blog/category/ecommerce"
+      },
+      "excerpt": "The United Kingdom is the second best destination for startups in Europe, given the ease of doing business,…",
+      "buttonText": "Explore More"
+    },
+    {
+      "title": "Mobile App Security: Best Practices to Keep Your Customers Safe",
+      "href": "/blog/mobile-app-security",
+      "image": {
+        "src": "/images/blog/mainpage/mobile-app-security-10-best-practices.png",
+        "alt": "Mobile App Security: Best Practices to Keep Your Customers Safe"
+      },
+      "author": {
+        "name": "Dhaval Sarvaiya",
+        "href": "/blog/author/dhaval1sarvaiya",
+        "image": {
+          "src": "/images/blog/mainpage/dhaval-sarvaiya.jpg",
+          "alt": "Dhaval-Author"
+        }
+      },
+      "date": "June 16, 2023",
+      "category": {
+        "text": "Mobile App Development",
+        "href": "/blog/category/mobile-app-development"
+      },
+      "excerpt": "From facilitating transactions to enhancing user experience, mobile apps have revolutionised the way companies interact with their customers.",
+      "buttonText": "Explore More"
+    },
+    {
+      "title": "Online B2B Marketplace Development [2023]",
+      "href": "/blog/online-marketplace-development",
+      "image": {
+        "src": "/images/blog/mainpage/how-to-build-an-online-b2b-marketplace.png",
+        "alt": "Online B2B Marketplace Development [2023]"
+      },
+      "author": {
+        "name": "Yasser",
+        "href": "/blog/author/oliverbaker",
+        "image": {
+          "src": "/images/blog/mainpage/imgpsh-fullsize.jpg",
+          "alt": "Oliver-Author"
+        }
+      },
+      "date": "June 01, 2023",
+      "category": {
+        "text": "eCommerce",
+        "href": "/blog/category/ecommerce"
+      },
+      "excerpt": "B2B transactions received a major shift from onsite transactions to online-based ones due to the COVID-19 pandemic. The…",
+      "buttonText": "Explore More"
+    },
+    {
+      "title": "How to Sell An App Idea [The Ultimate Guide]",
+      "href": "/blog/how-to-sell-an-app-idea",
+      "image": {
+        "src": "/images/blog/mainpage/how-to-sell-an-app-idea-in-the-pakistan.png",
+        "alt": "How to Sell An App Idea [The Ultimate Guide]"
+      },
+      "author": {
+        "name": "Yasser",
+        "href": "/blog/author/oliverbaker",
+        "image": {
+          "src": "/images/blog/mainpage/imgpsh-fullsize.jpg",
+          "alt": "Oliver-Author"
+        }
+      },
+      "date": "May 02, 2023",
+      "category": {
+        "text": "Mobile App Development",
+        "href": "/blog/category/mobile-app-development"
+      },
+      "excerpt": "Introduction If you are an entrepreneur in a blooming startup hub like United Kingdon, how to sell an…",
+      "buttonText": "Explore More"
+    },
+    {
+      "title": "From Pitch to Profit: The Ultimate Playbook for App Funding",
+      "href": "/blog/how-to-get-funding-for-an-app",
+      "image": {
+        "src": "/images/blog/mainpage/complete-app-funding-guide-how-to-get-funding-for-application-in-the-pakistan.png",
+        "alt": "From Pitch to Profit: The Ultimate Playbook for App Funding"
+      },
+      "author": {
+        "name": "Yasser",
+        "href": "/blog/author/oliverbaker",
+        "image": {
+          "src": "/images/blog/mainpage/imgpsh-fullsize.jpg",
+          "alt": "Oliver-Author"
+        }
+      },
+      "date": "April 25, 2023",
+      "category": {
+        "text": "Mobile App Development",
+        "href": "/blog/category/mobile-app-development"
+      },
+      "excerpt": "You have got a brilliant app idea. You want to build the app and start a business around…",
+      "buttonText": "Explore More"
+    }
+  ],
+  "sidebar": {
+    "social": {
+      "title": "Stay Connected",
+      "items": [
+        {
+          "href": "https://twitter.com/key_devs",
+          "iconClass": "fab fa-twitter"
+        },
+        {
+          "href": "https://www.facebook.com/keydevs",
+          "iconClass": "fab fa-facebook-f"
+        },
+        {
+          "href": "https://pk.linkedin.com/company/keydevs",
+          "iconClass": "fab fa-linkedin-in"
+        },
+        {
+          "href": "https://www.behance.net/keydevs",
+          "iconClass": "fab fa-behance"
+        }
+      ]
+    },
+    "categories": {
+      "title": "Categories",
+      "items": [
+        {
+          "text": "Augmented Reality",
+          "href": "/blog/category/augmented-reality"
+        },
+        {
+          "text": "eCommerce",
+          "href": "/blog/category/ecommerce"
+        },
+        {
+          "text": "IoT",
+          "href": "/blog/category/iot"
+        },
+        {
+          "text": "Mobile App Development",
+          "href": "/blog/category/mobile-app-development"
+        },
+        {
+          "text": "News",
+          "href": "/blog/category/news"
+        },
+        {
+          "text": "Virtual Reality",
+          "href": "/blog/category/virtual-reality"
+        },
+        {
+          "text": "Web Development",
+          "href": "/blog/category/web-development"
+        }
+      ]
+    },
+    "tweets": {
+      "title": "Latest Tweets",
+      "text": "Tweets by KeyDevs Technologies",
+      "href": "https://twitter.com/key_devs"
+    },
+    "facebook": {
+      "title": "Follow on Facebook"
+    },
+    "cta": {
+      "text": "Looking to Create Awesome Mobile App for Your Business",
+      "buttonText": "Get Started",
+      "href": "/contact"
+    }
+  }
+}

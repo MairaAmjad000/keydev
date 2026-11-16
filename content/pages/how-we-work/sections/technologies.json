@@ -1,0 +1,474 @@
+{
+  "link": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link2": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387",
+    "text": "How we Build Your Product",
+    "heading": "Technologies we Use"
+  },
+  "link3": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link4": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link5": {
+    "href": "https://wa.me/923395393387/?text=hi",
+    "title": "+92 339 5393387"
+  },
+  "link6": {
+    "href": "#mobile-technologies",
+    "text": "Mobile Technologies"
+  },
+  "items": [
+    {
+      "link": {
+        "id": "web-technologies-tab",
+        "href": "#web-technologies",
+        "ariaControls": "web-technologies",
+        "text": "Web Technologies"
+      }
+    },
+    {
+      "link": {
+        "id": "cloud-tab",
+        "href": "#cloud",
+        "ariaControls": "cloud",
+        "text": "Cloud"
+      }
+    },
+    {
+      "link": {
+        "id": "database-tab",
+        "href": "#database",
+        "ariaControls": "database",
+        "text": "Database"
+      }
+    },
+    {
+      "link": {
+        "id": "design-tab",
+        "href": "#design",
+        "ariaControls": "design",
+        "text": "Design"
+      }
+    },
+    {
+      "link": {
+        "id": "strategies-tab",
+        "href": "#strategies",
+        "ariaControls": "strategies",
+        "text": "Strategies & Communication"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "className": "tab-pane fade show active",
+      "id": "mobile-technologies",
+      "ariaLabelledby": "mobile-technologies-tab",
+      "items": [
+        {
+          "image": {
+            "src": "/images/technologies/swift.svg",
+            "title": "",
+            "alt": "Swift",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/objective-c.png",
+            "title": "Objective-C",
+            "alt": "Objective-C",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/java.svg",
+            "title": "Java",
+            "alt": "Java",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/flutter.png",
+            "title": "Flutter",
+            "alt": "Flutter",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/augmented-reality-android.png",
+            "title": "Augmented reality Android",
+            "alt": "Augmented reality Android",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/augmented-reality-kit.png",
+            "title": "Augmented reality Kit",
+            "alt": "Augmented reality Kit",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/unity.png",
+            "title": "Unity",
+            "alt": "Unity",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/google-virtual-reality.png",
+            "title": "Google virtual reality",
+            "alt": "Google virtual reality",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/oculus-vr.svg",
+            "title": "culus VR",
+            "alt": "Oculus VR",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/mixed-reality.png",
+            "title": "Mixed reality",
+            "alt": "Mixed reality",
+            "width": "78",
+            "height": "78"
+          }
+        }
+      ]
+    },
+    {
+      "className": "tab-pane fade",
+      "id": "web-technologies",
+      "ariaLabelledby": "web-technologies-tab",
+      "items": [
+        {
+          "image": {
+            "src": "/images/technologies/php.svg",
+            "title": "PHP",
+            "alt": "PHP",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/wordpress.svg",
+            "title": "WordPress",
+            "alt": "WordPress",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/codeigniter.svg",
+            "title": "CodeIgniter",
+            "alt": "CodeIgniter",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/laravel.svg",
+            "title": "Laravel",
+            "alt": "Laravel",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/node-js.svg",
+            "title": "Node.js",
+            "alt": "Node.js",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/angular.svg",
+            "title": "Angular",
+            "alt": "Angular",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/html5.svg",
+            "title": "HTML5",
+            "alt": "HTML5",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/css3.svg",
+            "title": "CSS3",
+            "alt": "CSS3",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/jquery.svg",
+            "title": "jQuery",
+            "alt": "jQuery",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/bootstrap-4.svg",
+            "title": "Bootstrap 4",
+            "alt": "Bootstrap 4",
+            "width": "78",
+            "height": "78"
+          }
+        }
+      ]
+    },
+    {
+      "className": "tab-pane fade",
+      "id": "cloud",
+      "ariaLabelledby": "cloud-tab",
+      "items": [
+        {
+          "image": {
+            "src": "/images/technologies/amazon-web-services.svg",
+            "title": "Amazon Web Services",
+            "alt": "Amazon Web Services",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/linode.svg",
+            "title": "Linode",
+            "alt": "Linode",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/icloud.svg",
+            "title": "iCloud",
+            "alt": "iCloud",
+            "width": "78",
+            "height": "78"
+          }
+        }
+      ]
+    },
+    {
+      "className": "tab-pane fade",
+      "id": "database",
+      "ariaLabelledby": "database-tab",
+      "items": [
+        {
+          "image": {
+            "src": "/images/technologies/firebase.svg",
+            "title": "Firebase",
+            "alt": "Firebase",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/mongodb.svg",
+            "title": "MongoDB",
+            "alt": "MongoDB",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/mysql.svg",
+            "title": "MySQL",
+            "alt": "MySQL",
+            "width": "78",
+            "height": "78"
+          }
+        }
+      ]
+    },
+    {
+      "className": "tab-pane fade",
+      "id": "design",
+      "ariaLabelledby": "design-tab",
+      "items": [
+        {
+          "image": {
+            "src": "/images/technologies/adobe-illustrator.svg",
+            "title": "Adobe Illustrator",
+            "alt": "Adobe Illustrator",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/adobe-after-effects.svg",
+            "title": "Adobe After Effects",
+            "alt": "Adobe After Effects",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/figma.svg",
+            "title": "Figma",
+            "alt": "Figma",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/invision.svg",
+            "title": "InVision",
+            "alt": "InVision",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/justinmind.svg",
+            "title": "Justinmind",
+            "alt": "Justinmind",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/adobe-photoshop.svg",
+            "title": "Adobe Photoshop",
+            "alt": "Adobe Photoshop",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/sketch.svg",
+            "title": "Sketch",
+            "alt": "Sketch",
+            "width": "78",
+            "height": "78"
+          }
+        }
+      ]
+    },
+    {
+      "className": "tab-pane fade",
+      "id": "strategies",
+      "ariaLabelledby": "strategies-tab",
+      "items": [
+        {
+          "image": {
+            "src": "/images/technologies/asana.svg",
+            "title": "Asana",
+            "alt": "Asana",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/basecamp.svg",
+            "title": "Basecamp",
+            "alt": "Basecamp",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/bitbucket.svg",
+            "title": "Bitbucket",
+            "alt": "Bitbucket",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/google-hangouts.svg",
+            "title": "Google Hangouts",
+            "alt": "Google Hangouts",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/skype.svg",
+            "title": "Skype",
+            "alt": "Skype",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/slack.svg",
+            "title": "Slack",
+            "alt": "Slack",
+            "width": "78",
+            "height": "78"
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/trello.svg",
+            "title": "Trello",
+            "alt": "Trello",
+            "width": "78",
+            "height": "78"
+          }
+        }
+      ]
+    }
+  ]
+}

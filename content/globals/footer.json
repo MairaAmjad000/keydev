@@ -16,7 +16,7 @@
     }
   ],
   "link": {
-    "href": "app-development-cost-calculator",
+    "href": "/app-development-cost-calculator",
     "text": "Discuss Your Project"
   },
   "items": [
@@ -111,43 +111,43 @@
       "items": [
         {
           "link": {
-            "href": "/service/instant-messaging-app-development",
+            "href": "/solutions/chat-instant-messaging-app-development",
             "text": "Instant Messaging"
           }
         },
         {
           "link": {
-            "href": "/service/car-wash-app-development",
+            "href": "/solutions/car-wash-app-development",
             "text": "Car Wash"
           }
         },
         {
           "link": {
-            "href": "/service/health-fitness-app-development",
+            "href": "/solutions/health-fitness-app-development",
             "text": "Health & Fitness"
           }
         },
         {
           "link": {
-            "href": "/service/taxi-app-development",
+            "href": "/solutions/taxi-app-development",
             "text": "Taxi Booking"
           }
         },
         {
           "link": {
-            "href": "/service/food-delivery-app-development",
+            "href": "/solutions/food-delivery-app-development",
             "text": "Food Delivery"
           }
         },
         {
           "link": {
-            "href": "/service/social-media-app-development",
+            "href": "/solutions/social-media-app-development",
             "text": "Social Media"
           }
         },
         {
           "link": {
-            "href": "/service/travel-app-development",
+            "href": "/solutions/travel-app-development",
             "text": "Travel & Tourism"
           }
         }
@@ -206,7 +206,7 @@
   "items3": [
     {
       "link": {
-        "href": "contact",
+        "href": "/contact",
         "text": "Contact Us"
       }
     },

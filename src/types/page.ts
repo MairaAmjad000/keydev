@@ -6,7 +6,11 @@ import type {
   AdvantageGridContent, FrameworkTabsContent, WhyChooseContent, FaqContent, FeaturedInContent,
   OfferCardsContent, ImageCardsContent, CompareBenefitsContent, SprintProcessContent, TechStackTabsContent,
   WhyChooseImageContent, FeatureTabsContent, IdealBusinessContent, SolutionCtaContent, OtherSolutionsContent,
-  WhyInvestContent,
+  WhyInvestContent, PortfolioShowcaseContent, BlogListContent,
+  ContactFormContent, ContactInfoContent, ContactMapContent,
+  StatsCountersContent, LeadershipContent, MissionVisionContent, CoreValuesContent, HistoryTimelineContent,
+  ProcessStepsContent, ClutchReviewsContent, ClientReviewsContent,
+  TechnologyGroupsContent, EstimateWizardContent,
 } from './sections';
 import type {
   HeaderContent, MobileMenuContent, GetQuoteButtonContent, CallBackSidebarContent, FooterContent,
@@ -53,6 +57,21 @@ export interface SectionDataMap {
   solutionCta: SolutionCtaContent;
   otherSolutions: OtherSolutionsContent;
   whyInvest: WhyInvestContent;
+  portfolioShowcase: PortfolioShowcaseContent;
+  blogList: BlogListContent;
+  contactForm: ContactFormContent;
+  contactInfo: ContactInfoContent;
+  contactMap: ContactMapContent;
+  statsCounters: StatsCountersContent;
+  leadership: LeadershipContent;
+  missionVision: MissionVisionContent;
+  coreValues: CoreValuesContent;
+  historyTimeline: HistoryTimelineContent;
+  processSteps: ProcessStepsContent;
+  clutchReviews: ClutchReviewsContent;
+  clientReviews: ClientReviewsContent;
+  technologyGroups: TechnologyGroupsContent;
+  estimateWizard: EstimateWizardContent;
 }
 
 export type SectionType = keyof SectionDataMap;

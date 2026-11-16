@@ -1,0 +1,102 @@
+{
+  "form": {
+    "id": "contact_form",
+    "fields": [
+      {
+        "kind": "input",
+        "type": "text",
+        "name": "name",
+        "placeholder": "Name",
+        "required": true,
+        "colClass": "form-group col-md-6 col-12"
+      },
+      {
+        "kind": "input",
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email",
+        "required": true,
+        "colClass": "form-group col-md-6 col-12"
+      },
+      {
+        "kind": "input",
+        "type": "text",
+        "name": "phone",
+        "placeholder": "Contact No",
+        "required": true,
+        "colClass": "form-group col-md-6 col-12",
+        "minLength": 4,
+        "maxLength": 11,
+        "variant": "phone"
+      },
+      {
+        "kind": "input",
+        "type": "text",
+        "name": "company_name",
+        "placeholder": "Company Name",
+        "required": false,
+        "colClass": "form-group col-md-6 col-12"
+      },
+      {
+        "kind": "select",
+        "name": "budget",
+        "list": "budget",
+        "required": false,
+        "colClass": "form-group col-md-6 col-12"
+      },
+      {
+        "kind": "select",
+        "name": "region",
+        "list": "region",
+        "required": true,
+        "colClass": "form-group col-md-6 col-12"
+      },
+      {
+        "kind": "select",
+        "name": "service",
+        "list": "service",
+        "required": true,
+        "colClass": "form-group col-12"
+      },
+      {
+        "kind": "select",
+        "name": "reference",
+        "list": "reference",
+        "required": false,
+        "colClass": "form-group col-md-6 col-12"
+      },
+      {
+        "kind": "file",
+        "name": "uploadedFiles",
+        "placeholder": "Choose File",
+        "colClass": "form-group col-md-6 col-12"
+      },
+      {
+        "kind": "textarea",
+        "name": "message",
+        "placeholder": "Message",
+        "rows": 10,
+        "colClass": "form-group col-12"
+      }
+    ],
+    "submitText": "Send Message"
+  },
+  "meeting": {
+    "image": {
+      "src": "/images/header/consultant-avatar.webp",
+      "alt": "Yasser- Author",
+      "width": "90",
+      "height": "90"
+    },
+    "heading": "So you've Heard our Story,",
+    "subheading": "Tell us Yours!",
+    "paragraphs": [
+      "We've several ways for you to contact us, so drop us a message or give us a call.",
+      "If you have a question, an idea, are a problem to solve, we can help, so get in touch!"
+    ],
+    "button": {
+      "text": "Schedule a Meeting",
+      "href": "javascript:;"
+    }
+  }
+}

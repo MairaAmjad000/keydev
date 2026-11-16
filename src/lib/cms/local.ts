@@ -69,6 +69,14 @@ import svcScheduleCall from '../../../content/pages/service/mvp-development/sect
 import svcEngagement from '../../../content/pages/service/mvp-development/sections/engagement.json';
 import { servicePageSources } from './local-services';
 import { solutionPageSources } from './local-solutions';
+import { portfolioPageSources } from './local-portfolio';
+import { blogPageSources } from './local-blog';
+import { contactPageSources } from './local-contact';
+import { whoWeArePageSources } from './local-who-we-are';
+import { howWeWorkPageSources } from './local-how-we-work';
+import { clientReviewPageSources } from './local-client-review';
+import { technologiesPageSources } from './local-technologies';
+import { estimatePageSources } from './local-estimate';
 import type { PageData, SectionBlock, SectionDataMap, SectionType, SiteData } from '@/types';
 import mobileAppDevelopmentPage from '../../../content/pages/service-category/mobile-app-development/page.json';
 import mobileAppDevelopmentCategoryHero from '../../../content/pages/service-category/mobile-app-development/sections/category-hero.json';
@@ -324,4 +332,12 @@ export const localPages: Record<string, PageData> = {
   [uiUxDesignPage.slug]: buildPage(uiUxDesignPage, uiUxDesignSections),
   ...Object.fromEntries(servicePageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(solutionPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(portfolioPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(blogPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(contactPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(whoWeArePageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(howWeWorkPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(clientReviewPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(technologiesPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(estimatePageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
 };

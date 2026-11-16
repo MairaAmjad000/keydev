@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "icon": "svg-23947e",
+      "tool": "Talk to us on Skype",
+      "link": {
+        "href": "skype:live:b10b01d5af732dbe?chat",
+        "text": "KeyDevs Technologies Support"
+      }
+    },
+    {
+      "icon": "svg-f440a4",
+      "tool": "Our Contact",
+      "link": {
+        "href": "https://wa.me/923395393387/?text=hi",
+        "text": "+92 339 5393387",
+        "title": "+92 339 5393387"
+      }
+    },
+    {
+      "icon": "svg-53c6d0",
+      "tool": "If not Forms, brief us @",
+      "link": {
+        "href": "mailto:sales@keydevs.com",
+        "text": "sales@keydevs.com"
+      }
+    }
+  ],
+  "follow": {
+    "heading": "Follow us on",
+    "items": [
+      {
+        "href": "https://twitter.com/key_devs",
+        "iconClass": "fab fa-twitter",
+        "label": "Twitter"
+      },
+      {
+        "href": "https://www.facebook.com/keydevs",
+        "iconClass": "fab fa-facebook-f",
+        "label": "Facebook"
+      },
+      {
+        "href": "https://pk.linkedin.com/company/keydevs",
+        "iconClass": "fab fa-linkedin-in",
+        "label": "Linkedin"
+      },
+      {
+        "href": "https://www.instagram.com/keydevs_technologies",
+        "iconClass": "fab fa-instagram",
+        "label": "Instagram"
+      },
+      {
+        "href": "https://www.behance.net/keydevs",
+        "iconClass": "fab fa-behance",
+        "label": "Behance"
+      }
+    ]
+  }
+}

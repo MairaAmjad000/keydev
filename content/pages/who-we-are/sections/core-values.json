@@ -1,0 +1,27 @@
+{
+  "text": "Our Values",
+  "heading": "Our Values That Move Us Forward.",
+  "paragraph": "KeyDevs is built on the passion and dedication of our people. We are dreamers and doers, and everything we achieve is guided by a core set of values:",
+  "items": [
+    {
+      "icon": "svg-51a3d2",
+      "title": "Seamless and Stress free Delivery",
+      "text": "A great project includes a great delivery, with regular status updates, scope control and Customer Engagement."
+    },
+    {
+      "icon": "svg-dcd39a",
+      "title": "Innovative Solutions Provider",
+      "text": "Our projects are delivered with a tailored solution in mind at the forefront of tech innovation."
+    },
+    {
+      "icon": "svg-917d6c",
+      "title": "Long Client Relationships",
+      "text": "Whether a single job or a portfolio of projects, we want to construct a long lasting Client Relationship with a mutual support network."
+    },
+    {
+      "icon": "svg-7e7c79",
+      "title": "Client Focussed Delivery",
+      "text": "We ensure no two projects are the same, ensuring our Clients goals and aspirations are met through Customer Focused Delivery."
+    }
+  ]
+}

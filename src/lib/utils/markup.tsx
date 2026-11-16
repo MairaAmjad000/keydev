@@ -15,6 +15,9 @@ export function link(href: string): AnchorHTMLAttributes<HTMLAnchorElement> {
   if (/^\s*javascript:/i.test(href)) {
     return { HREF: href } as unknown as AnchorHTMLAttributes<HTMLAnchorElement>;
   }
+  // A bare slug from the CMS (e.g. "contact") would resolve relative to the current path and break on
+  // nested routes such as /service/<slug>, so make it root-relative.
+  if (/^[a-z0-9][\w-]*(\/[\w-]+)*$/i.test(href)) return { href: `/${href}` };
   return { href };
 }
 

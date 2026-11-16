@@ -15,7 +15,7 @@
     }
   ],
   "link": {
-    "href": "contact",
+    "href": "/contact",
     "text": "Talk to Our Expert Now",
     "className": "btn btn-custome waves-effect waves-light"
   },

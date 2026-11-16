@@ -1,0 +1,23 @@
+{
+  "slug": "who-we-are",
+  "seo": {
+    "title": "Who We Are | About KeyDevs Technologies | Mobile & Web App Development Company",
+    "description": "Learn about KeyDevs Technologies: our story since 2015, leadership, mission and vision, core values and the team building web and mobile apps from Lahore, Pakistan."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "statsCounters",
+    "leadership",
+    "missionVision",
+    "coreValues",
+    "historyTimeline",
+    "contactCta",
+    "testimonials",
+    "portfolio",
+    "technologies",
+    "scheduleCall",
+    "engagement"
+  ]
+}

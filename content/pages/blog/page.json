@@ -1,0 +1,13 @@
+{
+  "slug": "blog",
+  "seo": {
+    "title": "Blog | Web & Mobile App Development Insights | KeyDevs Technologies",
+    "description": "Read the KeyDevs Technologies blog for the latest web and mobile app development trends, startup guides, app security tips and technology insights."
+  },
+  "sections": [
+    "categoryHero",
+    "blogList",
+    "testimonials",
+    "scheduleCall"
+  ]
+}

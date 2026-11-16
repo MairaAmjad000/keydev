@@ -1,0 +1,172 @@
+{
+  "text": "Our Testimonial",
+  "heading": "What Our Client Speak",
+  "paragraph": "Satisfied client feedback always delights us. We endeavour to make happy clients and it's our pleasure to share the gratified feedback we received.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/client-review/reviews/jay.jpg",
+        "alt": ""
+      },
+      "name": "Gurjeet Singh",
+      "country": "India",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "Brilliant programmer, who consistently adhered to my various changes and extras. Great guy and I will be using him in the future. I recommend him 100%, because the work is quality and he is extremely knowledgeable.."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/adam.jpg",
+        "alt": ""
+      },
+      "name": "Janek K.",
+      "country": "Germany",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "KeyDevs Technologies was the only one who understood my project directly. They also had a lot of good ideas that we incorporated into the homepage. They have a professional demeanor and has always remained objective. I would always recommend KeyDevs Technologies and they will be my first choice for my next project. The project was also completed on time and They implemented improvements right away."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/honest.jpg",
+        "alt": ""
+      },
+      "name": "Frano",
+      "country": "Croatia",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "KeyDevs Technologies excelled in delivering all required tasks efficiently. Their team was consistently available for discussions and provided prompt responses. Their understanding of Unity development is impressive, and I look forward to establishing a long-term business relationship for my future projects."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/anand.jpg",
+        "alt": ""
+      },
+      "name": "Mehdi M",
+      "country": "France",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "Outstanding work and excellent communication! They consistently deliver on their promises and surpass expectations. It’s been an absolute pleasure collaborating with KeyDevs Technologies, and I look forward to continuing our partnership."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/lance.jpg",
+        "alt": ""
+      },
+      "name": "Patrick W.",
+      "country": "Canada",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "Exceptional proposal and communication! They are always quick to respond to questions and never seem to tire of providing assistance. I highly recommend them for future projects."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/wilfried.jpg",
+        "alt": ""
+      },
+      "name": "Ghulam M.",
+      "country": "Pakistan",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "Once again, KeyDevs Technologies has showcased their exceptional capabilities in delivering high-quality work with remarkable speed, all while maintaining excellent communication."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/sallyann.jpg",
+        "alt": ""
+      },
+      "name": "Mahmoud D.",
+      "country": "United State",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "KeyDevs Technologies consistently showcases outstanding abilities in delivering high-quality work at impressive speed, all while maintaining excellent communication."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/client-dummy.jpg",
+        "alt": ""
+      },
+      "name": "Siv G",
+      "country": "Norway",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "I genuinely enjoy collaborating with this team. They are true team players who demonstrate remarkable integrity in their work. They are attentive to business needs and highly competitive. Overall, they have been outstanding—communicative and incredibly knowledgeable."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/client-dummy.jpg",
+        "alt": ""
+      },
+      "name": "Shahzaib S",
+      "country": "Australia",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "They delivered exceptional work in both development and design. Whenever issues arose, they resolved them promptly. Their professionalism, knowledge, and speed are impressive. It’s refreshing to find a team that is both skilled and trustworthy."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/client-dummy.jpg",
+        "alt": ""
+      },
+      "name": "Qaisar A",
+      "country": "Paksitan",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "I would give them even more stars if I could! They are a fantastic team to work with. Not only did they do an excellent job, but they also went above and beyond to ensure the work met the specified requirements. Keep up the great work!"
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/client-dummy.jpg",
+        "alt": ""
+      },
+      "name": "Xiuhua Y",
+      "country": "China",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "KeyDevs Technologies has consistently provided outstanding service in developing my mobile game. I’m excited to see this project come to fruition with their support. I'm grateful to have chosen them to help bring my vision to life."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/client-dummy.jpg",
+        "alt": ""
+      },
+      "name": "Franco S",
+      "country": "Italy",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "I'm thrilled to have found your team; you truly are an asset! Thank you for taking such good care of the project, even more than we did. You worked seamlessly like an in-house team, and I appreciate your timely and high-quality delivery. I look forward to our continued collaboration in the future!"
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/client-dummy.jpg",
+        "alt": ""
+      },
+      "name": "Tom Z",
+      "country": "Germany",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "This was our first collaboration, and it was a truly pleasant experience with the team. They had excellent response times, demonstrated significant expertise, and delivered quickly—all while staying on budget and schedule."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/client-dummy.jpg",
+        "alt": ""
+      },
+      "name": "Sarmad H.",
+      "country": "Jordan",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "I had a great experience with KeyDevs Technologies. They were helpful and supportive throughout the project, demonstrating their expertise and responsiveness. They truly are a fantastic team to collaborate with."
+    },
+    {
+      "image": {
+        "src": "/images/client-review/reviews/client-dummy.jpg",
+        "alt": ""
+      },
+      "name": "ROSEVILLE",
+      "country": "UNITED STATES",
+      "ratedByText": "Rated By Client",
+      "rating": 5,
+      "text": "Its First time we are working together , and it was really nice Experience with the Team, Good Response time, Really Experienced, Quick Turn Around Time, On Budget & Time."
+    }
+  ]
+}

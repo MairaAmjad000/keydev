@@ -21,7 +21,7 @@
         }
       ],
       "link": {
-        "href": "contact",
+        "href": "/contact",
         "text": "Talk to Our Expert"
       },
       "image": {
@@ -51,7 +51,7 @@
         }
       ],
       "link": {
-        "href": "ecommerce-web-development",
+        "href": "/service-category/ecommerce-development",
         "text": "Explore More"
       },
       "image": {
@@ -81,7 +81,7 @@
         }
       ],
       "link": {
-        "href": "contact",
+        "href": "/contact",
         "text": "Get in Touch with Us"
       },
       "image": {

@@ -48,8 +48,9 @@ export function CategoryHero({ data }: { data: CategoryHeroContent }) {
     : data.sideImage
       ? 'col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12'
       : 'col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12';
+  const textColClass = data.textClass ? `${textCol} ${data.textClass}` : textCol;
   return (
-    <section className="banner innerbanner">
+    <section className={`banner innerbanner${data.sectionClass ? ` ${data.sectionClass}` : ''}`}>
       {data.image && (
         <div className="video">
           <img src={data.image.src} alt={data.image.alt} width={data.image.width} height={data.image.height} />
@@ -59,14 +60,30 @@ export function CategoryHero({ data }: { data: CategoryHeroContent }) {
       <div className="tenc-intro-main__wrapper">
         <div className="container">
           <div className="row align-items-center">
-            <div className={textCol}>
-              <h1 className={data.headingClass}>{data.heading}</h1>
+            <div className={textColClass}>
+              {data.headingHtml ? (
+                <h1 className={data.headingClass} dangerouslySetInnerHTML={{ __html: data.headingHtml }} />
+              ) : (
+                <h1 className={data.headingClass}>{data.heading}</h1>
+              )}
               {' '}
+              {data.subheading && (
+                <>
+                  <h2>{data.subheading}</h2>
+                  {' '}
+                </>
+              )}
               <p dangerouslySetInnerHTML={{ __html: data.text }} />
               {' '}
               {data.links.map((item, i) => (
                 <Fragment key={i}>
                   {i > 0 && ' '}
+                  {item.separator && (
+                    <>
+                      <span className="or">{item.separator}</span>
+                      {' '}
+                    </>
+                  )}
                   <a className={item.className} {...link(item.href)}>
                     {item.text}
                   </a>

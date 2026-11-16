@@ -1,0 +1,84 @@
+/* client-review: Clutch widget section and client testimonial cards. Extracted from the client-review template. */
+#clients_review {
+  max-width: 1060px;
+  width: 100%;
+  margin: 0 auto;
+}
+.tideway-box {
+  padding: 20px 20px;
+  position: relative;
+  border: 1px solid #e2e3e5;
+  min-height: 340px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.tideway-box:before {
+  content: "";
+  display: block;
+  width: 132px;
+  height: 90px;
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABaBAMAAACLXuPLAAAAKlBMVEWQkZKQkZKQkZKQkZKQkZKQkZKQkZKQkZKQkZKQkZKQkZKQkZKQkZKQkZIkzyQYAAAADnRSTlMAAQIDBAUGBwgJCgsMDRK8QVgAAAPNSURBVFiFrZi7axRRFMZnZvM0CqKVmmJRsIoQIWghQrCyMGCT2BhY8YGigfioxIWIaBfQxsoFFYkWCaiIgcBAoggSDGjWJJuduf+L89i599x7HjuFB7b6vv3NOfd9r+dxcWBs6horFhGMTV1npMrNRaXUbpf/X0pNEQ14qLIQEcGtjcxEIs7nmow4HXZMBCJ4pFRXhH9bmzCip6G6Iyrzikf0hKo7ogI+gxAVSOAQASS4CN8SGYRfVwLijiqBuKwExBlVAnFYCYg+VQLRuyEgnIZgEPOuCSLcMkiEW4aF6EEigQjcMizEdBnEBWwyCNSWKl5ZcAk403jlg1brjvTyHNGWE47pPTQ5SSxUCYCbxPKopVotEd+jAJ531jLdF/jRRZpgdUd8xVFHIGGcJnhHIMH9jB8CscYQvCWAuOuKg0B8wRH6gektUmeM+IMjwB7dQWIAGqLKEXzTmPE4UodKlOENGNNnrJo6WiwB1NHej+swKc7xCNNpb7A4WCaJPikJMG6f84hhbfpEqEsSv4i67g7CZObHmn+Ug/ja1CRMe7T6K/mtP61SiH7b9Mw2mabII6Km+rBjip9AFS3r6h1GzCDTV6pKE18QIsQmM5vwuqvwOK9QJj1dhyjVnUgDlEkVy84JUnWm817SVOwzuKGymLMQE7SpM1uWaNXeyeq0KdrPdQhOI2RMWRrEbpwHbI2AM2W59nOqAp3Sy5pqHpwhbqx169M0mom6j1XB+sN/J2KHRRZm16WHRRY1tsfTeK0RwnfW2JGVRrPbyEpjm5rqOszomuZNSWM0eFXpBa4umEa58Z1FrUAIqSajOBRUvSdIqa56+CAJVU+cillsiohmGcSWJ4iJ2mWiptESETtlEG2xkN0yhUQiol0GEYsIfUJvCCYllvkfELoQaXQqsUzdnHXBFIs56nVLWBGSVKUPbJeY7Ml3JPVviVUr+Y6k/imxdiYTidzYO/GxQAwKpt/CFqHUbIHgt6J0USEPH53QuwC78arskBGyIrjENlhTegzl+3zLIPhdIB077nHQxKpB8Dvipscc17IANzj2CJEfQ0JGtN42GowpP5FzdTYhYoQx5e3FjYxZiOBGRmeroed727OCXjKKmwXdJ87NBT+fpPGtoxJPIwm/aiPghdqY9Pil2gpdJKk0vms1wF+I0M0HPzhZmR5C6mOXQB0vrdum8+hG39zdt6BtS/XtPmuRtzznfXC3asvWE2arShGSNoMfao8i2bzXLjME6732JyIkcWox09avcoA0jr/KU3jA6Mcmb0yelABpHExM1pvXP6PI6bJMhMy0AAAAAElFTkSuQmCC") no-repeat center center;
+  position: absolute;
+  bottom: -24px;
+  right: -3px;
+}
+.tideway-logo {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+}
+.tideway-top {
+  margin-bottom: 30px;
+}
+.tideway-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  overflow: hidden;
+  border: 7px solid #fff;
+}
+.tideway-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.tideway-client-info {
+  width: calc(100% - 135px);
+  margin-left: 15px;
+  padding: 25px 100px 0 0;
+}
+.tideway-client-info .name {
+  margin-bottom: 15px;
+}
+.tideway-client-info span {
+  font-weight: 700;
+}
+.tideway-client-info .ratedbtclient {
+  margin-bottom: 5px;
+}
+.tideway-client-info .fas {
+  color: #008080;
+}
+.tideway-review-text p {
+  margin: 0;
+  display: inline;
+  line-height: 25px;
+  letter-spacing: .025em;
+}
+.tideway-review-text span {
+  display: inline;
+}
+.tideway-review-text .openquote {
+  margin-right: 3px;
+}
+.tideway-review-text .closequote {
+  margin-left: 3px;
+}
+.video-bottom-slider-client-info .ratedbtclient {
+  font-size: 12px;
+  line-height: 1;
+}
+.video-bottom-slider-client-info .ratingstar .fas {
+  color: #008080;
+  font-size: 10px;
+}

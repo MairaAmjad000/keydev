@@ -1,0 +1,30 @@
+{
+  "sectionClass": "padding-60 meet-the-team-section bg-white",
+  "rowClass": "row",
+  "headingClass": "",
+  "contentClass": "meet-the-team-content",
+  "imageWrapClass": "meet-the-team-image",
+  "heading": "Get to Know the Team Behind the Innovation",
+  "paragraphs": [
+    {
+      "html": "Teams produce great work, and at KeyDevs Technologies, we live by that belief. Our mobile app developers, web developers, and creative designers are united by a shared sense of camaraderie, enabling us to overcome any challenge."
+    },
+    {
+      "html": "With professionals from diverse backgrounds, our team brings unique perspectives that fuel innovation and push boundaries. We’re not just a team that talks—we’re a team that delivers."
+    },
+    {
+      "html": "Give us a shot, and you’ll experience the difference firsthand."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/about/meet-the-team.jpg",
+    "alt": "mobile app development company Pakistan",
+    "width": "470",
+    "height": "410"
+  }
+}

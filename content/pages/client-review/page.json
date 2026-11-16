@@ -1,0 +1,17 @@
+{
+  "slug": "client-review",
+  "seo": {
+    "title": "Client Reviews | Testimonials & Clutch Reviews | KeyDevs Technologies",
+    "description": "Read verified client reviews and testimonials for KeyDevs Technologies, including Clutch reviews and feedback from happy clients on web and mobile app projects."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "clutchReviews",
+    "clientReviews",
+    "technologies",
+    "blog",
+    "scheduleCall",
+    "engagement"
+  ]
+}

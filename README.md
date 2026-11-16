@@ -140,6 +140,81 @@ To add another solution page (the four others were made this way): copy the fold
 and add its imports to `local-solutions.ts`. New icons go in `src/components/icons/index.tsx`.
 `public/scripts/solution-page.js` provides the FAQ list toggle and the feature tabs' Show All button.
 
+## Portfolio page
+
+`content/pages/portfolio` (URL `/portfolio`, registered in `src/lib/cms/local-portfolio.ts`). Sections:
+`categoryHero` (tall banner, centred, with an "OR" separator), `portfolioShowcase` (filter bar + project rows),
+`callout` (wrapped in a section), `testimonials`, `featuredIn`, `technologies`, `blog`, `contactCta`,
+`scheduleCall`, `engagement`.
+
+Each project is one item in `portfolio-showcase.json`: filter classes, logo, tags, paragraphs, store / website
+buttons and a device-stack picture (`thumb.layout`: `single`, `default`, `opt2`, `landscape`). Filter buttons
+come from `filters`; an item shows under a filter when its `classes` contain the filter's class.
+Filtering uses Isotope (`public/scripts/portfolio-vendor.js`, `portfolio-page.js`).
+
+Project logos and screenshots belong in `public/images/portfolio/mainpage/` (list in the README.txt there).
+
+## Blog page
+
+`content/pages/blog` (URL `/blog`, registered in `src/lib/cms/local-blog.ts`): `categoryHero`, `blogList`
+(articles + sidebar), `testimonials`, `scheduleCall`. Articles beyond `pageSize` are hidden until "Load More"
+(`public/scripts/blog-page.js`). Article, author and category links (`/blog/<slug>`, `/blog/author/...`,
+`/blog/category/...`) need their own pages. Article images and avatars go in `public/images/blog/mainpage/`
+(list in the README.txt there).
+
+## Contact page
+
+`content/pages/contact` (URL `/contact`, registered in `src/lib/cms/local-contact.ts`): `categoryHero` (with a
+`subheading`), `contactForm` (fields + "schedule a meeting" card; the select lists come from
+`content/settings/forms.json`), `contactInfo` (three boxes + social bar), `contactMap` (office tabs + Google Maps).
+Scripts: `public/scripts/contact-page.js`. Office photos go in `public/images/contact/` (list in the README.txt there).
+
+## Who we are page
+
+`content/pages/who-we-are` (URL `/who-we-are`, registered in `src/lib/cms/local-who-we-are.ts`): `categoryHero`
+(`headingHtml` allows a <span>), `brandLogos`, `introContent` (team, with section / content class options),
+`statsCounters`, `leadership`, `missionVision`, `coreValues`, `historyTimeline`, `contactCta`, `testimonials`,
+`portfolio`, `technologies`, `scheduleCall`, `engagement`. The history slider is initialised in
+`public/scripts/about-page.js`. New pictures are in `public/images/about/`.
+
+## How we work page
+
+`content/pages/how-we-work` (URL `/how-we-work`, registered in `src/lib/cms/local-how-we-work.ts`): `categoryHero`,
+`brandLogos`, `introContent`, `processSteps` (sticky step navigator + seven numbered rows), `contactCta`,
+`testimonials`, `portfolio`, `technologies`, `blog`, `scheduleCall`, `engagement`. The navigator's highlighting and
+progress bar are in `public/scripts/process-page.js`. Step pictures go in `public/images/how-we-work/process/`
+(list in the README.txt there).
+
+## Client review page
+
+`content/pages/client-review` (URL `/client-review`, registered in `src/lib/cms/local-client-review.ts`): `categoryHero`,
+`brandLogos`, `clutchReviews` (Clutch.co widget), `clientReviews` (testimonial cards), `technologies`, `blog`,
+`scheduleCall`, `engagement`. The Clutch script is added on demand by `public/scripts/client-review-page.js`.
+Reviewer photos go in `public/images/client-review/reviews/` (list in the README.txt there).
+
+## Technologies page
+
+`content/pages/technologies` (URL `/technologies`, registered in `src/lib/cms/local-technologies.ts`): `categoryHero`,
+`technologyGroups` (sticky tab bar + six logo groups), `contactCta`, `testimonials`, `featuredIn`, `blog`,
+`technologies`, `scheduleCall`, `engagement`. Logos reuse `public/images/technologies/`; three logos the page also
+needs are listed in `public/images/technologies/README-technologies-page.txt`. The tab bar behaviour is in
+`public/scripts/category-page.js`.
+
+## Estimate page
+
+`content/pages/app-development-cost-calculator` (the URL your menu and banners already link to; the template's canonical
+is `/estimate-your-project`; registered in `src/lib/cms/local-estimate.ts`). One section, `estimateWizard`, whose
+`steps` use the same shape as the admin panel's estimate-steps export (key, question, answer_type, next_step,
+options with icon / next_step ...). Branching, answers, submit (POST to `form.action`, JSON reply) and the phone
+field are in `public/scripts/estimate-page.js`. Option icons are in `public/images/estimate/`.
+
+## Placeholder images
+
+Pictures that the page templates referenced from the live site (portfolio logos and screenshots, blog images, process
+pictures, reviewer photos, office photos, three technology logos) were not available, so they exist as placeholders
+copied from existing images. `public/images/PLACEHOLDERS.txt` lists each placeholder and its source. Replace a placeholder by
+saving the real image under the same path and file name.
+
 ## Adding things
 
 * **New page**: create it in the admin panel (or add `content/pages/<slug>/page.json`) and it is served at `/<slug>`.

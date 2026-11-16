@@ -1,0 +1,23 @@
+{
+  "headingClass": "mb-2 font-semibold",
+  "heading": "Take The First Step Forward",
+  "subheading": "Talk To Our Experts",
+  "textClass": "text-center",
+  "text": "Give us a call. Drop us an email. Connect socially",
+  "links": [],
+  "image": {
+    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
+    "alt": "KeyDevs Technologies-contact",
+    "width": "1920",
+    "height": "780"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Contact"
+    }
+  ]
+}

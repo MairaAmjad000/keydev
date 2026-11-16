@@ -1,0 +1,197 @@
+/* process-steps: how-we-work process steps and sticky step navigator. Extracted from the how-we-work template. */
+.our-work-process-section .title {
+  margin-bottom: 0;
+}
+.our-work-process-slider-section .progressbar {
+  padding: 20px 0;
+}
+.our-work-process-slider-section .progressbar .shim {
+  display: none;
+  width: 100%;
+}
+.our-work-process-slider-section .progressbar .holder {
+  position: relative;
+}
+.our-work-process-slider-section .progressbar .holder .bar {
+  position: absolute;
+  bottom: 85px;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  max-width: 1000px;
+  width: 100%;
+  right: 0;
+  margin: 0 auto;
+  -webkit-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+}
+.our-work-process-slider-section .progressbar .holder .bar .indicator {
+  position: absolute;
+  top: 0;
+  left: 0!important;
+  height: 100%;
+  background-color: #008080;
+}
+.our-work-process-slider-section .progressbar .holder .labels {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+  z-index: 1;
+}
+.our-work-process-slider-section .progressbar .holder .labels .label-item {
+  width: 14.2857%;
+  position: relative;
+}
+.our-work-process-slider-section .progressbar .holder .labels .label-item a {
+  cursor: pointer;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  color: #202122;
+}
+.our-work-process-slider-section .progressbar .holder .labels .label-item-svg {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 25px;
+  -webkit-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,.15);
+  border-radius: 100%;
+  background-color: #fff;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  position: relative;
+  border-radius: 100%;
+  overflow: hidden;
+}
+.our-work-process-slider-section .progressbar .holder .labels .label-item-svg:before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  background-color: #008080;
+  -webkit-transition: all .6s ease-in-out;
+  -moz-transition: all .6s ease-in-out;
+  -o-transition: all .6s ease-in-out;
+  transition: all .6s ease-in-out;
+}
+.our-work-process-slider-section .progressbar .holder .labels .label-item-svg svg {
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+.our-work-process-slider-section .progressbar .holder .labels .label-item-svg svg * {
+  -webkit-transition: all .6s ease-in-out;
+  -moz-transition: all .6s ease-in-out;
+  -o-transition: all .6s ease-in-out;
+  transition: all .6s ease-in-out;
+  fill: #202122;
+}
+.our-work-process-slider-section .progressbar .holder .labels .label-item.read {
+  color: #008080;
+}
+.our-work-process-slider-section .progressbar .holder .labels .label-item.active a,
+.our-work-process-slider-section .progressbar .holder .labels .label-item.read a,
+.our-work-process-slider-section .progressbar .holder .labels .label-item.read.reading.active a {
+  color: #008080;
+}
+.our-work-process-slider-section .progressbar .holder .labels .label-item.active .label-item-svg:before,
+.our-work-process-slider-section .progressbar .holder .labels .label-item.read .label-item-svg:before,
+.our-work-process-slider-section .progressbar .holder .labels .label-item.read.reading.active .label-item-svg:before {
+  background-color: #008080;
+  width: 100%;
+}
+.our-work-process-slider-section .progressbar .holder .labels .label-item.active .label-item-svg svg *,
+.our-work-process-slider-section .progressbar .holder .labels .label-item.read .label-item-svg svg *,
+.our-work-process-slider-section .progressbar .holder .labels .label-item.read.reading.active .label-item-svg svg * {
+  fill: #fff;
+}
+.our-process-step-row {
+  position: relative;
+  padding: 60px 0 100px 0;
+  background: #fff;
+}
+.our-process-step-row .position-static {
+  margin-left: -9%!important;
+  z-index: 1;
+}
+.our-process-svg svg {
+  display: none;
+}
+.our-process-step-row .container {
+  position: relative;
+}
+.our-process-content-box .number {
+  position: absolute;
+  right: 20px;
+  top: 0;
+  color: #dfdfdf;
+  font-size: 80px;
+  line-height: 1;
+}
+.our-process-content {
+  position: relative;
+  background: #fff;
+  border-radius: 20px;
+  border: 1px solid #008080;
+  padding: 40px 35px;
+}
+.our-process-content h3 {
+  font-size: 30px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+.our-process-content p:last-child {
+  margin-bottom: 0;
+}
+.our-process-image-box {
+  position: relative;
+}
+.our-process-image-box img {
+  position: relative;
+}
+.our-process-image-box:before {
+  content: "";
+  display: block;
+  top: 40px;
+  right: 28px;
+  border: 5px solid #fde7d2;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.our-process-step-row:nth-child(even) {
+  background: #f8f9fa;
+}
+.our-process-step-row:nth-child(even) .our-process-content-box .number {
+  left: 20px;
+  right: inherit;
+}
+.our-process-step-row:nth-child(even) .position-static {
+  margin-left: 0!important;
+  margin-right: -9%!important;
+}
+.our-process-step-row:nth-child(even) .our-process-image-box:before {
+  right: inherit;
+  left: 28px;
+}

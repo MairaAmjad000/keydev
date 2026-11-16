@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "image": {
+        "src": "/images/about/counter-projects.svg",
+        "alt": ""
+      },
+      "count": "110",
+      "iconClass": "fas fa-plus",
+      "text": "Successfully<br/> Developed Projects"
+    },
+    {
+      "image": {
+        "src": "/images/about/counter-ideas.svg",
+        "alt": ""
+      },
+      "count": "110",
+      "iconClass": "fas fa-plus",
+      "text": "Unique <br/>Ideas Submitted"
+    },
+    {
+      "image": {
+        "src": "/images/about/counter-reviews.svg",
+        "alt": ""
+      },
+      "count": "90",
+      "iconClass": "fas fa-percent",
+      "text": "Verified <br/>5 Star Client Reviews"
+    },
+    {
+      "image": {
+        "src": "/images/about/counter-team.svg",
+        "alt": ""
+      },
+      "count": "40",
+      "iconClass": "fas fa-plus",
+      "text": "Professionals <br/>in Our Team"
+    }
+  ]
+}

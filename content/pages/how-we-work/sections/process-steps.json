@@ -1,0 +1,111 @@
+{
+  "text": "Our Process",
+  "heading": "From initial exploration to final launch and beyond - the process in action",
+  "steps": [
+    {
+      "id": "Discover",
+      "number": "01",
+      "title": "Discovery",
+      "icon": "svg-0e8fd7",
+      "navLabel": "Discovery",
+      "text": "Aligning with our clients is essential for every project. Our discovery process ensures we fully understand their needs and create a strategic plan to meet them. Most client challenges have multiple potential solutions, and the discovery phase helps us pinpoint the best one. During this stage, we also establish a primary point of contact responsible for overseeing the project’s progress and ensuring delivery aligns with the project goals.",
+      "reverse": true,
+      "image": {
+        "src": "/images/how-we-work/process/discover.webp",
+        "alt": "Discovery",
+        "width": "570",
+        "height": "470"
+      }
+    },
+    {
+      "id": "Create",
+      "number": "02",
+      "title": "UI/UX Design",
+      "icon": "svg-4571ef",
+      "navLabel": "UI/UX Design",
+      "text": "Effective design solves problems; exceptional design delights users. This is the principle KeyDevs Technologies stands by. We believe that integrating functional UI/UX design into an application is essential for making it a true problem-solver. Our approach involves a user-centric process that spans research, design, prototyping, testing, and evaluation. This ensures we create a seamless end-to-end user journey that fulfills the stakeholder's objectives.",
+      "reverse": false,
+      "image": {
+        "src": "/images/how-we-work/process/create.webp",
+        "alt": "UI/UX Design",
+        "width": "570",
+        "height": "470"
+      }
+    },
+    {
+      "id": "Prototypes",
+      "number": "03",
+      "title": "Prototyping",
+      "icon": "svg-6ebd40",
+      "navLabel": "Prototyping",
+      "text": "The ultimate goal of software development is to ensure it effectively addresses the problems and achieves the objectives for which it was created. As part of our software development process, we develop prototypes based on insights from the discovery and UI/UX design stages. These prototypes serve as preliminary versions of the final product—similar to early samples or scaled-down working models—that can be refined and expanded into the final solution.",
+      "reverse": true,
+      "image": {
+        "src": "/images/how-we-work/process/prototypes.webp",
+        "alt": "Prototyping",
+        "width": "570",
+        "height": "470"
+      }
+    },
+    {
+      "id": "Develop",
+      "number": "04",
+      "title": "Development",
+      "icon": "svg-56821f",
+      "navLabel": "Development",
+      "text": "Once the prototypes are finalized, they transition into the full-scale development phase. Based on the chosen platform—determined collaboratively as the best fit—our developers begin coding the software into its final form. KeyDevs Technologies adheres to strict quality assurance standards throughout all stages of development. This guarantees that the final product is polished and requires minimal adjustments to be launch-ready.",
+      "reverse": false,
+      "image": {
+        "src": "/images/how-we-work/process/discover2.webp",
+        "alt": "Development",
+        "width": "570",
+        "height": "470"
+      }
+    },
+    {
+      "id": "QualityAssurance",
+      "number": "05",
+      "title": "Quality Assurance",
+      "icon": "svg-a93881",
+      "navLabel": "Quality Assurance",
+      "text": "““Quality is not an act; it is a habit,”. At KeyDevs Technologies, we’ve embraced quality as a habit and a way of life—not just a catchphrase to impress. Our team of highly qualified and experienced quality assurance engineers conducts penetration tests, smoke tests, and various other essential tests to ensure the software is fully prepared for deployment. Our QA process meticulously identifies and eliminates any bugs that may have been overlooked during development. We test the software from the user’s perspective, ensuring everything functions seamlessly when the software is ready for use.",
+      "reverse": true,
+      "image": {
+        "src": "/images/how-we-work/process/quality-assurance.webp",
+        "alt": "Quality Assurance",
+        "width": "570",
+        "height": "470"
+      }
+    },
+    {
+      "id": "Deploy",
+      "number": "06",
+      "title": "Deployment",
+      "icon": "svg-374796",
+      "navLabel": "Deployment",
+      "text": "Once the software passes the quality assurance phase, our team of senior developers initiates the deployment process. Based on the client's preferences or decisions made at the project's outset, deployment occurs on the chosen server platform. All activities related to sharing and securing the code repository also take place during this phase. We meticulously plan the deployment process to ensure that you, as the client, are well-informed about the timeline for completion. Once deployment is finalized, the software is ready for real-world use.",
+      "reverse": false,
+      "image": {
+        "src": "/images/how-we-work/process/deploy.webp",
+        "alt": "Deployment",
+        "width": "570",
+        "height": "470"
+      }
+    },
+    {
+      "id": "Support",
+      "number": "07",
+      "title": "Support",
+      "icon": "svg-7249bb",
+      "navLabel": "Support",
+      "text": "We view client relationships as enduring partnerships that go beyond individual transactions. At KeyDevs Technologies, we prioritize customer satisfaction by providing continuous support and maintenance even after deployment. Our support systems are designed to ensure your product operates smoothly and efficiently. Furthermore, we carry out regular maintenance to keep your products current with essential security updates, system upgrades, and other improvements.",
+      "reverse": true,
+      "image": {
+        "src": "/images/how-we-work/process/support.webp",
+        "alt": "Support",
+        "width": "570",
+        "height": "470"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "text": "Our history",
+  "heading": "Tell the tale of our humble beginnings and how we’ve grown along the way.",
+  "paragraph": "Since its inception, KeyDevs Technologies has come a long way as a web and mobile app development company. Our journey has been incredible, and we continue to thrive in delivering seamless digital transformation solutions for startups and enterprises alike",
+  "image": {
+    "src": "/images/about/history.webp",
+    "alt": "KeyDevs Technologies"
+  },
+  "items": [
+    {
+      "year": "2013",
+      "title": "The Beginning",
+      "icon": "svg-23721a",
+      "text": "KeyDevs Technologies was born as a small group of passionate freelancers, setting the foundation for a tech-driven future."
+    },
+    {
+      "year": "2014",
+      "title": "Early Growth",
+      "icon": "svg-23721a",
+      "text": "The team expanded, taking on its first significant web and mobile app development projects for local clients."
+    },
+    {
+      "year": "2015",
+      "title": "First Milestone",
+      "icon": "svg-23721a",
+      "text": "Officially incorporated, KeyDevs started gaining attention from larger clients, marking its entry into the global tech scene."
+    },
+    {
+      "year": "2016",
+      "title": "Stepping into the Global Market",
+      "icon": "svg-23721a",
+      "text": "Successfully delivered projects for international clients, making waves in the web and mobile app development space."
+    },
+    {
+      "year": "2017",
+      "title": "Innovative Leap",
+      "icon": "svg-23721a",
+      "text": "Introduced innovative AR and VR solutions, tapping into new sectors like gaming, education, and healthcare."
+    },
+    {
+      "year": "2018",
+      "title": "New Horizons",
+      "icon": "svg-23721a",
+      "text": "Opened its first international office in the USA, expanding its global reach and setting a solid foothold."
+    },
+    {
+      "year": "2019",
+      "title": "Diversification",
+      "icon": "svg-23721a",
+      "text": "Broadened service offerings, including e-commerce and enterprise-grade solutions, attracting diverse industries."
+    },
+    {
+      "year": "2020",
+      "title": "Navigating the Pandemic",
+      "icon": "svg-23721a",
+      "text": "Despite the global challenges, KeyDevs thrived by helping businesses adapt to digital transformation rapidly."
+    },
+    {
+      "year": "2021",
+      "title": "Scaling New Heights",
+      "icon": "svg-23721a",
+      "text": "Established itself as a market leader in custom mobile app and game development, catering to both startups and enterprises."
+    },
+    {
+      "year": "2022",
+      "title": "Tech Innovation",
+      "icon": "svg-23721a",
+      "text": "Launched groundbreaking solutions in AI, blockchain, and IoT, cementing its place as a forward-thinking tech company."
+    },
+    {
+      "year": "2023",
+      "title": "Global Recognition",
+      "icon": "svg-23721a",
+      "text": "KeyDevs was recognized among the top digital agencies globally, working with high-profile clients from around the world."
+    },
+    {
+      "year": "2024",
+      "title": "Future-Ready",
+      "icon": "svg-23721a",
+      "text": "Continued growth with a clear focus on delivering cutting-edge digital transformation solutions and expanding its global presence."
+    }
+  ]
+}

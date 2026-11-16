@@ -1,0 +1,82 @@
+{
+  "text": "Leadership",
+  "heading": "Leading from the front",
+  "paragraph": "At KeyDevs Technologies, leadership isn’t just about titles—it's about setting the pace, driving innovation, and leading by example. We take pride in leading from the front, ensuring every project is delivered with excellence, passion, and dedication.",
+  "people": [
+    {
+      "name": "Oliver",
+      "image": {
+        "src": "/images/header/consultant-avatar.webp",
+        "alt": "Oliver"
+      },
+      "rowClass": "",
+      "imageColClass": "col-lg-5 col-md-5 col-sm-12 col-12 order-md-1",
+      "contentColClass": "col-lg-7 col-md-7 col-sm-12 col-12",
+      "title": "Tech Visionary, Business Trailblazer, Passionate Geek....",
+      "paragraphs": [
+        "Meet Yaseer, our Director from Lahore, who has been instrumental in shaping KeyDevs Technologies into what it is today. He began his career in Project Management but transitioned into UI/UX and front-end mobile delivery. Amid the rise of smartphones and the emergence of Silicon Valley tech giants, Yaseer recognized a growing need for outsourced development solutions for businesses of all sizes. In this model, clients manage their business while KeyDevs Technologies handles the tech.",
+        "Currently, Yaseer serves as the Director of KeyDevs Technologies, taking on the responsibility of transforming the company into a global digital corporation with a diverse range of digital services."
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/in/oliver-baker/",
+          "iconClass": "fab fa-linkedin-in"
+        },
+        {
+          "href": "https://twitter.com/iOliverBaker",
+          "iconClass": "fab fa-twitter"
+        }
+      ]
+    },
+    {
+      "name": "Tuhin Bhatt",
+      "image": {
+        "src": "/images/about/leader-tuhin-bhatt.png",
+        "alt": "Tuhin Bhatt"
+      },
+      "rowClass": "pt-5 pb-5 partner-2",
+      "imageColClass": "col-lg-5 col-md-5 col-sm-12 col-12 order-1",
+      "contentColClass": "col-lg-7 col-md-7 col-sm-12 col-12 order-2",
+      "title": "Co-Founder @ KeyDevs Technologies, Mobile Technology Expert",
+      "paragraphs": [
+        "KeyDevs Technologies is the brainchild of Sanaullah, a visionary who has established the company as one of the leading game, web, and mobile app development firms with offices in Pakistan and the USA. He expertly navigates the tech landscape, specializing in PHP, iOS, and Android technologies.",
+        "With a profound command of mobile app development, Sanaullah is passionate about sharing his knowledge with clients and fellow tech enthusiasts. His insights often focus on technology, leadership, and entrepreneurship, reflecting his commitment to innovation and growth in the industry."
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/in/tuhin-bhatt-97021a41/",
+          "iconClass": "fab fa-linkedin-in"
+        },
+        {
+          "href": "https://twitter.com/BhattTuhin",
+          "iconClass": "fab fa-twitter"
+        }
+      ]
+    },
+    {
+      "name": "Dhaval Sarvaiya",
+      "image": {
+        "src": "/images/about/leader-dhaval-sarvaiya.jpg",
+        "alt": "Dhaval Sarvaiya"
+      },
+      "rowClass": "",
+      "imageColClass": "col-lg-5 col-md-5 col-sm-12 col-12 order-md-1",
+      "contentColClass": "col-lg-7 col-md-7 col-sm-12 col-12",
+      "title": "Co-Founder @KeyDevs Technologies, Game Development and Mobile App Expert",
+      "paragraphs": [
+        "Rehan ur Rehman is the Director of KeyDevs Technologies, the driving force behind its evolution into one of the top game, web, and mobile app development companies with offices in the USA and Pakistan. With over 10 years of experience as an Information Technology Consultant, he has a proven track record of collaborating with clients across the globe.",
+        "Rehan excels in marketing and business development, currently focusing his efforts on digital platforms and e-commerce. He is dedicated to enhancing enterprise business by seamlessly integrating technology with a talented team of creative minds."
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/in/dhaval1sarvaiya/",
+          "iconClass": "fab fa-linkedin-in"
+        },
+        {
+          "href": "https://twitter.com/dhaval1sarvaiya",
+          "iconClass": "fab fa-twitter"
+        }
+      ]
+    }
+  ]
+}

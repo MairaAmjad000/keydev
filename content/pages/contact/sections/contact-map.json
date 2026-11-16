@@ -1,0 +1,31 @@
+{
+  "tabs": [
+    {
+      "id": "tab-1",
+      "title": "Leeds",
+      "image": {
+        "src": "/images/contact/leeds-location.jpg",
+        "alt": ""
+      },
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2356.371006913903!2d-1.5528080837939586!3d53.80068168007662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48795c1d7055c793%3A0xfef87e998646f65a!2sKeyDevs%20Technologies!5e0!3m2!1sen!2sin!4v1513592167925"
+    },
+    {
+      "id": "tab-2",
+      "title": "Lahore",
+      "image": {
+        "src": "/images/contact/pakistan-location.jpg",
+        "alt": ""
+      },
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2356.371006913903!2d-1.5528080837939586!3d53.80068168007662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48795c1d7055c793%3A0xfef87e998646f65a!2sKeyDevs%20Technologies!5e0!3m2!1sen!2sin!4v1513592167925"
+    },
+    {
+      "id": "tab-3",
+      "title": "India",
+      "image": {
+        "src": "/images/contact/india-location.jpg",
+        "alt": ""
+      },
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7364081492346!2d72.4962650155135!3d22.996718484966088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e84d577bc3aaf%3A0xe9c0a58f57a26fea!2sKeyDevs%20Technologies!5e0!3m2!1sen!2sin!4v1522998255984"
+    }
+  ]
+}

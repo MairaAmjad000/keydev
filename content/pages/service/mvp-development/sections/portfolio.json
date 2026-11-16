@@ -2,7 +2,7 @@
   "callout": {
     "text": "Do you have a <span id=\"callouts-type\"></span> We have a TEAM to get you there.",
     "link": {
-      "href": "contact",
+      "href": "/contact",
       "text": "Get In Touch"
     }
   },
@@ -19,7 +19,7 @@
       "heading2": "Dorel Taxi",
       "text2": "On-demand taxi booking app for Nigeria with features for passengers, drivers and admins.",
       "link": {
-        "href": "portfolio",
+        "href": "/portfolio",
         "text": "Explore More"
       }
     },
@@ -33,7 +33,7 @@
       "heading2": "FantasyJi",
       "text2": "A fantasy sports app that allows users to create private leagues, auctions and bid for players and play fantasy games.",
       "link": {
-        "href": "portfolio",
+        "href": "/portfolio",
         "text": "Explore More"
       }
     },
@@ -49,7 +49,7 @@
       "heading2": "Awayback",
       "text2": "A location-based augmented reality social application for creating, storing, sharing and rediscovering memories.",
       "link": {
-        "href": "portfolio",
+        "href": "/portfolio",
         "text": "Explore More"
       }
     },
@@ -63,7 +63,7 @@
       "heading2": "Yoca",
       "text2": "The pre-ordering coffee app allows customers to order coffee and pay in advance to avoid the queue at cafes and coffee shops.",
       "link": {
-        "href": "portfolio",
+        "href": "/portfolio",
         "text": "Explore More"
       }
     },
@@ -77,7 +77,7 @@
       "heading2": "Guest Me",
       "text2": "Guest Me is one such live streaming app that combines the best of social networking and live video streaming.",
       "link": {
-        "href": "portfolio",
+        "href": "/portfolio",
         "text": "Explore More"
       }
     },
@@ -91,7 +91,7 @@
       "heading2": "Chatagram",
       "text2": "An instant messaging app for real-time communication and allowed users to search and add friends.",
       "link": {
-        "href": "portfolio",
+        "href": "/portfolio",
         "text": "Explore More"
       }
     }
