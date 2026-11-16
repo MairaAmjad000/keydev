@@ -949,6 +949,8 @@ export interface BlogListContent {
   /** Articles shown at first; the rest appear when "Load More" is pressed. */
   pageSize: number;
   loadMoreText: string;
+  /** Shown when there are no articles (e.g. a category without posts). */
+  emptyText?: string;
   items: BlogListItem[];
   sidebar: {
     social: { title: string; items: Array<{ href: string; /** Font Awesome classes, e.g. "fab fa-twitter" */ iconClass: string }> };
@@ -1242,4 +1244,20 @@ export interface BlogPostTemplate {
   breadcrumbs: { home: string; blog: string };
   labels: BlogPostContent['labels'];
   relatedCount: number;
+}
+
+/** Shared settings of every blog category page (content/pages/blog/category-template.json). `{category}` is replaced by the category name. */
+export interface BlogCategoryTemplate {
+  heroImage: CmsImage;
+  heroSectionClass?: string;
+  headingTemplate: string;
+  textTemplate: string;
+  /** Optional per-category intro text, keyed by the category slug; used instead of `textTemplate`. */
+  descriptions?: Record<string, string>;
+  breadcrumbs: { home: string; blog: string };
+  seo: { titleTemplate: string; descriptionTemplate: string };
+  pageSize: number;
+  loadMoreText: string;
+  buttonText: string;
+  emptyText: string;
 }

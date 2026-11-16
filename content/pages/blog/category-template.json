@@ -1,0 +1,27 @@
+{
+  "heroImage": {
+    "src": "/images/blog/blog-banner.jpg",
+    "alt": "mobile app development company Pakistan - KeyDevs Technologies",
+    "width": "1920",
+    "height": "800"
+  },
+  "heroSectionClass": "blog",
+  "headingTemplate": "{category}",
+  "textTemplate": "Articles, guides and insights about {category} from the KeyDevs Technologies team.",
+  "descriptions": {
+    "mobile-app-development": "Guides on planning, building, securing and funding mobile apps, from first idea to launch.",
+    "ecommerce": "Practical advice on starting and growing online stores, marketplaces and digital businesses."
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "blog": "Blog"
+  },
+  "seo": {
+    "titleTemplate": "{category} Articles | KeyDevs Technologies Blog",
+    "descriptionTemplate": "Read the latest {category} articles, guides and insights from KeyDevs Technologies."
+  },
+  "pageSize": 6,
+  "loadMoreText": "Load More",
+  "buttonText": "Explore More",
+  "emptyText": "No articles in this category yet. Please check back soon."
+}

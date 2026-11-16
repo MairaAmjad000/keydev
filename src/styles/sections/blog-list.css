@@ -242,3 +242,9 @@
 .blog-cat-list li a.active::before {
   left: 8px;
 }
+
+.blog-list-empty {
+  padding: 40px 0;
+  text-align: center;
+  font-size: 18px;
+}

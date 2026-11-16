@@ -59,6 +59,7 @@ export function BlogList({ data }: { data: BlogListContent }) {
                 </div>
               ))}
             </div>
+            {data.items.length === 0 && data.emptyText && <p className="blog-list-empty">{data.emptyText}</p>}
             {hasMore && (
               <div className="container mt-4">
                 <div className="title">
