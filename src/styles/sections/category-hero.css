@@ -19,6 +19,8 @@
 .innerbanner .submitbar .btn-custome { padding:15px 18px }
 .innerbannerform .has-error .form-control { border:1px solid red!important }
 .innerbannerform .form-group label { display:block;font-size:0;margin:0 }
+/* Dial code next to the flag in the phone field: grey, as in the original page (dark text is invisible on the dark form). */
+.innerbannerform .iti__selected-dial-code { color:#6c757d }
 .banner.height450 .breadcrumb { bottom:60px }
 .innerbanner.blog-detail .tenc-intro-main__wrapper .container { max-width:930px }
 .innerbanner.blog-detail .breadcrumb { max-width:930px }

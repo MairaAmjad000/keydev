@@ -6,7 +6,7 @@
     "height": "800"
   },
   "heading": "Android App Development Company",
-  "text": "Reach the world’s largest smartphone audience with an Android app built by KeyDevs Technologies. We build reliable apps that perform across the huge range of Android devices and screen sizes.",
+  "text": "Android app development demands specialized expertise. Our Android app development agency boasts a talented team of experienced developers who are passionate about innovation and creativity.<br/><br/>We are dedicated to providing top-notch Android app development services and support through our professional, approachable, and hands-on team.",
   "links": [
     {
       "href": "/portfolio",
@@ -16,13 +16,56 @@
     {
       "href": "/app-development-cost-calculator",
       "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate Android App Development Cost"
+      "text": "Calculate App Development Cost"
     }
   ],
+  "form": {
+    "id": "android-app-development-banner_form",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Name",
+        "required": true,
+        "label": "Name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email",
+        "required": true,
+        "label": "Email"
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "placeholder": "Phone Number",
+        "required": true,
+        "minLength": 10,
+        "maxLength": 11,
+        "variant": "phone"
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "Project Descriptions",
+        "required": false,
+        "label": "Message",
+        "rows": 4
+      }
+    ],
+    "submitText": "Get Started Now!",
+    "errorId": "android-app-development-error_message_banner_form",
+    "successId": "android-app-development-success_message_banner_form"
+  },
   "breadcrumbs": [
     {
       "text": "Home",
       "href": "/"
+    },
+    {
+      "text": "Mobile App Development",
+      "href": "/service-category/mobile-app-development"
     },
     {
       "text": "Android App Development"

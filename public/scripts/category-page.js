@@ -1,4 +1,15 @@
 
+            /* Banner enquiry form: phone field with country flag and dial code, Pakistan preselected.
+               Plain JavaScript (no jQuery) so it runs even if a later part of this file fails; the library
+               comes with vendor-plugins.js, which loads before this file. */
+            (function () {
+                if (!window.intlTelInput) return;
+                document.querySelectorAll('.innerbannerform .contact-phone').forEach(function (input) {
+                    if (input.closest('.iti')) return;
+                    window.intlTelInput(input, { initialCountry: 'pk', separateDialCode: true });
+                });
+            })();
+
             $(document).ready(function() {
                 if ($(".top-sticy").length) {
                     var summaries = $('.top-sticy');
