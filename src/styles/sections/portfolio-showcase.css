@@ -163,6 +163,7 @@
 }
 .portfolio-preview-main-logo img {
   display: block;
+  flex-shrink: 0;
 }
 .portfolio-preview-main-logo-text {
   padding-left: 15px;
@@ -552,5 +553,22 @@
   .innerbanner .breadcrumb {
     bottom: 0;
     position: relative;
+  }
+}
+
+/* Uniform logo box for every project, whatever the shape or size of the uploaded file.
+   Higher specificity than the responsive rules in hero.css / callout.css so the box also holds on small screens. */
+.portfolio-preview-box .portfolio-preview-main-logo img,
+.portfolio-preview-box .portfolio-preview-main-logo img.landscape {
+  width: 127px;
+  height: 129px;
+  max-width: none;
+  object-fit: contain;
+}
+@media (max-width: 767px) {
+  .portfolio-preview-box .portfolio-preview-main-logo img,
+  .portfolio-preview-box .portfolio-preview-main-logo img.landscape {
+    width: 100px;
+    height: 100px;
   }
 }

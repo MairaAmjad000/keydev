@@ -36,7 +36,6 @@
         "src": "/images/portfolio/mainpage/microsoft-art-of-work-logo.png",
         "alt": ""
       },
-      "title": "A 360-Degree Virtual Reality App for Microsoft",
       "tags": [
         "Design",
         "Development"
@@ -56,6 +55,10 @@
         "images": [
           "/images/portfolio/mainpage/microsoft-art-of-work-laptop.png"
         ]
+      },
+      "logoText": {
+        "name": "Virtual Reality App",
+        "tagline": "A 360-Degree VR App for Microsoft"
       }
     },
     {
@@ -64,9 +67,7 @@
       "background": "/images/portfolio/backgrounds/FormAssist.jpg",
       "logo": {
         "src": "/images/portfolio/mainpage/form-assist-logo.png",
-        "alt": "",
-        "width": "127",
-        "height": "129"
+        "alt": ""
       },
       "logoText": {
         "name": "FormAssist",
@@ -148,9 +149,7 @@
       "classes": "mobapp websiteapp PakistanEats",
       "logo": {
         "src": "/images/portfolio/mainpage/Pakistan-eats-logo.png",
-        "alt": "",
-        "width": "127",
-        "height": "129"
+        "alt": ""
       },
       "logoText": {
         "name": "Pakistan Eats",
@@ -263,9 +262,7 @@
       "background": "/images/portfolio/backgrounds/mfm.jpg",
       "logo": {
         "src": "/images/portfolio/mainpage/mfm-logo.png",
-        "alt": "",
-        "width": "127",
-        "height": "129"
+        "alt": ""
       },
       "logoText": {
         "name": "My Fit Month",
@@ -370,9 +367,7 @@
       "background": "/images/portfolio/backgrounds/Handley.jpg",
       "logo": {
         "src": "/images/portfolio/mainpage/handley-logo.png",
-        "alt": "",
-        "width": "127",
-        "height": "129"
+        "alt": ""
       },
       "logoText": {
         "name": "Handley",
@@ -467,9 +462,7 @@
       "background": "/images/portfolio/backgrounds/claireabella.jpg",
       "logo": {
         "src": "/images/portfolio/mainpage/claireabella-logo.png",
-        "alt": "",
-        "width": "127",
-        "height": "129"
+        "alt": ""
       },
       "logoText": {
         "name": "Claireabella",
@@ -554,9 +547,7 @@
       "background": "/images/portfolio/backgrounds/LabelXChange.jpg",
       "logo": {
         "src": "/images/portfolio/mainpage/LabelXChange-logo.png",
-        "alt": "",
-        "width": "127",
-        "height": "129"
+        "alt": ""
       },
       "logoText": {
         "name": "LabelXChange",
@@ -732,9 +723,7 @@
       "background": "/images/portfolio/backgrounds/appai.jpg",
       "logo": {
         "src": "/images/portfolio/mainpage/appai-logo-icon.png",
-        "alt": "",
-        "width": "126",
-        "height": "128"
+        "alt": ""
       },
       "logoText": {
         "name": "Search by Shape AI",
@@ -859,8 +848,7 @@
       "reverse": true,
       "logo": {
         "src": "/images/portfolio/mainpage/squshy-logo-icon.png",
-        "alt": "",
-        "className": "landscape"
+        "alt": ""
       },
       "logoText": {
         "name": "Squishysaurus",
