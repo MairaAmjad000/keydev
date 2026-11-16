@@ -71,6 +71,7 @@ import { howWeWorkPageSources } from './local-how-we-work';
 import { clientReviewPageSources } from './local-client-review';
 import { technologiesPageSources } from './local-technologies';
 import { estimatePageSources } from './local-estimate';
+import { mobileApplicationPages } from './local-mobile-application';
 import type { GlobalSectionsContent, PageData, SectionBlock, SectionDataMap, SectionType, SiteData } from '@/types';
 import mobileAppDevelopmentPage from '../../../content/pages/service-category/mobile-app-development/page.json';
 import mobileAppDevelopmentCategoryHero from '../../../content/pages/service-category/mobile-app-development/sections/category-hero.json';
@@ -315,4 +316,5 @@ export const localPages: Record<string, PageData> = {
   ...Object.fromEntries(clientReviewPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(technologiesPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(estimatePageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(mobileApplicationPages.map((page) => [page.slug, page])),
 };

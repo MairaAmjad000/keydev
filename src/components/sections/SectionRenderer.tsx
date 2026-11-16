@@ -57,6 +57,10 @@ import { TechnologyGroups } from './TechnologyGroups';
 import { EstimateWizard } from './EstimateWizard';
 import { BlogPost } from './BlogPost';
 import { PolicyContent } from './PolicyContent';
+import { AnchorNav } from './AnchorNav';
+import { SectionAnchor } from './SectionAnchor';
+import { IntroSlider } from './IntroSlider';
+import { OfferGrid } from './OfferGrid';
 
 function renderSection(block: SectionBlock, forms: FormsContent) {
   switch (block.type) {
@@ -117,6 +121,10 @@ function renderSection(block: SectionBlock, forms: FormsContent) {
     case 'estimateWizard': return <EstimateWizard data={block.data} forms={forms} />;
     case 'blogPost': return <BlogPost data={block.data} />;
     case 'policyContent': return <PolicyContent data={block.data} />;
+    case 'anchorNav': return <AnchorNav data={block.data} />;
+    case 'sectionAnchor': return <SectionAnchor data={block.data} />;
+    case 'introSlider': return <IntroSlider data={block.data} />;
+    case 'offerGrid': return <OfferGrid data={block.data} />;
     default: return null;
   }
 }

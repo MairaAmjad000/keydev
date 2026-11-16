@@ -1,0 +1,35 @@
+{
+  "image": {
+    "src": "/images/category/mobile-app-development/banner-mobile-app-development.webp",
+    "alt": "Cross Platform app development by KeyDevs Technologies",
+    "width": "1920",
+    "height": "780"
+  },
+  "heading": "Cross Platform App Development",
+  "text": "Greater market penetration should be the strategy of all mobile app marketers, and to realise it with a tight budget might be a nightmare when we look at the fragmentation of the mobile platform. Fortunately, KeyDevs Technologies has the capabilities to develop cross-platform mobile applications using the latest technologies and frameworks to make it a reality for you that your end-users will applaud.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate App Development Cost"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Mobile App Development",
+      "href": "/mobile-application-development"
+    },
+    {
+      "text": "Cross-Platform"
+    }
+  ]
+}

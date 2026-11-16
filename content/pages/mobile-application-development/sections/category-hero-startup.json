@@ -1,0 +1,31 @@
+{
+  "image": {
+    "src": "/images/category/mobile-app-development/banner-mobile-app-development.webp",
+    "alt": "Mobile app development for startups by KeyDevs Technologies",
+    "width": "1920",
+    "height": "780"
+  },
+  "heading": "App Development Solutions for Startups",
+  "text": "Innovative App Development for Startups <br/><br/> Get in touch! As a standout startup app development company in Pakistan, we specialize in crafting customer-focused applications that place your vision at the core, delivering an outstanding user experience. <br/><br/> Our talented UI/UX designers and dedicated mobile app developers work with you to transform your startup concept into a high-quality MVP, tailored perfectly for early-stage startups.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate App Development Cost"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Mobile App Development"
+    }
+  ]
+}

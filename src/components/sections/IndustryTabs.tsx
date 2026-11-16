@@ -1,5 +1,7 @@
 import { Fragment } from 'react';
 import type { IndustryTabsContent } from '@/types';
+import { CalloutBar } from './shared/CalloutBar';
+import { IconSlot } from './shared/IconSlot';
 
 /**
  * "Many Industries, Many Solutions" block of the mobile-app service pages: a fading slide per industry
@@ -8,16 +10,26 @@ import type { IndustryTabsContent } from '@/types';
 export function IndustryTabs({ data }: { data: IndustryTabsContent }) {
   return (
     <>
-      <section className="padding-60 bg-light p-relative pb-0">
-        <div className="container">
-          <div className="title mb-0">
-            <span>{data.text}</span>
-            {' '}
-            <h2>{data.heading}</h2>
-          </div>
-        </div>
-      </section>
-      {' '}
+      {data.heading && (
+        <>
+          <section className="padding-60 bg-light p-relative pb-0">
+            {data.callout && (
+              <>
+                <CalloutBar data={data.callout} />
+                {' '}
+              </>
+            )}
+            <div className="container">
+              <div className={data.callout ? 'title mb-0 mt-5' : 'title mb-0'}>
+                <span>{data.text}</span>
+                {' '}
+                <h2>{data.heading}</h2>
+              </div>
+            </div>
+          </section>
+          {' '}
+        </>
+      )}
       <section className="padding-00-60 bg-light o-hidden">
         <div className="app-service-tab-content">
           {data.items.map((item, i) => (
@@ -30,7 +42,7 @@ export function IndustryTabs({ data }: { data: IndustryTabsContent }) {
                   {' '}
                   <div className="col-lg-6 col-12">
                     <div className="app-service-tab-text">
-                      <div className="app-svg-icon" dangerouslySetInnerHTML={{ __html: item.icon }} />
+                      <IconSlot icon={item.icon} className="app-svg-icon" />
                       {' '}
                       <h3>{item.title}</h3>
                       {item.paragraphs.map((paragraph, j) => (
@@ -51,7 +63,7 @@ export function IndustryTabs({ data }: { data: IndustryTabsContent }) {
           {data.items.map((item, i) => (
             <div className="item" key={i}>
               <div className="app-service-tab-box">
-                <div className="app-svg-icon" dangerouslySetInnerHTML={{ __html: item.navIcon }} />
+                <IconSlot icon={item.navIcon} className="app-svg-icon" />
                 {' '}
                 <span>{item.navLabel}</span>
               </div>

@@ -1291,15 +1291,18 @@ export interface PolicyContentContent {
 // ---------------------------------------------------------------------------------------------
 
 export interface IndustryTabsContent {
+  /** Small label above the heading. The title block is left out when `heading` is empty. */
   text: string;
   heading: string;
+  /** Callout bar shown at the top of the title block (e.g. "Do you have a VISION? ..."). */
+  callout?: CalloutBarContent;
   items: Array<{
     image: CmsImage;
     title: string;
     paragraphs: string[];
-    /** Inline SVG shown above the title in the slide. */
+    /** Icon: key of the icon registry (e.g. "svg-1a2b3c") or inline SVG markup. */
     icon: string;
-    /** Inline SVG and label shown in the tab strip under the slider. */
+    /** Icon and label shown in the tab strip under the slider (key or inline SVG, as above). */
     navIcon: string;
     navLabel: string;
   }>;
@@ -1309,13 +1312,62 @@ export interface AppPlatformsContent {
   text: string;
   heading: string;
   text2: string;
+  /** `icon`: key of the icon registry (e.g. "svg-1a2b3c") or inline SVG markup. */
   items: Array<{ icon: string; label: string }>;
 }
 
 export interface AppWhyChooseContent {
+  /** Classes of the <section> (default "padding-60 bg-white"). */
+  sectionClass?: string;
+  /** Callout bar shown at the top of the section; use with a "p-relative" section class. */
+  callout?: CalloutBarContent;
   text: string;
   heading: string;
   text2: string;
-  /** `icon` is inline SVG markup. */
+  /** `icon`: key of the icon registry (e.g. "svg-1a2b3c") or inline SVG markup. */
   items: Array<{ icon: string; title: string; text: string }>;
+}
+
+/** The white "Do you have a VISION? We have a TEAM to get you there." bar (the text may hold the typed-word <span>). */
+export interface CalloutBarContent {
+  text: string;
+  link: { href: string; text: string };
+  /** Extra classes on the bar itself (default "callouts-separate-2": pinned to the top of the section). */
+  barClass?: string;
+}
+
+// ---------------------------------------------------------------------------------------------
+// Several service blocks on one page (content/pages/mobile-application-development).
+// ---------------------------------------------------------------------------------------------
+
+/** Row of "jump to" links at the top of a page that stacks several service blocks. */
+export interface AnchorNavContent {
+  items: Array<{ id: string; label: string }>;
+}
+
+/** Invisible target of an AnchorNav link: put it in front of the first section of a block. */
+export interface SectionAnchorContent {
+  id: string;
+}
+
+/** Heading + paragraphs + button beside a slider (pictures on top, round icon tabs below). */
+export interface IntroSliderContent {
+  /** Classes of the <section> (default "about service-main-content"). */
+  sectionClass?: string;
+  heading: string;
+  paragraphs: Array<{ html: string }>;
+  link: CmsLink;
+  images: CmsImage[];
+  /** Icon keys of the round tabs under the pictures (key of the icon registry). */
+  icons: string[];
+}
+
+/** Grid of service cards: round icon on the card's top edge, linked title, text and an "Explore More" button. */
+export interface OfferGridContent {
+  /** Classes of the <section> (default "padding-60 bg-light game-service-offer-main"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2: string;
+  items: Array<{ icon: string; title: string; text: string; link: CmsLink }>;
 }

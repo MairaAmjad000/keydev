@@ -256,3 +256,24 @@ ones are used (see `src/lib/cms/global-sections.ts`).
 `policyContent` section (last-updated date, intro, sections with anchors, contact card). The footer and the cookie notice
 already link to it. Another legal page (terms, cookie policy) is a new folder with the same two sections, registered in
 `src/lib/cms/local-legal.ts`.
+
+## Mobile application development page (several service blocks on one page)
+
+`/mobile-application-development` (`content/pages/mobile-application-development`) stacks five service blocks
+(startups, Android, iPhone, Flutter, cross platform) under a row of jump links. Because a section type repeats
+(five `categoryHero`s, ...), its manifest entries are `"type"` or `"type:block"` (e.g. `"categoryHero:android"`) and
+the data file is `sections/<type-in-kebab-case>[-block].json`; it is registered in `src/lib/cms/local-mobile-application.ts`.
+When the admin panel returns the page, it is the usual ordered `{ type, data }` list, so repeats need nothing special.
+
+| type | component | note |
+| --- | --- | --- |
+| `anchorNav` | `AnchorNav` | row of "jump to" links (`items[].id` = id of a `sectionAnchor`) |
+| `sectionAnchor` | `SectionAnchor` | invisible target that opens a block |
+| `introSlider` | `IntroSlider` | picture slider with round icon tabs + heading, text, button |
+| `offerGrid` | `OfferGrid` | service cards with a round icon on the top edge |
+
+Reused as they were: `categoryHero`, `introContent`, `process`, `appPlatforms`, `appWhyChoose`, `industryTabs`,
+`whyChoose`, `callout`, `brandLogos`, `portfolio`, `testimonials`, `technologies`, `blog`, `featuredIn`.
+`appWhyChoose` and `industryTabs` gained an optional callout bar (and `appWhyChoose.sectionClass`); `industryTabs`
+skips its title block when `heading` is empty. Icons in these sections are keys of the icon registry (`svg-xxxxxx`);
+inline SVG markup still works.

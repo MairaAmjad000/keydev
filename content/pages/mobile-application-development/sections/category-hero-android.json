@@ -1,0 +1,74 @@
+{
+  "image": {
+    "src": "/images/category/mobile-app-development/banner-mobile-app-development.webp",
+    "alt": "Android app development by KeyDevs Technologies",
+    "width": "1920",
+    "height": "780"
+  },
+  "heading": "Android App Development Company",
+  "text": "Android app development demands specialized expertise. Our Android app development agency boasts a talented team of experienced developers who are passionate about innovation and creativity.<br/> <br/> We are dedicated to providing top-notch Android app development services and support through our professional, approachable, and hands-on team.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate App Development Cost"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Mobile App Development",
+      "href": "/mobile-application-development"
+    },
+    {
+      "text": "Android App Development"
+    }
+  ],
+  "form": {
+    "id": "androidappdev-banner_form",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Name",
+        "required": true,
+        "label": "Name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email",
+        "required": true,
+        "label": "Email"
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "placeholder": "Phone Number",
+        "required": true,
+        "minLength": 10,
+        "maxLength": 11,
+        "variant": "phone"
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "Project Descriptions",
+        "required": false,
+        "label": "Message",
+        "rows": 4
+      }
+    ],
+    "submitText": "Get Started Now!",
+    "errorId": "androidappdev-error_message_banner_form",
+    "successId": "androidappdev-success_message_banner_form"
+  }
+}

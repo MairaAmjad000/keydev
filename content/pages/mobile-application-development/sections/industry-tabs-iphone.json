@@ -1,0 +1,152 @@
+{
+  "text": "Type of Services",
+  "heading": "Tailored Solutions for Diverse Industries",
+  "items": [
+    {
+      "image": {
+        "src": "/images/service/industries/on-demand-business.webp",
+        "alt": "On-demand Business"
+      },
+      "title": "On-demand Business",
+      "paragraphs": [
+        "Tap into the growing trend of on-demand businesses. From taxi hailing to food ordering, there is so much that an on-demand app can do. But, it needs the app to be well-thought, especially from the angles of the customer, deliverer and admin.",
+        "With a breadth of experience in building all kinds of on-demand businesses, we are sure to turn your business easily available on demand for your customers."
+      ],
+      "icon": "svg-ae273d",
+      "navIcon": "svg-ae273d",
+      "navLabel": "On Demand Business"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/shopping-and-ecommerce.webp",
+        "alt": "Shopping and eCommerce"
+      },
+      "title": "Shopping and eCommerce",
+      "paragraphs": [
+        "The Trillion-dollar worth mobile commerce world has room for plenty of iPhone apps. Make your app stand out from the crowd with shopping-friendly features like secure mobile checkout, wishlists, digital wallets, order tracking and much more."
+      ],
+      "icon": "svg-c93273",
+      "navIcon": "svg-c93273",
+      "navLabel": "Shopping & Ecommerce"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/instant-messaging.webp",
+        "alt": "Instant Messaging"
+      },
+      "title": "Instant Messaging",
+      "paragraphs": [
+        "Be here. Be there. Be everywhere. Be available real-time with instant messaging apps for instant messaging, video communication, online collaboration and much more. Instant messaging can throw open a world of communication options for your business.",
+        "Your business may not need another Facebook Messenger or WhatsApp. It needs a customized instant messaging app. We can help you build that."
+      ],
+      "icon": "svg-8433a2",
+      "navIcon": "svg-8433a2",
+      "navLabel": "Instant Messaging"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/live-video-streaming.webp",
+        "alt": "Live Video Streaming"
+      },
+      "title": "Live Video Streaming",
+      "paragraphs": [
+        "On the Internet as well as on media, NOW is the new form of currency. The audience wants to consume content that is produced LIVE right in front of their eyes. To serve that right across all digital platforms, you need the right media infrastructure.",
+        "Our exposure to video on demand solutions, live streaming solutions and digital media technologies can help you become a force in the live video streaming space."
+      ],
+      "icon": "svg-7b3725",
+      "navIcon": "svg-7b3725",
+      "navLabel": "Live Video Streaming"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/banking-and-finance.webp",
+        "alt": "Banking and Finance"
+      },
+      "title": "Banking and Finance",
+      "paragraphs": [
+        "Thanks to Internet banking, digital wallets and cryptocurrencies money has taken several forms. Still, the functions of banking and finance haven’t undergone much change. There are several redundant processes that the century-old industry can reform with the intelligence of custom iPhone app development.",
+        "Our experts who know the logical side of banking and finance and technical side of iPhone app development can facilitate the digital transformation of your financial business."
+      ],
+      "icon": "svg-07cfdd",
+      "navIcon": "svg-07cfdd",
+      "navLabel": "Banking and Finance"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/health-and-fitness.webp",
+        "alt": "Health and Fitness"
+      },
+      "title": "Health and Fitness",
+      "paragraphs": [
+        "This is the era of ‘quantified self’. Users want to measure the very step that they take, monitor their heart rate, count the number of calories they burn and do much more with their smart devices.",
+        "What better way to do all that than with an Apple device. Our iPhone app development services can build health and fitness apps that can turn around lifestyle for the health-conscious users."
+      ],
+      "icon": "svg-04ad2e",
+      "navIcon": "svg-04ad2e",
+      "navLabel": "Health & Fitness"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/travel-and-tourism.webp",
+        "alt": "Travel and Tourism"
+      },
+      "title": "Travel and Tourism",
+      "paragraphs": [
+        "The millennial generation is ready to exchange fortunes for experiences. And they need mobile apps to help them find new travel experiences.",
+        "As an iPhone app development company, we have a keen eye to build travel and tourism apps that will help users to plan better, find more places, document their travels, socialize with fellow travellers and do much more."
+      ],
+      "icon": "svg-2f1184",
+      "navIcon": "svg-2f1184",
+      "navLabel": "Travel & Tourism"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/education-and-learning.webp",
+        "alt": "Education and Learning"
+      },
+      "title": "Education and Learning",
+      "paragraphs": [
+        "iPhones, iPads and iMacs are the new on-demand tutors. And, the best way to carry around tutors in pockets is with mobile apps. We build iPhone apps for education and learning purposes that turn children into attentive students.",
+        "Our iPhone apps for education and learning come equipped with vivid animations, gamification and even paywall features to facilitate monetization."
+      ],
+      "icon": "svg-eddbb0",
+      "navIcon": "svg-eddbb0",
+      "navLabel": "Education & Learning"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/photo-and-video.webp",
+        "alt": "Photo and Video"
+      },
+      "title": "Photo and Video",
+      "paragraphs": [
+        "From photo editing to video editing, the right iPhone can turn an average user into a resourceful media expert. As an experienced iPhone app development company, we can help you build easy-to-use and feature-rich iPhone apps for photo and video editing.",
+        "Take your user’s photo and video experience to a whole new level with custom-built iPhone apps that can do everything from applying filters to cropping and fixing exposure settings automatically."
+      ],
+      "icon": "svg-dc9809",
+      "navIcon": "svg-dc9809",
+      "navLabel": "Photo & Video"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/media-and-entertainment.webp",
+        "alt": "Media and Entertainment"
+      },
+      "title": "Media and Entertainment",
+      "paragraphs": [
+        "Build iPhone apps that can do many things including music streaming, video on demand, subscription-based media payback and much more. Bridge the gap between iPhone’s stellar user experience and immersive media apps with our custom iPhone app development expertise.",
+        "Come to us with an app idea, greet the world with an iPhone app that will keep users hooked to the media for hours long."
+      ],
+      "icon": "svg-846dbe",
+      "navIcon": "svg-846dbe",
+      "navLabel": "Media & Entertainment"
+    }
+  ],
+  "callout": {
+    "text": "Do you have a <span id=\"iphone-app-development-callouts-type\"></span> We have a TEAM to get you there.",
+    "link": {
+      "href": "/contact",
+      "text": "Get In Touch"
+    }
+  }
+}

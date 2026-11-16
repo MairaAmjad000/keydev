@@ -1,0 +1,61 @@
+{
+  "text": "What We Offers",
+  "heading": "Our Startup App Development Services",
+  "text2": "We offer comprehensive mobile app development for startups across all platforms, delivering functional, scalable, and robust applications tailored to our clients' needs.",
+  "items": [
+    {
+      "icon": "svg-e2776c",
+      "title": "Android App Development",
+      "text": "We specialize in crafting custom Android apps that cater to the ever-growing smartphone and tablet market. Our team of dedicated experts is passionate about transforming your ideas into user-friendly Android apps that captivate and engage. Whether you're aiming to scale your business or breathe life into your vision, we're here to help you succeed.",
+      "link": {
+        "href": "/service/android-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "icon": "svg-5bc09b",
+      "title": "iPhone App Development",
+      "text": "We specialize in developing high-quality, user-friendly iPhone apps that align with both business goals and end-user expectations. Our skilled iOS developers utilize cutting-edge tools and technology to build sleek, efficient apps that provide a seamless experience for your users. With KeyDevs Technologies, you can deliver an exceptional iPhone app that sets your brand apart.",
+      "link": {
+        "href": "/service/iphone-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "icon": "svg-a9fba3",
+      "title": "Cross Platform App Development",
+      "text": "We develop cross-platform mobile apps that function seamlessly on any device and operating system, offering startups the flexibility to reach a broader audience. Our hybrid app frameworks blend the best of native and web-based applications, delivering platform-specific features while preserving the native app experience. This approach empowers startups to achieve optimal results and enhance user engagement.",
+      "link": {
+        "href": "/service/cross-platform-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "icon": "svg-e273dd",
+      "title": "Flutter App Development",
+      "text": "We emphasize innovation by incorporating Google’s Flutter SDK into our mobile app development framework. Flutter empowers startups to build native-like mobile applications for both Android and iOS, delivering exceptional user experiences and sleek material design.",
+      "link": {
+        "href": "/service/flutter-app-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "icon": "svg-282198",
+      "title": "Ecommerce App Development",
+      "text": "Our team crafts user-friendly, visually appealing, and secure mobile applications tailored to your unique brand and customer needs. With features like seamless payment integration, product management, and analytics, we ensure your eCommerce app not only attracts customers but also drives sales and enhances user engagement.",
+      "link": {
+        "href": "/service-category/ecommerce-development",
+        "text": "Explore More"
+      }
+    },
+    {
+      "icon": "svg-4a720b",
+      "title": "Game Development",
+      "text": "Our talented team combines creativity with the latest technologies to design and develop high-quality games for various platforms, including mobile, web, and consoles. From concept to launch, we focus on delivering visually stunning graphics, compelling gameplay, and seamless performance.",
+      "link": {
+        "href": "/service-category/game-development",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

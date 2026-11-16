@@ -1,0 +1,136 @@
+{
+  "text": "",
+  "heading": "",
+  "items": [
+    {
+      "image": {
+        "src": "/images/service/industries/business-app.webp",
+        "alt": "custom android app development company Lahore"
+      },
+      "title": "Business Apps",
+      "paragraphs": [
+        "Android app development for professionals to stay atop of business real-time activities."
+      ],
+      "icon": "svg-d0340a",
+      "navIcon": "svg-d0340a",
+      "navLabel": "Business Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/education-and-learning.webp",
+        "alt": "android app development services"
+      },
+      "title": "Educational Apps",
+      "paragraphs": [
+        "Education apps for teachers, parents and students for optimized mobile learning on the go."
+      ],
+      "icon": "svg-eddbb0",
+      "navIcon": "svg-eddbb0",
+      "navLabel": "Educational Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/on-demand-business.webp",
+        "alt": "best android development company Pakistan, Lahore, Leeds."
+      },
+      "title": "On-demand Business",
+      "paragraphs": [
+        "Android app development for professionals to stay atop of business real-time activities."
+      ],
+      "icon": "svg-ae273d",
+      "navIcon": "svg-ae273d",
+      "navLabel": "On Demand Business"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/media-and-entertainment.webp",
+        "alt": "android application development company Pakistan, Lahore"
+      },
+      "title": "Entertainment Apps",
+      "paragraphs": [
+        "Get all the entertainment under one roof with android app development for entertainment."
+      ],
+      "icon": "svg-846dbe",
+      "navIcon": "svg-846dbe",
+      "navLabel": "Entertainment Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/music-app.webp",
+        "alt": "android application development"
+      },
+      "title": "Music Apps",
+      "paragraphs": [
+        "Build an app for your rock band and even to run a local radio station on android phone."
+      ],
+      "icon": "svg-ed1400",
+      "navIcon": "svg-ed1400",
+      "navLabel": "Music Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/social-networking-apps.webp",
+        "alt": "android application development services"
+      },
+      "title": "Social Networking Apps",
+      "paragraphs": [
+        "You could be developing next Snapchat or Instagram with us! Get social networking apps for android users."
+      ],
+      "icon": "svg-85c02e",
+      "navIcon": "svg-85c02e",
+      "navLabel": "Social Networking Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/banking-and-finance.webp",
+        "alt": "android development agency"
+      },
+      "title": "Finance Apps",
+      "paragraphs": [
+        "From wallet apps to trading equities, get banking and finance app for android."
+      ],
+      "icon": "svg-07cfdd",
+      "navIcon": "svg-07cfdd",
+      "navLabel": "Finance Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/health-and-fitness.webp",
+        "alt": "android app development companies"
+      },
+      "title": "Health And Fitness Apps",
+      "paragraphs": [
+        "Keep a track of your daily activities and fitness regime with health and fitness app."
+      ],
+      "icon": "svg-04ad2e",
+      "navIcon": "svg-04ad2e",
+      "navLabel": "Health And Fitness Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/game-apps-ar-vr.webp",
+        "alt": "android mobile app development services"
+      },
+      "title": "Game Apps (AR/VR)",
+      "paragraphs": [
+        "Android game apps for Augmented and Virtual Reality users to carve your own niche in new age game development."
+      ],
+      "icon": "svg-f06f1b",
+      "navIcon": "svg-f06f1b",
+      "navLabel": "Game Apps (AR/VR)"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/lifestyle-apps.webp",
+        "alt": "android app development company Pakistan"
+      },
+      "title": "Lifestyle Apps",
+      "paragraphs": [
+        "A dedicated or integrated android app for fashion, recreation, culture, leisure, news, and travel."
+      ],
+      "icon": "svg-6ca304",
+      "navIcon": "svg-6ca304",
+      "navLabel": "Lifestyle Apps"
+    }
+  ]
+}

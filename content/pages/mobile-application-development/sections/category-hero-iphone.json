@@ -1,0 +1,35 @@
+{
+  "image": {
+    "src": "/images/category/mobile-app-development/banner-mobile-app-development.webp",
+    "alt": "iPhone app development by KeyDevs Technologies",
+    "width": "1920",
+    "height": "780"
+  },
+  "heading": "iPhone App Development",
+  "text": "Aim to stand out in the crowded iPhone app development market. This was our vision when we embarked on the journey of creating iPhone applications. As passionate supporters of the Apple ecosystem, we believe that every app in the App Store should reflect the same high standards of design, user experience, and practicality that Steve Jobs championed. When you partner with us for custom iPhone app development, you're not just getting another app; you're getting a unique experience that will captivate your users.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate App Development Cost"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Mobile App Development",
+      "href": "/mobile-application-development"
+    },
+    {
+      "text": "iphone"
+    }
+  ]
+}

@@ -121,9 +121,9 @@ $(".lazybg").length && $(".lazybg").lazy(),
 
         // Initialize the typer globally to ensure it runs after each navigation
     window.initializeTyper = function() {
-        const typerElement = $("#callouts-type");
-        if (typerElement.length && !typerElement.hasClass("typer-initialized")) {
-            typerElement.addClass("typer-initialized").typer({
+        // Pages with several callouts give each its own id ("<block>-callouts-type"), so match by suffix.
+        $('[id$="callouts-type"]').not(".typer-initialized").each(function () {
+            $(this).addClass("typer-initialized").typer({
                 typeSpeed: 200,
                 backspaceSpeed: 50,
                 backspaceDelay: 800,
@@ -133,7 +133,7 @@ $(".lazybg").length && $(".lazybg").lazy(),
                 startDelay: 100,
                 strings: ["VISION?", "MISSION?"],
             });
-        }
+        });
     };
 
         // Call initializeTyper to set it up

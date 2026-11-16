@@ -1,0 +1,69 @@
+/* OfferGrid: service cards with a round icon on the top edge. Base rules; the responsive tweaks stay in about.css / industries.css. */
+.game-service-offer-box {
+   border: 1px solid #ecedee;
+   padding: 30px 20px;
+   background-color: #fff;
+   transition: all .3s ease-in-out;
+   min-height: 360px;
+   margin: 70px 0 30px
+}
+
+.game-service-offer-icon {
+   width: 100px;
+   height: 100px;
+   margin: -86px 0 30px;
+   background-color: #fff;
+   border-radius: 100%;
+   border: 1px solid #ecedee;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .1);
+   transition: all .3s ease-in-out
+}
+
+.game-service-offer-icon svg {
+   width: 55px
+}
+
+.game-service-offer-icon svg circle,
+.game-service-offer-icon svg ellipse,
+.game-service-offer-icon svg path,
+.game-service-offer-icon svg polygon,
+.game-service-offer-icon svg rect {
+   fill: #202122;
+   transition: all .3s ease-in-out
+}
+
+.game-service-offer-box h3 {
+   font-size: 18px;
+   font-weight: 500;
+   margin-bottom: 15px;
+   transition: all .3s ease-in-out
+}
+
+.game-service-offer-box h3 a {
+   color: #202122
+}
+
+.game-service-offer-box h3 a:focus,
+.game-service-offer-box h3 a:hover {
+   color: #008080
+}
+
+.game-service-offer-box:hover {
+   border: 1px solid #008080;
+   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .15)
+}
+
+.game-service-offer-box:hover .game-service-offer-icon {
+   background-color: #008080
+}
+
+.game-service-offer-box:hover svg circle,
+.game-service-offer-box:hover svg ellipse,
+.game-service-offer-box:hover svg path,
+.game-service-offer-box:hover svg polygon,
+.game-service-offer-box:hover svg rect {
+   fill: #fff
+}

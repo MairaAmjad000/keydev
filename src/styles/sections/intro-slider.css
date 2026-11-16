@@ -1,0 +1,51 @@
+/* IntroSlider: picture slider card with round icon tabs below it. Base rules; the mobile tweaks stay in brand-logos.css. */
+.about-slider {
+   width: 100%;
+   position: relative;
+   background: #fbfcfc;
+   border-radius: 10px;
+   overflow: hidden;
+   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .15)
+}
+
+.about-img-slider {
+   padding: 20px;
+   text-align: center
+}
+
+.about-img-slider img {
+   display: inline-block;
+   max-width: 100%;
+   height: auto
+}
+
+.about-icon-slider {
+   background: #fff;
+   padding: 15px 20px;
+   margin-top: -90px
+}
+
+.about-icon-slider a {
+   background: #008080;
+   width: 60px;
+   height: 60px;
+   border-radius: 50%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 0 auto
+}
+
+.about-icon-slider a svg {
+   width: 40px
+}
+
+.about-icon-slider .slick-current a {
+   background: #343535
+}
+
+.about-icon-slider a {
+   width: 40px;
+   height: 40px;
+   padding: 8px
+}

@@ -1,0 +1,47 @@
+{
+  "text": "Why We",
+  "heading": "Why Choose KeyDevs Technologies for Your iPhone App Development?",
+  "text2": "Custom app development requires a tech-savvy partner, not just a service provider. As your technology partner in iPhone application development, we will optimize your time and resources to create an engaging and immersive iPhone app.",
+  "items": [
+    {
+      "icon": "svg-d10820",
+      "title": "Agile Development Methodology",
+      "text": "We utilize the Agile development methodology to enable swift product releases while ensuring stability and high-quality code."
+    },
+    {
+      "icon": "svg-70b2c7",
+      "title": "Flawless Deployment",
+      "text": "Our QA Experts use a combination of manual and automation testing way to ensure that the app is bug-free."
+    },
+    {
+      "icon": "svg-889d74",
+      "title": "Budget-Friendly",
+      "text": "While high-quality services and affordability may not be found together elsewhere, at KeyDevs Technologies, this is one of our core unique selling propositions."
+    },
+    {
+      "icon": "svg-47a221",
+      "title": "Skilled Native Developers",
+      "text": "Your apps will be created by skilled, experienced, and passionate iPhone app developers who view their work as masterpieces."
+    },
+    {
+      "icon": "svg-5986ff",
+      "title": "Impressive UI/UX",
+      "text": "Our UI/UX designs are crafted to align with the familiar patterns and interactions that users naturally engage with."
+    },
+    {
+      "icon": "svg-2b9550",
+      "title": "NDA",
+      "text": "For every project, we implement a Non-Disclosure Agreement (NDA) that guarantees the confidentiality of your project details, preventing any sharing with unauthorized individuals."
+    },
+    {
+      "icon": "svg-dfea52",
+      "title": "Open & Affordable",
+      "text": "Our developers, tech leads, and the whole team are dedicated to exceeding client expectations and delivering on our commitments."
+    },
+    {
+      "icon": "svg-10ac92",
+      "title": "Timely Delivery",
+      "text": "We understand the frustration of missed deadlines, which is why we take proactive steps to guarantee that your project is delivered on schedule, or even ahead of time."
+    }
+  ]
+}

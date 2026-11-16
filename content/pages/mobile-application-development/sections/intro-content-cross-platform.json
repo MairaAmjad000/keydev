@@ -1,0 +1,44 @@
+{
+  "heading": "Cross Platform App Development Company",
+  "paragraphs": [
+    {
+      "html": "<strong>Bring More Consistency and Agility To Your Business with Cross Platform Apps.</strong>"
+    },
+    {
+      "html": "Undoubtedly, the mobile user base is unimaginatively huge. Unfortunately, it is fragmented across various mobile OS platforms that restrict easy access to it with a single native app code base. Of course, cross-platform technology is the saviour here but who has the expertise to simulate a native look & feel?"
+    },
+    {
+      "html": "KeyDevs Technologies is a cross-platform app development company famous for tackling such challenges and proved true on all expectations of its patrons."
+    },
+    {
+      "html": "Our mastery of cross-platform application development frameworks like PhoneGap and Titanium to the latest Ionic and Xamarin have enabled us to work with the leading brands."
+    },
+    {
+      "html": "We have served a wide range of businesses coming from diverse industries using our hybrid app development expertise, which has provided us golden opportunities to learn how to tackle hybrid app design and programming challenges successfully."
+    },
+    {
+      "html": "We are here for the benefit our esteemed clients who are looking for a dependable cross-platform application development company to tie long-term relationships, and it is by working at competitive market rates and delivering high quality results they keep on coming back."
+    },
+    {
+      "html": "The benefits of our cross-platform app development endeavours is a significant cost saving & a short development timetable by developing a single code base and deploying it across the platforms."
+    },
+    {
+      "html": "Would you like to benefit from our hard work and skill sets?"
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn-custome btn waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/services/mobile-app-development.png",
+    "alt": "Cross Platform app development company",
+    "width": "470",
+    "height": "410"
+  },
+  "imageClass": "",
+  "sectionClass": "about service-main-content",
+  "headingClass": "mb-3",
+  "imageWrapClass": "video-area-wrapper"
+}

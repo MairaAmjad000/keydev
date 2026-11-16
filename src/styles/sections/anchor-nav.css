@@ -1,0 +1,38 @@
+/* AnchorNav / SectionAnchor: "jump to" links above a page that stacks several service blocks. */
+.svc-jump {
+   margin-top: 50px;      /* clears the fixed header ... */
+   margin-bottom: -50px;  /* ... and cancels the banner's own 50px top margin below it */
+   position: relative;
+   z-index: 10;
+   background: #fff;
+   max-width: none;
+   text-align: center;
+   border-bottom: 1px solid #ecedee
+}
+
+.svc-jump a {
+   display: inline-block;
+   padding: 4px 0;
+   font-size: 15px;
+   font-weight: 500;
+   color: #202122;
+   border-bottom: 2px solid transparent
+}
+
+.svc-jump a:focus,
+.svc-jump a:hover {
+   color: #008080;
+   border-bottom-color: #008080
+}
+
+.svc-block {
+   scroll-margin-top: 70px
+}
+
+/* Several callouts can share a page, so their typed word is found by id suffix instead of one fixed id. */
+[id$="callouts-type"] .typed {
+   color: #008080;
+   font-size: 28px;
+   line-height: 1;
+   font-weight: 700
+}

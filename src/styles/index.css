@@ -28,6 +28,9 @@
    below, exactly as in the original stylesheet, or its fixed font sizes would override the breakpoints. */
 @import './sections/category-hero.css';
 /* Solution page sections: base rules must precede the responsive rules in hero.css / process.css. */
+@import './sections/anchor-nav.css';
+@import './sections/offer-grid.css';
+@import './sections/intro-slider.css';
 @import './sections/hero-side-image.css';
 @import './sections/feature-tabs.css';
 @import './sections/ideal-business.css';

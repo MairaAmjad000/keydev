@@ -87,37 +87,70 @@
             });
         
 
-            /* Mobile app pages: industry slides + tab strip (slick, kept in sync through asNavFor). */
+            /* Mobile app pages: industry slides + tab strip (slick, kept in sync through asNavFor).
+               Every block is set up on its own, so a page can hold several of them. */
             $(document).ready(function() {
                 if (!$(".app-service-tab-content").length || !$.fn.slick) return;
-                if ($(".app-service-tab-content").hasClass("slick-initialized")) return;
-                $(".app-service-tab-content").slick({
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    arrows: false,
-                    fade: true,
-                    asNavFor: ".app-service-tab"
+                $(".app-service-tab-content").each(function() {
+                    var $content = $(this);
+                    if ($content.hasClass("slick-initialized")) return;
+                    var $tabs = $content.closest("section").find(".app-service-tab").first();
+                    $content.slick({
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        arrows: false,
+                        fade: true,
+                        asNavFor: $tabs
+                    });
+                    $tabs.slick({
+                        slidesToShow: 7,
+                        slidesToScroll: 1,
+                        arrows: false,
+                        asNavFor: $content,
+                        dots: false,
+                        centerMode: false,
+                        pauseOnHover: false,
+                        infinite: true,
+                        focusOnSelect: true,
+                        autoplay: true,
+                        autoplaySpeed: 2000,
+                        swipeToSlide: true,
+                        responsive: [
+                            { breakpoint: 1500, settings: { slidesToShow: 6, slidesToScroll: 1, infinite: true } },
+                            { breakpoint: 1400, settings: { slidesToShow: 5, slidesToScroll: 1, infinite: true } },
+                            { breakpoint: 1200, settings: { slidesToShow: 4, slidesToScroll: 1, infinite: true } },
+                            { breakpoint: 991, settings: { slidesToShow: 3, slidesToScroll: 1 } },
+                            { breakpoint: 640, settings: { slidesToShow: 2, slidesToScroll: 1 } },
+                            { breakpoint: 480, settings: { slidesToShow: 1, slidesToScroll: 1 } }
+                        ]
+                    });
                 });
-                $(".app-service-tab").slick({
-                    slidesToShow: 7,
-                    slidesToScroll: 1,
-                    arrows: false,
-                    asNavFor: ".app-service-tab-content",
-                    dots: false,
-                    centerMode: false,
-                    pauseOnHover: false,
-                    infinite: true,
-                    focusOnSelect: true,
-                    autoplay: true,
-                    autoplaySpeed: 2000,
-                    swipeToSlide: true,
-                    responsive: [
-                        { breakpoint: 1500, settings: { slidesToShow: 6, slidesToScroll: 1, infinite: true } },
-                        { breakpoint: 1400, settings: { slidesToShow: 5, slidesToScroll: 1, infinite: true } },
-                        { breakpoint: 1200, settings: { slidesToShow: 4, slidesToScroll: 1, infinite: true } },
-                        { breakpoint: 991, settings: { slidesToShow: 3, slidesToScroll: 1 } },
-                        { breakpoint: 640, settings: { slidesToShow: 2, slidesToScroll: 1 } },
-                        { breakpoint: 480, settings: { slidesToShow: 1, slidesToScroll: 1 } }
-                    ]
+            });
+
+            /* Intro slider (about-slider): pictures that fade, with round icon tabs that pick the picture. */
+            $(document).ready(function() {
+                if (!$(".about-img-slider").length || !$.fn.slick) return;
+                $(".about-slider").each(function() {
+                    var $imgs = $(this).find(".about-img-slider");
+                    var $icons = $(this).find(".about-icon-slider");
+                    if ($imgs.hasClass("slick-initialized")) return;
+                    var count = $imgs.children().length;
+                    $imgs.slick({ slidesToShow: 1, slidesToScroll: 1, arrows: false, fade: true, autoplay: true, autoplaySpeed: 3000 });
+                    $icons.slick({
+                        slidesToShow: 4,
+                        slidesToScroll: 1,
+                        arrows: false,
+                        dots: false,
+                        infinite: true,
+                        autoplay: true,
+                        autoplaySpeed: 3000,
+                        focusOnSelect: true,
+                        swipeToSlide: true,
+                        responsive: [{ breakpoint: 480, settings: { slidesToShow: 3 } }]
+                    });
+                    // There can be more icons than pictures: an icon picks the picture with the same position.
+                    $icons.on("beforeChange", function(e, slick, current, next) {
+                        $imgs.slick("slickGoTo", next % count);
+                    });
                 });
             });

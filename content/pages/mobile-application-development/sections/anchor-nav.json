@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "svc-mobile-application-development",
+      "label": "Mobile Application Development"
+    },
+    {
+      "id": "svc-androidappdev",
+      "label": "Android App Development"
+    },
+    {
+      "id": "svc-iphone-app-development",
+      "label": "Iphone App Development"
+    },
+    {
+      "id": "svc-flutter-application-development",
+      "label": "Flutter Application Development"
+    },
+    {
+      "id": "svc-cross-platform-mobile-app-development",
+      "label": "Cross Platform Mobile App Development"
+    }
+  ]
+}

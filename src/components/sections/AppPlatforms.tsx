@@ -1,5 +1,6 @@
 import { Fragment } from 'react';
 import type { AppPlatformsContent } from '@/types';
+import { IconSlot } from './shared/IconSlot';
 import { SectionTitle } from './shared/SectionTitle';
 
 /** "Transcends Smartphone Limitations": a row of platform icons (phone, tablet, VR, AR). */
@@ -15,7 +16,7 @@ export function AppPlatforms({ data }: { data: AppPlatformsContent }) {
               {i > 0 && ' '}
               <div className="col-6 col-sm-6 col-md-3">
                 <div className="app_service_box">
-                  <div className="app-svg-icon" dangerouslySetInnerHTML={{ __html: item.icon }} />
+                  <IconSlot icon={item.icon} className="app-svg-icon" />
                   {' '}
                   <span>{item.label}</span>
                 </div>

@@ -1,0 +1,136 @@
+{
+  "text": "",
+  "heading": "",
+  "items": [
+    {
+      "image": {
+        "src": "/images/service/industries/business-app.webp",
+        "alt": "Business Apps"
+      },
+      "title": "Business Apps",
+      "paragraphs": [
+        "We help business to improve processes, productivity, accessibility, and profit."
+      ],
+      "icon": "svg-d0340a",
+      "navIcon": "svg-d0340a",
+      "navLabel": "Business Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/education-and-learning.webp",
+        "alt": "Educational Apps"
+      },
+      "title": "Educational Apps",
+      "paragraphs": [
+        "We increase the level of engagement, interactivity, and personalisation in learning."
+      ],
+      "icon": "svg-eddbb0",
+      "navIcon": "svg-eddbb0",
+      "navLabel": "Educational Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/on-demand-business.webp",
+        "alt": "On-demand Business"
+      },
+      "title": "On-demand Business",
+      "paragraphs": [
+        "We help you to improve overall scenario of your on-demand services by granting mobility and flexibility in making choices as well as deals."
+      ],
+      "icon": "svg-ae273d",
+      "navIcon": "svg-ae273d",
+      "navLabel": "On Demand Business"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/media-and-entertainment.webp",
+        "alt": "Entertainment Apps"
+      },
+      "title": "Entertainment Apps",
+      "paragraphs": [
+        "We bring up a revolution in the field of entertainment and media through innovative and customised approaches."
+      ],
+      "icon": "svg-846dbe",
+      "navIcon": "svg-846dbe",
+      "navLabel": "Entertainment Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/music-app.webp",
+        "alt": "Music Apps"
+      },
+      "title": "Music Apps",
+      "paragraphs": [
+        "We enable users to enjoy music on the go, and with streaming services, it is without any downloading and in real-time interactions."
+      ],
+      "icon": "svg-ed1400",
+      "navIcon": "svg-ed1400",
+      "navLabel": "Music Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/social-networking-apps.webp",
+        "alt": "Social Networking Apps"
+      },
+      "title": "Social Networking Apps",
+      "paragraphs": [
+        "We enable you to connect with your social media anytime and from anywhere. We help you to build rapport with your fans and provide real-time interactions."
+      ],
+      "icon": "svg-85c02e",
+      "navIcon": "svg-85c02e",
+      "navLabel": "Social Networking Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/banking-and-finance.webp",
+        "alt": "Finance Apps"
+      },
+      "title": "Finance Apps",
+      "paragraphs": [
+        "We enable users to manage portfolio on the go, obtain real-time updates and alerts, help in hitting goals, and automating financial behaviour."
+      ],
+      "icon": "svg-07cfdd",
+      "navIcon": "svg-07cfdd",
+      "navLabel": "Finance Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/health-and-fitness.webp",
+        "alt": "Health And Fitness Apps"
+      },
+      "title": "Health And Fitness Apps",
+      "paragraphs": [
+        "We enable users to track progress towards the goal, activity levels, and improve overall health performance."
+      ],
+      "icon": "svg-04ad2e",
+      "navIcon": "svg-04ad2e",
+      "navLabel": "Health And Fitness Apps"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/game-apps-ar-vr.webp",
+        "alt": "Game Apps (AR/VR)"
+      },
+      "title": "Game Apps (AR/VR)",
+      "paragraphs": [
+        "We make mobile game easy, smooth, elite, and fun experiences with innovative features. Infusion of the latest AR and VR technologies make it advanced."
+      ],
+      "icon": "svg-f06f1b",
+      "navIcon": "svg-f06f1b",
+      "navLabel": "Game Apps (AR/VR)"
+    },
+    {
+      "image": {
+        "src": "/images/service/industries/lifestyle-apps.webp",
+        "alt": "Lifestyle Apps"
+      },
+      "title": "Lifestyle Apps",
+      "paragraphs": [
+        "We help you to improve your lifestyle and enable you to live better. We provide tools to promote the active and healthy lifestyle."
+      ],
+      "icon": "svg-6ca304",
+      "navIcon": "svg-6ca304",
+      "navLabel": "Lifestyle Apps"
+    }
+  ]
+}
