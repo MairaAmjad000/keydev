@@ -14,50 +14,11 @@
       "text": "View Our Work"
     },
     {
-      "href": "/app-development-cost-calculator",
+      "href": "/contact",
       "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate Your Design Cost"
+      "text": "Inquire Now"
     }
   ],
-  "form": {
-    "id": "ui-ux-banner_form",
-    "fields": [
-      {
-        "type": "text",
-        "name": "name",
-        "placeholder": "Name",
-        "required": true,
-        "label": "Name"
-      },
-      {
-        "type": "email",
-        "name": "email",
-        "placeholder": "Email",
-        "required": true,
-        "label": "Email"
-      },
-      {
-        "type": "text",
-        "name": "phone",
-        "placeholder": "Phone Number",
-        "required": true,
-        "minLength": 10,
-        "maxLength": 11,
-        "variant": "phone"
-      },
-      {
-        "type": "textarea",
-        "name": "message",
-        "placeholder": "Project Descriptions",
-        "required": false,
-        "label": "Message",
-        "rows": 4
-      }
-    ],
-    "submitText": "Get Started Now!",
-    "errorId": "ui-ux-error_message_banner_form",
-    "successId": "ui-ux-success_message_banner_form"
-  },
   "breadcrumbs": [
     {
       "text": "Home",

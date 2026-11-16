@@ -136,6 +136,7 @@ import uiUxDesignTechnologies from '../../../content/pages/service-category/ui-u
 import uiUxDesignFaq from '../../../content/pages/service-category/ui-ux-design/sections/faq.json';
 import uiUxDesignFeaturedIn from '../../../content/pages/service-category/ui-ux-design/sections/featured-in.json';
 import uiUxDesignBlog from '../../../content/pages/service-category/ui-ux-design/sections/blog.json';
+import uiUxDesignCallout from '../../../content/pages/service-category/ui-ux-design/sections/callout.json';
 
 export const localSite: SiteData = {
   settings: site,
@@ -265,6 +266,7 @@ const gameDevelopmentSections: Partial<SectionDataMap> = {
 /** Sections of the "UI/UX Design" category page (content/pages/service-category/ui-ux-design). */
 const uiUxDesignSections: Partial<SectionDataMap> = {
   categoryHero: uiUxDesignCategoryHero,
+  callout: uiUxDesignCallout,
   brandLogos: uiUxDesignBrandLogos,
   introContent: uiUxDesignIntroContent,
   serviceOfferings: uiUxDesignServiceOfferings,

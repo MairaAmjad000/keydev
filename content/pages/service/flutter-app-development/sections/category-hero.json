@@ -16,48 +16,9 @@
     {
       "href": "/app-development-cost-calculator",
       "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate Flutter App Development Cost"
+      "text": "Calculate App Development Cost"
     }
   ],
-  "form": {
-    "id": "flutter-app-development-banner_form",
-    "fields": [
-      {
-        "type": "text",
-        "name": "name",
-        "placeholder": "Name",
-        "required": true,
-        "label": "Name"
-      },
-      {
-        "type": "email",
-        "name": "email",
-        "placeholder": "Email",
-        "required": true,
-        "label": "Email"
-      },
-      {
-        "type": "text",
-        "name": "phone",
-        "placeholder": "Phone Number",
-        "required": true,
-        "minLength": 10,
-        "maxLength": 11,
-        "variant": "phone"
-      },
-      {
-        "type": "textarea",
-        "name": "message",
-        "placeholder": "Project Descriptions",
-        "required": false,
-        "label": "Message",
-        "rows": 4
-      }
-    ],
-    "submitText": "Get Started Now!",
-    "errorId": "flutter-app-development-error_message_banner_form",
-    "successId": "flutter-app-development-success_message_banner_form"
-  },
   "breadcrumbs": [
     {
       "text": "Home",

@@ -9,14 +9,14 @@
   "text": "Get found by the customers already searching for what you offer. KeyDevs Technologies provides technical, on-page and content SEO to grow qualified organic traffic.",
   "links": [
     {
-      "href": "/portfolio",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "View Our Work"
-    },
-    {
       "href": "/contact",
       "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Talk to Our Experts"
+      "text": "Get Your FREE Consultation"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Calculate App Development Cost"
     }
   ],
   "form": {

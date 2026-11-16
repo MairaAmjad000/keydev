@@ -11,6 +11,7 @@ import type {
   StatsCountersContent, LeadershipContent, MissionVisionContent, CoreValuesContent, HistoryTimelineContent,
   ProcessStepsContent, ClutchReviewsContent, ClientReviewsContent,
   TechnologyGroupsContent, EstimateWizardContent, BlogPostContent, PolicyContentContent,
+  IndustryTabsContent, AppPlatformsContent, AppWhyChooseContent,
 } from './sections';
 import type {
   HeaderContent, MobileMenuContent, GetQuoteButtonContent, CallBackSidebarContent, FooterContent,
@@ -25,6 +26,9 @@ export interface SectionDataMap {
   about: AboutContent;
   offerings: OfferingsContent;
   industries: IndustriesContent;
+  industryTabs: IndustryTabsContent;
+  appPlatforms: AppPlatformsContent;
+  appWhyChoose: AppWhyChooseContent;
   values: ValuesContent;
   callout: CalloutContent;
   process: ProcessContent;

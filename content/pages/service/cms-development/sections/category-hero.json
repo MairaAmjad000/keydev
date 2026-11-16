@@ -9,55 +9,11 @@
   "text": "Take control of your content with a CMS built for how your team works. KeyDevs Technologies develops custom and platform-based content management systems that are easy to use and easy to scale.",
   "links": [
     {
-      "href": "/portfolio",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "View Our Work"
-    },
-    {
       "href": "/contact",
       "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Talk to Our Experts"
+      "text": "Let’s Discuss Your Requirement"
     }
   ],
-  "form": {
-    "id": "cms-development-banner_form",
-    "fields": [
-      {
-        "type": "text",
-        "name": "name",
-        "placeholder": "Name",
-        "required": true,
-        "label": "Name"
-      },
-      {
-        "type": "email",
-        "name": "email",
-        "placeholder": "Email",
-        "required": true,
-        "label": "Email"
-      },
-      {
-        "type": "text",
-        "name": "phone",
-        "placeholder": "Phone Number",
-        "required": true,
-        "minLength": 10,
-        "maxLength": 11,
-        "variant": "phone"
-      },
-      {
-        "type": "textarea",
-        "name": "message",
-        "placeholder": "Project Descriptions",
-        "required": false,
-        "label": "Message",
-        "rows": 4
-      }
-    ],
-    "submitText": "Get Started Now!",
-    "errorId": "cms-development-error_message_banner_form",
-    "successId": "cms-development-success_message_banner_form"
-  },
   "breadcrumbs": [
     {
       "text": "Home",

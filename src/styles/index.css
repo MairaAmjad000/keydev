@@ -74,6 +74,8 @@
 @import './sections/sprint-process.css';
 @import './sections/tech-stack-tabs.css';
 @import './sections/why-choose-image.css';
+/* Base rules of the tab slider / platform icons must precede the responsive rules in footer.css and scroll-top.css. */
+@import './sections/app-service-tabs.css';
 
 /* Footer and site-wide widgets */
 @import './layout/footer.css';

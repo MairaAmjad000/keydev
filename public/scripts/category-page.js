@@ -86,3 +86,38 @@
                 }
             });
         
+
+            /* Mobile app pages: industry slides + tab strip (slick, kept in sync through asNavFor). */
+            $(document).ready(function() {
+                if (!$(".app-service-tab-content").length || !$.fn.slick) return;
+                if ($(".app-service-tab-content").hasClass("slick-initialized")) return;
+                $(".app-service-tab-content").slick({
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    arrows: false,
+                    fade: true,
+                    asNavFor: ".app-service-tab"
+                });
+                $(".app-service-tab").slick({
+                    slidesToShow: 7,
+                    slidesToScroll: 1,
+                    arrows: false,
+                    asNavFor: ".app-service-tab-content",
+                    dots: false,
+                    centerMode: false,
+                    pauseOnHover: false,
+                    infinite: true,
+                    focusOnSelect: true,
+                    autoplay: true,
+                    autoplaySpeed: 2000,
+                    swipeToSlide: true,
+                    responsive: [
+                        { breakpoint: 1500, settings: { slidesToShow: 6, slidesToScroll: 1, infinite: true } },
+                        { breakpoint: 1400, settings: { slidesToShow: 5, slidesToScroll: 1, infinite: true } },
+                        { breakpoint: 1200, settings: { slidesToShow: 4, slidesToScroll: 1, infinite: true } },
+                        { breakpoint: 991, settings: { slidesToShow: 3, slidesToScroll: 1 } },
+                        { breakpoint: 640, settings: { slidesToShow: 2, slidesToScroll: 1 } },
+                        { breakpoint: 480, settings: { slidesToShow: 1, slidesToScroll: 1 } }
+                    ]
+                });
+            });

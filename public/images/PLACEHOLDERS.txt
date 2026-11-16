@@ -107,3 +107,19 @@ placeholder path  <-  existing image it was made from
 /images/technologies/adobe-xd.svg  <-  /images/technologies/adobe-illustrator.svg
 /images/technologies/vive.png  <-  /images/technologies/mixed-reality.png
 /images/technologies/windows-mixed-reality.png  <-  /images/technologies/google-virtual-reality.png
+
+/images/service/industries/banking-and-finance.webp  <-  /images/services/ux-ui-design.jpg
+/images/service/industries/business-app.webp  <-  /images/services/mobile-app-development.png
+/images/service/industries/education-and-learning.webp  <-  /images/services/web-application-development.webp
+/images/service/industries/game-apps-ar-vr.webp  <-  /images/services/ecommerce-development.png
+/images/service/industries/health-and-fitness.webp  <-  /images/services/mobile-game-development.png
+/images/service/industries/instant-messaging.webp  <-  /images/how-we-work/how-it-works.webp
+/images/service/industries/lifestyle-apps.webp  <-  /images/engagement/partnership-model.jpg
+/images/service/industries/live-video-streaming.webp  <-  /images/services/ux-ui-design.jpg
+/images/service/industries/media-and-entertainment.webp  <-  /images/services/mobile-app-development.png
+/images/service/industries/music-app.webp  <-  /images/services/web-application-development.webp
+/images/service/industries/on-demand-business.webp  <-  /images/services/ecommerce-development.png
+/images/service/industries/photo-and-video.webp  <-  /images/services/mobile-game-development.png
+/images/service/industries/shopping-and-ecommerce.webp  <-  /images/how-we-work/how-it-works.webp
+/images/service/industries/social-networking-apps.webp  <-  /images/engagement/partnership-model.jpg
+/images/service/industries/travel-and-tourism.webp  <-  /images/services/ux-ui-design.jpg

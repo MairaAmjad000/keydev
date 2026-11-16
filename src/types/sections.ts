@@ -223,6 +223,8 @@ export interface CalloutContent {
   };
   /** When set, the bar is wrapped in a <section> with these classes (e.g. "py-md-5 bg-white p-relative"). */
   wrapperClass?: string;
+  /** Extra classes on the bar itself (e.g. "graybgoption"). */
+  barClass?: string;
 }
 
 export interface ProcessContent {
@@ -1281,4 +1283,39 @@ export interface PolicyContentContent {
   }>;
   /** Card shown at the end of the document. */
   contact?: { heading: string; text: string; email: string; button?: { text: string; href: string } };
+}
+
+
+// ---------------------------------------------------------------------------------------------
+// Mobile-app service page extras (industry tab slider, platform icons).
+// ---------------------------------------------------------------------------------------------
+
+export interface IndustryTabsContent {
+  text: string;
+  heading: string;
+  items: Array<{
+    image: CmsImage;
+    title: string;
+    paragraphs: string[];
+    /** Inline SVG shown above the title in the slide. */
+    icon: string;
+    /** Inline SVG and label shown in the tab strip under the slider. */
+    navIcon: string;
+    navLabel: string;
+  }>;
+}
+
+export interface AppPlatformsContent {
+  text: string;
+  heading: string;
+  text2: string;
+  items: Array<{ icon: string; label: string }>;
+}
+
+export interface AppWhyChooseContent {
+  text: string;
+  heading: string;
+  text2: string;
+  /** `icon` is inline SVG markup. */
+  items: Array<{ icon: string; title: string; text: string }>;
 }
