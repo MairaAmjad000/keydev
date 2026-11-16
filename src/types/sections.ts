@@ -1182,3 +1182,64 @@ export interface EstimateWizardContent {
     networkErrorText: string;
   };
 }
+
+// ---------------------------------------------------------------------------------------------
+// Single blog article (template: content/pages/blog/post-template.json + content/pages/blog/posts/<slug>.json).
+// ---------------------------------------------------------------------------------------------
+
+/** One block of an article body. `html` is for rich text coming from the admin panel. */
+export type BlogPostBlock =
+  | { type: 'paragraph'; text: string }
+  | { type: 'heading'; level?: 2 | 3 | 4; text: string }
+  | { type: 'list'; ordered?: boolean; items: string[] }
+  | { type: 'image'; image: CmsImage; caption?: string }
+  | { type: 'quote'; text: string; cite?: string }
+  | { type: 'html'; html: string };
+
+/** A card in "Related articles". */
+export interface BlogPostRelated {
+  title: string;
+  href: string;
+  image: CmsImage;
+  date: string;
+  category: { text: string; href: string };
+}
+
+export interface BlogPostContent {
+  title: string;
+  image: CmsImage;
+  author: { name: string; href: string; image: CmsImage };
+  date: string;
+  category: { text: string; href: string };
+  /** e.g. "8 min read". */
+  readTime?: string;
+  body: BlogPostBlock[];
+  tags?: Array<{ text: string; href?: string }>;
+  /** Labels and links that are the same for every article (from the template). */
+  labels: { by: string; tagsTitle: string; relatedTitle: string; backText: string; backHref: string };
+  related: BlogPostRelated[];
+  sidebar: Pick<BlogListContent['sidebar'], 'social' | 'categories' | 'cta'>;
+}
+
+/** Data of one article, stored in content/pages/blog/posts/<slug>.json. The page slug is "blog/<slug>". */
+export interface BlogPostData {
+  slug: string;
+  seo?: { title?: string; description?: string };
+  title: string;
+  image: CmsImage;
+  author: { name: string; href: string; image: CmsImage };
+  date: string;
+  category: { text: string; href: string };
+  readTime?: string;
+  body: BlogPostBlock[];
+  tags?: Array<{ text: string; href?: string }>;
+}
+
+/** Shared settings of every article page (content/pages/blog/post-template.json). */
+export interface BlogPostTemplate {
+  heroImage: CmsImage;
+  heroSectionClass?: string;
+  breadcrumbs: { home: string; blog: string };
+  labels: BlogPostContent['labels'];
+  relatedCount: number;
+}

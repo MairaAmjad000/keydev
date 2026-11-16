@@ -52,6 +52,7 @@ import { ClutchReviews } from './ClutchReviews';
 import { ClientReviews } from './ClientReviews';
 import { TechnologyGroups } from './TechnologyGroups';
 import { EstimateWizard } from './EstimateWizard';
+import { BlogPost } from './BlogPost';
 
 function renderSection(block: SectionBlock, forms: FormsContent) {
   switch (block.type) {
@@ -107,6 +108,7 @@ function renderSection(block: SectionBlock, forms: FormsContent) {
     case 'clientReviews': return <ClientReviews data={block.data} />;
     case 'technologyGroups': return <TechnologyGroups data={block.data} />;
     case 'estimateWizard': return <EstimateWizard data={block.data} forms={forms} />;
+    case 'blogPost': return <BlogPost data={block.data} />;
     default: return null;
   }
 }

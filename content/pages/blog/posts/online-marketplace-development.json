@@ -1,0 +1,111 @@
+{
+  "slug": "online-marketplace-development",
+  "seo": {
+    "title": "Online B2B Marketplace Development [2023] | KeyDevs Technologies",
+    "description": "How to build an online B2B marketplace: business models, must-have features, technology choices, a launch plan and how to solve the chicken-and-egg problem."
+  },
+  "title": "Online B2B Marketplace Development [2023]",
+  "image": {
+    "src": "/images/blog/mainpage/how-to-build-an-online-b2b-marketplace.png",
+    "alt": "Online B2B Marketplace Development [2023]"
+  },
+  "author": {
+    "name": "Yasser",
+    "href": "/blog/author/oliverbaker",
+    "image": {
+      "src": "/images/blog/mainpage/imgpsh-fullsize.jpg",
+      "alt": "Oliver-Author"
+    }
+  },
+  "date": "June 01, 2023",
+  "category": {
+    "text": "eCommerce",
+    "href": "/blog/category/ecommerce"
+  },
+  "readTime": "9 min read",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "B2B transactions made a major shift from on-site deals to online platforms during the COVID-19 pandemic, and the change has stayed. Buyers now expect to find suppliers, compare prices and place orders online. That has created a big opportunity for marketplace founders."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is a B2B marketplace?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A B2B marketplace is a platform where businesses buy from and sell to other businesses. Unlike consumer marketplaces, orders are larger, prices are often negotiated and buyers expect invoicing, credit terms and account management."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Popular revenue models"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Commission on each completed transaction.",
+        "Subscription fees for suppliers or buyers.",
+        "Listing and promotion fees.",
+        "Value-added services such as logistics or financing."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Must-have features"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Verified supplier and buyer profiles.",
+        "Product catalogue with advanced search and filters.",
+        "Request-for-quote and bulk ordering.",
+        "Secure payments and invoicing.",
+        "Order tracking and messaging.",
+        "Ratings, reviews and an admin dashboard."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choosing your technology"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pick a scalable stack that your team can maintain. A modular architecture lets you start with the core flows and add integrations, such as ERP, shipping and payment gateways, as you grow."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Solving the chicken-and-egg problem"
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with one niche and one side of the market. Recruit a small group of quality suppliers first, give them tools that are useful on their own, and then invite buyers."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Final thoughts"
+    },
+    {
+      "type": "paragraph",
+      "text": "A good marketplace removes friction for both sides. Begin with a focused MVP, measure how the platform is used and expand step by step."
+    }
+  ],
+  "tags": [
+    {
+      "text": "B2B"
+    },
+    {
+      "text": "Marketplace"
+    },
+    {
+      "text": "eCommerce"
+    }
+  ]
+}

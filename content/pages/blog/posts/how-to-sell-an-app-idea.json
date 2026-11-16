@@ -1,0 +1,112 @@
+{
+  "slug": "how-to-sell-an-app-idea",
+  "seo": {
+    "title": "How to Sell An App Idea [The Ultimate Guide] | KeyDevs Technologies",
+    "description": "Learn how to sell an app idea: validate it, protect it, build a convincing pitch and find the right buyers or partners."
+  },
+  "title": "How to Sell An App Idea [The Ultimate Guide]",
+  "image": {
+    "src": "/images/blog/mainpage/how-to-sell-an-app-idea-in-the-pakistan.png",
+    "alt": "How to Sell An App Idea [The Ultimate Guide]"
+  },
+  "author": {
+    "name": "Yasser",
+    "href": "/blog/author/oliverbaker",
+    "image": {
+      "src": "/images/blog/mainpage/imgpsh-fullsize.jpg",
+      "alt": "Oliver-Author"
+    }
+  },
+  "date": "May 02, 2023",
+  "category": {
+    "text": "Mobile App Development",
+    "href": "/blog/category/mobile-app-development"
+  },
+  "readTime": "8 min read",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "You have a brilliant app idea. You want to build it and start a business around it, but you may not have the budget or the skills to do it alone. Selling the idea, or finding a partner to develop it, is one option. Here is how to approach it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Validate the idea"
+    },
+    {
+      "type": "paragraph",
+      "text": "Buyers pay for evidence, not enthusiasm. Research the market, identify who the users are, and show that people want a solution like yours."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Protect your idea"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ideas on their own are hard to protect, but you can use non-disclosure agreements when sharing details and consider trademarks for your brand. Speak to a legal adviser about what applies to you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Turn the idea into something tangible"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Wireframes or a clickable prototype.",
+        "A short description of the problem and the solution.",
+        "Competitor analysis and market size.",
+        "A simple monetisation plan."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Build a convincing pitch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep it short: the problem, your solution, the target market, how it makes money and what you are asking for. A prototype demo is far more persuasive than slides alone."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Find the right buyers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Look at investors, established companies in the same industry, startup studios and development partners who may take equity or a revenue share in return for building the product."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Agree the deal carefully"
+    },
+    {
+      "type": "paragraph",
+      "text": "Be clear on price, ownership of intellectual property and what happens after the sale. Always put terms in writing."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Final thoughts"
+    },
+    {
+      "type": "paragraph",
+      "text": "The more complete and proven your idea, the more it is worth. If you need a prototype or an MVP to support your pitch, our team can help you build it."
+    }
+  ],
+  "tags": [
+    {
+      "text": "App Idea"
+    },
+    {
+      "text": "Startup"
+    },
+    {
+      "text": "Mobile App Development"
+    }
+  ]
+}

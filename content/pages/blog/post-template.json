@@ -1,0 +1,18 @@
+{
+  "heroImage": {
+    "src": "/images/blog/blog-banner.jpg",
+    "alt": "mobile app development company Pakistan - KeyDevs Technologies",
+    "width": "1920",
+    "height": "800"
+  },
+  "heroSectionClass": "blog",
+  "breadcrumbs": { "home": "Home", "blog": "Blog" },
+  "labels": {
+    "by": "By",
+    "tagsTitle": "Tags:",
+    "relatedTitle": "Related Articles",
+    "backText": "Back to Blog",
+    "backHref": "/blog"
+  },
+  "relatedCount": 3
+}
