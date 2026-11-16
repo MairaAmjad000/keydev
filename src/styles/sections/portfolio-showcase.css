@@ -549,8 +549,10 @@
 .portfolio-preview-box.Flanter::before {
   background: rgba(0,139,105,.90);
 }
+/* Portfolio banner only (its wrapper has little bottom padding, so the breadcrumb flows below the text on small screens).
+   Other inner banners keep the breadcrumb absolutely positioned, as in the original stylesheet. */
 @media (max-width: 991px) {
-  .innerbanner .breadcrumb {
+  .innerbanner.height668 .breadcrumb {
     bottom: 0;
     position: relative;
   }

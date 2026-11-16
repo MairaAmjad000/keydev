@@ -241,6 +241,21 @@
    text-transform: uppercase
 }
 
+/* Inner-page banner text sizes. category-hero.css is imported before this file, so on screens wider than 1600px the
+   base 60px / 24px above would win over its 45px / 18px. Repeating them here, after the base rules and before the
+   breakpoints below, gives the original cascade: base, then inner banner, then responsive. */
+.innerbanner h1 {
+   font-size: 45px
+}
+
+.innerbanner h1.f-40 {
+   font-size: 38px
+}
+
+.innerbanner p {
+   font-size: 18px
+}
+
 @media screen and (-ms-high-contrast:active),
       (-ms-high-contrast:none) {
   .types-of-ar-platform-box {
