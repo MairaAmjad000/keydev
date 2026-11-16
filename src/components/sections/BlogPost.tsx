@@ -1,45 +1,7 @@
 import { Fragment } from 'react';
-import type { BlogPostBlock, BlogPostContent } from '@/types';
+import type { BlogPostContent } from '@/types';
+import { ContentBlock } from './shared/ContentBlock';
 import { link } from '@/lib/utils/markup';
-
-function Block({ block }: { block: BlogPostBlock }) {
-  switch (block.type) {
-    case 'paragraph':
-      return <p>{block.text}</p>;
-    case 'heading': {
-      const Tag = `h${block.level ?? 2}` as 'h2' | 'h3' | 'h4';
-      return <Tag>{block.text}</Tag>;
-    }
-    case 'list': {
-      const Tag = block.ordered ? 'ol' : 'ul';
-      return (
-        <Tag>
-          {block.items.map((item, i) => (
-            <li key={i}>{item}</li>
-          ))}
-        </Tag>
-      );
-    }
-    case 'image':
-      return (
-        <figure className="blog-post-figure">
-          <img className="rounded10" src={block.image.src} alt={block.image.alt} loading="lazy" />
-          {block.caption && <figcaption>{block.caption}</figcaption>}
-        </figure>
-      );
-    case 'quote':
-      return (
-        <blockquote>
-          <p>{block.text}</p>
-          {block.cite && <cite>{block.cite}</cite>}
-        </blockquote>
-      );
-    case 'html':
-      return <div dangerouslySetInnerHTML={{ __html: block.html }} />;
-    default:
-      return null;
-  }
-}
 
 /**
  * Single blog article (one template for every post): article card on the left (picture, author / date /
@@ -91,7 +53,7 @@ export function BlogPost({ data }: { data: BlogPostContent }) {
               </div>
               <div className="blog-post-body">
                 {data.body.map((block, i) => (
-                  <Block key={i} block={block} />
+                  <ContentBlock key={i} block={block} />
                 ))}
               </div>
               {data.tags && data.tags.length > 0 && (

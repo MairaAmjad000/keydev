@@ -1,0 +1,22 @@
+{
+  "sectionClass": "blog",
+  "textClass": "text-center",
+  "heading": "Privacy Policy",
+  "text": "How we collect, use and protect your personal information.",
+  "links": [],
+  "image": {
+    "src": "/images/blog/blog-banner.jpg",
+    "alt": "KeyDevs Technologies privacy policy",
+    "width": "1920",
+    "height": "800"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Privacy Policy"
+    }
+  ]
+}

@@ -63,6 +63,7 @@ import { servicePageSources } from './local-services';
 import { solutionPageSources } from './local-solutions';
 import { portfolioPageSources } from './local-portfolio';
 import { blogPageSources } from './local-blog';
+import { legalPageSources } from './local-legal';
 import { blogCategoryPages, blogPostPages } from './local-blog-posts';
 import { contactPageSources } from './local-contact';
 import { whoWeArePageSources } from './local-who-we-are';
@@ -305,6 +306,7 @@ export const localPages: Record<string, PageData> = {
   ...Object.fromEntries(blogPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(blogPostPages.map((page) => [page.slug, page])),
   ...Object.fromEntries(blogCategoryPages.map((page) => [page.slug, page])),
+  ...Object.fromEntries(legalPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(contactPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(whoWeArePageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(howWeWorkPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),

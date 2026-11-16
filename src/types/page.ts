@@ -10,7 +10,7 @@ import type {
   ContactFormContent, ContactInfoContent, ContactMapContent,
   StatsCountersContent, LeadershipContent, MissionVisionContent, CoreValuesContent, HistoryTimelineContent,
   ProcessStepsContent, ClutchReviewsContent, ClientReviewsContent,
-  TechnologyGroupsContent, EstimateWizardContent, BlogPostContent,
+  TechnologyGroupsContent, EstimateWizardContent, BlogPostContent, PolicyContentContent,
 } from './sections';
 import type {
   HeaderContent, MobileMenuContent, GetQuoteButtonContent, CallBackSidebarContent, FooterContent,
@@ -73,6 +73,7 @@ export interface SectionDataMap {
   technologyGroups: TechnologyGroupsContent;
   estimateWizard: EstimateWizardContent;
   blogPost: BlogPostContent;
+  policyContent: PolicyContentContent;
 }
 
 export type SectionType = keyof SectionDataMap;

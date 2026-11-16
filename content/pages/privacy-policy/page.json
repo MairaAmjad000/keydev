@@ -1,0 +1,11 @@
+{
+  "slug": "privacy-policy",
+  "seo": {
+    "title": "Privacy Policy | KeyDevs Technologies",
+    "description": "Read how KeyDevs Technologies collects, uses, shares and protects your personal information, and the choices and rights you have."
+  },
+  "sections": [
+    "categoryHero",
+    "policyContent"
+  ]
+}

@@ -249,3 +249,10 @@ ones are used (see `src/lib/cms/global-sections.ts`).
   `images/brand/pph.webp`, `images/footer/handshake.png`. Upload them (or change the paths in the admin panel).
 * Components are server components on purpose: jQuery/slick manage the DOM after load, so React must not re-render it.
   `public/scripts` are those browser scripts, loaded in order by `components/scripts/SiteScripts.tsx`.
+
+## Privacy policy (and other legal pages)
+
+`/privacy-policy` is CMS content like every other page (`content/pages/privacy-policy`): a `categoryHero` banner plus a
+`policyContent` section (last-updated date, intro, sections with anchors, contact card). The footer and the cookie notice
+already link to it. Another legal page (terms, cookie policy) is a new folder with the same two sections, registered in
+`src/lib/cms/local-legal.ts`.

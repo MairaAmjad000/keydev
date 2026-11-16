@@ -1261,3 +1261,24 @@ export interface BlogCategoryTemplate {
   buttonText: string;
   emptyText: string;
 }
+
+// ---------------------------------------------------------------------------------------------
+// Legal / policy pages (content/pages/privacy-policy). Reusable for terms, cookie policy, etc.
+// ---------------------------------------------------------------------------------------------
+
+export interface PolicyContentContent {
+  /** e.g. { label: "Last updated", date: "November 16, 2026" }. */
+  lastUpdated?: { label: string; date: string };
+  /** Opening text before the first section. */
+  intro?: BlogPostBlock[];
+  /** Heading of the sticky contents list; omit to hide the list. */
+  contentsTitle?: string;
+  sections: Array<{
+    /** Anchor of the section (used by the contents list), e.g. "cookies". */
+    id: string;
+    heading: string;
+    body: BlogPostBlock[];
+  }>;
+  /** Card shown at the end of the document. */
+  contact?: { heading: string; text: string; email: string; button?: { text: string; href: string } };
+}

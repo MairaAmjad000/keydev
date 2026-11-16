@@ -1,0 +1,43 @@
+/* policy-content: legal pages (privacy policy, terms). Typography comes from .blog-post-body (blog-post.css). */
+#policy {
+  margin-top: -75px;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 60px;
+}
+.policy-document {
+  padding: 40px;
+  margin-bottom: 30px;
+}
+.policy-updated {
+  color: #6a6d6f;
+  font-size: 15px;
+}
+.policy-section {
+  scroll-margin-top: 110px;
+}
+.policy-section:first-of-type h2 {
+  margin-top: 25px;
+}
+.policy-contents {
+  position: sticky;
+  top: 110px;
+  margin-bottom: 30px;
+}
+.policy-contents h3 {
+  font-size: 20px;
+}
+.policy-contact {
+  margin-top: 40px;
+  padding: 25px;
+  border-radius: 10px;
+  background: #f5f9f9;
+}
+.policy-contact h3 {
+  margin-top: 0;
+}
+@media (max-width: 767px) {
+  .policy-document {
+    padding: 20px;
+  }
+}
