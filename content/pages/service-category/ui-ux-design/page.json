@@ -6,20 +6,18 @@
   },
   "sections": [
     "categoryHero",
-    "brandLogos",
     "introContent",
-    "serviceOfferings",
-    "featureList",
-    "advantageGrid",
-    "process",
-    "frameworkTabs",
+    "uiuxServices",
+    "uiuxMobileDesign",
+    "uiuxWebDesign",
+    "uiuxProcess",
+    "uiuxTools",
     "whyChoose",
     "callout",
-    "portfolio",
+    "brandLogos",
     "testimonials",
-    "technologies",
-    "faq",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }

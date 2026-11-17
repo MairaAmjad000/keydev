@@ -1,0 +1,58 @@
+{
+  "sectionClass": "padding-60 bg-light",
+  "text": "Tech stack used",
+  "heading": "Strategically Chosen Tech Stack That Will Springboard Your eCommerce Ambitions",
+  "text2": "Building an eCommerce store requires the right set of tools, technologies and platforms. We have the expertise on a broad-range of eCommerce web development technologies to build your dream online store.",
+  "paneId": "ecommerce-web-development-mobile-technologies",
+  "listClass": "justify-content-between",
+  "icons": [
+    {
+      "image": {
+        "src": "/images/technologies/woo.png",
+        "alt": "ecommerce website development company in Pakistan"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/technologies/shopify.png",
+        "alt": "ecommerce web design services"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/technologies/magento.png",
+        "alt": "custom ecommerce website"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/technologies/php.png",
+        "alt": "KeyDevs Technologies offers custom eCommerce website development services in  PHP."
+      }
+    },
+    {
+      "image": {
+        "src": "/images/technologies/laravel.png",
+        "alt": "Are you looking for eCommerce web development solutions? KeyDevs Technologies being the best  eCommerce development company in the Pakistan, offer eCommerce development solutions in wide technologies"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/technologies/codeigniter.png",
+        "alt": "At KeyDevs Technologies, we create eCommerce web design in Lahore which specialises in delivering effective and bespoke eCommerce development solutions in Lahore."
+      }
+    },
+    {
+      "image": {
+        "src": "/images/technologies/node.png",
+        "alt": "When it comes to e-commerce solutions, KeyDevs Technologies is known for eCommerce development Lahore. full-service eCommerce web design agency in Lahore"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/technologies/angular.png",
+        "alt": "Our eCommerce website developer for the Pakistan are proficient in proving eCommerce development in cutting edge technologies like AngularJS."
+      }
+    }
+  ]
+}

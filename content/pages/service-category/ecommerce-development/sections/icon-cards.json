@@ -1,0 +1,49 @@
+{
+  "text": "Our offerings",
+  "heading": "Conversion-driven eCommerce Website Development Services",
+  "text2": "With KeyDevs Technologies, a top ecommerce website development company you won't be just another online store. Become a store where customers will click their way in for long-lasting shopping sprees.",
+  "heightClass": "m-height-380",
+  "background": "light",
+  "items": [
+    {
+      "icon": "svg-8a06fa",
+      "title": "Custom eCommerce Development",
+      "text": "As a frontrunning eCommerce Development Company, we will help you build a fully-customized eCommerce store that appeals to your target market."
+    },
+    {
+      "icon": "svg-6e87fb",
+      "title": "Mobile Commerce Development",
+      "text": "Tap into the burgeoning trillion dollar mobile commerce market with our specialized mobile commerce development services."
+    },
+    {
+      "icon": "svg-db84e4",
+      "title": "Theme Development & Integration",
+      "text": "Amplify your store’s performance, maximize admin productivity and enhance customer experience with our eCommerce theme development & integration services."
+    },
+    {
+      "icon": "svg-fbe44a",
+      "title": "UX Research and Design",
+      "text": "Design can make it easy for users to find information, take decisions and buy more from your online store. Our UX research and design services will help you with that."
+    },
+    {
+      "icon": "svg-925cbb",
+      "title": "eCommerce Maintenance & Support",
+      "text": "Sophisticated eCommerce websites require consistent maintenance and support. We will guard your store’s working while you can focus on important tasks."
+    },
+    {
+      "icon": "svg-2504b7",
+      "title": "eCommerce API Integrations",
+      "text": "Increase your store’s reach for affiliate marketing and mobile app performance with eCommerce API integration development."
+    },
+    {
+      "icon": "svg-a4da02",
+      "title": "Payment Gateway Integration",
+      "text": "Turn your eCommerce store into a global store with payment gateway integrations that can accept payments from all recognized card companies of the world."
+    },
+    {
+      "icon": "svg-0eb49a",
+      "title": "eCommerce Migration Platform",
+      "text": "Your existing eCommerce platform giving your operational difficulties? Migrate to a better platform of your choice to set things right. Or allow us to suggest the best one for your store."
+    }
+  ]
+}

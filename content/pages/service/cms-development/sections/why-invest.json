@@ -1,0 +1,43 @@
+{
+  "sectionClass": "padding-6030 bg-light why-you-invest-main invest-erp-main",
+  "containerClass": "container mt-md-5",
+  "text": "Redefine your Business Standards with CMS",
+  "heading": "Why Choose KeyDevs Technologies for CMS Web Development",
+  "text2": "With a dedicated CMS team committed to excellence, we thrive market understanding and providing the latest CMS solutions for businesses. Tap into the whole new world of custom CMS development scaling business to uncharted territory.",
+  "columnClass": "col-lg-4 col-md-6 col-sm-6 col-12 mb-30",
+  "items": [
+    {
+      "icon": "svg-aa53e7",
+      "title": "Flexible Models",
+      "text": "Our custom CMS web development service is flexible enough to mend it itself to ever-evolving business requirements. Offering scalable custom CMS solutions to match your dynamic demands."
+    },
+    {
+      "icon": "svg-2b7db9",
+      "title": "Transparency",
+      "text": "The soul of CMS is transparency and we commit ourselves to the fullest. Timely communication and keeping key personnel in loop from the beginning help us staying transparent and keeping you familiar with the system."
+    },
+    {
+      "icon": "svg-a3379c",
+      "title": "On-Time Sprint Run",
+      "text": "Time is money and we understand how urgent it will be for your business to grow quickly and outperform competitors. We create phase-wise CMS development sprints to avail you with real-time progress information."
+    },
+    {
+      "icon": "svg-3ca174",
+      "title": "Structured CMS reporting",
+      "text": "Our CMS web development reporting offers real picture of each development stage on paper. Charting your success route with structured CMS development service reporting helps us stay agile and make it easier to implement changes."
+    },
+    {
+      "icon": "svg-249fae",
+      "title": "Standardised Processes",
+      "text": "A proven, successful and standardised custom CMS development process ensure considering your inputs and requirements while staying committed to a bigger goal. Our CMS implement proven methods to higher success rate of each element involved."
+    }
+  ],
+  "ctaBox": {
+    "title": "Our Clients Love Us",
+    "link": {
+      "href": "/client-review",
+      "text": "Our Reviews",
+      "className": "btn-custome btn waves-effect waves-light"
+    }
+  }
+}

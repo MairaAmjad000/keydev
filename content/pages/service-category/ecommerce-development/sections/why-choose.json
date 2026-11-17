@@ -1,34 +1,44 @@
 {
-  "text": "What Makes us the Best",
-  "heading": "Why Choose our eCommerce Development Services",
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-white",
+  "heightClass": "m-height-170",
+  "rowClass": "row align-items-center",
+  "text": "Why Choose Us",
+  "heading": "Why Choose Us As Your Ally For Custom eCommerce Development",
   "paragraphs": [
     {
-      "html": "KeyDevs Technologies is considered one of the best eCommerce development companies in Lahore and Pakistan today. We have built stores and ordering systems for retail, food, travel and industrial clients."
-    },
-    {
-      "html": "We continue to be a team of dreamers and doers, becoming more proficient and effective in delivering cutting-edge solutions."
+      "html": "The right technology partner can accelerate your digital transformation and take you closer to your organizational goals. Our eCommerce website development services are fine tuned to ensure that you are bang on the fast lane."
     }
   ],
   "items": [
     {
-      "icon": "svg-fdd57d",
-      "title": "Prompt Customization",
-      "text": "We customize your store quickly to match your products, pricing and workflow without compromising quality."
+      "icon": "svg-07edae",
+      "title": "Diverse platform expertise",
+      "text": "Magento, Drupal, WooCommerce, Shopify, Volusion, or any other eCommerce platform — choose your pick and we will build an online store for you."
     },
     {
-      "icon": "svg-7d6040",
-      "title": "Qualified Team",
-      "text": "Our developers and designers know eCommerce inside out, from catalog design to payment security."
+      "icon": "svg-783ee4",
+      "title": "Proven Track Record",
+      "text": "We have helped countless clients launch their eCommerce websites on a timely basis. Do check out online review sites to checkout what they feel about us."
     },
     {
-      "icon": "svg-0e10e4",
-      "title": "Affordable Solution",
-      "text": "Cost-effective stores that boost the ROI of your business rather than adding to its overhead."
+      "icon": "svg-504d27",
+      "title": "Flexible engagement models",
+      "text": "Hire a dedicated resource, engage a team or hire an eCommerce website developer on an hourly basis. KeyDevs Technologies gives you flexible engagement models you can choose from to best serve your needs."
     },
     {
-      "icon": "svg-71d12b",
-      "title": "Perfect Design",
-      "text": "Beautiful, conversion-focused storefronts that make buying feel effortless."
+      "icon": "svg-b79983",
+      "title": "Platform Partnerships",
+      "text": "We have professional associations and partnership agreements with most eCommerce platforms that make us a legit eCommerce development company to rely on."
+    },
+    {
+      "icon": "svg-3417a5",
+      "title": "World-class Support",
+      "text": "Once a client, always a client. KeyDevs Technologies will be by your side to provide continued support after each project launch. You can reach us through mail or phone to resolve any of your queries."
+    },
+    {
+      "icon": "svg-088d9e",
+      "title": "Happy Customers",
+      "text": "From first-gen entrepreneurs to retail behemoths stepping into online retailing, we have accelerated the eCommerce transformation of all kinds of enterprises. We would happy to make you a happy customer as well."
     }
   ]
 }

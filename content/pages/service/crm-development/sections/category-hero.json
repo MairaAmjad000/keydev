@@ -1,17 +1,15 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "CRM Development by KeyDevs Technologies",
-    "width": "1920",
-    "height": "800"
+    "src": "/images/service/crm-development/banner.webp",
+    "alt": "Custom crm development"
   },
-  "heading": "CRM Development Company",
-  "text": "Manage customer relationships better with a CRM built around your sales process. KeyDevs Technologies builds CRM systems that track leads, automate follow-ups and show what is working.",
+  "heading": "CUSTOM CRM SOFTWARE DEVELOPMENT",
+  "text": "Our custom CRM software development focuses on boosting your sales while efficiently managing valuable sales relationships with clients.<br/><br/>Opt for bespoke CRM software services help managing plethora of customers at one go with through requirements analysis, buying behaviour identification and other metrics providing valuable inputs for upselling on a timely basis.",
   "links": [
     {
       "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Let’s Discuss Your Requirement"
+      "text": "Let’s Discuss Your Requirement",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -20,7 +18,7 @@
       "href": "/"
     },
     {
-      "text": "CRM Development"
+      "text": "CRM"
     }
   ]
 }

@@ -1,22 +1,20 @@
 {
   "image": {
-    "src": "/images/category/ui-ux-design/banner-ui-ux-design.webp",
-    "alt": "UI/UX Design company in Lahore, Pakistan — KeyDevs Technologies",
-    "width": "1920",
-    "height": "800"
+    "src": "/images/service/ui-ux-design/banner.webp",
+    "alt": "Drive Conversions through UX/UI Design Solutions"
   },
-  "heading": "UI/UX DESIGN COMPANY",
-  "text": "KeyDevs Technologies is a full-cycle UI/UX design company. Wondering what that is? <br/><br/> If you want your website or app to be easy to use and a pleasure to look at, we can make that happen. From user research and wireframes to polished interfaces and design systems — we take care of the entire nine yards of product design.",
+  "heading": "UI/UX Design Agency",
+  "text": "As a leading UI UX design company, we offer exceptional UI/UX design and development services to enhance your brand identity and customer experience. Our visually stunning and engaging designs are aimed at eliciting a conversion-driven response.",
   "links": [
     {
       "href": "/portfolio",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "View Our Work"
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     },
     {
       "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Inquire Now"
+      "text": "Inquire Now",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -25,7 +23,8 @@
       "href": "/"
     },
     {
-      "text": "UI/UX Design"
+      "text": "Ui Ux Design"
     }
-  ]
+  ],
+  "headingClass": "text-uppercase"
 }

@@ -20,7 +20,7 @@ export function WhyChoose({ data }: { data: WhyChooseContent }) {
         </div>
         {' '}
         <div className={data.heightClass ?? 'm-height-170'}>
-          <div className="row align-items-center">
+          <div className={data.rowClass ?? 'row align-items-center'}>
             {data.items.map((item, i) => (
               <div key={i} className="col-lg-6 col-md-6 col-sm-12 col-12">
                 <div className="web-why-choose-us-inner-box mhbox">

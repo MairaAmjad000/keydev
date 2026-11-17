@@ -285,6 +285,11 @@ inline SVG markup still works.
 Page order: `categoryHero` (no form), `introContent`, `iconCards` (Node.js uses `coreValues`), optional `featureList` / `advantageGrid`, `whyChoose`, then `brandLogos`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, and the global sections last.
 `iconCards` is the only new section type (`IconCards`, styles already in `why-choose.css`). `advantageGrid` and `coreValues` gained optional `sectionClass` / `heightClass` / `columnClass` fields.
 
+## Enterprise solutions pages (`/service/mvp-development`, `erp-development`, `crm-development`, `cms-development`, `/service-category/ecommerce-development`, `ui-ux-design`)
+
+New section types: `offerBoxes`, `moduleBoxes` (ERP/CRM/CMS cards), `techIcons` (single row of technology logos), `uiuxServices`, `uiuxMobileDesign`, `uiuxWebDesign`, `uiuxProcess`, `uiuxTools` (styles in `styles/sections/uiux-design.css`). `whyInvest` gained `sectionClass` / `containerClass` / `columnClass` / `ctaBox`; `whyChoose` gained `rowClass`; `techStackTabs` gained `sectionClass`.
+Images that the HTML only referenced by path are copies of existing pictures listed in `public/images/PLACEHOLDERS.txt`; replace them with the real files.
+
 ## iOS game development page (`/service/ios-game-development`)
 
 Mirrors the supplied `ios-game-development.html`. Page order: `categoryHero` (no form), `brandLogos`, `introContent`, `gameWhyUs`, `gameExpertise`, `callout`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, and the global sections last.

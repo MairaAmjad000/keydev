@@ -1,0 +1,43 @@
+{
+  "sectionClass": "padding-6030 bg-light why-you-invest-main invest-erp-main",
+  "containerClass": "container mt-md-5",
+  "text": "Why Invest in CRM Software Development?",
+  "heading": "Why KeyDevs Technologies for CRM Solutions?",
+  "text2": "We comprehend your business needs with our CRM solutions team to help you tap in available data and resources, putting them to best use for creative and scalable CRM products.",
+  "columnClass": "col-lg-4 col-md-6 col-sm-6 col-12 mb-30",
+  "items": [
+    {
+      "icon": "svg-a555ad",
+      "title": "Offering Utmost Reliability",
+      "text": "If you are levelling up your game, it must be reliable. We ensure full reliability in terms of data generation and offered security for your business to efficiently utilize the CRM information. Our technical understanding of your business helps us delivering CRM solutions matching industry standards."
+    },
+    {
+      "icon": "svg-f1b747",
+      "title": "Cost Effective CRM Solutions",
+      "text": "The success of any CRM software development relies on how effectively you make an impact with relatively lesser efforts. This means, your CRM operates in full capacity and being a CRM software development company, we ensure your revenue surpass your resource capacities."
+    },
+    {
+      "icon": "svg-64cdc6",
+      "title": "Quality Support and Maintenance",
+      "text": "Real-time data analysis in CRM solutions offers grouping suspects and prospects into predefined filters for quality lead generation. Our CRM software development enables utilizing multiple interactive tools like bulk email, SMS, follow-ups and other lead prospects to maximize leads to customers ratio."
+    },
+    {
+      "icon": "svg-dc6254",
+      "title": "Maintaining Data Confidentiality",
+      "text": "Your data is your biggest asset and we understand it the best way by signing the NDA right before starting the project. This means, all your business information stay secure as our CRM implementation team maintains confidentiality at every stage."
+    },
+    {
+      "icon": "svg-07aa61",
+      "title": "Faster Implementation",
+      "text": "The robustness of any custom CRM software development lies in its agility. With us, you are kept in constant loop for each of the implementation sprint. We implement the functionality phase-wise to offer timely delivery without compromising the quality."
+    }
+  ],
+  "ctaBox": {
+    "title": "Our Clients Love Us",
+    "link": {
+      "href": "/client-review",
+      "text": "Our Reviews",
+      "className": "btn-custome btn waves-effect waves-light"
+    }
+  }
+}

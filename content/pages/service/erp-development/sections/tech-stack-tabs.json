@@ -1,178 +1,293 @@
 {
+  "sectionClass": "padding-60 bg-white ins-msg-how-build-main",
   "text": "How we Build it?",
   "heading": "Technology Stack Behind ERP Development",
-  "idPrefix": "stack",
+  "idPrefix": "erp-development",
   "tabs": [
     {
-      "id": "application",
+      "id": "Application",
       "title": "Application",
       "icons": [
         {
           "image": {
             "src": "/images/technologies/php.png",
-            "alt": "php"
+            "alt": ""
           }
         },
         {
           "image": {
             "src": "/images/technologies/node.png",
-            "alt": "node"
+            "alt": ""
           }
         },
         {
           "image": {
             "src": "/images/technologies/angular.png",
-            "alt": "angular"
+            "alt": ""
           }
         },
         {
           "image": {
-            "src": "/images/technologies/laravel.svg",
-            "alt": "laravel"
+            "src": "/images/technologies/my-sql.png",
+            "alt": ""
           }
         },
         {
           "image": {
-            "src": "/images/technologies/java.svg",
-            "alt": "java"
+            "src": "/images/technologies/amazon-rds.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-ec2.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-s3.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "payment-gateway",
+      "title": "Payment Gateway",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/php.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/node.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/angular.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/my-sql.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/amazon-rds.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-ec2.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-s3.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "backend",
+      "title": "Backend",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/php.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/node.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/angular.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/my-sql.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/amazon-rds.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-ec2.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-s3.png",
+            "alt": ""
           }
         }
       ]
     },
     {
       "id": "database",
-      "title": "Database",
+      "title": "Database & Server",
       "icons": [
         {
           "image": {
+            "src": "/images/technologies/php.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/node.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/angular.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
             "src": "/images/technologies/my-sql.png",
-            "alt": "my-sql"
-          }
-        },
-        {
-          "image": {
-            "src": "/images/technologies/mongodb.svg",
-            "alt": "mongodb"
-          }
-        },
-        {
-          "image": {
-            "src": "/images/technologies/firebase.svg",
-            "alt": "firebase"
+            "alt": ""
           }
         },
         {
           "image": {
             "src": "/images/technologies/amazon-rds.png",
-            "alt": "amazon-rds"
-          }
-        }
-      ]
-    },
-    {
-      "id": "cloud-server",
-      "title": "Cloud & Server",
-      "icons": [
-        {
-          "image": {
-            "src": "/images/technologies/amazon-web-services.svg",
-            "alt": "amazon-web-services"
+            "alt": ""
           }
         },
         {
           "image": {
             "src": "/images/technologies/aws-ec2.png",
-            "alt": "aws-ec2"
+            "alt": ""
           }
         },
         {
           "image": {
             "src": "/images/technologies/aws-s3.png",
-            "alt": "aws-s3"
-          }
-        },
-        {
-          "image": {
-            "src": "/images/technologies/linode.svg",
-            "alt": "linode"
+            "alt": ""
           }
         }
       ]
     },
     {
-      "id": "mobile",
-      "title": "Mobile",
+      "id": "sms-email",
+      "title": "SMS & E-mail",
       "icons": [
         {
           "image": {
-            "src": "/images/technologies/flutter.png",
-            "alt": "flutter"
+            "src": "/images/technologies/php.png",
+            "alt": ""
           }
         },
         {
           "image": {
-            "src": "/images/technologies/swift.svg",
-            "alt": "swift"
+            "src": "/images/technologies/node.png",
+            "alt": ""
           }
         },
         {
           "image": {
-            "src": "/images/technologies/java.svg",
-            "alt": "java"
+            "src": "/images/technologies/angular.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/my-sql.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/amazon-rds.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-ec2.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-s3.png",
+            "alt": ""
           }
         }
       ]
     },
     {
-      "id": "design",
-      "title": "Design",
+      "id": "map-and-navigation",
+      "title": "Map & Navigation",
       "icons": [
         {
           "image": {
-            "src": "/images/technologies/figma.svg",
-            "alt": "figma"
+            "src": "/images/technologies/php.png",
+            "alt": ""
           }
         },
         {
           "image": {
-            "src": "/images/technologies/sketch.svg",
-            "alt": "sketch"
+            "src": "/images/technologies/node.png",
+            "alt": ""
           }
         },
         {
           "image": {
-            "src": "/images/technologies/adobe-photoshop.svg",
-            "alt": "adobe-photoshop"
-          }
-        }
-      ]
-    },
-    {
-      "id": "collaboration",
-      "title": "Collaboration",
-      "icons": [
-        {
-          "image": {
-            "src": "/images/technologies/slack.svg",
-            "alt": "slack"
+            "src": "/images/technologies/angular.png",
+            "alt": ""
           }
         },
         {
           "image": {
-            "src": "/images/technologies/trello.svg",
-            "alt": "trello"
+            "src": "/images/technologies/my-sql.png",
+            "alt": ""
           }
         },
         {
           "image": {
-            "src": "/images/technologies/asana.svg",
-            "alt": "asana"
+            "src": "/images/technologies/amazon-rds.png",
+            "alt": ""
           }
         },
         {
           "image": {
-            "src": "/images/technologies/bitbucket.svg",
-            "alt": "bitbucket"
+            "src": "/images/technologies/aws-ec2.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-s3.png",
+            "alt": ""
           }
         }
       ]

@@ -1,0 +1,39 @@
+{
+  "text": "Web Application Design",
+  "heading": "Web Application UX/UI Design and Development Services",
+  "text2": "Bring in users to your website let the design speak the rest. Hire us as your UX UI company for creating smooth, feature-rich, sleek yet stylish website for maximum conversions.",
+  "items": [
+    {
+      "icon": "svg-f19801",
+      "title": "Custom Web Application Design",
+      "text": "Take your business online with custom web development as we ensure offering best UX/UI design solutions for creating responsive website and impactful engagement."
+    },
+    {
+      "icon": "svg-00a7fb",
+      "title": "Crafting Landing Page Design",
+      "text": "Hold your visitors at landing page and drive conversion on the go with our top UX UI design services for website that connects to user instantly,"
+    }
+  ],
+  "images": {
+    "main": {
+      "src": "/images/service/ui-ux-design/web-app-main.webp",
+      "alt": "ux services"
+    },
+    "laptop": {
+      "src": "/images/uiux/uiux-web-app-design-laptop.webp",
+      "alt": ""
+    },
+    "desktop": {
+      "src": "/images/uiux/uiux-web-app-design-desktop.webp",
+      "alt": ""
+    },
+    "ipad": {
+      "src": "/images/uiux/uiux-web-app-design-ipad.webp",
+      "alt": ""
+    },
+    "iphone": {
+      "src": "/images/uiux/uiux-web-app-design-iphone.webp",
+      "alt": ""
+    }
+  }
+}

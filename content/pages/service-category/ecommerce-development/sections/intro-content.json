@@ -1,28 +1,28 @@
 {
-  "heading": "Bespoke eCommerce Development Agency",
+  "heading": "Custom eCommerce Development Services",
   "paragraphs": [
     {
-      "html": "Conversion, speed and trust. If these three things rank high on your priorities for an online store, KeyDevs Technologies is a perfect fit. We build eCommerce platforms that load quickly, check out smoothly and scale with your catalog."
+      "html": "If you want your eCommerce store to attract more traffic and sell more, it must be a purple cow amidst a sea of black and white cattle. It must have its own identity, an interface that makes things easy for customers and also features that will engage them more."
     },
     {
-      "html": "From a first online store for a growing brand to multi-vendor marketplaces and B2B ordering portals, our eCommerce development services help you sell more across every channel."
+      "html": "Cookie cut websites built with templates available on the internet will not make the cut. You need dedicated custom eCommerce web development services to create an online store that can stand out from the crowd. It is here that KeyDevs Technologies comes in."
     },
     {
-      "html": "Our team works closely with startups, retailers and distributors to connect your store with payments, inventory, shipping, ERP and CRM so that selling online runs on autopilot."
+      "html": "Be it a single vendor marketplace that is truly owned and managed by you, or a multi-vendor store where multiple vendors with multiple stores arrange virtual storefronts under one brand name, our custom eCommerce development services can meet all your requirements."
     },
     {
-      "html": "Start your eCommerce project with an experienced team for stores that customers love to buy from."
+      "html": "Also being a top eCommerce website development agency, our eCommerce developers’ expertise is not restricted to a single platform. We can help you build an online store on multiple platforms including Core PHP, CodeIgniter Laravel, Magento, Shopify, Drupal, WooCommerce, and BigCommerce among many others."
     }
   ],
   "link": {
     "href": "/contact",
-    "text": "Talk to Our Expert Now",
+    "text": "Get in Touch with Us",
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/ecommerce-development.png",
-    "alt": "eCommerce Development",
-    "width": "470",
-    "height": "410"
-  }
+    "src": "/images/service/ecommerce-development/intro.webp",
+    "alt": "ecommerce website development company"
+  },
+  "sectionClass": "service-main-content service-web-inner padding-60 bg-white",
+  "imageClass": "rounded10"
 }

@@ -83,30 +83,6 @@ import vrAppDevelopment_technologies from '../../../content/pages/service/vr-app
 import vrAppDevelopment_faq from '../../../content/pages/service/vr-app-development/sections/faq.json';
 import vrAppDevelopment_featuredIn from '../../../content/pages/service/vr-app-development/sections/featured-in.json';
 import vrAppDevelopment_blog from '../../../content/pages/service/vr-app-development/sections/blog.json';
-import iosGameDevelopmentPage from '../../../content/pages/service/ios-game-development/page.json';
-import iosGameDevelopment_categoryHero from '../../../content/pages/service/ios-game-development/sections/category-hero.json';
-import iosGameDevelopment_brandLogos from '../../../content/pages/service/ios-game-development/sections/brand-logos.json';
-import iosGameDevelopment_introContent from '../../../content/pages/service/ios-game-development/sections/intro-content.json';
-import iosGameDevelopment_gameWhyUs from '../../../content/pages/service/ios-game-development/sections/game-why-us.json';
-import iosGameDevelopment_gameExpertise from '../../../content/pages/service/ios-game-development/sections/game-expertise.json';
-import iosGameDevelopment_callout from '../../../content/pages/service/ios-game-development/sections/callout.json';
-import iosGameDevelopment_portfolio from '../../../content/pages/service/ios-game-development/sections/portfolio.json';
-import iosGameDevelopment_testimonials from '../../../content/pages/service/ios-game-development/sections/testimonials.json';
-import iosGameDevelopment_technologies from '../../../content/pages/service/ios-game-development/sections/technologies.json';
-import iosGameDevelopment_featuredIn from '../../../content/pages/service/ios-game-development/sections/featured-in.json';
-import iosGameDevelopment_blog from '../../../content/pages/service/ios-game-development/sections/blog.json';
-import androidGameDevelopmentPage from '../../../content/pages/service/android-game-development/page.json';
-import androidGameDevelopment_categoryHero from '../../../content/pages/service/android-game-development/sections/category-hero.json';
-import androidGameDevelopment_brandLogos from '../../../content/pages/service/android-game-development/sections/brand-logos.json';
-import androidGameDevelopment_introContent from '../../../content/pages/service/android-game-development/sections/intro-content.json';
-import androidGameDevelopment_gameWhyUs from '../../../content/pages/service/android-game-development/sections/game-why-us.json';
-import androidGameDevelopment_gameExpertise from '../../../content/pages/service/android-game-development/sections/game-expertise.json';
-import androidGameDevelopment_callout from '../../../content/pages/service/android-game-development/sections/callout.json';
-import androidGameDevelopment_portfolio from '../../../content/pages/service/android-game-development/sections/portfolio.json';
-import androidGameDevelopment_testimonials from '../../../content/pages/service/android-game-development/sections/testimonials.json';
-import androidGameDevelopment_technologies from '../../../content/pages/service/android-game-development/sections/technologies.json';
-import androidGameDevelopment_featuredIn from '../../../content/pages/service/android-game-development/sections/featured-in.json';
-import androidGameDevelopment_blog from '../../../content/pages/service/android-game-development/sections/blog.json';
 import unity2D3DGameDevelopmentPage from '../../../content/pages/service/unity-2d-3d-game-development/page.json';
 import unity2D3DGameDevelopment_categoryHero from '../../../content/pages/service/unity-2d-3d-game-development/sections/category-hero.json';
 import unity2D3DGameDevelopment_brandLogos from '../../../content/pages/service/unity-2d-3d-game-development/sections/brand-logos.json';
@@ -189,51 +165,39 @@ import macGameDevelopment_featuredIn from '../../../content/pages/service/mac-ga
 import macGameDevelopment_blog from '../../../content/pages/service/mac-game-development/sections/blog.json';
 import erpDevelopmentPage from '../../../content/pages/service/erp-development/page.json';
 import erpDevelopment_categoryHero from '../../../content/pages/service/erp-development/sections/category-hero.json';
-import erpDevelopment_brandLogos from '../../../content/pages/service/erp-development/sections/brand-logos.json';
 import erpDevelopment_introContent from '../../../content/pages/service/erp-development/sections/intro-content.json';
-import erpDevelopment_offerCards from '../../../content/pages/service/erp-development/sections/offer-cards.json';
-import erpDevelopment_imageCards from '../../../content/pages/service/erp-development/sections/image-cards.json';
-import erpDevelopment_compareBenefits from '../../../content/pages/service/erp-development/sections/compare-benefits.json';
-import erpDevelopment_sprintProcess from '../../../content/pages/service/erp-development/sections/sprint-process.json';
+import erpDevelopment_offerBoxes from '../../../content/pages/service/erp-development/sections/offer-boxes.json';
+import erpDevelopment_moduleBoxes from '../../../content/pages/service/erp-development/sections/module-boxes.json';
+import erpDevelopment_whyInvest from '../../../content/pages/service/erp-development/sections/why-invest.json';
 import erpDevelopment_techStackTabs from '../../../content/pages/service/erp-development/sections/tech-stack-tabs.json';
-import erpDevelopment_whyChooseImage from '../../../content/pages/service/erp-development/sections/why-choose-image.json';
-import erpDevelopment_portfolio from '../../../content/pages/service/erp-development/sections/portfolio.json';
+import erpDevelopment_brandLogos from '../../../content/pages/service/erp-development/sections/brand-logos.json';
 import erpDevelopment_testimonials from '../../../content/pages/service/erp-development/sections/testimonials.json';
-import erpDevelopment_technologies from '../../../content/pages/service/erp-development/sections/technologies.json';
-import erpDevelopment_faq from '../../../content/pages/service/erp-development/sections/faq.json';
 import erpDevelopment_featuredIn from '../../../content/pages/service/erp-development/sections/featured-in.json';
+import erpDevelopment_technologies from '../../../content/pages/service/erp-development/sections/technologies.json';
 import erpDevelopment_blog from '../../../content/pages/service/erp-development/sections/blog.json';
 import crmDevelopmentPage from '../../../content/pages/service/crm-development/page.json';
 import crmDevelopment_categoryHero from '../../../content/pages/service/crm-development/sections/category-hero.json';
-import crmDevelopment_brandLogos from '../../../content/pages/service/crm-development/sections/brand-logos.json';
 import crmDevelopment_introContent from '../../../content/pages/service/crm-development/sections/intro-content.json';
-import crmDevelopment_offerCards from '../../../content/pages/service/crm-development/sections/offer-cards.json';
-import crmDevelopment_imageCards from '../../../content/pages/service/crm-development/sections/image-cards.json';
-import crmDevelopment_compareBenefits from '../../../content/pages/service/crm-development/sections/compare-benefits.json';
-import crmDevelopment_sprintProcess from '../../../content/pages/service/crm-development/sections/sprint-process.json';
-import crmDevelopment_techStackTabs from '../../../content/pages/service/crm-development/sections/tech-stack-tabs.json';
-import crmDevelopment_whyChooseImage from '../../../content/pages/service/crm-development/sections/why-choose-image.json';
-import crmDevelopment_portfolio from '../../../content/pages/service/crm-development/sections/portfolio.json';
+import crmDevelopment_offerBoxes from '../../../content/pages/service/crm-development/sections/offer-boxes.json';
+import crmDevelopment_moduleBoxes from '../../../content/pages/service/crm-development/sections/module-boxes.json';
+import crmDevelopment_whyInvest from '../../../content/pages/service/crm-development/sections/why-invest.json';
+import crmDevelopment_techIcons from '../../../content/pages/service/crm-development/sections/tech-icons.json';
+import crmDevelopment_brandLogos from '../../../content/pages/service/crm-development/sections/brand-logos.json';
 import crmDevelopment_testimonials from '../../../content/pages/service/crm-development/sections/testimonials.json';
-import crmDevelopment_technologies from '../../../content/pages/service/crm-development/sections/technologies.json';
-import crmDevelopment_faq from '../../../content/pages/service/crm-development/sections/faq.json';
 import crmDevelopment_featuredIn from '../../../content/pages/service/crm-development/sections/featured-in.json';
+import crmDevelopment_technologies from '../../../content/pages/service/crm-development/sections/technologies.json';
 import crmDevelopment_blog from '../../../content/pages/service/crm-development/sections/blog.json';
 import cmsDevelopmentPage from '../../../content/pages/service/cms-development/page.json';
 import cmsDevelopment_categoryHero from '../../../content/pages/service/cms-development/sections/category-hero.json';
-import cmsDevelopment_brandLogos from '../../../content/pages/service/cms-development/sections/brand-logos.json';
 import cmsDevelopment_introContent from '../../../content/pages/service/cms-development/sections/intro-content.json';
-import cmsDevelopment_offerCards from '../../../content/pages/service/cms-development/sections/offer-cards.json';
-import cmsDevelopment_imageCards from '../../../content/pages/service/cms-development/sections/image-cards.json';
-import cmsDevelopment_compareBenefits from '../../../content/pages/service/cms-development/sections/compare-benefits.json';
-import cmsDevelopment_sprintProcess from '../../../content/pages/service/cms-development/sections/sprint-process.json';
-import cmsDevelopment_techStackTabs from '../../../content/pages/service/cms-development/sections/tech-stack-tabs.json';
-import cmsDevelopment_whyChooseImage from '../../../content/pages/service/cms-development/sections/why-choose-image.json';
-import cmsDevelopment_portfolio from '../../../content/pages/service/cms-development/sections/portfolio.json';
+import cmsDevelopment_offerBoxes from '../../../content/pages/service/cms-development/sections/offer-boxes.json';
+import cmsDevelopment_moduleBoxes from '../../../content/pages/service/cms-development/sections/module-boxes.json';
+import cmsDevelopment_whyInvest from '../../../content/pages/service/cms-development/sections/why-invest.json';
+import cmsDevelopment_techIcons from '../../../content/pages/service/cms-development/sections/tech-icons.json';
+import cmsDevelopment_brandLogos from '../../../content/pages/service/cms-development/sections/brand-logos.json';
 import cmsDevelopment_testimonials from '../../../content/pages/service/cms-development/sections/testimonials.json';
-import cmsDevelopment_technologies from '../../../content/pages/service/cms-development/sections/technologies.json';
-import cmsDevelopment_faq from '../../../content/pages/service/cms-development/sections/faq.json';
 import cmsDevelopment_featuredIn from '../../../content/pages/service/cms-development/sections/featured-in.json';
+import cmsDevelopment_technologies from '../../../content/pages/service/cms-development/sections/technologies.json';
 import cmsDevelopment_blog from '../../../content/pages/service/cms-development/sections/blog.json';
 import softwareDevelopmentPage from '../../../content/pages/service/software-development/page.json';
 import softwareDevelopment_categoryHero from '../../../content/pages/service/software-development/sections/category-hero.json';
@@ -545,20 +509,39 @@ import nodejsDevelopment_testimonials from '../../../content/pages/service/nodej
 import nodejsDevelopment_featuredIn from '../../../content/pages/service/nodejs-development/sections/featured-in.json';
 import nodejsDevelopment_technologies from '../../../content/pages/service/nodejs-development/sections/technologies.json';
 import nodejsDevelopment_blog from '../../../content/pages/service/nodejs-development/sections/blog.json';
+import androidGameDevelopmentPage from '../../../content/pages/service/android-game-development/page.json';
+import androidGameDevelopment_categoryHero from '../../../content/pages/service/android-game-development/sections/category-hero.json';
+import androidGameDevelopment_brandLogos from '../../../content/pages/service/android-game-development/sections/brand-logos.json';
+import androidGameDevelopment_introContent from '../../../content/pages/service/android-game-development/sections/intro-content.json';
+import androidGameDevelopment_gameWhyUs from '../../../content/pages/service/android-game-development/sections/game-why-us.json';
+import androidGameDevelopment_gameExpertise from '../../../content/pages/service/android-game-development/sections/game-expertise.json';
+import androidGameDevelopment_callout from '../../../content/pages/service/android-game-development/sections/callout.json';
+import androidGameDevelopment_portfolio from '../../../content/pages/service/android-game-development/sections/portfolio.json';
+import androidGameDevelopment_testimonials from '../../../content/pages/service/android-game-development/sections/testimonials.json';
+import androidGameDevelopment_technologies from '../../../content/pages/service/android-game-development/sections/technologies.json';
+import androidGameDevelopment_featuredIn from '../../../content/pages/service/android-game-development/sections/featured-in.json';
+import androidGameDevelopment_blog from '../../../content/pages/service/android-game-development/sections/blog.json';
+import iosGameDevelopmentPage from '../../../content/pages/service/ios-game-development/page.json';
+import iosGameDevelopment_categoryHero from '../../../content/pages/service/ios-game-development/sections/category-hero.json';
+import iosGameDevelopment_brandLogos from '../../../content/pages/service/ios-game-development/sections/brand-logos.json';
+import iosGameDevelopment_introContent from '../../../content/pages/service/ios-game-development/sections/intro-content.json';
+import iosGameDevelopment_gameWhyUs from '../../../content/pages/service/ios-game-development/sections/game-why-us.json';
+import iosGameDevelopment_gameExpertise from '../../../content/pages/service/ios-game-development/sections/game-expertise.json';
+import iosGameDevelopment_callout from '../../../content/pages/service/ios-game-development/sections/callout.json';
+import iosGameDevelopment_portfolio from '../../../content/pages/service/ios-game-development/sections/portfolio.json';
+import iosGameDevelopment_testimonials from '../../../content/pages/service/ios-game-development/sections/testimonials.json';
+import iosGameDevelopment_technologies from '../../../content/pages/service/ios-game-development/sections/technologies.json';
+import iosGameDevelopment_featuredIn from '../../../content/pages/service/ios-game-development/sections/featured-in.json';
+import iosGameDevelopment_blog from '../../../content/pages/service/ios-game-development/sections/blog.json';
 
 export const servicePageSources: { manifest: { slug: string; seo?: { title?: string; description?: string }; sections: string[] }; data: Partial<SectionDataMap> }[] = [
   { manifest: arAppDevelopmentPage, data: { categoryHero: arAppDevelopment_categoryHero, brandLogos: arAppDevelopment_brandLogos, introContent: arAppDevelopment_introContent, offerCards: arAppDevelopment_offerCards, imageCards: arAppDevelopment_imageCards, compareBenefits: arAppDevelopment_compareBenefits, sprintProcess: arAppDevelopment_sprintProcess, techStackTabs: arAppDevelopment_techStackTabs, whyChooseImage: arAppDevelopment_whyChooseImage, portfolio: arAppDevelopment_portfolio, testimonials: arAppDevelopment_testimonials, technologies: arAppDevelopment_technologies, faq: arAppDevelopment_faq, featuredIn: arAppDevelopment_featuredIn, blog: arAppDevelopment_blog, } },
   { manifest: vrAppDevelopmentPage, data: { categoryHero: vrAppDevelopment_categoryHero, brandLogos: vrAppDevelopment_brandLogos, introContent: vrAppDevelopment_introContent, offerCards: vrAppDevelopment_offerCards, imageCards: vrAppDevelopment_imageCards, compareBenefits: vrAppDevelopment_compareBenefits, sprintProcess: vrAppDevelopment_sprintProcess, techStackTabs: vrAppDevelopment_techStackTabs, whyChooseImage: vrAppDevelopment_whyChooseImage, portfolio: vrAppDevelopment_portfolio, testimonials: vrAppDevelopment_testimonials, technologies: vrAppDevelopment_technologies, faq: vrAppDevelopment_faq, featuredIn: vrAppDevelopment_featuredIn, blog: vrAppDevelopment_blog, } },
-  { manifest: iosGameDevelopmentPage, data: { categoryHero: iosGameDevelopment_categoryHero, brandLogos: iosGameDevelopment_brandLogos, introContent: iosGameDevelopment_introContent, gameWhyUs: iosGameDevelopment_gameWhyUs, gameExpertise: iosGameDevelopment_gameExpertise, callout: iosGameDevelopment_callout, portfolio: iosGameDevelopment_portfolio, testimonials: iosGameDevelopment_testimonials, technologies: iosGameDevelopment_technologies, featuredIn: iosGameDevelopment_featuredIn, blog: iosGameDevelopment_blog, } },
-  { manifest: androidGameDevelopmentPage, data: { categoryHero: androidGameDevelopment_categoryHero, brandLogos: androidGameDevelopment_brandLogos, introContent: androidGameDevelopment_introContent, gameWhyUs: androidGameDevelopment_gameWhyUs, gameExpertise: androidGameDevelopment_gameExpertise, callout: androidGameDevelopment_callout, portfolio: androidGameDevelopment_portfolio, testimonials: androidGameDevelopment_testimonials, technologies: androidGameDevelopment_technologies, featuredIn: androidGameDevelopment_featuredIn, blog: androidGameDevelopment_blog, } },
   { manifest: unity2D3DGameDevelopmentPage, data: { categoryHero: unity2D3DGameDevelopment_categoryHero, brandLogos: unity2D3DGameDevelopment_brandLogos, introContent: unity2D3DGameDevelopment_introContent, offerCards: unity2D3DGameDevelopment_offerCards, imageCards: unity2D3DGameDevelopment_imageCards, compareBenefits: unity2D3DGameDevelopment_compareBenefits, sprintProcess: unity2D3DGameDevelopment_sprintProcess, techStackTabs: unity2D3DGameDevelopment_techStackTabs, whyChooseImage: unity2D3DGameDevelopment_whyChooseImage, portfolio: unity2D3DGameDevelopment_portfolio, testimonials: unity2D3DGameDevelopment_testimonials, technologies: unity2D3DGameDevelopment_technologies, faq: unity2D3DGameDevelopment_faq, featuredIn: unity2D3DGameDevelopment_featuredIn, blog: unity2D3DGameDevelopment_blog, } },
   { manifest: arGameDevelopmentPage, data: { categoryHero: arGameDevelopment_categoryHero, brandLogos: arGameDevelopment_brandLogos, introContent: arGameDevelopment_introContent, offerCards: arGameDevelopment_offerCards, imageCards: arGameDevelopment_imageCards, compareBenefits: arGameDevelopment_compareBenefits, sprintProcess: arGameDevelopment_sprintProcess, techStackTabs: arGameDevelopment_techStackTabs, whyChooseImage: arGameDevelopment_whyChooseImage, portfolio: arGameDevelopment_portfolio, testimonials: arGameDevelopment_testimonials, technologies: arGameDevelopment_technologies, faq: arGameDevelopment_faq, featuredIn: arGameDevelopment_featuredIn, blog: arGameDevelopment_blog, } },
   { manifest: vrGameDevelopmentPage, data: { categoryHero: vrGameDevelopment_categoryHero, brandLogos: vrGameDevelopment_brandLogos, introContent: vrGameDevelopment_introContent, offerCards: vrGameDevelopment_offerCards, imageCards: vrGameDevelopment_imageCards, compareBenefits: vrGameDevelopment_compareBenefits, sprintProcess: vrGameDevelopment_sprintProcess, techStackTabs: vrGameDevelopment_techStackTabs, whyChooseImage: vrGameDevelopment_whyChooseImage, portfolio: vrGameDevelopment_portfolio, testimonials: vrGameDevelopment_testimonials, technologies: vrGameDevelopment_technologies, faq: vrGameDevelopment_faq, featuredIn: vrGameDevelopment_featuredIn, blog: vrGameDevelopment_blog, } },
   { manifest: windowsGameDevelopmentPage, data: { categoryHero: windowsGameDevelopment_categoryHero, brandLogos: windowsGameDevelopment_brandLogos, introContent: windowsGameDevelopment_introContent, offerCards: windowsGameDevelopment_offerCards, imageCards: windowsGameDevelopment_imageCards, compareBenefits: windowsGameDevelopment_compareBenefits, sprintProcess: windowsGameDevelopment_sprintProcess, techStackTabs: windowsGameDevelopment_techStackTabs, whyChooseImage: windowsGameDevelopment_whyChooseImage, portfolio: windowsGameDevelopment_portfolio, testimonials: windowsGameDevelopment_testimonials, technologies: windowsGameDevelopment_technologies, faq: windowsGameDevelopment_faq, featuredIn: windowsGameDevelopment_featuredIn, blog: windowsGameDevelopment_blog, } },
   { manifest: macGameDevelopmentPage, data: { categoryHero: macGameDevelopment_categoryHero, brandLogos: macGameDevelopment_brandLogos, introContent: macGameDevelopment_introContent, offerCards: macGameDevelopment_offerCards, imageCards: macGameDevelopment_imageCards, compareBenefits: macGameDevelopment_compareBenefits, sprintProcess: macGameDevelopment_sprintProcess, techStackTabs: macGameDevelopment_techStackTabs, whyChooseImage: macGameDevelopment_whyChooseImage, portfolio: macGameDevelopment_portfolio, testimonials: macGameDevelopment_testimonials, technologies: macGameDevelopment_technologies, faq: macGameDevelopment_faq, featuredIn: macGameDevelopment_featuredIn, blog: macGameDevelopment_blog, } },
-  { manifest: erpDevelopmentPage, data: { categoryHero: erpDevelopment_categoryHero, brandLogos: erpDevelopment_brandLogos, introContent: erpDevelopment_introContent, offerCards: erpDevelopment_offerCards, imageCards: erpDevelopment_imageCards, compareBenefits: erpDevelopment_compareBenefits, sprintProcess: erpDevelopment_sprintProcess, techStackTabs: erpDevelopment_techStackTabs, whyChooseImage: erpDevelopment_whyChooseImage, portfolio: erpDevelopment_portfolio, testimonials: erpDevelopment_testimonials, technologies: erpDevelopment_technologies, faq: erpDevelopment_faq, featuredIn: erpDevelopment_featuredIn, blog: erpDevelopment_blog, } },
-  { manifest: crmDevelopmentPage, data: { categoryHero: crmDevelopment_categoryHero, brandLogos: crmDevelopment_brandLogos, introContent: crmDevelopment_introContent, offerCards: crmDevelopment_offerCards, imageCards: crmDevelopment_imageCards, compareBenefits: crmDevelopment_compareBenefits, sprintProcess: crmDevelopment_sprintProcess, techStackTabs: crmDevelopment_techStackTabs, whyChooseImage: crmDevelopment_whyChooseImage, portfolio: crmDevelopment_portfolio, testimonials: crmDevelopment_testimonials, technologies: crmDevelopment_technologies, faq: crmDevelopment_faq, featuredIn: crmDevelopment_featuredIn, blog: crmDevelopment_blog, } },
-  { manifest: cmsDevelopmentPage, data: { categoryHero: cmsDevelopment_categoryHero, brandLogos: cmsDevelopment_brandLogos, introContent: cmsDevelopment_introContent, offerCards: cmsDevelopment_offerCards, imageCards: cmsDevelopment_imageCards, compareBenefits: cmsDevelopment_compareBenefits, sprintProcess: cmsDevelopment_sprintProcess, techStackTabs: cmsDevelopment_techStackTabs, whyChooseImage: cmsDevelopment_whyChooseImage, portfolio: cmsDevelopment_portfolio, testimonials: cmsDevelopment_testimonials, technologies: cmsDevelopment_technologies, faq: cmsDevelopment_faq, featuredIn: cmsDevelopment_featuredIn, blog: cmsDevelopment_blog, } },
   { manifest: softwareDevelopmentPage, data: { categoryHero: softwareDevelopment_categoryHero, brandLogos: softwareDevelopment_brandLogos, introContent: softwareDevelopment_introContent, offerCards: softwareDevelopment_offerCards, imageCards: softwareDevelopment_imageCards, compareBenefits: softwareDevelopment_compareBenefits, sprintProcess: softwareDevelopment_sprintProcess, techStackTabs: softwareDevelopment_techStackTabs, whyChooseImage: softwareDevelopment_whyChooseImage, portfolio: softwareDevelopment_portfolio, testimonials: softwareDevelopment_testimonials, technologies: softwareDevelopment_technologies, faq: softwareDevelopment_faq, featuredIn: softwareDevelopment_featuredIn, blog: softwareDevelopment_blog, } },
   { manifest: chatbotDevelopmentPage, data: { categoryHero: chatbotDevelopment_categoryHero, brandLogos: chatbotDevelopment_brandLogos, introContent: chatbotDevelopment_introContent, offerCards: chatbotDevelopment_offerCards, imageCards: chatbotDevelopment_imageCards, compareBenefits: chatbotDevelopment_compareBenefits, sprintProcess: chatbotDevelopment_sprintProcess, techStackTabs: chatbotDevelopment_techStackTabs, whyChooseImage: chatbotDevelopment_whyChooseImage, portfolio: chatbotDevelopment_portfolio, testimonials: chatbotDevelopment_testimonials, technologies: chatbotDevelopment_technologies, faq: chatbotDevelopment_faq, featuredIn: chatbotDevelopment_featuredIn, blog: chatbotDevelopment_blog, } },
   { manifest: taxiAppDevelopmentPage, data: { categoryHero: taxiAppDevelopment_categoryHero, brandLogos: taxiAppDevelopment_brandLogos, introContent: taxiAppDevelopment_introContent, offerCards: taxiAppDevelopment_offerCards, imageCards: taxiAppDevelopment_imageCards, compareBenefits: taxiAppDevelopment_compareBenefits, sprintProcess: taxiAppDevelopment_sprintProcess, techStackTabs: taxiAppDevelopment_techStackTabs, whyChooseImage: taxiAppDevelopment_whyChooseImage, portfolio: taxiAppDevelopment_portfolio, testimonials: taxiAppDevelopment_testimonials, technologies: taxiAppDevelopment_technologies, faq: taxiAppDevelopment_faq, featuredIn: taxiAppDevelopment_featuredIn, blog: taxiAppDevelopment_blog, } },
@@ -584,4 +567,9 @@ export const servicePageSources: { manifest: { slug: string; seo?: { title?: str
   { manifest: iphoneAppDevelopmentPage, data: { categoryHero: iphoneAppDevelopment_categoryHero, introContent: iphoneAppDevelopment_introContent, appPlatforms: iphoneAppDevelopment_appPlatforms, appWhyChoose: iphoneAppDevelopment_appWhyChoose, industryTabs: iphoneAppDevelopment_industryTabs, brandLogos: iphoneAppDevelopment_brandLogos, portfolio: iphoneAppDevelopment_portfolio, testimonials: iphoneAppDevelopment_testimonials, technologies: iphoneAppDevelopment_technologies, blog: iphoneAppDevelopment_blog, featuredIn: iphoneAppDevelopment_featuredIn, } as Partial<SectionDataMap> },
   { manifest: flutterAppDevelopmentPage, data: { categoryHero: flutterAppDevelopment_categoryHero, introContent: flutterAppDevelopment_introContent, whyChoose: flutterAppDevelopment_whyChoose, appWhyChoose: flutterAppDevelopment_appWhyChoose, callout: flutterAppDevelopment_callout, brandLogos: flutterAppDevelopment_brandLogos, portfolio: flutterAppDevelopment_portfolio, testimonials: flutterAppDevelopment_testimonials, technologies: flutterAppDevelopment_technologies, blog: flutterAppDevelopment_blog, featuredIn: flutterAppDevelopment_featuredIn, } as Partial<SectionDataMap> },
   { manifest: crossPlatformAppDevelopmentPage, data: { categoryHero: crossPlatformAppDevelopment_categoryHero, introContent: crossPlatformAppDevelopment_introContent, appPlatforms: crossPlatformAppDevelopment_appPlatforms, appWhyChoose: crossPlatformAppDevelopment_appWhyChoose, industryTabs: crossPlatformAppDevelopment_industryTabs, brandLogos: crossPlatformAppDevelopment_brandLogos, portfolio: crossPlatformAppDevelopment_portfolio, testimonials: crossPlatformAppDevelopment_testimonials, technologies: crossPlatformAppDevelopment_technologies, blog: crossPlatformAppDevelopment_blog, featuredIn: crossPlatformAppDevelopment_featuredIn, } as Partial<SectionDataMap> },
+  { manifest: erpDevelopmentPage, data: { categoryHero: erpDevelopment_categoryHero, introContent: erpDevelopment_introContent, offerBoxes: erpDevelopment_offerBoxes, moduleBoxes: erpDevelopment_moduleBoxes, whyInvest: erpDevelopment_whyInvest, techStackTabs: erpDevelopment_techStackTabs, brandLogos: erpDevelopment_brandLogos, testimonials: erpDevelopment_testimonials, featuredIn: erpDevelopment_featuredIn, technologies: erpDevelopment_technologies, blog: erpDevelopment_blog, } as Partial<SectionDataMap> },
+  { manifest: crmDevelopmentPage, data: { categoryHero: crmDevelopment_categoryHero, introContent: crmDevelopment_introContent, offerBoxes: crmDevelopment_offerBoxes, moduleBoxes: crmDevelopment_moduleBoxes, whyInvest: crmDevelopment_whyInvest, techIcons: crmDevelopment_techIcons, brandLogos: crmDevelopment_brandLogos, testimonials: crmDevelopment_testimonials, featuredIn: crmDevelopment_featuredIn, technologies: crmDevelopment_technologies, blog: crmDevelopment_blog, } as Partial<SectionDataMap> },
+  { manifest: cmsDevelopmentPage, data: { categoryHero: cmsDevelopment_categoryHero, introContent: cmsDevelopment_introContent, offerBoxes: cmsDevelopment_offerBoxes, moduleBoxes: cmsDevelopment_moduleBoxes, whyInvest: cmsDevelopment_whyInvest, techIcons: cmsDevelopment_techIcons, brandLogos: cmsDevelopment_brandLogos, testimonials: cmsDevelopment_testimonials, featuredIn: cmsDevelopment_featuredIn, technologies: cmsDevelopment_technologies, blog: cmsDevelopment_blog, } as Partial<SectionDataMap> },
+  { manifest: androidGameDevelopmentPage, data: { categoryHero: androidGameDevelopment_categoryHero, brandLogos: androidGameDevelopment_brandLogos, introContent: androidGameDevelopment_introContent, gameWhyUs: androidGameDevelopment_gameWhyUs, gameExpertise: androidGameDevelopment_gameExpertise, callout: androidGameDevelopment_callout, portfolio: androidGameDevelopment_portfolio, testimonials: androidGameDevelopment_testimonials, technologies: androidGameDevelopment_technologies, featuredIn: androidGameDevelopment_featuredIn, blog: androidGameDevelopment_blog, } },
+  { manifest: iosGameDevelopmentPage, data: { categoryHero: iosGameDevelopment_categoryHero, brandLogos: iosGameDevelopment_brandLogos, introContent: iosGameDevelopment_introContent, gameWhyUs: iosGameDevelopment_gameWhyUs, gameExpertise: iosGameDevelopment_gameExpertise, callout: iosGameDevelopment_callout, portfolio: iosGameDevelopment_portfolio, testimonials: iosGameDevelopment_testimonials, technologies: iosGameDevelopment_technologies, featuredIn: iosGameDevelopment_featuredIn, blog: iosGameDevelopment_blog, } },
 ];

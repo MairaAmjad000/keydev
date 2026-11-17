@@ -1,42 +1,41 @@
 {
-  "text": "Advantages",
-  "heading": "Key Features of Our eCommerce Development",
-  "text2": "A store that sells is built on details. These are the features we include in the online stores we deliver.",
-  "subheading": "What your store includes",
+  "text": "Why eCommerce",
+  "heading": "How Custom eCommerce Development Benefit Your Business",
+  "text2": "Custom-built and not cookie cut — that is the speciality of being a top eCommerce development companies. Our custom eCommerce development services will give your store a unique edge that stands apart from competitors.",
+  "subheading": "Feature for your store’s good",
   "items": [
     {
-      "icon": "svg-c74f4f",
-      "html": "<strong>Fast product pages</strong> that stay lightning quick even with thousands of products."
+      "icon": "svg-3e603e",
+      "html": "Your customers will never have to drag around to complete a transaction. <strong>One-page checkout</strong> will ensure that it gets done in a jiffy."
     },
     {
-      "icon": "svg-153ded",
-      "html": "<strong>Smooth, secure checkout</strong> with cards, wallets, bank transfer and cash on delivery."
+      "icon": "svg-a24627",
+      "html": "Grab the internet’s attention. Be in the first search results when customers search for products. Our <strong>SEO-optimized eCommerce web development</strong> will give you quite an advantage."
     },
     {
-      "icon": "svg-245c7d",
-      "html": "<strong>Inventory and order management</strong> with an admin panel your team can use from day one."
+      "icon": "svg-4cc9b3",
+      "html": "<strong>100% customizable.</strong> Your online store, your rules. From the look and feel to the backend functioning, you get to choose on how your store should function."
     },
     {
-      "icon": "svg-44f4fb",
-      "html": "<strong>Flexible shipping and tax rules</strong> that work for local and international orders."
+      "icon": "svg-956373",
+      "html": "Your customers from all corners of the world would like to pay with modes of their choice. Meet their expectations with our constantly updated list of <strong>payment gateway integrations.</strong>"
     },
     {
-      "icon": "svg-fc8601",
-      "html": "<strong>SEO-ready structure</strong> with clean URLs, schema markup and fast loading to win organic traffic."
+      "icon": "svg-4db77f",
+      "html": "Deliver a seamless shopping experience with a <strong>mobile responsive</strong> eCommerce website that works equally good on browsers as well as mobile devices."
     },
     {
-      "icon": "svg-9fb70d",
-      "html": "<strong>Responsive design</strong> that gives shoppers a great experience on every screen size."
+      "icon": "svg-bd78bd",
+      "html": "Be in the know of how your store is performing, which product is selling the most and much more with <strong>advanced reporting module.</strong>"
     }
   ],
   "link": {
     "href": "/contact",
-    "text": "Talk to Our eCommerce Expert Now"
+    "text": "Talk to Our eCommerce Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/category/ecommerce-development/features-ecommerce-development.webp",
-    "alt": "ecommerce development",
-    "width": "549",
-    "height": "528"
+    "src": "/images/service/ecommerce-development/features.webp",
+    "alt": "KeyDevs Technologies is a leading Lahore eCommerce development agency, offering eCommerce website development services for small to large businesses in Lahore, Pakistan."
   }
 }

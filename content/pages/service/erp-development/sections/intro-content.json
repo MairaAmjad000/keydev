@@ -1,14 +1,14 @@
 {
-  "heading": "Custom ERP Solutions for Complete Control",
+  "heading": "Custom ERP Application Development Services",
   "paragraphs": [
     {
-      "html": "An ERP replaces scattered spreadsheets and disconnected tools with one system everyone trusts. Orders, stock, accounts and reports all stay in sync."
+      "html": "Our experienced, housed ERP experts avail you the best-customized ERP development solution to move your business further. With utmost customization and open scope of scalability, you easily attain business automation, systematic business planning, cohesive team collaboration and executing processes in modernization. Stay ahead of competitors with our best-in-class custom ERP development services for gaining centralised access to dynamic business information for making informed decisions."
     },
     {
-      "html": "We have delivered ERP systems for manufacturers and distributors, including integrations such as MYOB. We build the modules you need first and add more as you grow."
+      "html": "Tailored to requirement with perfection our custom ERP application development stays robust throughout the ERP life cycle. This leads to improving cross-departmental efficiency and smoothening operational progressions. Customized ERP solutions is a cost-effective way to automate, simplify and analyse current manual procedures. Our ERP development services are aimed at bridging the gaps between all the necessary business functions and bring it under a single, cohesive platform."
     },
     {
-      "html": "Start your erp development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+      "html": "Assimilating real-time information from multiple sources requires agility and robustness to avoid conflicts between sources. Our personalised approach to system-agnostic ERP development thrives on the accuracy, consistency, and security of crucial data."
     }
   ],
   "link": {
@@ -17,7 +17,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/web-application-development.webp",
-    "alt": "ERP Development"
-  }
+    "src": "/images/service/erp-development/intro.webp",
+    "alt": ""
+  },
+  "sectionClass": "service-main-content padding-60 bg-white"
 }

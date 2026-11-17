@@ -1,0 +1,52 @@
+{
+  "text": "Equipping World Class UX UI Designing Process",
+  "heading": "Our Unique Approach to UX/UI Design and Development Solutions",
+  "items": [
+    {
+      "number": "01/05",
+      "title": "Research Analysis",
+      "text": "Conducting user and market research to set the right expectations and gauge resources, design requirements, and complexities. Our team conducts in-depth interviews and competitive research to analyse the design prospects followed by UX/UI development.",
+      "image": {
+        "src": "/images/uiux/research-analysis.webp",
+        "alt": ""
+      }
+    },
+    {
+      "number": "02/05",
+      "title": "Wireframing & Prototyping",
+      "text": "Here’s us wrapping your dream product with a structure for creating backbone and using it for mock-ups. At this stage, we integrate prototype to move beyond the look and feel of a product and focus on user interaction using clickable wireframes.",
+      "image": {
+        "src": "/images/uiux/wireframe-and-prototyping.webp",
+        "alt": ""
+      }
+    },
+    {
+      "number": "03/05",
+      "title": "Visual Design",
+      "text": "We proceed further towards design only after finalizing the layout and flow. Here’s us giving life to wireframes with images and thematic colour styles to create a brand identity. It includes integrating typography, font styles, guidelines and iconography.",
+      "image": {
+        "src": "/images/uiux/visual-design.webp",
+        "alt": ""
+      }
+    },
+    {
+      "number": "04/05",
+      "title": "UI Development",
+      "text": "This is where we beautify all that’s been made until now. This stage validates following predefined UI style guide ensuring presence of all the UI elements. Right from designing onboarding flow to bridging back-end functionality and front interface happens here.",
+      "image": {
+        "src": "/images/uiux/ui-development.webp",
+        "alt": ""
+      },
+      "imageDelay": "1s"
+    },
+    {
+      "number": "05/05",
+      "title": "Usability Testing",
+      "text": "Next up, prototype testing of with end users. We follow this as a design validation exercise based on user trials performed using multiple testing sessions. Here’s where we look out for user satisfaction accessibility, and pleasure and try improving usability gaps.",
+      "image": {
+        "src": "/images/uiux/usability-testing.webp",
+        "alt": ""
+      }
+    }
+  ]
+}

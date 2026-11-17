@@ -1,17 +1,17 @@
 {
-  "heading": "User-centred UI/UX Design Agency",
+  "heading": "Uplift Your Brand with UI & UX Design Agency",
   "paragraphs": [
     {
-      "html": "Clarity, usability and delight. If these three things rank high on your priorities for a digital product, KeyDevs Technologies is a perfect fit. Good design is not decoration — it is how your product feels, works and converts."
+      "html": "User interaction drives conversion and conversion drives your revenue. We understand your product and try putting our perspective to it that blends the latest technology, design, and usability. Offering minimalist UI/UX solutions that match the trends of today and the technology of tomorrow. Creating a design that improves app stickiness and user retention is the recipe for a successful user experience."
     },
     {
-      "html": "From mobile apps and web platforms to dashboards and eCommerce stores, our UI/UX design services help users get things done with less effort and help your business get better results."
+      "html": "We keep our design sleek, bare minimum, and try topping it up with vital brand elements. Following a user-centric approach to design, the user experience design decisions are guided by how user interact with your app or website."
     },
     {
-      "html": "Our designers work side by side with product owners and developers, so what we design is what gets built — pixel for pixel, and without surprises."
+      "html": "Our design fundamentals for creating the best minimal UI design lie in wireframing a screen-by-screen blueprint. The minimalism in the wireframe displays the holistic product picture equipped with all the features and functional elements that the user interacts with. Our UI/UX relies on keeping the interface self-explanatory overcoming the technical sophistication for ease of use."
     },
     {
-      "html": "Start your design project with an experienced team for interfaces your users will love."
+      "html": "The design philosophy of any UI UX design company relies on creating a prototype-based interface that lifts up the brand persona. Our UI designers play a key role to style the product right from font colours, design theme, and packaging it as per the latest design convention to keep it sleek, stylish, and yet engaging."
     }
   ],
   "link": {
@@ -20,9 +20,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/ux-ui-design.jpg",
-    "alt": "UI/UX Design",
-    "width": "470",
-    "height": "314"
-  }
+    "src": "/images/service/ui-ux-design/intro.webp",
+    "alt": "ui ux design company"
+  },
+  "sectionClass": "service-main-content padding-60 bg-white"
 }

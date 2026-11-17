@@ -8,7 +8,7 @@ import type { TechStackTabsContent } from '@/types';
 export function TechStackTabs({ data }: { data: TechStackTabsContent }) {
   const id = (tab: { id: string }) => `${data.idPrefix}-${tab.id}`;
   return (
-    <section className="padding-60 bg-light ins-msg-how-build-main">
+    <section className={data.sectionClass ?? 'padding-60 bg-light ins-msg-how-build-main'}>
       <div className="container">
         <div className="title">
           <span>{data.text}</span>

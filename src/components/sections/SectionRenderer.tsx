@@ -64,6 +64,13 @@ import { OfferGrid } from './OfferGrid';
 import { IconCards } from './IconCards';
 import { GameWhyUs } from './GameWhyUs';
 import { GameExpertise } from './GameExpertise';
+import { OfferBoxes } from './OfferBoxes';
+import { ModuleBoxes } from './ModuleBoxes';
+import { TechIcons } from './TechIcons';
+import { UiuxServices } from './UiuxServices';
+import { UiuxMobileDesign, UiuxWebDesign } from './UiuxAppDesign';
+import { UiuxProcess } from './UiuxProcess';
+import { UiuxTools } from './UiuxTools';
 
 function renderSection(block: SectionBlock, forms: FormsContent) {
   switch (block.type) {
@@ -131,6 +138,14 @@ function renderSection(block: SectionBlock, forms: FormsContent) {
     case 'iconCards': return <IconCards data={block.data} />;
     case 'gameWhyUs': return <GameWhyUs data={block.data} />;
     case 'gameExpertise': return <GameExpertise data={block.data} />;
+    case 'offerBoxes': return <OfferBoxes data={block.data} />;
+    case 'moduleBoxes': return <ModuleBoxes data={block.data} />;
+    case 'techIcons': return <TechIcons data={block.data} />;
+    case 'uiuxServices': return <UiuxServices data={block.data} />;
+    case 'uiuxMobileDesign': return <UiuxMobileDesign data={block.data} />;
+    case 'uiuxWebDesign': return <UiuxWebDesign data={block.data} />;
+    case 'uiuxProcess': return <UiuxProcess data={block.data} />;
+    case 'uiuxTools': return <UiuxTools data={block.data} />;
     default: return null;
   }
 }

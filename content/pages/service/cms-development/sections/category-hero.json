@@ -1,17 +1,15 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "CMS Development by KeyDevs Technologies",
-    "width": "1920",
-    "height": "800"
+    "src": "/images/cms/cms-banner.jpg",
+    "alt": "cms web design"
   },
-  "heading": "CMS Development Company",
-  "text": "Take control of your content with a CMS built for how your team works. KeyDevs Technologies develops custom and platform-based content management systems that are easy to use and easy to scale.",
+  "heading": "Custom CMS Development",
+  "text": "Equip your organisation with the fast-growing Content Management System development. Expand the content’s scope of work right from creating, editing, collaborating, archiving and even publishing content on a single platform. Custom CMS development enables multiple related departments to function cohesively based on each departmental requirement.",
   "links": [
     {
       "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Let’s Discuss Your Requirement"
+      "text": "Let’s Discuss Your Requirement",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -20,7 +18,7 @@
       "href": "/"
     },
     {
-      "text": "CMS Development"
+      "text": "CMS"
     }
   ]
 }

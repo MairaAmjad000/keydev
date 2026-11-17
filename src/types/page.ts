@@ -14,6 +14,8 @@ import type {
   IndustryTabsContent, AppPlatformsContent, AppWhyChooseContent,
   AnchorNavContent, SectionAnchorContent, IntroSliderContent, OfferGridContent, IconCardsContent,
   GameWhyUsContent, GameExpertiseContent,
+  OfferBoxesContent, ModuleBoxesContent, TechIconsContent, UiuxServicesContent, UiuxMobileDesignContent,
+  UiuxWebDesignContent, UiuxProcessContent, UiuxToolsContent,
 } from './sections';
 import type {
   HeaderContent, MobileMenuContent, GetQuoteButtonContent, CallBackSidebarContent, FooterContent,
@@ -87,6 +89,14 @@ export interface SectionDataMap {
   iconCards: IconCardsContent;
   gameWhyUs: GameWhyUsContent;
   gameExpertise: GameExpertiseContent;
+  offerBoxes: OfferBoxesContent;
+  moduleBoxes: ModuleBoxesContent;
+  techIcons: TechIconsContent;
+  uiuxServices: UiuxServicesContent;
+  uiuxMobileDesign: UiuxMobileDesignContent;
+  uiuxWebDesign: UiuxWebDesignContent;
+  uiuxProcess: UiuxProcessContent;
+  uiuxTools: UiuxToolsContent;
 }
 
 export type SectionType = keyof SectionDataMap;

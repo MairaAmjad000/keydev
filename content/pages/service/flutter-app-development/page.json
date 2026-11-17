@@ -6,11 +6,11 @@
   },
   "sections": [
     "categoryHero",
+    "brandLogos",
     "introContent",
     "whyChoose",
     "appWhyChoose",
     "callout",
-    "brandLogos",
     "portfolio",
     "testimonials",
     "technologies",

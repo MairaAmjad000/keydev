@@ -1,0 +1,42 @@
+{
+  "text": "Pathbreaking UX/UI",
+  "heading": "Design that captivates users",
+  "items": [
+    {
+      "image": {
+        "src": "/images/service/ui-ux-design/service-1.webp",
+        "alt": "ux design company"
+      },
+      "icon": "svg-9e241a",
+      "title": "Branding",
+      "text": "A designing interface that adds value to your offering creates a brand out of your product. Our UI UX services move beyond the usual colour combinations, graphics, and display to tell the story of each element that blends with the other, providing a rich User Experience. This contributes to extending your brand virtually to speak what business stands for."
+    },
+    {
+      "image": {
+        "src": "/images/service/ui-ux-design/service-2.webp",
+        "alt": "ui ux design services"
+      },
+      "icon": "svg-3fc52c",
+      "title": "Product Research & Strategy",
+      "text": "Our UI/UX development services researching and implementing current UX/UI trends and comparing market competitors to define a range of UI styles. Our product research and strategy involve picking up ideas that are best in business while design strategy is backed by numbers. We commit ourselves to match global standards and writing a new success story."
+    },
+    {
+      "image": {
+        "src": "/images/service/ui-ux-design/service-3.webp",
+        "alt": "ux services"
+      },
+      "icon": "svg-002d9e",
+      "title": "Wireframing",
+      "text": "Key to top-notch UX/UI design solution is in its wireframing. Breeding a team of experienced designers, we do core wireframing that promises smooth user experience. Our expert UX designers create a pattern library to use in building features. Offering a quick way to articulate the position of elements and user workflow in building features, pages and app components."
+    },
+    {
+      "image": {
+        "src": "/images/service/ui-ux-design/service-4.webp",
+        "alt": "ui design company"
+      },
+      "icon": "svg-72b31e",
+      "title": "Rapid Prototype",
+      "text": "‘Time is money’ and our UX/UI design and development services live up to this idea. We create quick mock-ups for client’s validation before scaling up. The back and forth feedback process mean we continuously work to better our offerings and achieving end results efficiently by quick designs iteration for high fidelity prototype and choosing an ideal process for it."
+    }
+  ]
+}

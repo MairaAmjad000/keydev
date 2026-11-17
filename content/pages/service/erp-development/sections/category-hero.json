@@ -1,17 +1,15 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "ERP Development by KeyDevs Technologies",
-    "width": "1920",
-    "height": "800"
+    "src": "/images/service/erp-development/banner.webp",
+    "alt": "erp software development company"
   },
-  "heading": "ERP Development Company",
-  "text": "Gain total control of your business with a custom ERP from KeyDevs Technologies. We build systems that connect finance, inventory, manufacturing, sales and HR in one place.",
+  "heading": "Custom ERP Software Development Company",
+  "text": "Bring in strategic coherence to your business by opting for ERP application development for resource planning and functional management. Streamline exceedingly tiring processes across multiple verticals – procurement, manufacturing, sales, services, and plenty. Rope in a custom ERP development company to overcome business challenges with ERP development for towering your sales and ensuring the best service to customers.",
   "links": [
     {
       "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Let’s Discuss Your Requirement"
+      "text": "Let’s Discuss Your Requirement",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -20,7 +18,7 @@
       "href": "/"
     },
     {
-      "text": "ERP Development"
+      "text": "ERP"
     }
   ]
 }

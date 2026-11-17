@@ -1,34 +1,30 @@
 {
-  "text": "What Makes us the Best",
-  "heading": "Why Choose our UI/UX Design Services",
-  "paragraphs": [
-    {
-      "html": "KeyDevs Technologies is considered one of the best UI/UX design companies in Lahore and Pakistan today. Our designers and developers work as one team, so designs are built exactly as they were intended."
-    },
-    {
-      "html": "We continue to be a team of dreamers and doers, becoming more proficient and effective in delivering cutting-edge solutions."
-    }
-  ],
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-white",
+  "heightClass": "m-height-170",
+  "rowClass": "row justify-content-center",
+  "text": "Why Choose Us",
+  "heading": "Driving Results that Creates an Impact Through UX/UI Design",
+  "paragraphs": [],
   "items": [
     {
-      "icon": "svg-fdd57d",
-      "title": "Prompt Customization",
-      "text": "We adapt our process to your product, users and timeline, and deliver quickly without compromising quality."
+      "icon": "svg-8fc822",
+      "title": "Turn vision into reality",
+      "text": "Let your ideas breathe on our designing canvas as we carve a thoughtful design out of your vision. Blending technology and expertise in offering UX UI design services."
     },
     {
-      "icon": "svg-7d6040",
-      "title": "Qualified Team",
-      "text": "Researchers, UX designers and UI designers who stay current with the latest design trends and tools."
+      "icon": "svg-ffb515",
+      "title": "Holistic UI/UX Solutions",
+      "text": "We go beyond simply designing the prototype and elaborative UI. Being a UI UX agency, we emphasise providing comprehensive business solutions through intuitive app design."
     },
     {
-      "icon": "svg-0e10e4",
-      "title": "Affordable Solution",
-      "text": "Design that pays for itself through better conversion, retention and lower rework costs."
+      "icon": "svg-e82b0f",
+      "title": "UX/UI Services at Par",
+      "text": "Our UX/UI development service standards are at par with the industry to empower your business with latest technology. Our experienced state team ensures offering scalable UI for a dynamic UX."
     },
     {
-      "icon": "svg-71d12b",
-      "title": "Perfect Design",
-      "text": "Smooth, stunning and feature-rich interfaces that give users an effortless experience."
+      "icon": "svg-a3379c",
+      "title": "Timeliness",
+      "text": "Integrating time in delivery can determine business success. Our commitment to timely delivering UI UX services safeguards your business from competition to get you to launch ready in a jiffy."
     }
   ]
 }

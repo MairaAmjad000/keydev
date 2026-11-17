@@ -1,0 +1,33 @@
+{
+  "sectionClass": "padding-60 bg-white ins-msg-how-build-main",
+  "text": "How we Build it?",
+  "heading": "Technology Stack Behind CMS Web App Development",
+  "paneId": "cms-development-Application",
+  "listClass": "justify-content-center",
+  "icons": [
+    {
+      "image": {
+        "src": "/images/technologies/wordpress.png",
+        "alt": ""
+      }
+    },
+    {
+      "image": {
+        "src": "/images/technologies/php.png",
+        "alt": ""
+      }
+    },
+    {
+      "image": {
+        "src": "/images/technologies/laravel.png",
+        "alt": ""
+      }
+    },
+    {
+      "image": {
+        "src": "/images/technologies/codeigniter.png",
+        "alt": ""
+      }
+    }
+  ]
+}

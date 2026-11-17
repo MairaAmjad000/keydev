@@ -1,0 +1,43 @@
+{
+  "text": "Mobile App Design",
+  "heading": "IOS and Android UI/UX Design Services",
+  "text2": "Offering the best in class UI/UX design for iOS and Android apps. We bring your app idea to life that’ll have users keep coming for more.",
+  "items": [
+    {
+      "icon": "svg-6a7a32",
+      "title": "UX/UI Design for iOS App",
+      "text": "Leverage the iOS platform for creating a smoother, minimalist UI crafted to perfection by our team of in-house UI designers that ensure the best onboarding experience for your users."
+    },
+    {
+      "icon": "svg-964e31",
+      "title": "UX/UI Design for Android App",
+      "text": "Capitalise on open-source nature of the Android platform and customise your android app idea. Our designers are experts in integrating the latest features to your Android app."
+    }
+  ],
+  "images": {
+    "main": {
+      "src": "/images/service/ui-ux-design/mobile-app-main.png",
+      "alt": "ux design agency Lahore"
+    },
+    "one": {
+      "src": "/images/service/ui-ux-design/mobile-app-one.webp",
+      "alt": "ui design services"
+    },
+    "two": {
+      "src": "/images/service/ui-ux-design/mobile-app-two.webp",
+      "alt": "ux design services"
+    },
+    "three": {
+      "src": "/images/service/ui-ux-design/mobile-app-three.webp",
+      "alt": "ux company"
+    },
+    "four": {
+      "src": "/images/service/ui-ux-design/mobile-app-four.webp",
+      "alt": "ui design and development"
+    },
+    "five": {
+      "src": "/images/service/ui-ux-design/mobile-app-five.webp",
+      "alt": "ui ux design services"
+    }
+  }
+}

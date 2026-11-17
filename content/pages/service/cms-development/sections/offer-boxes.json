@@ -1,0 +1,38 @@
+{
+  "sectionClass": "padding-6030 bg-light game-service-offer-main why-erp-main",
+  "text": "CMS for Simplicity",
+  "heading": "Why Chose CMS Solutions for Business",
+  "text2": "Fundamentally, CMS enables a solid capacity to manage numerous users at the same time with distinctive permission levels. This makes it easy for businesses to manage a particular chunk or section of content, personalised for users. CMS helps to lend a certain identity to website along with the ability to stay agile on content front.",
+  "items": [
+    {
+      "icon": "svg-6d0c84",
+      "title": "Content Customisation",
+      "text": "Creating great content is just not enough. You need to get into the analytics of content and moderate the way you communicate. CRM offers high-level content customisation with ability to tailor it for each user segment."
+    },
+    {
+      "icon": "svg-7e7389",
+      "title": "Content Agility",
+      "text": "Changing content on the go while monitoring the same is easier said than done. Thanks to CMS you can see how the piece perform and make fast changes online to see the metrics shaping up in your favour."
+    },
+    {
+      "icon": "svg-61b58d",
+      "title": "Carving Brand through Content",
+      "text": "If the content is what drives your business it surely is your identity on the web. Implement CMS to leverage content for branding purpose. Boost marketing activities to gauge efforts and ensure capitalising on the created content for the branding purpose."
+    },
+    {
+      "icon": "svg-cedfc5",
+      "title": "Granting Content Ownership",
+      "text": "With CMS, you will have an upper hand to assign content roles within the team. The content experts can simply put up the content live without the developers’ assistance, without even the need to know to code."
+    },
+    {
+      "icon": "svg-1cc403",
+      "title": "Maintaining Visual Consistency",
+      "text": "CMS enables parallel design configuration for your business to follow a visual consistency which in turn aids creating great brand elements. Site or app-wide implementation on one go empowers the entire team to be on the same page."
+    },
+    {
+      "icon": "svg-44529d",
+      "title": "Secure Data Storage",
+      "text": "CMS web development helps you protect the user data while maintaining content privacy at the same time. It also provides an opportunity to set rules ensuring content editors to fill-in required information on the web to meet pre-defined accessibility standards."
+    }
+  ]
+}

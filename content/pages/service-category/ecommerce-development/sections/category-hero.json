@@ -1,26 +1,37 @@
 {
   "image": {
-    "src": "/images/category/ecommerce-development/banner-ecommerce-development.webp",
-    "alt": "E-Commerce Development company in Lahore, Pakistan — KeyDevs Technologies",
-    "width": "1920",
-    "height": "800"
+    "src": "/images/service/ecommerce-development/banner.webp",
+    "alt": "ecommerce website development services"
   },
-  "heading": "ECOMMERCE DEVELOPMENT COMPANY",
-  "text": "KeyDevs Technologies is a full-cycle eCommerce development company. Wondering what that is? <br/><br/> If you want to sell online — whether a single store, a multi-vendor marketplace or a mobile shopping app — we can make that happen. From product catalog design to payment, inventory and delivery integrations, we take care of the entire nine yards of eCommerce development.",
+  "heading": "eCommerce Website Development Company",
+  "text": "If building a website is a long-drawn battle, building an eCommerce website is a war of its own. As a top eCommerce development company in the Pakistan, we will be the perfect ally who can help you march forward on the right foot to conquer the market.<br/><br/>From helping you identify the right platform to base your store to building a custom eCommerce solution from scratch — you can bank on us to attain your eCommerce ambitions.",
   "links": [
     {
       "href": "/portfolio",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "View Our Work"
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     },
     {
       "href": "/app-development-cost-calculator",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate Your Web Development Cost"
+      "text": "Calculate Your Web Development Cost",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Web Development",
+      "href": "/web-development"
+    },
+    {
+      "text": "E-commerce Development"
     }
   ],
   "form": {
-    "id": "ecommerce-banner_form",
+    "id": "ecommerce-web-development-banner_form",
     "fields": [
       {
         "type": "text",
@@ -55,16 +66,7 @@
       }
     ],
     "submitText": "Get Started Now!",
-    "errorId": "ecommerce-error_message_banner_form",
-    "successId": "ecommerce-success_message_banner_form"
-  },
-  "breadcrumbs": [
-    {
-      "text": "Home",
-      "href": "/"
-    },
-    {
-      "text": "E-Commerce Development"
-    }
-  ]
+    "errorId": "ecommerce-web-development-error_message_banner_form",
+    "successId": "ecommerce-web-development-success_message_banner_form"
+  }
 }

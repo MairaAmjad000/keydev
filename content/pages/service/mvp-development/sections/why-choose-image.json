@@ -23,5 +23,9 @@
       "title": "Continuous improvement",
       "text": "The first cut of the MVP will be made better through continuous improvement to features."
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/service/mvp-development/why-choose-mvp-development.jpg",
+    "alt": ""
+  }
 }

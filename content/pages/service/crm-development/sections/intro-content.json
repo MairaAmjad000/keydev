@@ -1,14 +1,17 @@
 {
-  "heading": "Custom CRM Solutions that Grow Your Sales",
+  "heading": "Bespoke CRM Development Services",
   "paragraphs": [
     {
-      "html": "When customer data is scattered across inboxes and spreadsheets, leads slip through the cracks. A CRM gives your team one place to see every conversation and opportunity."
+      "html": "Create valuable customer relationships by implementing our custom CRM solutions tailored to your requirements. Time to leverage technology by integrating cutting-edge CRM software solutions in your day-to-day business transactions that saves time and cuts expenditure in gaining and retaining customers."
     },
     {
-      "html": "We build CRMs with lead management, pipelines, automated reminders, reporting and integrations to your email, WhatsApp, website and accounting tools."
+      "html": "Drive business growth with profitable customer service and relationship management by roping in a CRM development agency with a new IT environment. Go for a highly strategic imperative option that serves as a viable option to extend automation for even your customer relationship."
     },
     {
-      "html": "Start your crm development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+      "html": "Adopt viable data-driven CRM software development services making way for intelligent reporting and analytics that help taking data-backed decisions. Take a modern approach to customer management for building a better future with continuous business opportunities. Opt for bespoke CRM systems to integrate multiple customer touchpoints that add up to build loyalty resulting in higher satisfaction and long-term business partnerships."
+    },
+    {
+      "html": "CRM developers at KeyDevs Technologies can design CRM adaptable to small businesses and big corporations alike. The success of customer relationship management lies in making the most out of the best available customer-facing resources that aid in planning, analysing, developing, and deploying targeted sales and marketing activities."
     }
   ],
   "link": {
@@ -17,7 +20,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/web-application-development.webp",
-    "alt": "CRM Development"
-  }
+    "src": "/images/service/crm-development/intro.webp",
+    "alt": "CRM Software Solutions"
+  },
+  "sectionClass": "service-main-content padding-60 bg-white"
 }

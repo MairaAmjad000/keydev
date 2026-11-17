@@ -1,0 +1,44 @@
+{
+  "sectionClass": "padding-6030 bg-light why-you-invest-main invest-erp-main",
+  "containerClass": "container mt-5",
+  "text": "ERP TECHNOLOGY PARTNER",
+  "heading": "Why KeyDevs Technologies for ERP Development?",
+  "text2": "",
+  "columnClass": "col-lg-4 col-md-6 col-sm-12 col-12 mb-30",
+  "items": [
+    {
+      "icon": "svg-7e0b13",
+      "title": "Improved Reporting",
+      "text": "Customise and better your existing reporting system with an ERP upgrade. More power to you with enhanced reporting capabilities to manage complex data at with ease. Meet all your business needs with superior, detailed analytics available for taking right decisions."
+    },
+    {
+      "icon": "svg-f4d578",
+      "title": "Efficient Customer Service & Data Security",
+      "text": "Utilize ERP software development to aid client-facing personnel with access to updated and accurate data. Convert after-sales services to upsell further based on recent client-side requirements. Our service ensures data security of highest standard for your business to functions fearlessly."
+    },
+    {
+      "icon": "svg-e5f71c",
+      "title": "Process Standardisation",
+      "text": "Successful custom ERP development results in standardising process across multiple functionary departments that work in parallel. With benchmarks set, Creating an ERP system ensures hitting those standards time and again to effectively improve your work rate with quality."
+    },
+    {
+      "icon": "svg-8f7b19",
+      "title": "Streamlining Process",
+      "text": "Offer your enterprise a structured data flow with multi-functions integration into a unified platform. Our ERP development service enables streamlining data assessment which in turn help you simplify parallel processes across multiple departments."
+    },
+    {
+      "icon": "svg-6890b3",
+      "title": "User-Friendly ERP Solutions",
+      "text": "Our custom ERP developers provide easy-to-learn ERP modules for teams to adapt easily. Quality video support & visual processes let you monitor multiple real-time end-to-end with easy UI and flexible workarounds put integrated business intelligence to daily use."
+    }
+  ],
+  "ctaBox": {
+    "title": "Our Clients Love Us",
+    "link": {
+      "href": "/client-review",
+      "text": "Our Reviews",
+      "className": "btn-custome btn waves-effect waves-light"
+    },
+    "columnClass": "col-lg-4 col-md-6 col-sm-6 col-12 mb-30 d-flex align-items-center"
+  }
+}

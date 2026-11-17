@@ -761,6 +761,74 @@ export interface IconCardsContent {
   items: Array<{ icon: string; title: string; text: string }>;
 }
 
+/** Intro + grid of plain icon cards ("game-service-offer-box"), used on ERP / CRM / CMS pages. */
+export interface OfferBoxesContent {
+  /** Classes of the <section> (default "padding-6030 bg-light game-service-offer-main"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  items: Array<{ icon: string; title: string; text: string }>;
+}
+
+/** Intro + grid of module cards ("game-what-we-offer-box": icon, h4, text). */
+export interface ModuleBoxesContent {
+  /** Classes of the <section> (default "padding-6030 bg-white game-what-we-offer-main"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  items: Array<{ icon: string; title: string; text: string }>;
+}
+
+/** Heading + one row of technology logos. */
+export interface TechIconsContent {
+  /** Classes of the <section>, e.g. "padding-60 bg-white ins-msg-how-build-main". */
+  sectionClass: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  /** Id of the tab pane. */
+  paneId: string;
+  /** Extra justify class of the logo list (default "justify-content-center"). */
+  listClass?: string;
+  icons: Array<{ image: CmsImage }>;
+}
+
+export interface UiuxServicesContent {
+  text: string;
+  heading: string;
+  items: Array<{ image: CmsImage; icon: string; title: string; text: string }>;
+}
+
+export interface UiuxMobileDesignContent {
+  text: string;
+  heading: string;
+  text2: string;
+  items: Array<{ icon: string; title: string; text: string }>;
+  images: { main: CmsImage; one: CmsImage; two: CmsImage; three: CmsImage; four: CmsImage; five: CmsImage };
+}
+
+export interface UiuxWebDesignContent {
+  text: string;
+  heading: string;
+  text2: string;
+  items: Array<{ icon: string; title: string; text: string }>;
+  images: { main: CmsImage; laptop: CmsImage; desktop: CmsImage; ipad: CmsImage; iphone: CmsImage };
+}
+
+export interface UiuxProcessContent {
+  text: string;
+  heading: string;
+  items: Array<{ number: string; title: string; text: string; image: CmsImage; imageDelay?: string }>;
+}
+
+export interface UiuxToolsContent {
+  text: string;
+  heading: string;
+  items: Array<{ image: CmsImage }>;
+}
+
 export interface FrameworkTabsContent {
   /** Classes of the <section> (default "padding-60 bg-light web-app-sev-lang"). */
   sectionClass?: string;
@@ -771,6 +839,8 @@ export interface FrameworkTabsContent {
 }
 
 export interface WhyChooseContent {
+  /** Classes of the card row (default "row align-items-center"). */
+  rowClass?: string;
   /** Classes of the <section> (default "padding-60 bg-light web-why-choose-us-main"). */
   sectionClass?: string;
   /** Equal-height helper class of the card grid (default "m-height-170"). */
@@ -845,6 +915,8 @@ export interface SprintProcessContent {
 }
 
 export interface TechStackTabsContent {
+  /** Classes of the <section> (default "padding-60 bg-light ins-msg-how-build-main"). */
+  sectionClass?: string;
   text: string;
   heading: string;
   /** Prefix for the tab / pane ids so several tab groups can share a page. */
@@ -911,6 +983,14 @@ export interface OtherSolutionsContent {
 }
 
 export interface WhyInvestContent {
+  /** Classes of the <section> (default "padding-6030 bg-white why-you-invest-main invest-erp-main"). */
+  sectionClass?: string;
+  /** Classes of the container (default "container mt-md-5"). */
+  containerClass?: string;
+  /** Classes of each card column (default "col-lg-4 col-md-6 col-sm-6 col-12 mb-30"). */
+  columnClass?: string;
+  /** Optional last cell: a title and button instead of a card (e.g. "Our Clients Love Us" / "Our Reviews"). */
+  ctaBox?: { title: string; link: CmsLink; /** Classes of the cell (default: the card column class + "d-flex align-items-center"). */ columnClass?: string };
   text: string;
   heading: string;
   text2: string;

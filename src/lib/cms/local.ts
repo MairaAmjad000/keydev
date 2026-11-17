@@ -39,21 +39,19 @@ import catTechnologies from '../../../content/pages/service-category/web-develop
 import catFeaturedIn from '../../../content/pages/service-category/web-development/sections/featured-in.json';
 import catBlog from '../../../content/pages/service-category/web-development/sections/blog.json';
 import servicePage from '../../../content/pages/service/mvp-development/page.json';
-import svcCategoryHero from '../../../content/pages/service/mvp-development/sections/category-hero.json';
-import svcBrandLogos from '../../../content/pages/service/mvp-development/sections/brand-logos.json';
-import svcIntroContent from '../../../content/pages/service/mvp-development/sections/intro-content.json';
-import svcOfferCards from '../../../content/pages/service/mvp-development/sections/offer-cards.json';
-import svcImageCards from '../../../content/pages/service/mvp-development/sections/image-cards.json';
-import svcCompareBenefits from '../../../content/pages/service/mvp-development/sections/compare-benefits.json';
-import svcSprintProcess from '../../../content/pages/service/mvp-development/sections/sprint-process.json';
-import svcTechStackTabs from '../../../content/pages/service/mvp-development/sections/tech-stack-tabs.json';
-import svcWhyChooseImage from '../../../content/pages/service/mvp-development/sections/why-choose-image.json';
-import svcPortfolio from '../../../content/pages/service/mvp-development/sections/portfolio.json';
-import svcTestimonials from '../../../content/pages/service/mvp-development/sections/testimonials.json';
-import svcTechnologies from '../../../content/pages/service/mvp-development/sections/technologies.json';
-import svcFaq from '../../../content/pages/service/mvp-development/sections/faq.json';
-import svcFeaturedIn from '../../../content/pages/service/mvp-development/sections/featured-in.json';
-import svcBlog from '../../../content/pages/service/mvp-development/sections/blog.json';
+import svc_categoryHero from '../../../content/pages/service/mvp-development/sections/category-hero.json';
+import svc_introContent from '../../../content/pages/service/mvp-development/sections/intro-content.json';
+import svc_offerCards from '../../../content/pages/service/mvp-development/sections/offer-cards.json';
+import svc_imageCards from '../../../content/pages/service/mvp-development/sections/image-cards.json';
+import svc_compareBenefits from '../../../content/pages/service/mvp-development/sections/compare-benefits.json';
+import svc_sprintProcess from '../../../content/pages/service/mvp-development/sections/sprint-process.json';
+import svc_whyChooseImage from '../../../content/pages/service/mvp-development/sections/why-choose-image.json';
+import svc_portfolio from '../../../content/pages/service/mvp-development/sections/portfolio.json';
+import svc_brandLogos from '../../../content/pages/service/mvp-development/sections/brand-logos.json';
+import svc_testimonials from '../../../content/pages/service/mvp-development/sections/testimonials.json';
+import svc_featuredIn from '../../../content/pages/service/mvp-development/sections/featured-in.json';
+import svc_technologies from '../../../content/pages/service/mvp-development/sections/technologies.json';
+import svc_blog from '../../../content/pages/service/mvp-development/sections/blog.json';
 import globalSections from '../../../content/globals/global-sections.json';
 import { servicePageSources } from './local-services';
 import { solutionPageSources } from './local-solutions';
@@ -82,21 +80,18 @@ import mobileAppDevelopment_technologies from '../../../content/pages/service-ca
 import mobileAppDevelopment_blog from '../../../content/pages/service-category/mobile-app-development/sections/blog.json';
 import mobileAppDevelopment_featuredIn from '../../../content/pages/service-category/mobile-app-development/sections/featured-in.json';
 import ecommerceDevelopmentPage from '../../../content/pages/service-category/ecommerce-development/page.json';
-import ecommerceDevelopmentCategoryHero from '../../../content/pages/service-category/ecommerce-development/sections/category-hero.json';
-import ecommerceDevelopmentBrandLogos from '../../../content/pages/service-category/ecommerce-development/sections/brand-logos.json';
-import ecommerceDevelopmentIntroContent from '../../../content/pages/service-category/ecommerce-development/sections/intro-content.json';
-import ecommerceDevelopmentServiceOfferings from '../../../content/pages/service-category/ecommerce-development/sections/service-offerings.json';
-import ecommerceDevelopmentFeatureList from '../../../content/pages/service-category/ecommerce-development/sections/feature-list.json';
-import ecommerceDevelopmentAdvantageGrid from '../../../content/pages/service-category/ecommerce-development/sections/advantage-grid.json';
-import ecommerceDevelopmentProcess from '../../../content/pages/service-category/ecommerce-development/sections/process.json';
-import ecommerceDevelopmentFrameworkTabs from '../../../content/pages/service-category/ecommerce-development/sections/framework-tabs.json';
-import ecommerceDevelopmentWhyChoose from '../../../content/pages/service-category/ecommerce-development/sections/why-choose.json';
-import ecommerceDevelopmentPortfolio from '../../../content/pages/service-category/ecommerce-development/sections/portfolio.json';
-import ecommerceDevelopmentTestimonials from '../../../content/pages/service-category/ecommerce-development/sections/testimonials.json';
-import ecommerceDevelopmentTechnologies from '../../../content/pages/service-category/ecommerce-development/sections/technologies.json';
-import ecommerceDevelopmentFaq from '../../../content/pages/service-category/ecommerce-development/sections/faq.json';
-import ecommerceDevelopmentFeaturedIn from '../../../content/pages/service-category/ecommerce-development/sections/featured-in.json';
-import ecommerceDevelopmentBlog from '../../../content/pages/service-category/ecommerce-development/sections/blog.json';
+import ecommerceDevelopment_categoryHero from '../../../content/pages/service-category/ecommerce-development/sections/category-hero.json';
+import ecommerceDevelopment_introContent from '../../../content/pages/service-category/ecommerce-development/sections/intro-content.json';
+import ecommerceDevelopment_iconCards from '../../../content/pages/service-category/ecommerce-development/sections/icon-cards.json';
+import ecommerceDevelopment_featureList from '../../../content/pages/service-category/ecommerce-development/sections/feature-list.json';
+import ecommerceDevelopment_techIcons from '../../../content/pages/service-category/ecommerce-development/sections/tech-icons.json';
+import ecommerceDevelopment_whyChoose from '../../../content/pages/service-category/ecommerce-development/sections/why-choose.json';
+import ecommerceDevelopment_portfolio from '../../../content/pages/service-category/ecommerce-development/sections/portfolio.json';
+import ecommerceDevelopment_brandLogos from '../../../content/pages/service-category/ecommerce-development/sections/brand-logos.json';
+import ecommerceDevelopment_testimonials from '../../../content/pages/service-category/ecommerce-development/sections/testimonials.json';
+import ecommerceDevelopment_featuredIn from '../../../content/pages/service-category/ecommerce-development/sections/featured-in.json';
+import ecommerceDevelopment_technologies from '../../../content/pages/service-category/ecommerce-development/sections/technologies.json';
+import ecommerceDevelopment_blog from '../../../content/pages/service-category/ecommerce-development/sections/blog.json';
 import gameDevelopmentPage from '../../../content/pages/service-category/game-development/page.json';
 import gameDevelopmentCategoryHero from '../../../content/pages/service-category/game-development/sections/category-hero.json';
 import gameDevelopmentBrandLogos from '../../../content/pages/service-category/game-development/sections/brand-logos.json';
@@ -114,22 +109,20 @@ import gameDevelopmentFaq from '../../../content/pages/service-category/game-dev
 import gameDevelopmentFeaturedIn from '../../../content/pages/service-category/game-development/sections/featured-in.json';
 import gameDevelopmentBlog from '../../../content/pages/service-category/game-development/sections/blog.json';
 import uiUxDesignPage from '../../../content/pages/service-category/ui-ux-design/page.json';
-import uiUxDesignCategoryHero from '../../../content/pages/service-category/ui-ux-design/sections/category-hero.json';
-import uiUxDesignBrandLogos from '../../../content/pages/service-category/ui-ux-design/sections/brand-logos.json';
-import uiUxDesignIntroContent from '../../../content/pages/service-category/ui-ux-design/sections/intro-content.json';
-import uiUxDesignServiceOfferings from '../../../content/pages/service-category/ui-ux-design/sections/service-offerings.json';
-import uiUxDesignFeatureList from '../../../content/pages/service-category/ui-ux-design/sections/feature-list.json';
-import uiUxDesignAdvantageGrid from '../../../content/pages/service-category/ui-ux-design/sections/advantage-grid.json';
-import uiUxDesignProcess from '../../../content/pages/service-category/ui-ux-design/sections/process.json';
-import uiUxDesignFrameworkTabs from '../../../content/pages/service-category/ui-ux-design/sections/framework-tabs.json';
-import uiUxDesignWhyChoose from '../../../content/pages/service-category/ui-ux-design/sections/why-choose.json';
-import uiUxDesignPortfolio from '../../../content/pages/service-category/ui-ux-design/sections/portfolio.json';
-import uiUxDesignTestimonials from '../../../content/pages/service-category/ui-ux-design/sections/testimonials.json';
-import uiUxDesignTechnologies from '../../../content/pages/service-category/ui-ux-design/sections/technologies.json';
-import uiUxDesignFaq from '../../../content/pages/service-category/ui-ux-design/sections/faq.json';
-import uiUxDesignFeaturedIn from '../../../content/pages/service-category/ui-ux-design/sections/featured-in.json';
-import uiUxDesignBlog from '../../../content/pages/service-category/ui-ux-design/sections/blog.json';
-import uiUxDesignCallout from '../../../content/pages/service-category/ui-ux-design/sections/callout.json';
+import uiUxDesign_categoryHero from '../../../content/pages/service-category/ui-ux-design/sections/category-hero.json';
+import uiUxDesign_introContent from '../../../content/pages/service-category/ui-ux-design/sections/intro-content.json';
+import uiUxDesign_uiuxServices from '../../../content/pages/service-category/ui-ux-design/sections/uiux-services.json';
+import uiUxDesign_uiuxMobileDesign from '../../../content/pages/service-category/ui-ux-design/sections/uiux-mobile-design.json';
+import uiUxDesign_uiuxWebDesign from '../../../content/pages/service-category/ui-ux-design/sections/uiux-web-design.json';
+import uiUxDesign_uiuxProcess from '../../../content/pages/service-category/ui-ux-design/sections/uiux-process.json';
+import uiUxDesign_uiuxTools from '../../../content/pages/service-category/ui-ux-design/sections/uiux-tools.json';
+import uiUxDesign_whyChoose from '../../../content/pages/service-category/ui-ux-design/sections/why-choose.json';
+import uiUxDesign_callout from '../../../content/pages/service-category/ui-ux-design/sections/callout.json';
+import uiUxDesign_brandLogos from '../../../content/pages/service-category/ui-ux-design/sections/brand-logos.json';
+import uiUxDesign_testimonials from '../../../content/pages/service-category/ui-ux-design/sections/testimonials.json';
+import uiUxDesign_featuredIn from '../../../content/pages/service-category/ui-ux-design/sections/featured-in.json';
+import uiUxDesign_technologies from '../../../content/pages/service-category/ui-ux-design/sections/technologies.json';
+import uiUxDesign_blog from '../../../content/pages/service-category/ui-ux-design/sections/blog.json';
 
 export const localSite: SiteData = {
   settings: site,
@@ -163,21 +156,19 @@ const homeSections: Partial<SectionDataMap> = {
 
 /** Sections of the "MVP Development" service page (content/pages/service/mvp-development). */
 const serviceMvpSections: Partial<SectionDataMap> = {
-  categoryHero: svcCategoryHero,
-  brandLogos: svcBrandLogos,
-  introContent: svcIntroContent,
-  offerCards: svcOfferCards,
-  imageCards: svcImageCards,
-  compareBenefits: svcCompareBenefits,
-  sprintProcess: svcSprintProcess,
-  techStackTabs: svcTechStackTabs,
-    whyChooseImage: svcWhyChooseImage,
-  portfolio: svcPortfolio,
-  testimonials: svcTestimonials,
-  technologies: svcTechnologies,
-  faq: svcFaq,
-  featuredIn: svcFeaturedIn,
-  blog: svcBlog,
+  categoryHero: svc_categoryHero,
+  introContent: svc_introContent,
+  offerCards: svc_offerCards,
+  imageCards: svc_imageCards,
+  compareBenefits: svc_compareBenefits,
+  sprintProcess: svc_sprintProcess,
+  whyChooseImage: svc_whyChooseImage,
+  portfolio: svc_portfolio,
+  brandLogos: svc_brandLogos,
+  testimonials: svc_testimonials,
+  featuredIn: svc_featuredIn,
+  technologies: svc_technologies,
+  blog: svc_blog,
     };
 
 /** Sections of the "Web Development" category page (content/pages/service-category/web-development). */
@@ -212,21 +203,18 @@ const mobileAppDevelopmentSections: Partial<SectionDataMap> = {
 
 /** Sections of the "E-Commerce Development" category page (content/pages/service-category/ecommerce-development). */
 const ecommerceDevelopmentSections: Partial<SectionDataMap> = {
-  categoryHero: ecommerceDevelopmentCategoryHero,
-  brandLogos: ecommerceDevelopmentBrandLogos,
-  introContent: ecommerceDevelopmentIntroContent,
-  serviceOfferings: ecommerceDevelopmentServiceOfferings,
-  featureList: ecommerceDevelopmentFeatureList,
-  advantageGrid: ecommerceDevelopmentAdvantageGrid,
-  process: ecommerceDevelopmentProcess,
-  frameworkTabs: ecommerceDevelopmentFrameworkTabs,
-    whyChoose: ecommerceDevelopmentWhyChoose,
-  portfolio: ecommerceDevelopmentPortfolio,
-  testimonials: ecommerceDevelopmentTestimonials,
-  technologies: ecommerceDevelopmentTechnologies,
-  faq: ecommerceDevelopmentFaq,
-  featuredIn: ecommerceDevelopmentFeaturedIn,
-  blog: ecommerceDevelopmentBlog,
+  categoryHero: ecommerceDevelopment_categoryHero,
+  introContent: ecommerceDevelopment_introContent,
+  iconCards: ecommerceDevelopment_iconCards,
+  featureList: ecommerceDevelopment_featureList,
+  techIcons: ecommerceDevelopment_techIcons,
+  whyChoose: ecommerceDevelopment_whyChoose,
+  portfolio: ecommerceDevelopment_portfolio,
+  brandLogos: ecommerceDevelopment_brandLogos,
+  testimonials: ecommerceDevelopment_testimonials,
+  featuredIn: ecommerceDevelopment_featuredIn,
+  technologies: ecommerceDevelopment_technologies,
+  blog: ecommerceDevelopment_blog,
   };
 
 /** Sections of the "Game Development" category page (content/pages/service-category/game-development). */
@@ -250,22 +238,20 @@ const gameDevelopmentSections: Partial<SectionDataMap> = {
 
 /** Sections of the "UI/UX Design" category page (content/pages/service-category/ui-ux-design). */
 const uiUxDesignSections: Partial<SectionDataMap> = {
-  categoryHero: uiUxDesignCategoryHero,
-  callout: uiUxDesignCallout,
-  brandLogos: uiUxDesignBrandLogos,
-  introContent: uiUxDesignIntroContent,
-  serviceOfferings: uiUxDesignServiceOfferings,
-  featureList: uiUxDesignFeatureList,
-  advantageGrid: uiUxDesignAdvantageGrid,
-  process: uiUxDesignProcess,
-  frameworkTabs: uiUxDesignFrameworkTabs,
-    whyChoose: uiUxDesignWhyChoose,
-  portfolio: uiUxDesignPortfolio,
-  testimonials: uiUxDesignTestimonials,
-  technologies: uiUxDesignTechnologies,
-  faq: uiUxDesignFaq,
-  featuredIn: uiUxDesignFeaturedIn,
-  blog: uiUxDesignBlog,
+  categoryHero: uiUxDesign_categoryHero,
+  introContent: uiUxDesign_introContent,
+  uiuxServices: uiUxDesign_uiuxServices,
+  uiuxMobileDesign: uiUxDesign_uiuxMobileDesign,
+  uiuxWebDesign: uiUxDesign_uiuxWebDesign,
+  uiuxProcess: uiUxDesign_uiuxProcess,
+  uiuxTools: uiUxDesign_uiuxTools,
+  whyChoose: uiUxDesign_whyChoose,
+  callout: uiUxDesign_callout,
+  brandLogos: uiUxDesign_brandLogos,
+  testimonials: uiUxDesign_testimonials,
+  featuredIn: uiUxDesign_featuredIn,
+  technologies: uiUxDesign_technologies,
+  blog: uiUxDesign_blog,
   };
 
 /** Builds a page from its manifest (slug, seo, ordered list of section types). */
