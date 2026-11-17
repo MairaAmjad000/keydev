@@ -6,6 +6,7 @@
   },
   "sections": [
     "categoryHero",
+    "brandLogos",
     "introContent",
     "uiuxServices",
     "uiuxMobileDesign",
@@ -14,7 +15,6 @@
     "uiuxTools",
     "whyChoose",
     "callout",
-    "brandLogos",
     "testimonials",
     "featuredIn",
     "technologies",

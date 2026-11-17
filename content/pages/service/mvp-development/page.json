@@ -6,6 +6,7 @@
   },
   "sections": [
     "categoryHero",
+    "brandLogos",
     "introContent",
     "offerCards",
     "imageCards",
@@ -13,7 +14,6 @@
     "sprintProcess",
     "whyChooseImage",
     "portfolio",
-    "brandLogos",
     "testimonials",
     "featuredIn",
     "technologies",
