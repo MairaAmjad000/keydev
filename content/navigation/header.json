@@ -192,50 +192,50 @@
     }
   ],
   "link9": {
-    "href": "/service-category/game-development",
-    "text": "Game Development"
+    "href": "javascript:;",
+    "text": "Digital Marketing"
   },
   "items4": [
     {
       "link": {
-        "href": "/service/ios-game-development",
+        "href": "/service/seo-services",
         "icon": "svg-8e0ee3",
-        "text": "iOS Game Development"
+        "text": "Search Engine Optimization"
       }
     },
     {
       "link": {
-        "href": "/service/android-game-development",
+        "href": "javascript:;",
         "icon": "svg-2f5f8c",
-        "text": "Android Game Development"
+        "text": "Social Media Marketing"
       }
     },
     {
       "link": {
-        "href": "/service/unity-2d-3d-game-development",
+        "href": "javascript:;",
         "icon": "svg-39e9ed",
-        "text": "2D/3D Game Development"
+        "text": "Facebook Ads"
       }
     },
     {
       "link": {
-        "href": "/service/ar-game-development",
+        "href": "javascript:;",
         "icon": "svg-8585d3",
-        "text": "AR Game Development"
+        "text": "Google Ads"
       }
     },
     {
       "link": {
-        "href": "/service/vr-game-development",
+        "href": "javascript:;",
         "icon": "svg-98c0e2",
-        "text": "VR Game Development"
+        "text": "E-commerce Ads"
       }
     },
     {
       "link": {
-        "href": "/service/mac-game-development",
+        "href": "javascript:;",
         "icon": "svg-c82c19",
-        "text": "Mac Game Development"
+        "text": "YouTube Promotion"
       }
     }
   ],
