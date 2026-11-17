@@ -70,21 +70,17 @@ import { estimatePageSources } from './local-estimate';
 import { mobileApplicationPages } from './local-mobile-application';
 import type { GlobalSectionsContent, PageData, SectionBlock, SectionDataMap, SectionType, SiteData } from '@/types';
 import mobileAppDevelopmentPage from '../../../content/pages/service-category/mobile-app-development/page.json';
-import mobileAppDevelopmentCategoryHero from '../../../content/pages/service-category/mobile-app-development/sections/category-hero.json';
-import mobileAppDevelopmentBrandLogos from '../../../content/pages/service-category/mobile-app-development/sections/brand-logos.json';
-import mobileAppDevelopmentIntroContent from '../../../content/pages/service-category/mobile-app-development/sections/intro-content.json';
-import mobileAppDevelopmentServiceOfferings from '../../../content/pages/service-category/mobile-app-development/sections/service-offerings.json';
-import mobileAppDevelopmentFeatureList from '../../../content/pages/service-category/mobile-app-development/sections/feature-list.json';
-import mobileAppDevelopmentAdvantageGrid from '../../../content/pages/service-category/mobile-app-development/sections/advantage-grid.json';
-import mobileAppDevelopmentProcess from '../../../content/pages/service-category/mobile-app-development/sections/process.json';
-import mobileAppDevelopmentFrameworkTabs from '../../../content/pages/service-category/mobile-app-development/sections/framework-tabs.json';
-import mobileAppDevelopmentWhyChoose from '../../../content/pages/service-category/mobile-app-development/sections/why-choose.json';
-import mobileAppDevelopmentPortfolio from '../../../content/pages/service-category/mobile-app-development/sections/portfolio.json';
-import mobileAppDevelopmentTestimonials from '../../../content/pages/service-category/mobile-app-development/sections/testimonials.json';
-import mobileAppDevelopmentTechnologies from '../../../content/pages/service-category/mobile-app-development/sections/technologies.json';
-import mobileAppDevelopmentFaq from '../../../content/pages/service-category/mobile-app-development/sections/faq.json';
-import mobileAppDevelopmentFeaturedIn from '../../../content/pages/service-category/mobile-app-development/sections/featured-in.json';
-import mobileAppDevelopmentBlog from '../../../content/pages/service-category/mobile-app-development/sections/blog.json';
+import mobileAppDevelopment_categoryHero from '../../../content/pages/service-category/mobile-app-development/sections/category-hero.json';
+import mobileAppDevelopment_introSlider from '../../../content/pages/service-category/mobile-app-development/sections/intro-slider.json';
+import mobileAppDevelopment_offerGrid from '../../../content/pages/service-category/mobile-app-development/sections/offer-grid.json';
+import mobileAppDevelopment_process from '../../../content/pages/service-category/mobile-app-development/sections/process.json';
+import mobileAppDevelopment_appWhyChoose from '../../../content/pages/service-category/mobile-app-development/sections/app-why-choose.json';
+import mobileAppDevelopment_brandLogos from '../../../content/pages/service-category/mobile-app-development/sections/brand-logos.json';
+import mobileAppDevelopment_portfolio from '../../../content/pages/service-category/mobile-app-development/sections/portfolio.json';
+import mobileAppDevelopment_testimonials from '../../../content/pages/service-category/mobile-app-development/sections/testimonials.json';
+import mobileAppDevelopment_technologies from '../../../content/pages/service-category/mobile-app-development/sections/technologies.json';
+import mobileAppDevelopment_blog from '../../../content/pages/service-category/mobile-app-development/sections/blog.json';
+import mobileAppDevelopment_featuredIn from '../../../content/pages/service-category/mobile-app-development/sections/featured-in.json';
 import ecommerceDevelopmentPage from '../../../content/pages/service-category/ecommerce-development/page.json';
 import ecommerceDevelopmentCategoryHero from '../../../content/pages/service-category/ecommerce-development/sections/category-hero.json';
 import ecommerceDevelopmentBrandLogos from '../../../content/pages/service-category/ecommerce-development/sections/brand-logos.json';
@@ -201,21 +197,17 @@ const categoryWebDevelopmentSections: Partial<SectionDataMap> = {
 
 /** Sections of the "Mobile App Development" category page (content/pages/service-category/mobile-app-development). */
 const mobileAppDevelopmentSections: Partial<SectionDataMap> = {
-  categoryHero: mobileAppDevelopmentCategoryHero,
-  brandLogos: mobileAppDevelopmentBrandLogos,
-  introContent: mobileAppDevelopmentIntroContent,
-  serviceOfferings: mobileAppDevelopmentServiceOfferings,
-  featureList: mobileAppDevelopmentFeatureList,
-  advantageGrid: mobileAppDevelopmentAdvantageGrid,
-  process: mobileAppDevelopmentProcess,
-  frameworkTabs: mobileAppDevelopmentFrameworkTabs,
-    whyChoose: mobileAppDevelopmentWhyChoose,
-  portfolio: mobileAppDevelopmentPortfolio,
-  testimonials: mobileAppDevelopmentTestimonials,
-  technologies: mobileAppDevelopmentTechnologies,
-  faq: mobileAppDevelopmentFaq,
-  featuredIn: mobileAppDevelopmentFeaturedIn,
-  blog: mobileAppDevelopmentBlog,
+  categoryHero: mobileAppDevelopment_categoryHero,
+  introSlider: mobileAppDevelopment_introSlider,
+  offerGrid: mobileAppDevelopment_offerGrid,
+  process: mobileAppDevelopment_process,
+  appWhyChoose: mobileAppDevelopment_appWhyChoose,
+  brandLogos: mobileAppDevelopment_brandLogos,
+  portfolio: mobileAppDevelopment_portfolio,
+  testimonials: mobileAppDevelopment_testimonials,
+  technologies: mobileAppDevelopment_technologies,
+  blog: mobileAppDevelopment_blog,
+  featuredIn: mobileAppDevelopment_featuredIn,
   };
 
 /** Sections of the "E-Commerce Development" category page (content/pages/service-category/ecommerce-development). */

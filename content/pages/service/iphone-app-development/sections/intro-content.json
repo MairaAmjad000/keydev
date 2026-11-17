@@ -1,23 +1,29 @@
 {
-  "heading": "Native iPhone Apps that Users Love",
+  "heading": "What Sets Us Apart as an iPhone App Development Agency",
   "paragraphs": [
     {
-      "html": "iPhone users expect speed, smooth animation and a design that follows Apple’s guidelines. Our iOS team builds apps that meet that bar, from first launch to the thousandth session."
+      "html": "The perfect blend of engineering and design—KeyDevs Technologies delivers the excellence that Apple has been known for since its inception. As a digitally driven company, we are constantly seeking the next groundbreaking innovation in iPhone app development. Our goal is not just to create another mobile app but to transform ideas into reality through comprehensive app development. This approach has enabled the apps we create to quickly ascend the app store rankings."
     },
     {
-      "html": "We work with startups and enterprises on everything from consumer apps to internal business tools, integrating with your backend, payment gateways, maps, push notifications and Apple services such as Sign in with Apple."
+      "html": "Our team consists of top engineering talent passionate about iPhone app development, complemented by creative designers who empathize with users to craft engaging app interfaces and workflows. This combination ensures your app stands out in the iTunes rankings. Whether you aim to address enterprise challenges or create the next big sensation in the app world, our engineering and design expertise will support you in achieving both."
     },
     {
-      "html": "Start your iphone app development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+      "html": "Have questions about your upcoming iPhone app development project? Remember, asking questions is a hallmark of intelligence. Don’t hesitate! Reach out to us today for answers to all your inquiries."
     }
   ],
   "link": {
     "href": "/contact",
     "text": "Talk to Our Expert Now",
-    "className": "btn btn-custome waves-effect waves-light"
+    "className": "btn-custome btn waves-effect waves-light"
   },
   "image": {
     "src": "/images/services/mobile-app-development.png",
-    "alt": "iPhone App Development"
-  }
+    "alt": "iPhone app development agency",
+    "width": "470",
+    "height": "410"
+  },
+  "imageClass": "",
+  "sectionClass": "about service-main-content",
+  "headingClass": "mb-3",
+  "imageWrapClass": "video-area-wrapper"
 }

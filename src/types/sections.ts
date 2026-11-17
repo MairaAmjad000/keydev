@@ -1315,6 +1315,8 @@ export interface PolicyContentContent {
 // ---------------------------------------------------------------------------------------------
 
 export interface IndustryTabsContent {
+  /** Classes of the heading <section> (default "padding-60 bg-light p-relative pb-0"). */
+  sectionClass?: string;
   /** Small label above the heading. The title block is left out when `heading` is empty. */
   text: string;
   heading: string;

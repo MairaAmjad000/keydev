@@ -6,20 +6,15 @@
   },
   "sections": [
     "categoryHero",
-    "brandLogos",
     "introContent",
-    "offerCards",
-    "imageCards",
-    "compareBenefits",
-    "sprintProcess",
-    "techStackTabs",
-    "whyChooseImage",
+    "appPlatforms",
+    "appWhyChoose",
     "industryTabs",
+    "brandLogos",
     "portfolio",
     "testimonials",
     "technologies",
-    "faq",
-    "featuredIn",
-    "blog"
+    "blog",
+    "featuredIn"
   ]
 }

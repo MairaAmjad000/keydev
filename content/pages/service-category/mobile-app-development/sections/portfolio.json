@@ -1,115 +1,59 @@
 {
   "text": "The Portfolio",
   "heading": "Our Unique And Creative Work",
-  "text2": "Have a quick glimpse of our amazing mobile app projects that amplified the business of clients.",
+  "text2": "With the ever-growing smartphone and iPhone app development demand, we have come flying in providing mobility solutions to simplify the business process. check out few of the top mobile apps created by KeyDevs Technologies.",
   "items": [
     {
-      "heading": "Delivery Shark",
-      "text": "Super app for a UK customer with food delivery, ride and handyman services with real-time tracking.",
+      "heading": "Gojek Clone Super App",
+      "text": "A training academy app for students & trainers with built-in chat and task management features.",
       "image": {
-        "src": "/images/portfolio/delivery-shark.jpg",
-        "alt": "Delivery Shark — Super app for a UK customer with food delivery, ride and handyman services with real-time tracking.",
-        "width": "430",
-        "height": "560"
+        "src": "/images/portfolio/mobile-1.jpg",
+        "alt": ""
       },
-      "heading2": "Delivery Shark",
-      "text2": "Super app for a UK customer with food delivery, ride and handyman services with real-time tracking.",
+      "heading2": "AK Microblading Traning",
+      "text2": "A training academy app for students & trainers with built-in chat and task management features.",
       "link": {
         "href": "/portfolio",
         "text": "Explore More"
       }
     },
     {
-      "heading": "Fantasyji",
-      "text": "Fantasy sports app with live scores, contests and instant payouts.",
+      "heading": "Food Delivery App",
+      "text": "A custom emoji creating app for Pakistan’s popular Mrs. Bella and Claireabella characters.",
       "image": {
-        "src": "/images/portfolio/fantasyji.jpg",
-        "alt": "Fantasyji — Fantasy sports app with live scores, contests and instant payouts.",
-        "width": "430",
-        "height": "560"
+        "src": "/images/portfolio/mobile-2.jpg",
+        "alt": ""
       },
-      "heading2": "Fantasyji",
-      "text2": "Fantasy sports app with live scores, contests and instant payouts.",
+      "heading2": "ClaireaBella",
+      "text2": "A custom emoji creating app for Pakistan’s popular Mrs. Bella and Claireabella characters.",
       "link": {
         "href": "/portfolio",
         "text": "Explore More"
       }
     },
     {
-      "heading": "Finance App",
-      "text": "Secure personal finance app with budgeting and spending insights.",
+      "heading": "Ride App",
+      "text": "On-demand taxi booking app for Nigeria with features for passengers, drivers and admins.",
       "image": {
-        "src": "/images/portfolio/finance-app.jpg",
-        "alt": "Finance App — Secure personal finance app with budgeting and spending insights.",
-        "width": "430",
-        "height": "560"
+        "src": "/images/portfolio/mobile-3.jpg",
+        "alt": ""
       },
-      "heading2": "Finance App",
-      "text2": "Secure personal finance app with budgeting and spending insights.",
+      "heading2": "Dorel Taxi",
+      "text2": "On-demand taxi booking app for Nigeria with features for passengers, drivers and admins.",
       "link": {
         "href": "/portfolio",
         "text": "Explore More"
       }
     },
     {
-      "heading": "Healthcare & Fitness",
-      "text": "Health and fitness app that tracks workouts and keeps users motivated.",
+      "heading": "E-commerce App",
+      "text": "Event-based crime-solving adventure game that can be played in the streets of Lahore and across the globe.",
       "image": {
-        "src": "/images/portfolio/healthcare-and-fitness.jpg",
-        "alt": "Healthcare & Fitness — Health and fitness app that tracks workouts and keeps users motivated.",
-        "width": "430",
-        "height": "560"
+        "src": "/images/portfolio/mobile-4.jpg",
+        "alt": ""
       },
-      "heading2": "Healthcare & Fitness",
-      "text2": "Health and fitness app that tracks workouts and keeps users motivated.",
-      "link": {
-        "href": "/portfolio",
-        "text": "Explore More"
-      }
-    },
-    {
-      "heading": "Social Media",
-      "text": "Social networking app with feeds, chat and media sharing.",
-      "image": {
-        "src": "/images/portfolio/social-media.jpg",
-        "alt": "Social Media — Social networking app with feeds, chat and media sharing.",
-        "width": "430",
-        "height": "560"
-      },
-      "heading2": "Social Media",
-      "text2": "Social networking app with feeds, chat and media sharing.",
-      "link": {
-        "href": "/portfolio",
-        "text": "Explore More"
-      }
-    },
-    {
-      "heading": "Real Estate",
-      "text": "Property search app with maps, saved listings and agent chat.",
-      "image": {
-        "src": "/images/portfolio/real-estate.jpg",
-        "alt": "Real Estate — Property search app with maps, saved listings and agent chat.",
-        "width": "430",
-        "height": "560"
-      },
-      "heading2": "Real Estate",
-      "text2": "Property search app with maps, saved listings and agent chat.",
-      "link": {
-        "href": "/portfolio",
-        "text": "Explore More"
-      }
-    },
-    {
-      "heading": "Event & Community Building",
-      "text": "Community app for creating, discovering and joining local events.",
-      "image": {
-        "src": "/images/portfolio/event-and-community-building.jpg",
-        "alt": "Event & Community Building — Community app for creating, discovering and joining local events.",
-        "width": "430",
-        "height": "560"
-      },
-      "heading2": "Event & Community Building",
-      "text2": "Community app for creating, discovering and joining local events.",
+      "heading2": "CluedUpp",
+      "text2": "Event-based crime-solving adventure game that can be played in the streets of Lahore and across the globe.",
       "link": {
         "href": "/portfolio",
         "text": "Explore More"

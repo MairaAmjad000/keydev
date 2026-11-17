@@ -1,12 +1,12 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "iPhone App Development by KeyDevs Technologies",
+    "src": "/images/category/mobile-app-development/banner-mobile-app-development.webp",
+    "alt": "iPhone app development by KeyDevs Technologies",
     "width": "1920",
-    "height": "800"
+    "height": "780"
   },
-  "heading": "iPhone App Development Company",
-  "text": "Build a polished, high-performance iPhone app with KeyDevs Technologies. Our iOS developers design, build, test and launch native apps in Swift and Objective-C that feel right at home on Apple devices.",
+  "heading": "iPhone App Development",
+  "text": "Aim to stand out in the crowded iPhone app development market. This was our vision when we embarked on the journey of creating iPhone applications. As passionate supporters of the Apple ecosystem, we believe that every app in the App Store should reflect the same high standards of design, user experience, and practicality that Steve Jobs championed. When you partner with us for custom iPhone app development, you're not just getting another app; you're getting a unique experience that will captivate your users.",
   "links": [
     {
       "href": "/portfolio",
@@ -29,7 +29,7 @@
       "href": "/service-category/mobile-app-development"
     },
     {
-      "text": "iPhone App Development"
+      "text": "iphone"
     }
   ]
 }

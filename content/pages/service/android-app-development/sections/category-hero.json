@@ -1,12 +1,12 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "Android App Development by KeyDevs Technologies",
+    "src": "/images/category/mobile-app-development/banner-mobile-app-development.webp",
+    "alt": "Android app development by KeyDevs Technologies",
     "width": "1920",
-    "height": "800"
+    "height": "780"
   },
   "heading": "Android App Development Company",
-  "text": "Android app development demands specialized expertise. Our Android app development agency boasts a talented team of experienced developers who are passionate about innovation and creativity.<br/><br/>We are dedicated to providing top-notch Android app development services and support through our professional, approachable, and hands-on team.",
+  "text": "Android app development demands specialized expertise. Our Android app development agency boasts a talented team of experienced developers who are passionate about innovation and creativity.<br/> <br/> We are dedicated to providing top-notch Android app development services and support through our professional, approachable, and hands-on team.",
   "links": [
     {
       "href": "/portfolio",
@@ -19,8 +19,21 @@
       "text": "Calculate App Development Cost"
     }
   ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Mobile App Development",
+      "href": "/service-category/mobile-app-development"
+    },
+    {
+      "text": "Android App Development"
+    }
+  ],
   "form": {
-    "id": "android-app-development-banner_form",
+    "id": "androidappdev-banner_form",
     "fields": [
       {
         "type": "text",
@@ -55,20 +68,7 @@
       }
     ],
     "submitText": "Get Started Now!",
-    "errorId": "android-app-development-error_message_banner_form",
-    "successId": "android-app-development-success_message_banner_form"
-  },
-  "breadcrumbs": [
-    {
-      "text": "Home",
-      "href": "/"
-    },
-    {
-      "text": "Mobile App Development",
-      "href": "/service-category/mobile-app-development"
-    },
-    {
-      "text": "Android App Development"
-    }
-  ]
+    "errorId": "androidappdev-error_message_banner_form",
+    "successId": "androidappdev-success_message_banner_form"
+  }
 }

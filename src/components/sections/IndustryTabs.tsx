@@ -12,7 +12,7 @@ export function IndustryTabs({ data }: { data: IndustryTabsContent }) {
     <>
       {data.heading && (
         <>
-          <section className="padding-60 bg-light p-relative pb-0">
+          <section className={data.sectionClass ?? 'padding-60 bg-light p-relative pb-0'}>
             {data.callout && (
               <>
                 <CalloutBar data={data.callout} />

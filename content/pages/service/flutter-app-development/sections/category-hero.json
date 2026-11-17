@@ -1,12 +1,12 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "Flutter App Development by KeyDevs Technologies",
+    "src": "/images/category/mobile-app-development/banner-mobile-app-development.webp",
+    "alt": "Flutter app development by KeyDevs Technologies",
     "width": "1920",
-    "height": "800"
+    "height": "780"
   },
-  "heading": "Flutter App Development Company",
-  "text": "Launch on iOS and Android at the same time with Flutter app development from KeyDevs Technologies. One codebase, expressive custom UI and near-native performance at a lower cost.",
+  "heading": "Tailored Flutter App Development Specialists",
+  "text": "The Google Flutter app development SDK is transforming iOS and Android mobile apps by leveraging a single codebase. Utilizing the DART programming language, KeyDevs Technologies offers Flutter development services with unparalleled customization of material design and widget interfaces. Our team of expert Flutter developers is dedicated to delivering high-quality, feature-rich Flutter app development solutions tailored to meet your business needs.",
   "links": [
     {
       "href": "/portfolio",

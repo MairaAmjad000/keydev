@@ -5,73 +5,52 @@
 import type { SectionDataMap } from '@/types';
 import iphoneAppDevelopmentPage from '../../../content/pages/service/iphone-app-development/page.json';
 import iphoneAppDevelopment_categoryHero from '../../../content/pages/service/iphone-app-development/sections/category-hero.json';
-import iphoneAppDevelopment_brandLogos from '../../../content/pages/service/iphone-app-development/sections/brand-logos.json';
 import iphoneAppDevelopment_introContent from '../../../content/pages/service/iphone-app-development/sections/intro-content.json';
-import iphoneAppDevelopment_offerCards from '../../../content/pages/service/iphone-app-development/sections/offer-cards.json';
-import iphoneAppDevelopment_imageCards from '../../../content/pages/service/iphone-app-development/sections/image-cards.json';
-import iphoneAppDevelopment_compareBenefits from '../../../content/pages/service/iphone-app-development/sections/compare-benefits.json';
-import iphoneAppDevelopment_sprintProcess from '../../../content/pages/service/iphone-app-development/sections/sprint-process.json';
-import iphoneAppDevelopment_techStackTabs from '../../../content/pages/service/iphone-app-development/sections/tech-stack-tabs.json';
-import iphoneAppDevelopment_whyChooseImage from '../../../content/pages/service/iphone-app-development/sections/why-choose-image.json';
+import iphoneAppDevelopment_appPlatforms from '../../../content/pages/service/iphone-app-development/sections/app-platforms.json';
+import iphoneAppDevelopment_appWhyChoose from '../../../content/pages/service/iphone-app-development/sections/app-why-choose.json';
+import iphoneAppDevelopment_industryTabs from '../../../content/pages/service/iphone-app-development/sections/industry-tabs.json';
+import iphoneAppDevelopment_brandLogos from '../../../content/pages/service/iphone-app-development/sections/brand-logos.json';
 import iphoneAppDevelopment_portfolio from '../../../content/pages/service/iphone-app-development/sections/portfolio.json';
 import iphoneAppDevelopment_testimonials from '../../../content/pages/service/iphone-app-development/sections/testimonials.json';
 import iphoneAppDevelopment_technologies from '../../../content/pages/service/iphone-app-development/sections/technologies.json';
-import iphoneAppDevelopment_faq from '../../../content/pages/service/iphone-app-development/sections/faq.json';
-import iphoneAppDevelopment_featuredIn from '../../../content/pages/service/iphone-app-development/sections/featured-in.json';
 import iphoneAppDevelopment_blog from '../../../content/pages/service/iphone-app-development/sections/blog.json';
-import iphoneAppDevelopment_industryTabs from '../../../content/pages/service/iphone-app-development/sections/industry-tabs.json';
+import iphoneAppDevelopment_featuredIn from '../../../content/pages/service/iphone-app-development/sections/featured-in.json';
 import androidAppDevelopmentPage from '../../../content/pages/service/android-app-development/page.json';
 import androidAppDevelopment_categoryHero from '../../../content/pages/service/android-app-development/sections/category-hero.json';
-import androidAppDevelopment_brandLogos from '../../../content/pages/service/android-app-development/sections/brand-logos.json';
 import androidAppDevelopment_introContent from '../../../content/pages/service/android-app-development/sections/intro-content.json';
-import androidAppDevelopment_offerCards from '../../../content/pages/service/android-app-development/sections/offer-cards.json';
-import androidAppDevelopment_imageCards from '../../../content/pages/service/android-app-development/sections/image-cards.json';
-import androidAppDevelopment_compareBenefits from '../../../content/pages/service/android-app-development/sections/compare-benefits.json';
-import androidAppDevelopment_sprintProcess from '../../../content/pages/service/android-app-development/sections/sprint-process.json';
-import androidAppDevelopment_techStackTabs from '../../../content/pages/service/android-app-development/sections/tech-stack-tabs.json';
-import androidAppDevelopment_whyChooseImage from '../../../content/pages/service/android-app-development/sections/why-choose-image.json';
+import androidAppDevelopment_appPlatforms from '../../../content/pages/service/android-app-development/sections/app-platforms.json';
+import androidAppDevelopment_appWhyChoose from '../../../content/pages/service/android-app-development/sections/app-why-choose.json';
+import androidAppDevelopment_industryTabs from '../../../content/pages/service/android-app-development/sections/industry-tabs.json';
+import androidAppDevelopment_brandLogos from '../../../content/pages/service/android-app-development/sections/brand-logos.json';
 import androidAppDevelopment_portfolio from '../../../content/pages/service/android-app-development/sections/portfolio.json';
 import androidAppDevelopment_testimonials from '../../../content/pages/service/android-app-development/sections/testimonials.json';
 import androidAppDevelopment_technologies from '../../../content/pages/service/android-app-development/sections/technologies.json';
-import androidAppDevelopment_faq from '../../../content/pages/service/android-app-development/sections/faq.json';
-import androidAppDevelopment_featuredIn from '../../../content/pages/service/android-app-development/sections/featured-in.json';
 import androidAppDevelopment_blog from '../../../content/pages/service/android-app-development/sections/blog.json';
-import androidAppDevelopment_appWhyChoose from '../../../content/pages/service/android-app-development/sections/app-why-choose.json';
-import androidAppDevelopment_appPlatforms from '../../../content/pages/service/android-app-development/sections/app-platforms.json';
-import androidAppDevelopment_industryTabs from '../../../content/pages/service/android-app-development/sections/industry-tabs.json';
+import androidAppDevelopment_featuredIn from '../../../content/pages/service/android-app-development/sections/featured-in.json';
 import flutterAppDevelopmentPage from '../../../content/pages/service/flutter-app-development/page.json';
 import flutterAppDevelopment_categoryHero from '../../../content/pages/service/flutter-app-development/sections/category-hero.json';
-import flutterAppDevelopment_brandLogos from '../../../content/pages/service/flutter-app-development/sections/brand-logos.json';
 import flutterAppDevelopment_introContent from '../../../content/pages/service/flutter-app-development/sections/intro-content.json';
-import flutterAppDevelopment_offerCards from '../../../content/pages/service/flutter-app-development/sections/offer-cards.json';
-import flutterAppDevelopment_imageCards from '../../../content/pages/service/flutter-app-development/sections/image-cards.json';
-import flutterAppDevelopment_compareBenefits from '../../../content/pages/service/flutter-app-development/sections/compare-benefits.json';
-import flutterAppDevelopment_sprintProcess from '../../../content/pages/service/flutter-app-development/sections/sprint-process.json';
-import flutterAppDevelopment_techStackTabs from '../../../content/pages/service/flutter-app-development/sections/tech-stack-tabs.json';
-import flutterAppDevelopment_whyChooseImage from '../../../content/pages/service/flutter-app-development/sections/why-choose-image.json';
+import flutterAppDevelopment_whyChoose from '../../../content/pages/service/flutter-app-development/sections/why-choose.json';
+import flutterAppDevelopment_appWhyChoose from '../../../content/pages/service/flutter-app-development/sections/app-why-choose.json';
+import flutterAppDevelopment_callout from '../../../content/pages/service/flutter-app-development/sections/callout.json';
+import flutterAppDevelopment_brandLogos from '../../../content/pages/service/flutter-app-development/sections/brand-logos.json';
 import flutterAppDevelopment_portfolio from '../../../content/pages/service/flutter-app-development/sections/portfolio.json';
 import flutterAppDevelopment_testimonials from '../../../content/pages/service/flutter-app-development/sections/testimonials.json';
 import flutterAppDevelopment_technologies from '../../../content/pages/service/flutter-app-development/sections/technologies.json';
-import flutterAppDevelopment_faq from '../../../content/pages/service/flutter-app-development/sections/faq.json';
-import flutterAppDevelopment_featuredIn from '../../../content/pages/service/flutter-app-development/sections/featured-in.json';
 import flutterAppDevelopment_blog from '../../../content/pages/service/flutter-app-development/sections/blog.json';
+import flutterAppDevelopment_featuredIn from '../../../content/pages/service/flutter-app-development/sections/featured-in.json';
 import crossPlatformAppDevelopmentPage from '../../../content/pages/service/cross-platform-app-development/page.json';
 import crossPlatformAppDevelopment_categoryHero from '../../../content/pages/service/cross-platform-app-development/sections/category-hero.json';
-import crossPlatformAppDevelopment_brandLogos from '../../../content/pages/service/cross-platform-app-development/sections/brand-logos.json';
 import crossPlatformAppDevelopment_introContent from '../../../content/pages/service/cross-platform-app-development/sections/intro-content.json';
-import crossPlatformAppDevelopment_offerCards from '../../../content/pages/service/cross-platform-app-development/sections/offer-cards.json';
-import crossPlatformAppDevelopment_imageCards from '../../../content/pages/service/cross-platform-app-development/sections/image-cards.json';
-import crossPlatformAppDevelopment_compareBenefits from '../../../content/pages/service/cross-platform-app-development/sections/compare-benefits.json';
-import crossPlatformAppDevelopment_sprintProcess from '../../../content/pages/service/cross-platform-app-development/sections/sprint-process.json';
-import crossPlatformAppDevelopment_techStackTabs from '../../../content/pages/service/cross-platform-app-development/sections/tech-stack-tabs.json';
-import crossPlatformAppDevelopment_whyChooseImage from '../../../content/pages/service/cross-platform-app-development/sections/why-choose-image.json';
+import crossPlatformAppDevelopment_appPlatforms from '../../../content/pages/service/cross-platform-app-development/sections/app-platforms.json';
+import crossPlatformAppDevelopment_appWhyChoose from '../../../content/pages/service/cross-platform-app-development/sections/app-why-choose.json';
+import crossPlatformAppDevelopment_industryTabs from '../../../content/pages/service/cross-platform-app-development/sections/industry-tabs.json';
+import crossPlatformAppDevelopment_brandLogos from '../../../content/pages/service/cross-platform-app-development/sections/brand-logos.json';
 import crossPlatformAppDevelopment_portfolio from '../../../content/pages/service/cross-platform-app-development/sections/portfolio.json';
 import crossPlatformAppDevelopment_testimonials from '../../../content/pages/service/cross-platform-app-development/sections/testimonials.json';
 import crossPlatformAppDevelopment_technologies from '../../../content/pages/service/cross-platform-app-development/sections/technologies.json';
-import crossPlatformAppDevelopment_faq from '../../../content/pages/service/cross-platform-app-development/sections/faq.json';
-import crossPlatformAppDevelopment_featuredIn from '../../../content/pages/service/cross-platform-app-development/sections/featured-in.json';
 import crossPlatformAppDevelopment_blog from '../../../content/pages/service/cross-platform-app-development/sections/blog.json';
-import crossPlatformAppDevelopment_industryTabs from '../../../content/pages/service/cross-platform-app-development/sections/industry-tabs.json';
+import crossPlatformAppDevelopment_featuredIn from '../../../content/pages/service/cross-platform-app-development/sections/featured-in.json';
 import arAppDevelopmentPage from '../../../content/pages/service/ar-app-development/page.json';
 import arAppDevelopment_categoryHero from '../../../content/pages/service/ar-app-development/sections/category-hero.json';
 import arAppDevelopment_brandLogos from '../../../content/pages/service/ar-app-development/sections/brand-logos.json';
@@ -576,10 +555,6 @@ import nodejsDevelopment_technologies from '../../../content/pages/service/nodej
 import nodejsDevelopment_blog from '../../../content/pages/service/nodejs-development/sections/blog.json';
 
 export const servicePageSources: { manifest: { slug: string; seo?: { title?: string; description?: string }; sections: string[] }; data: Partial<SectionDataMap> }[] = [
-  { manifest: iphoneAppDevelopmentPage, data: { categoryHero: iphoneAppDevelopment_categoryHero, brandLogos: iphoneAppDevelopment_brandLogos, introContent: iphoneAppDevelopment_introContent, offerCards: iphoneAppDevelopment_offerCards, imageCards: iphoneAppDevelopment_imageCards, compareBenefits: iphoneAppDevelopment_compareBenefits, sprintProcess: iphoneAppDevelopment_sprintProcess, techStackTabs: iphoneAppDevelopment_techStackTabs, whyChooseImage: iphoneAppDevelopment_whyChooseImage, portfolio: iphoneAppDevelopment_portfolio, testimonials: iphoneAppDevelopment_testimonials, technologies: iphoneAppDevelopment_technologies, faq: iphoneAppDevelopment_faq, featuredIn: iphoneAppDevelopment_featuredIn, industryTabs: iphoneAppDevelopment_industryTabs, blog: iphoneAppDevelopment_blog, } },
-  { manifest: androidAppDevelopmentPage, data: { categoryHero: androidAppDevelopment_categoryHero, brandLogos: androidAppDevelopment_brandLogos, introContent: androidAppDevelopment_introContent, offerCards: androidAppDevelopment_offerCards, imageCards: androidAppDevelopment_imageCards, compareBenefits: androidAppDevelopment_compareBenefits, sprintProcess: androidAppDevelopment_sprintProcess, techStackTabs: androidAppDevelopment_techStackTabs, whyChooseImage: androidAppDevelopment_whyChooseImage, portfolio: androidAppDevelopment_portfolio, testimonials: androidAppDevelopment_testimonials, technologies: androidAppDevelopment_technologies, faq: androidAppDevelopment_faq, featuredIn: androidAppDevelopment_featuredIn, appPlatforms: androidAppDevelopment_appPlatforms, industryTabs: androidAppDevelopment_industryTabs, blog: androidAppDevelopment_blog, appWhyChoose: androidAppDevelopment_appWhyChoose, } },
-  { manifest: flutterAppDevelopmentPage, data: { categoryHero: flutterAppDevelopment_categoryHero, brandLogos: flutterAppDevelopment_brandLogos, introContent: flutterAppDevelopment_introContent, offerCards: flutterAppDevelopment_offerCards, imageCards: flutterAppDevelopment_imageCards, compareBenefits: flutterAppDevelopment_compareBenefits, sprintProcess: flutterAppDevelopment_sprintProcess, techStackTabs: flutterAppDevelopment_techStackTabs, whyChooseImage: flutterAppDevelopment_whyChooseImage, portfolio: flutterAppDevelopment_portfolio, testimonials: flutterAppDevelopment_testimonials, technologies: flutterAppDevelopment_technologies, faq: flutterAppDevelopment_faq, featuredIn: flutterAppDevelopment_featuredIn, blog: flutterAppDevelopment_blog, } },
-  { manifest: crossPlatformAppDevelopmentPage, data: { categoryHero: crossPlatformAppDevelopment_categoryHero, brandLogos: crossPlatformAppDevelopment_brandLogos, introContent: crossPlatformAppDevelopment_introContent, offerCards: crossPlatformAppDevelopment_offerCards, imageCards: crossPlatformAppDevelopment_imageCards, compareBenefits: crossPlatformAppDevelopment_compareBenefits, sprintProcess: crossPlatformAppDevelopment_sprintProcess, techStackTabs: crossPlatformAppDevelopment_techStackTabs, whyChooseImage: crossPlatformAppDevelopment_whyChooseImage, portfolio: crossPlatformAppDevelopment_portfolio, testimonials: crossPlatformAppDevelopment_testimonials, technologies: crossPlatformAppDevelopment_technologies, faq: crossPlatformAppDevelopment_faq, featuredIn: crossPlatformAppDevelopment_featuredIn, industryTabs: crossPlatformAppDevelopment_industryTabs, blog: crossPlatformAppDevelopment_blog, } },
   { manifest: arAppDevelopmentPage, data: { categoryHero: arAppDevelopment_categoryHero, brandLogos: arAppDevelopment_brandLogos, introContent: arAppDevelopment_introContent, offerCards: arAppDevelopment_offerCards, imageCards: arAppDevelopment_imageCards, compareBenefits: arAppDevelopment_compareBenefits, sprintProcess: arAppDevelopment_sprintProcess, techStackTabs: arAppDevelopment_techStackTabs, whyChooseImage: arAppDevelopment_whyChooseImage, portfolio: arAppDevelopment_portfolio, testimonials: arAppDevelopment_testimonials, technologies: arAppDevelopment_technologies, faq: arAppDevelopment_faq, featuredIn: arAppDevelopment_featuredIn, blog: arAppDevelopment_blog, } },
   { manifest: vrAppDevelopmentPage, data: { categoryHero: vrAppDevelopment_categoryHero, brandLogos: vrAppDevelopment_brandLogos, introContent: vrAppDevelopment_introContent, offerCards: vrAppDevelopment_offerCards, imageCards: vrAppDevelopment_imageCards, compareBenefits: vrAppDevelopment_compareBenefits, sprintProcess: vrAppDevelopment_sprintProcess, techStackTabs: vrAppDevelopment_techStackTabs, whyChooseImage: vrAppDevelopment_whyChooseImage, portfolio: vrAppDevelopment_portfolio, testimonials: vrAppDevelopment_testimonials, technologies: vrAppDevelopment_technologies, faq: vrAppDevelopment_faq, featuredIn: vrAppDevelopment_featuredIn, blog: vrAppDevelopment_blog, } },
   { manifest: iosGameDevelopmentPage, data: { categoryHero: iosGameDevelopment_categoryHero, brandLogos: iosGameDevelopment_brandLogos, introContent: iosGameDevelopment_introContent, offerCards: iosGameDevelopment_offerCards, imageCards: iosGameDevelopment_imageCards, compareBenefits: iosGameDevelopment_compareBenefits, sprintProcess: iosGameDevelopment_sprintProcess, techStackTabs: iosGameDevelopment_techStackTabs, whyChooseImage: iosGameDevelopment_whyChooseImage, portfolio: iosGameDevelopment_portfolio, testimonials: iosGameDevelopment_testimonials, technologies: iosGameDevelopment_technologies, faq: iosGameDevelopment_faq, featuredIn: iosGameDevelopment_featuredIn, blog: iosGameDevelopment_blog, } },
@@ -613,4 +588,8 @@ export const servicePageSources: { manifest: { slug: string; seo?: { title?: str
   { manifest: laravelDevelopmentPage, data: { categoryHero: laravelDevelopment_categoryHero, introContent: laravelDevelopment_introContent, iconCards: laravelDevelopment_iconCards, whyChoose: laravelDevelopment_whyChoose, brandLogos: laravelDevelopment_brandLogos, portfolio: laravelDevelopment_portfolio, testimonials: laravelDevelopment_testimonials, featuredIn: laravelDevelopment_featuredIn, technologies: laravelDevelopment_technologies, blog: laravelDevelopment_blog, } },
   { manifest: angularjsDevelopmentPage, data: { categoryHero: angularjsDevelopment_categoryHero, introContent: angularjsDevelopment_introContent, iconCards: angularjsDevelopment_iconCards, advantageGrid: angularjsDevelopment_advantageGrid, whyChoose: angularjsDevelopment_whyChoose, brandLogos: angularjsDevelopment_brandLogos, portfolio: angularjsDevelopment_portfolio, testimonials: angularjsDevelopment_testimonials, featuredIn: angularjsDevelopment_featuredIn, technologies: angularjsDevelopment_technologies, blog: angularjsDevelopment_blog, } },
   { manifest: nodejsDevelopmentPage, data: { categoryHero: nodejsDevelopment_categoryHero, introContent: nodejsDevelopment_introContent, coreValues: nodejsDevelopment_coreValues, advantageGrid: nodejsDevelopment_advantageGrid, whyChoose: nodejsDevelopment_whyChoose, brandLogos: nodejsDevelopment_brandLogos, portfolio: nodejsDevelopment_portfolio, testimonials: nodejsDevelopment_testimonials, featuredIn: nodejsDevelopment_featuredIn, technologies: nodejsDevelopment_technologies, blog: nodejsDevelopment_blog, } },
+  { manifest: androidAppDevelopmentPage, data: { categoryHero: androidAppDevelopment_categoryHero, introContent: androidAppDevelopment_introContent, appPlatforms: androidAppDevelopment_appPlatforms, appWhyChoose: androidAppDevelopment_appWhyChoose, industryTabs: androidAppDevelopment_industryTabs, brandLogos: androidAppDevelopment_brandLogos, portfolio: androidAppDevelopment_portfolio, testimonials: androidAppDevelopment_testimonials, technologies: androidAppDevelopment_technologies, blog: androidAppDevelopment_blog, featuredIn: androidAppDevelopment_featuredIn, } as Partial<SectionDataMap> },
+  { manifest: iphoneAppDevelopmentPage, data: { categoryHero: iphoneAppDevelopment_categoryHero, introContent: iphoneAppDevelopment_introContent, appPlatforms: iphoneAppDevelopment_appPlatforms, appWhyChoose: iphoneAppDevelopment_appWhyChoose, industryTabs: iphoneAppDevelopment_industryTabs, brandLogos: iphoneAppDevelopment_brandLogos, portfolio: iphoneAppDevelopment_portfolio, testimonials: iphoneAppDevelopment_testimonials, technologies: iphoneAppDevelopment_technologies, blog: iphoneAppDevelopment_blog, featuredIn: iphoneAppDevelopment_featuredIn, } as Partial<SectionDataMap> },
+  { manifest: flutterAppDevelopmentPage, data: { categoryHero: flutterAppDevelopment_categoryHero, introContent: flutterAppDevelopment_introContent, whyChoose: flutterAppDevelopment_whyChoose, appWhyChoose: flutterAppDevelopment_appWhyChoose, callout: flutterAppDevelopment_callout, brandLogos: flutterAppDevelopment_brandLogos, portfolio: flutterAppDevelopment_portfolio, testimonials: flutterAppDevelopment_testimonials, technologies: flutterAppDevelopment_technologies, blog: flutterAppDevelopment_blog, featuredIn: flutterAppDevelopment_featuredIn, } as Partial<SectionDataMap> },
+  { manifest: crossPlatformAppDevelopmentPage, data: { categoryHero: crossPlatformAppDevelopment_categoryHero, introContent: crossPlatformAppDevelopment_introContent, appPlatforms: crossPlatformAppDevelopment_appPlatforms, appWhyChoose: crossPlatformAppDevelopment_appWhyChoose, industryTabs: crossPlatformAppDevelopment_industryTabs, brandLogos: crossPlatformAppDevelopment_brandLogos, portfolio: crossPlatformAppDevelopment_portfolio, testimonials: crossPlatformAppDevelopment_testimonials, technologies: crossPlatformAppDevelopment_technologies, blog: crossPlatformAppDevelopment_blog, featuredIn: crossPlatformAppDevelopment_featuredIn, } as Partial<SectionDataMap> },
 ];

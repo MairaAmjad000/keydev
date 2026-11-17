@@ -1,12 +1,12 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "Cross Platform App Development by KeyDevs Technologies",
+    "src": "/images/category/mobile-app-development/banner-mobile-app-development.webp",
+    "alt": "Cross Platform app development by KeyDevs Technologies",
     "width": "1920",
-    "height": "800"
+    "height": "780"
   },
-  "heading": "Cross Platform App Development Company",
-  "text": "Cover every platform without building every app twice. KeyDevs Technologies helps you pick the right framework and builds one app that works consistently across iOS, Android and the web.",
+  "heading": "Cross Platform App Development",
+  "text": "Greater market penetration should be the strategy of all mobile app marketers, and to realise it with a tight budget might be a nightmare when we look at the fragmentation of the mobile platform. Fortunately, KeyDevs Technologies has the capabilities to develop cross-platform mobile applications using the latest technologies and frameworks to make it a reality for you that your end-users will applaud.",
   "links": [
     {
       "href": "/portfolio",
@@ -29,7 +29,7 @@
       "href": "/service-category/mobile-app-development"
     },
     {
-      "text": "Cross Platform App Development"
+      "text": "Cross-Platform"
     }
   ]
 }

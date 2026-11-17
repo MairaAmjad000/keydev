@@ -1,6 +1,7 @@
 {
+  "icon": "svg-a93881",
   "text": "That's How We Work",
-  "heading": "Our Proven Mobile App Development Process: Efficient, Streamlined, and Adaptive",
+  "heading": "Our Proven App Development Process: Efficient, Streamlined, and Adaptive",
   "text2": "KeyDevs Technologies employs an Agile project management approach to ensure faster delivery without compromising quality. We divide the entire mobile app development project into distinct phases, with each phase focused on advancing the project toward successful completion.",
   "processItemsList": [
     {
@@ -15,10 +16,10 @@
           "html": "<i class=\"fas fa-chevron-right\"></i>Requirement gathering"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Market and competitor review"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Timeline planning"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Timeline and commercials"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Commercials"
         }
       ]
     },
@@ -31,13 +32,13 @@
       "subheading": "02 UI/UX Design",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>User flows and wireframes"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Wireframe Designing"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Platform-specific UI design"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Prototyping"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Brand styling & preset creation"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Brand styling &amp; preset creation"
         }
       ]
     },
@@ -50,13 +51,13 @@
       "subheading": "03 Prototypes",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Clickable prototypes"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Low-fidelity prototyping"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>User feedback sessions"
+          "html": "<i class=\"fas fa-chevron-right\"></i>High-Fidelity prototyping"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Design thinking workshops"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Applying design thinking"
         }
       ]
     },
@@ -69,22 +70,21 @@
       "subheading": "04 Development",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Native or cross platform build"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Technology selection"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>API and backend integration"
+          "html": "<i class=\"fas fa-chevron-right\"></i>API"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>DevOps in action"
+          "html": "<i class=\"fas fa-chevron-right\"></i>integrations DevOps in action"
         }
       ]
     }
   ],
-  "icon": "svg-a93881",
   "subheading": "05 Quality Assurance",
   "items": [
     {
-      "html": "<i class=\"fas fa-chevron-right\"></i>Real-device testing"
+      "html": "<i class=\"fas fa-chevron-right\"></i>User test creation"
     },
     {
       "html": "<i class=\"fas fa-chevron-right\"></i>Manual testing"
@@ -100,13 +100,13 @@
       "subheading": "06 Deployment",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>App Store submission"
-        },
-        {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Google Play launch"
-        },
-        {
           "html": "<i class=\"fas fa-chevron-right\"></i>Application handover"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Marketplace launches"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>App store submissions"
         }
       ]
     },
@@ -116,10 +116,10 @@
       "subheading": "07 Support & Maintenance",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Crash monitoring"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Troubleshooting"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>OS compatibility updates"
+          "html": "<i class=\"fas fa-chevron-right\"></i>24/7 support"
         },
         {
           "html": "<i class=\"fas fa-chevron-right\"></i>Managed services"
@@ -136,10 +136,10 @@
           "html": "<i class=\"fas fa-chevron-right\"></i>Requirement gathering"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Market and competitor review"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Timeline planning"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Timeline and commercials"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Commercials"
         }
       ]
     },
@@ -148,13 +148,13 @@
       "subheading": "02 UI/UX Design",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>User flows and wireframes"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Wireframe Designing"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Platform-specific UI design"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Prototyping"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Brand styling & preset creation"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Brand styling &amp; preset creation"
         }
       ]
     },
@@ -163,13 +163,13 @@
       "subheading": "03 Prototypes",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Clickable prototypes"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Low-fidelity prototyping"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>User feedback sessions"
+          "html": "<i class=\"fas fa-chevron-right\"></i>High-Fidelity prototyping"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Design thinking workshops"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Applying design thinking"
         }
       ]
     },
@@ -178,13 +178,13 @@
       "subheading": "04 Development",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Native or cross platform build"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Technology selection"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>API and backend integration"
+          "html": "<i class=\"fas fa-chevron-right\"></i>API"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>DevOps in action"
+          "html": "<i class=\"fas fa-chevron-right\"></i>integrations DevOps in action"
         }
       ]
     },
@@ -193,7 +193,7 @@
       "subheading": "05 Quality Assurance",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Real-device testing"
+          "html": "<i class=\"fas fa-chevron-right\"></i>User test creation"
         },
         {
           "html": "<i class=\"fas fa-chevron-right\"></i>Manual testing"
@@ -208,13 +208,13 @@
       "subheading": "06 Deployment",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>App Store submission"
-        },
-        {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Google Play launch"
-        },
-        {
           "html": "<i class=\"fas fa-chevron-right\"></i>Application handover"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>Marketplace launches"
+        },
+        {
+          "html": "<i class=\"fas fa-chevron-right\"></i>App store submissions"
         }
       ]
     },
@@ -223,10 +223,10 @@
       "subheading": "07 Support & Maintenance",
       "items": [
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>Crash monitoring"
+          "html": "<i class=\"fas fa-chevron-right\"></i>Troubleshooting"
         },
         {
-          "html": "<i class=\"fas fa-chevron-right\"></i>OS compatibility updates"
+          "html": "<i class=\"fas fa-chevron-right\"></i>24/7 support"
         },
         {
           "html": "<i class=\"fas fa-chevron-right\"></i>Managed services"

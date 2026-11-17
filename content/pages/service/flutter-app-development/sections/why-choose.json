@@ -1,0 +1,52 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "text": "Unlocking New Possibilities with Flutter App Development Services",
+  "heading": "Benefits of Flutter App Development",
+  "paragraphs": [
+    {
+      "html": "Innovation is the cornerstone of growth. Each new technology introduces a host of features that enhance its appeal and intrigue. Here are the advantages of Flutter app development services:"
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-25190f",
+      "title": "Quick & Easy Coding",
+      "text": "Thanks to the range of features it offers, flutter app development indeed attracts developers by leveraging them with faster coding. The Hot reload feature empowers them to make changes in coding and eventually check them, which makes the entire process faster and easier."
+    },
+    {
+      "icon": "svg-b25635",
+      "title": "Build your Own Widget",
+      "text": "Flutter is designed to let you modify its existing widgets and create a new one. Its widget library comes with a range of options and can be customised effortlessly. With it, you can build responsive mobile applications to attract and engage your target audience."
+    },
+    {
+      "icon": "svg-6815c7",
+      "title": "Single Coding Based",
+      "text": "One of the best parts with flutter app development services is that the app developers no longer have to produce multiple codes for distinct platforms. You read that right!! It offers single code for both iOS and Android. The credit to this goes to its personal widgets and designs."
+    },
+    {
+      "icon": "svg-23cf66",
+      "title": "Easy to Adopt",
+      "text": "Google has designed Flutter to ensure delivering some ease to developers and make the development process faster and easier. The SDK can be effortlessly grasped by novice developers also."
+    },
+    {
+      "icon": "svg-a7ea26",
+      "title": "Faster Testing",
+      "text": "This one to an extent is linked to our previous benefit. As you do not have to develop different apps for different platforms, the testing becomes much faster. This also boosts your QA process, making it seamless and flawless."
+    },
+    {
+      "icon": "svg-e7f84d",
+      "title": "Material Design and Cupertino",
+      "text": "Flutter SDK gives an expressive User Interface, visually alluring cross-platform native like apps with widget library built of material design for android app and cupertino for iOS app."
+    },
+    {
+      "icon": "svg-eaebba",
+      "title": "Faster Experience for Users",
+      "text": "With the newly launched technology and its invincible list of features, the developers can undoubtedly serve your end users with smoother experience. And as we know, better user experience means more exposure and acceptance."
+    },
+    {
+      "icon": "svg-0a5e3a",
+      "title": "Dart Benefit",
+      "text": "Flutter app development framework is based on Dart, a language that compiles “ahead of time”, offers native performance for multiple platforms, smooth animations, and transitions which loads at the speed of 60 FPS. These traits make dart distinctively potential for implementing Flutter."
+    }
+  ]
+}

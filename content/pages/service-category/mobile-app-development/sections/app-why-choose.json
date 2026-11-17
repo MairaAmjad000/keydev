@@ -1,0 +1,55 @@
+{
+  "text": "What Makes Us Best",
+  "heading": "Why Choose KeyDevs Technologies for Your Mobile App Development?",
+  "text2": "Customer-focused mobile app development requires a tech-savvy partner, not just a vendor. As a premier mobile app development agency, KeyDevs Technologies is committed to meeting your expectations with timely delivery and exceptional user experiences.",
+  "items": [
+    {
+      "icon": "svg-d10820",
+      "title": "Agile Development Methodology",
+      "text": "We follow the Agile development methodology to facilitate rapid product releases with stability and high-quality code."
+    },
+    {
+      "icon": "svg-70b2c7",
+      "title": "Bug-Free Deployment",
+      "text": "Our QA professionals use a combination of manual and automation testing to ensure that the app is released bug-free."
+    },
+    {
+      "icon": "svg-889d74",
+      "title": "Cost Efficient",
+      "text": "High-quality services and affordability may not be offered together elsewhere. But, for KeyDevs Technologies it is one of the key USPs."
+    },
+    {
+      "icon": "svg-47a221",
+      "title": "Expert Native Developers",
+      "text": "Your apps will be built by qualified, experienced and passionate iPhone app developers who see their work as pieces of art."
+    },
+    {
+      "icon": "svg-5986ff",
+      "title": "Inspirational UI/UX",
+      "text": "Our UI/UX designs are inspired by the habits and actions that users have become accustomed to."
+    },
+    {
+      "icon": "svg-2b9550",
+      "title": "Non-disclosure Agreement",
+      "text": "Every project would be accompanied with an NDA where we agree not to share your project details to any outsider."
+    },
+    {
+      "icon": "svg-dfea52",
+      "title": "Transparent & Competitive",
+      "text": "Our devs, tech leads and rest of the team take pride in delivering what is promised to the client."
+    },
+    {
+      "icon": "svg-10ac92",
+      "title": "On-Time Delivery",
+      "text": "We know how it feels when someone fails to meet their deadlines. So we take acute measures to ensure that the project is delivered on time, if not earlier."
+    }
+  ],
+  "sectionClass": "padding-60 bg-light p-relative",
+  "callout": {
+    "text": "Do you have a <span id=\"mobile-application-development-callouts-type\"></span> We have a TEAM to get you there.",
+    "link": {
+      "href": "/contact",
+      "text": "Get In Touch"
+    }
+  }
+}

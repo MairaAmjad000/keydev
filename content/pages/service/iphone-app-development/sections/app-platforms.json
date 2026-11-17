@@ -1,0 +1,23 @@
+{
+  "text": "What We Do",
+  "heading": "A Universe of App Possibilities, Crafted for the iPhone",
+  "text2": "",
+  "items": [
+    {
+      "icon": "svg-b13a3a",
+      "label": "Enterprise"
+    },
+    {
+      "icon": "svg-ccd878",
+      "label": "On-demand"
+    },
+    {
+      "icon": "svg-a3cddc",
+      "label": "Virtual Reality"
+    },
+    {
+      "icon": "svg-f47e5d",
+      "label": "Augmented Reality"
+    }
+  ]
+}
