@@ -179,70 +179,63 @@
   },
   "link8": {
     "href": "javascript:",
-    "text": "Game Development"
+    "text": "Digital Marketing"
   },
   "goBacks4": [
     {
       "className": "go-back",
       "link": {
         "href": "javascript:",
-        "text": "Game Development"
+        "text": "Digital Marketing"
       }
     },
     {
       "link": {
-        "href": "/service-category/game-development",
+        "href": "/service-category/digital-marketing",
         "className": "",
-        "text": "Game Development"
+        "text": "Digital Marketing"
       }
     },
     {
       "link": {
-        "href": "/service/ios-game-development",
+        "href": "/service/seo-services",
         "className": "",
-        "text": "iOS Game Development"
+        "text": "Search Engine Optimization"
       }
     },
     {
       "link": {
-        "href": "/service/android-game-development",
+        "href": "/service/social-media-marketing",
         "className": "",
-        "text": "Android Game Development"
+        "text": "Social Media Marketing"
       }
     },
     {
       "link": {
-        "href": "/service/unity-2d-3d-game-development",
+        "href": "/service/facebook-ads",
         "className": "",
-        "text": "2D/3D Game Development"
+        "text": "Facebook Ads"
       }
     },
     {
       "link": {
-        "href": "/service/ar-game-development",
+        "href": "/service/google-ads",
         "className": "",
-        "text": "AR Game Development"
+        "text": "Google Ads"
       }
     },
     {
       "link": {
-        "href": "/service/vr-game-development",
+        "href": "/service/ecommerce-ads",
         "className": "",
-        "text": "VR Game Development"
+        "text": "E-commerce Ads"
       }
     },
     {
       "link": {
-        "href": "/service/windows-game-development",
+        "href": "/service/youtube-promotion",
         "className": "",
-        "text": "Windows Game Development"
-      }
-    },
-    {
-      "link": {
-        "href": "/service/mac-game-development",
-        "className": "",
-        "text": "Mac Game Development"
+        "text": "YouTube Promotion"
       }
     }
   ],

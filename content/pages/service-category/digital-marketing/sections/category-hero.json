@@ -1,0 +1,70 @@
+{
+  "image": {
+    "src": "/images/category/digital-marketing/banner-digital-marketing.webp",
+    "alt": "Digital marketing agency in Pakistan: SEO, social media and paid advertising services by KeyDevs Technologies.",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "DIGITAL MARKETING AGENCY",
+  "text": "KeyDevs Technologies is a results-driven digital marketing agency. Wondering what that means? <br/><br/> If you want your business to be found, trusted and chosen online, we can make that happen. From search engine optimization to social media and paid campaigns, we plan, run and measure every channel so your marketing budget turns into traffic, leads and sales.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "View Our Work"
+    },
+    {
+      "href": "/contact",
+      "className": "btn waves-effect waves-light btn-custome mb-3",
+      "text": "Get Your FREE Consultation"
+    }
+  ],
+  "form": {
+    "id": "digital-marketing-banner_form",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Name",
+        "required": true,
+        "label": "Name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email",
+        "required": true,
+        "label": "Email"
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "placeholder": "Phone Number",
+        "required": true,
+        "minLength": 10,
+        "maxLength": 11,
+        "variant": "phone"
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "Project Descriptions",
+        "required": false,
+        "label": "Message",
+        "rows": 4
+      }
+    ],
+    "submitText": "Get Started Now!",
+    "errorId": "digital-marketing-error_message_banner_form",
+    "successId": "digital-marketing-success_message_banner_form"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Digital Marketing"
+    }
+  ]
+}

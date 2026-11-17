@@ -1,0 +1,25 @@
+{
+  "heading": "Google Ads (PPC) Management Services",
+  "paragraphs": [
+    {
+      "html": "When someone searches for what you sell, the businesses at the top of the page win the click. Google Ads puts you there right away, and you only pay when people click."
+    },
+    {
+      "html": "KeyDevs Technologies researches high-intent keywords, writes ads that get clicks and sends visitors to landing pages that turn them into enquiries. We watch bids, quality scores and search terms closely so no budget is wasted."
+    },
+    {
+      "html": "Our certified specialists report results in plain language, so you can see how your campaigns are bringing in leads and sales."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/service/google-ads/intro.webp",
+    "alt": "Google Ads Management Company"
+  },
+  "imageClass": "rounded10",
+  "sectionClass": "service-main-content service-web-inner padding-60 bg-white"
+}

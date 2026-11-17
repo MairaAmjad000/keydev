@@ -1,0 +1,33 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "Our USPs as a Facebook ads agency",
+  "paragraphs": [
+    {
+      "html": "Smart targeting, tested creative and clear numbers. That is how we make ad budgets work harder."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-5e24a3",
+      "title": "Customer Satisfaction",
+      "text": "We treat your ad budget like our own and keep you informed about how every campaign is doing."
+    },
+    {
+      "icon": "svg-629db8",
+      "title": "Data-Driven Decisions",
+      "text": "We make changes based on results, not guesses, so spend moves to the ads that perform."
+    },
+    {
+      "icon": "svg-ccb87f",
+      "title": "100% Custom Campaigns",
+      "text": "Every account gets its own audiences, creative and funnel built around your business goals."
+    },
+    {
+      "icon": "svg-62c5d5",
+      "title": "Transparent Reporting",
+      "text": "You see your spend, results and cost per lead in simple reports, with no hidden fees."
+    }
+  ]
+}

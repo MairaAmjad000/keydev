@@ -1,0 +1,35 @@
+{
+  "image": {
+    "src": "/images/service/social-media-marketing/banner.webp",
+    "alt": "Social Media Marketing Agency",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "SOCIAL MEDIA MARKETING AGENCY",
+  "text": "Turn followers into customers with social media marketing that is planned, creative and measured. As a social media marketing agency, we build your brand presence on the platforms your audience loves, grow engaged communities and drive real enquiries and sales. Not sure where to start? Talk to our experts and we will map out a plan for your business.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
+    },
+    {
+      "href": "/contact",
+      "text": "Get Your FREE Consultation",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Digital Marketing",
+      "href": "/service-category/digital-marketing"
+    },
+    {
+      "text": "Social Media Marketing"
+    }
+  ]
+}

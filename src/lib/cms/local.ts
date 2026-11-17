@@ -66,6 +66,7 @@ import { clientReviewPageSources } from './local-client-review';
 import { technologiesPageSources } from './local-technologies';
 import { estimatePageSources } from './local-estimate';
 import { mobileApplicationPages } from './local-mobile-application';
+import { digitalMarketingPageSources } from './local-digital-marketing';
 import type { GlobalSectionsContent, PageData, SectionBlock, SectionDataMap, SectionType, SiteData } from '@/types';
 import mobileAppDevelopmentPage from '../../../content/pages/service-category/mobile-app-development/page.json';
 import mobileAppDevelopment_categoryHero from '../../../content/pages/service-category/mobile-app-development/sections/category-hero.json';
@@ -287,4 +288,5 @@ export const localPages: Record<string, PageData> = {
   ...Object.fromEntries(technologiesPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(estimatePageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(mobileApplicationPages.map((page) => [page.slug, page])),
+  ...Object.fromEntries(digitalMarketingPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
 };

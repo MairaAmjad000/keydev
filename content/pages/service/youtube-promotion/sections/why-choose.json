@@ -1,0 +1,33 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "Our USPs as a YouTube promotion company",
+  "paragraphs": [
+    {
+      "html": "Search-friendly videos, smart targeting and honest numbers. That is how we help channels grow."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-5e24a3",
+      "title": "Customer Satisfaction",
+      "text": "We work closely with you and keep your goals at the centre of every promotion plan."
+    },
+    {
+      "icon": "svg-629db8",
+      "title": "Data-Driven Decisions",
+      "text": "Watch time and audience data guide every title, thumbnail and campaign we run."
+    },
+    {
+      "icon": "svg-ccb87f",
+      "title": "100% Custom Plan",
+      "text": "Your niche, your audience and your budget shape a promotion plan made just for you."
+    },
+    {
+      "icon": "svg-62c5d5",
+      "title": "Transparent Reporting",
+      "text": "Regular reports show the growth of your channel and what each campaign cost."
+    }
+  ]
+}

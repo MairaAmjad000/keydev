@@ -1,0 +1,25 @@
+{
+  "heading": "YouTube Promotion & Video Marketing Services",
+  "paragraphs": [
+    {
+      "html": "YouTube is the second most visited search engine in the world, and video is one of the best ways to build trust with customers. But great videos do not promote themselves."
+    },
+    {
+      "html": "KeyDevs Technologies optimizes your channel, titles, descriptions and thumbnails so your videos appear in search and suggested results. We also run video ad campaigns that put your content in front of the right viewers."
+    },
+    {
+      "html": "Our team tracks views, watch time and subscriber growth, and tells you clearly how your channel is helping your business."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/service/youtube-promotion/intro.webp",
+    "alt": "YouTube Promotion Services"
+  },
+  "imageClass": "rounded10",
+  "sectionClass": "service-main-content service-web-inner padding-60 bg-white"
+}

@@ -155,3 +155,14 @@ placeholder path  <-  existing image it was made from
 /images/portfolio/games/fantasyji-game.webp  <-  /images/portfolio/mobile-4.jpg
 /images/portfolio/games/clued-app-game.webp  <-  /images/portfolio/mobile-1.jpg
 /images/portfolio/games/blog-game.webp  <-  /images/portfolio/mobile-2.jpg
+/images/service/seo-services/seo-service-main.jpg  <-  /images/category/web-development/intro-web-development.webp  (SEO intro picture; the template only referenced it by path)
+/images/service/social-media-marketing/banner.webp  <-  /images/service/laravel-development/banner.webp
+/images/service/social-media-marketing/intro.webp  <-  /images/service/laravel-development/intro.webp
+/images/service/facebook-ads/banner.webp  <-  /images/service/laravel-development/banner.webp
+/images/service/facebook-ads/intro.webp  <-  /images/service/laravel-development/intro.webp
+/images/service/google-ads/banner.webp  <-  /images/service/laravel-development/banner.webp
+/images/service/google-ads/intro.webp  <-  /images/service/laravel-development/intro.webp
+/images/service/ecommerce-ads/banner.webp  <-  /images/service/laravel-development/banner.webp
+/images/service/ecommerce-ads/intro.webp  <-  /images/service/laravel-development/intro.webp
+/images/service/youtube-promotion/banner.webp  <-  /images/service/laravel-development/banner.webp
+/images/service/youtube-promotion/intro.webp  <-  /images/service/laravel-development/intro.webp

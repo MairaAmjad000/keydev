@@ -1,0 +1,28 @@
+{
+  "heading": "Full-Service Digital Marketing Agency",
+  "paragraphs": [
+    {
+      "html": "Visibility, trust and measurable growth. If these three things top your list for online marketing, then KeyDevs Technologies is a perfect fit. We help brands of every size reach the right audience on search engines, social platforms and video channels."
+    },
+    {
+      "html": "From a local business that wants to rank in its city to an eCommerce brand scaling paid campaigns, our digital marketing services are built around your goals, your customers and your budget."
+    },
+    {
+      "html": "Our team of SEO specialists, social media managers, ad experts and content writers works as one unit with your business. We plan the strategy, run the campaigns and report the results in plain numbers, so you always know what your money is doing."
+    },
+    {
+      "html": "Start your digital marketing journey with an experienced team that stays accountable for traffic, leads and return on investment."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/category/digital-marketing/intro-digital-marketing.webp",
+    "alt": "Digital Marketing",
+    "width": "470",
+    "height": "500"
+  }
+}

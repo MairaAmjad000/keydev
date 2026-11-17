@@ -7,6 +7,12 @@ export function IntroContent({ data }: { data: IntroContentContent }) {
   const text = (
     <>
       <h2 className={data.headingClass ?? 'h4 mb-3'}>{data.heading}</h2>
+      {data.subheading && (
+        <>
+          {' '}
+          <small>{data.subheading}</small>
+        </>
+      )}
       {data.paragraphs.map((p, i) => (
         <Fragment key={i}>
           {' '}

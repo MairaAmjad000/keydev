@@ -1,0 +1,70 @@
+{
+  "text": "Search, at your service",
+  "heading": "Bespoke Search Engine Optimization Services",
+  "text2": "KeyDevs Technologies is the Pakistan’s leading SEO agency and offers a range of SEO services.",
+  "background": "light",
+  "heightClass": "m-height-300",
+  "columnClass": "col-lg-4 col-md-4 col-sm-6 col-12 mb-30",
+  "items": [
+    {
+      "icon": "svg-275451",
+      "title": "SEO Audit Report",
+      "text": "Our SEO audit reporting will cover tip-to-toe of your website’s SEO health, correctness of keyword selection, on site optimization, etc."
+    },
+    {
+      "icon": "svg-d7f205",
+      "title": "SEO On-Page",
+      "text": "Put your website in the Internet’s radar with website onsite optimization using SEO-friendly content, page titles, meta tags and so on."
+    },
+    {
+      "icon": "svg-ed11bd",
+      "title": "Website Analysis",
+      "text": "Our experts will help carry out a thorough breakdown of the SEO-quotient of your website and how to tweak it for higher search engine ranking."
+    },
+    {
+      "icon": "svg-7ab71b",
+      "title": "Google Search Console Data Analysis",
+      "text": "Derive insights about how your organic traffic is performing with a detailed Google Search Console Data Analysis done by your data experts."
+    },
+    {
+      "icon": "svg-04b822",
+      "title": "SEO Backlinks analysis",
+      "text": "Bad backlinks can wreak havoc to your SERP ranking. Stay immune from such mishaps with our expert SEO backlink analysis."
+    },
+    {
+      "icon": "svg-68e982",
+      "title": "SEO Link Building",
+      "text": "Our SEO link building services will help you with external blog posting and link submission from high-authority websites that will signal search engines to rank it higher."
+    },
+    {
+      "icon": "svg-7df19c",
+      "title": "SEO Content Marketing",
+      "text": "SEO and good content go hand-in-hand. All your great storytelling efforts need an SEO advantage to rank higher. Allow us to do the heavy lifting for you."
+    },
+    {
+      "icon": "svg-527180",
+      "title": "High Quality Content Creation",
+      "text": "For 66% of B2B marketers, high-quality SEO content writing/curation is the biggest challenge. With us as your SEO service provider, it would be one of your strategic advantages."
+    },
+    {
+      "icon": "svg-9e58c6",
+      "title": "Local SEO",
+      "text": "Want to make a strong presence in the local market? Our local SEO services will help your business rank higher for search requests made by local customers."
+    },
+    {
+      "icon": "svg-cafb66",
+      "title": "White Hate SEO",
+      "text": "Rank higher without breaking the rules. Our white hat SEO services are primed to play by the rules that all search engine authorities and marketers would approve of."
+    },
+    {
+      "icon": "svg-6e8e10",
+      "title": "SEO for Small Businesses",
+      "text": "You can be a startup or a growing business. As a small business SEO company, we will help reach customers who don’t know about your services yet."
+    },
+    {
+      "icon": "svg-be12a3",
+      "title": "SEO Consultation",
+      "text": "Get an expert view of your SEO strategy and how it can be better optimised. Get out of your result plateau with our result-centric SEO consultation services."
+    }
+  ]
+}

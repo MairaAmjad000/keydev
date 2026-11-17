@@ -1,0 +1,35 @@
+{
+  "image": {
+    "src": "/images/service/youtube-promotion/banner.webp",
+    "alt": "YouTube Promotion Services",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "YOUTUBE PROMOTION SERVICES",
+  "text": "Get your videos discovered, watched and shared. Our YouTube promotion services combine channel optimization, video SEO and targeted ad campaigns to grow your audience and bring viewers to your business. Talk to our experts about promoting your channel.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
+    },
+    {
+      "href": "/contact",
+      "text": "Get Your FREE Consultation",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Digital Marketing",
+      "href": "/service-category/digital-marketing"
+    },
+    {
+      "text": "YouTube Promotion"
+    }
+  ]
+}

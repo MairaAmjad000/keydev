@@ -1,26 +1,23 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "SEO Services by KeyDevs Technologies",
+    "src": "/images/service/seo-services/banner-digital-marketing.jpg",
+    "alt": "Best SEO agency in Pakistan: white hat search engine optimization services by KeyDevs Technologies.",
     "width": "1920",
-    "height": "800"
+    "height": "780"
   },
-  "heading": "SEO Services Company",
-  "text": "Get found by the customers already searching for what you offer. KeyDevs Technologies provides technical, on-page and content SEO to grow qualified organic traffic.",
+  "heading": "Best SEO Agency in the Pakistan",
+  "text": "Take your business to new heights with our professional SEO services.<br/><br/>As a top SEO agency, our certified SEO professionals will optimize your website to rank higher on search engines and attract more customers.",
   "links": [
     {
       "href": "/contact",
       "className": "btn waves-effect waves-light btn-custome mb-3",
       "text": "Get Your FREE Consultation"
-    },
-    {
-      "href": "/app-development-cost-calculator",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Calculate App Development Cost"
     }
   ],
   "form": {
-    "id": "seo-services-banner_form",
+    "id": "seo-services-banner_seo_form",
+    "title": "Get <u>FREE</u> SEO Audit",
+    "idPrefix": "seo-services",
     "fields": [
       {
         "type": "text",
@@ -38,25 +35,31 @@
       },
       {
         "type": "text",
+        "name": "company_name",
+        "placeholder": "Company Name",
+        "required": false,
+        "label": "Company Name"
+      },
+      {
+        "type": "text",
+        "name": "website_url",
+        "placeholder": "Website URL",
+        "required": false,
+        "label": "Website URL"
+      },
+      {
+        "type": "text",
         "name": "phone",
         "placeholder": "Phone Number",
         "required": true,
         "minLength": 10,
         "maxLength": 11,
         "variant": "phone"
-      },
-      {
-        "type": "textarea",
-        "name": "message",
-        "placeholder": "Project Descriptions",
-        "required": false,
-        "label": "Message",
-        "rows": 4
       }
     ],
-    "submitText": "Get Started Now!",
-    "errorId": "seo-services-error_message_banner_form",
-    "successId": "seo-services-success_message_banner_form"
+    "submitText": "Start Your Project!",
+    "errorId": "seo-services-error_message_banner_seo_form",
+    "successId": "seo-services-success_message_banner_seo_form"
   },
   "breadcrumbs": [
     {

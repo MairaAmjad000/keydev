@@ -1,0 +1,25 @@
+{
+  "heading": "Facebook & Instagram Advertising Services",
+  "paragraphs": [
+    {
+      "html": "With billions of people on Facebook and Instagram, your customers are already there. The challenge is reaching them with the right message at the right time without wasting budget."
+    },
+    {
+      "html": "KeyDevs Technologies builds ad campaigns around precise audience targeting, strong creative and reliable tracking. We test different images, videos and headlines to find what your customers respond to."
+    },
+    {
+      "html": "From the first campaign setup to ongoing optimization, our Facebook ads specialists keep an eye on every number so your return on ad spend keeps improving."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/service/facebook-ads/intro.webp",
+    "alt": "Facebook Ads Agency"
+  },
+  "imageClass": "rounded10",
+  "sectionClass": "service-main-content service-web-inner padding-60 bg-white"
+}

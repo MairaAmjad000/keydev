@@ -1,0 +1,40 @@
+{
+  "text": "Our offerings",
+  "heading": "Our suite of E-commerce Advertising Services",
+  "text2": "From the product feed to the final sale, we handle every part of your online store advertising.",
+  "heightClass": "m-height-300",
+  "background": "white",
+  "items": [
+    {
+      "icon": "svg-5d5a85",
+      "title": "Product Feed Management",
+      "text": "Clean, optimized product feeds so your listings are approved, accurate and easy to find."
+    },
+    {
+      "icon": "svg-d05ce3",
+      "title": "Google Shopping Ads",
+      "text": "Product ads with photos and prices that bring high-intent shoppers to your product pages."
+    },
+    {
+      "icon": "svg-33e7b4",
+      "title": "Social Commerce Ads",
+      "text": "Catalog and dynamic ads on Facebook and Instagram that show the right product to the right shopper."
+    },
+    {
+      "icon": "svg-c836e7",
+      "title": "Remarketing & Cart Recovery",
+      "text": "Ads and messages that win back visitors who viewed products or left items in their cart."
+    },
+    {
+      "icon": "svg-f565c0",
+      "title": "Marketplace Promotion",
+      "text": "Sponsored listings and promotions that raise your visibility on the major marketplaces."
+    },
+    {
+      "icon": "svg-0bdb6f",
+      "title": "Sales Tracking & ROAS Reports",
+      "text": "Clear reporting on revenue, orders and return on ad spend across every channel."
+    }
+  ],
+  "columnClass": "col-lg-4 col-md-4 col-sm-6 col-12 mb-30"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "service/google-ads",
+  "seo": {
+    "title": "Google Ads Management Company | KeyDevs Technologies",
+    "description": "Show up at the top of Google when customers are ready to buy. As a Google Ads management company, we build and run search, display and shopping…"
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "iconCards",
+    "whyChoose",
+    "portfolio",
+    "testimonials",
+    "featuredIn",
+    "technologies",
+    "blog"
+  ]
+}

@@ -679,6 +679,10 @@ export interface CategoryHeroContent {
   /** Omit for a banner without an enquiry form (the text then spans the full width). */
   form?: {
     id: string;
+    /** Heading above the fields (HTML allowed, e.g. "Get <u>FREE</u> SEO Audit"). */
+    title?: string;
+    /** Prefix of the reCAPTCHA element ids; default: `id` without its "-banner_form" ending. */
+    idPrefix?: string;
     fields: FormFieldContent[];
     submitText: string;
     errorId: string;
@@ -689,6 +693,8 @@ export interface CategoryHeroContent {
 
 export interface IntroContentContent {
   heading: string;
+  /** Small tagline between the heading and the first paragraph. */
+  subheading?: string;
   paragraphs: Array<{ html: string }>;
   link: CmsLink;
   image: CmsImage;
@@ -866,9 +872,15 @@ export interface FaqContent {
 }
 
 export interface FeaturedInContent {
+  /** `strip` (default): one row of logos on white; `grid`: boxed logos, four per row, on a light section. */
+  variant?: 'strip' | 'grid';
   text: string;
   heading: string;
-  text2: string;
+  text2?: string;
+  /** Grid variant only: callout bar pinned to the top of the section. */
+  callout?: CalloutBarContent;
+  /** Grid variant only: white spacer above the section (room for the callout bar). */
+  spacer?: boolean;
   logos: Array<{ image: CmsImage }>;
 }
 

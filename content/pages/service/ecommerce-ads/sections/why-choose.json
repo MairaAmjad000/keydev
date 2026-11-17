@@ -1,0 +1,33 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "Our USPs as an e-commerce advertising agency",
+  "paragraphs": [
+    {
+      "html": "Revenue-focused campaigns, careful testing and clear numbers. That is how we help online stores grow."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-5e24a3",
+      "title": "Customer Satisfaction",
+      "text": "Your store growth is our goal. We keep you updated and respond quickly to every question."
+    },
+    {
+      "icon": "svg-629db8",
+      "title": "Data-Driven Decisions",
+      "text": "We follow orders and revenue, and move budget to the products and ads that sell best."
+    },
+    {
+      "icon": "svg-ccb87f",
+      "title": "100% Custom Strategy",
+      "text": "Each store gets its own channel mix, targeting and budget plan built around its products."
+    },
+    {
+      "icon": "svg-62c5d5",
+      "title": "Transparent Reporting",
+      "text": "Simple reports show what you spent, what you sold and what each channel returned."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "service-category/digital-marketing",
+  "seo": {
+    "title": "Digital Marketing Agency | KeyDevs Technologies",
+    "description": "KeyDevs Technologies is a results-driven digital marketing agency offering SEO, social media marketing, Google Ads, Facebook Ads and YouTube promotion."
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "serviceOfferings",
+    "whyChoose",
+    "portfolio",
+    "testimonials",
+    "featuredIn",
+    "technologies",
+    "blog"
+  ]
+}

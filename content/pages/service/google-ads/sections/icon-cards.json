@@ -1,0 +1,40 @@
+{
+  "text": "Our offerings",
+  "heading": "Our suite of Google Ads Services",
+  "text2": "Search, display, shopping or video, we manage the whole Google Ads account for you.",
+  "heightClass": "m-height-300",
+  "background": "white",
+  "items": [
+    {
+      "icon": "svg-5d5a85",
+      "title": "Search Campaigns",
+      "text": "Text ads shown to people actively searching for your products and services."
+    },
+    {
+      "icon": "svg-d05ce3",
+      "title": "Display & Remarketing",
+      "text": "Banner ads across millions of sites that keep your brand in front of past visitors."
+    },
+    {
+      "icon": "svg-33e7b4",
+      "title": "Shopping Campaigns",
+      "text": "Product listings with photos and prices to bring ready-to-buy shoppers to your store."
+    },
+    {
+      "icon": "svg-c836e7",
+      "title": "Keyword Research",
+      "text": "In-depth research that finds high-intent, affordable keywords and filters out wasted clicks."
+    },
+    {
+      "icon": "svg-f565c0",
+      "title": "Landing Page Optimization",
+      "text": "Better pages, clearer offers and stronger calls to action to raise your conversion rate."
+    },
+    {
+      "icon": "svg-0bdb6f",
+      "title": "Conversion Tracking & Reports",
+      "text": "Accurate tracking of calls, forms and sales with clear reports on spend and return."
+    }
+  ],
+  "columnClass": "col-lg-4 col-md-4 col-sm-6 col-12 mb-30"
+}

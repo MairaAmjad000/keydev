@@ -1,0 +1,19 @@
+{
+  "slug": "service/ecommerce-ads",
+  "seo": {
+    "title": "E-commerce Advertising Agency | KeyDevs Technologies",
+    "description": "Turn clicks into orders with e-commerce advertising that focuses on return on ad spend. As an e-commerce advertising agency, we bring qualified…"
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "iconCards",
+    "whyChoose",
+    "portfolio",
+    "testimonials",
+    "featuredIn",
+    "technologies",
+    "blog"
+  ]
+}

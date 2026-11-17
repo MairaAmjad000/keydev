@@ -1,46 +1,50 @@
 {
-  "text": "Our Work took Us",
-  "heading": "Our Developed Apps Have Been Featured In",
-  "text2": "Indeed this makes us proud as a mobile app development company. Check out the popular product forums, thriving social communities and app stores where our apps have made it to the leaderboards and favourite lists.",
+  "variant": "grid",
+  "spacer": true,
+  "callout": {
+    "text": "Do you have a <span id=\"seo-services-callouts-type\"></span> We have a TEAM to get you there.",
+    "link": {
+      "href": "/contact",
+      "text": "Get In Touch"
+    }
+  },
+  "text": "Objective",
+  "heading": "KeyDevs Technologies Featured in",
   "logos": [
     {
       "image": {
-        "src": "/images/category/web-development/daily-mail.webp",
-        "alt": "daily mail",
-        "width": "159",
-        "height": "90"
+        "src": "/images/service/seo-services/entrepreneur.png",
+        "alt": "Entrepreneur"
       }
     },
     {
       "image": {
-        "src": "/images/category/web-development/post.webp",
-        "alt": "nottingham post",
-        "width": "159",
-        "height": "90"
+        "src": "/images/service/seo-services/yahoo-finance.png",
+        "alt": "Yahoo Finance"
       }
     },
     {
       "image": {
-        "src": "/images/category/web-development/sun.webp",
-        "alt": "the sun newspaper",
-        "width": "159",
-        "height": "90"
+        "src": "/images/service/seo-services/business-insider.png",
+        "alt": "Business Insider"
       }
     },
     {
       "image": {
-        "src": "/images/category/web-development/men.webp",
-        "alt": "manchester evening news",
-        "width": "159",
-        "height": "90"
+        "src": "/images/service/seo-services/business-2-community.png",
+        "alt": "Business 2 Community"
       }
     },
     {
       "image": {
-        "src": "/images/category/web-development/bbc.webp",
-        "alt": "BBC",
-        "width": "90",
-        "height": "159"
+        "src": "/images/service/seo-services/dzone.png",
+        "alt": "DZone"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/service/seo-services/hackernoon.png",
+        "alt": "HackerNoon"
       }
     }
   ]

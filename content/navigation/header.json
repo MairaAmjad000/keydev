@@ -192,7 +192,7 @@
     }
   ],
   "link9": {
-    "href": "javascript:;",
+    "href": "/service-category/digital-marketing",
     "text": "Digital Marketing"
   },
   "items4": [
@@ -205,35 +205,35 @@
     },
     {
       "link": {
-        "href": "javascript:;",
+        "href": "/service/social-media-marketing",
         "icon": "svg-2f5f8c",
         "text": "Social Media Marketing"
       }
     },
     {
       "link": {
-        "href": "javascript:;",
+        "href": "/service/facebook-ads",
         "icon": "svg-39e9ed",
         "text": "Facebook Ads"
       }
     },
     {
       "link": {
-        "href": "javascript:;",
+        "href": "/service/google-ads",
         "icon": "svg-8585d3",
         "text": "Google Ads"
       }
     },
     {
       "link": {
-        "href": "javascript:;",
+        "href": "/service/ecommerce-ads",
         "icon": "svg-98c0e2",
         "text": "E-commerce Ads"
       }
     },
     {
       "link": {
-        "href": "javascript:;",
+        "href": "/service/youtube-promotion",
         "icon": "svg-c82c19",
         "text": "YouTube Promotion"
       }

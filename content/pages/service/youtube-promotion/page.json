@@ -1,0 +1,19 @@
+{
+  "slug": "service/youtube-promotion",
+  "seo": {
+    "title": "YouTube Promotion Services | KeyDevs Technologies",
+    "description": "Get your videos discovered, watched and shared. Our YouTube promotion services combine channel optimization, video SEO and targeted ad campaigns to…"
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "iconCards",
+    "whyChoose",
+    "portfolio",
+    "testimonials",
+    "featuredIn",
+    "technologies",
+    "blog"
+  ]
+}

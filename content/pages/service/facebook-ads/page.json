@@ -1,0 +1,19 @@
+{
+  "slug": "service/facebook-ads",
+  "seo": {
+    "title": "Facebook Ads Agency | KeyDevs Technologies",
+    "description": "Reach the right people on Facebook and Instagram with ads built to convert. As a Facebook ads agency, we plan, launch and optimize campaigns that…"
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "iconCards",
+    "whyChoose",
+    "portfolio",
+    "testimonials",
+    "featuredIn",
+    "technologies",
+    "blog"
+  ]
+}

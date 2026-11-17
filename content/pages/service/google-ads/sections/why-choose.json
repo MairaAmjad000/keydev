@@ -1,0 +1,33 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "Our USPs as a Google Ads management company",
+  "paragraphs": [
+    {
+      "html": "Certified specialists, careful budget control and honest reporting. These are the reasons clients trust us with their ad spend."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-5e24a3",
+      "title": "Customer Satisfaction",
+      "text": "We make it easy to work with us. Regular check-ins and quick replies keep you in control."
+    },
+    {
+      "icon": "svg-629db8",
+      "title": "Data-Driven Decisions",
+      "text": "Bids, keywords and ads are adjusted from live data to lower your cost per lead."
+    },
+    {
+      "icon": "svg-ccb87f",
+      "title": "100% Custom Campaigns",
+      "text": "Each account is built from scratch around your market, your goals and your budget."
+    },
+    {
+      "icon": "svg-62c5d5",
+      "title": "Transparent Reporting",
+      "text": "You always know what you spent and what it brought back, in simple reports."
+    }
+  ]
+}

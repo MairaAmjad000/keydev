@@ -1,0 +1,35 @@
+{
+  "image": {
+    "src": "/images/service/ecommerce-ads/banner.webp",
+    "alt": "E-commerce Advertising Agency",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "E-COMMERCE ADVERTISING AGENCY",
+  "text": "Turn clicks into orders with e-commerce advertising that focuses on return on ad spend. As an e-commerce advertising agency, we bring qualified shoppers to your online store through shopping ads, remarketing and marketplace promotion. Talk to our experts and grow your store sales.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
+    },
+    {
+      "href": "/contact",
+      "text": "Get Your FREE Consultation",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Digital Marketing",
+      "href": "/service-category/digital-marketing"
+    },
+    {
+      "text": "E-commerce Ads"
+    }
+  ]
+}

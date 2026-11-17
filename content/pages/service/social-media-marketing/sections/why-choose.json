@@ -1,0 +1,33 @@
+{
+  "sectionClass": "padding-60 web-why-choose-us-inner bg-light",
+  "heightClass": "m-height-170",
+  "text": "Why Choose Us",
+  "heading": "Our USPs as a social media marketing agency",
+  "paragraphs": [
+    {
+      "html": "Creative ideas, steady posting and honest reporting. These are the reasons brands stay with us."
+    }
+  ],
+  "items": [
+    {
+      "icon": "svg-5e24a3",
+      "title": "Customer Satisfaction",
+      "text": "We measure our success by yours. Our team works as an extension of your business and keeps you in the loop at every step."
+    },
+    {
+      "icon": "svg-629db8",
+      "title": "Data-Driven Decisions",
+      "text": "Every post and campaign is tracked, so we double down on what works and quickly change what does not."
+    },
+    {
+      "icon": "svg-ccb87f",
+      "title": "100% Custom Strategy",
+      "text": "No copy-paste plans. Each brand gets its own content style, calendar and goals that fit its audience."
+    },
+    {
+      "icon": "svg-62c5d5",
+      "title": "Transparent Reporting",
+      "text": "Easy-to-read reports show exactly what we did, what it cost and what it brought in."
+    }
+  ]
+}

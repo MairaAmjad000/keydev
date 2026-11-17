@@ -1,0 +1,40 @@
+{
+  "text": "Our offerings",
+  "heading": "Our suite of YouTube Promotion Services",
+  "text2": "Everything you need to grow a channel that works for your business.",
+  "heightClass": "m-height-300",
+  "background": "white",
+  "items": [
+    {
+      "icon": "svg-5d5a85",
+      "title": "Channel Optimization",
+      "text": "A professional channel layout, banner, description and playlists that make visitors want to subscribe."
+    },
+    {
+      "icon": "svg-d05ce3",
+      "title": "Video SEO",
+      "text": "Keyword-rich titles, descriptions and tags that help your videos rank on YouTube and Google."
+    },
+    {
+      "icon": "svg-33e7b4",
+      "title": "Thumbnail & Title Testing",
+      "text": "Eye-catching thumbnails and headlines tested to raise your click-through rate."
+    },
+    {
+      "icon": "svg-c836e7",
+      "title": "YouTube Ad Campaigns",
+      "text": "In-stream and discovery ads that reach targeted viewers and bring them to your channel or website."
+    },
+    {
+      "icon": "svg-f565c0",
+      "title": "Audience Growth",
+      "text": "Playlists, end screens and community posts that turn viewers into subscribers."
+    },
+    {
+      "icon": "svg-0bdb6f",
+      "title": "Analytics & Reporting",
+      "text": "Reports on views, watch time, subscribers and leads, with advice for the next video."
+    }
+  ],
+  "columnClass": "col-lg-4 col-md-4 col-sm-6 col-12 mb-30"
+}

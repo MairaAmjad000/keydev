@@ -1,0 +1,40 @@
+{
+  "text": "Our offerings",
+  "heading": "Our suite of Facebook Ads Services",
+  "text2": "From a first campaign to a full funnel, our team handles the whole ad process for you.",
+  "heightClass": "m-height-300",
+  "background": "white",
+  "items": [
+    {
+      "icon": "svg-5d5a85",
+      "title": "Campaign Strategy & Setup",
+      "text": "We define your goals, audiences and budget, then set up the account, pixel and campaigns the right way from day one."
+    },
+    {
+      "icon": "svg-d05ce3",
+      "title": "Audience Targeting",
+      "text": "Detailed targeting by interests, behaviour and location, plus lookalike audiences built from your best customers."
+    },
+    {
+      "icon": "svg-33e7b4",
+      "title": "Ad Creative & Copy",
+      "text": "Scroll-stopping images, videos and copy tested against each other to find your best performers."
+    },
+    {
+      "icon": "svg-c836e7",
+      "title": "Retargeting Campaigns",
+      "text": "Bring back visitors who looked at your site or product but did not buy or enquire."
+    },
+    {
+      "icon": "svg-f565c0",
+      "title": "Lead Generation Ads",
+      "text": "Instant forms and landing pages that capture quality leads and send them straight to your team."
+    },
+    {
+      "icon": "svg-0bdb6f",
+      "title": "Tracking & Optimization",
+      "text": "Conversion tracking, A/B testing and budget changes to lower your cost per result week after week."
+    }
+  ],
+  "columnClass": "col-lg-4 col-md-4 col-sm-6 col-12 mb-30"
+}

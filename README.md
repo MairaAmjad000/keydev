@@ -210,6 +210,18 @@ is `/estimate-your-project`; registered in `src/lib/cms/local-estimate.ts`). One
 options with icon / next_step ...). Branching, answers, submit (POST to `form.action`, JSON reply) and the phone
 field are in `public/scripts/estimate-page.js`. Option icons are in `public/images/estimate/`.
 
+## SEO page (`/service/seo-services`)
+
+Mirrors the supplied `digital-marketing.html` (`content/pages/service/seo-services`, registered in `src/lib/cms/local-services.ts`). Page order: `anchorNav`, `sectionAnchor`, `categoryHero` (with enquiry form), `brandLogos`, `introContent`, `iconCards` (12 SEO services), `advantageGrid` (6 advantages), `featuredIn` (grid variant with callout bar), `testimonials`, `blog`, and the global sections last. It reuses existing section types; optional fields added: `categoryHero.form.title` / `form.idPrefix`, `introContent.subheading`, `featuredIn.variant` / `callout` / `spacer`. 18 new icons are in `src/components/icons/index.tsx`; pictures are in `public/images/service/seo-services/` (the intro picture is a placeholder, see `public/images/PLACEHOLDERS.txt`).
+
+## Digital marketing page (`/service-category/digital-marketing`)
+
+`content/pages/service-category/digital-marketing` (registered in `src/lib/cms/local-digital-marketing.ts`) uses the web-development category template with existing sections only: `categoryHero` (with form), `brandLogos`, `introContent`, `serviceOfferings` (SEO, social media, Facebook ads, Google ads, eCommerce ads, YouTube promotion), `whyChoose`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, then the global sections. Its banner, intro and `listing-1..6` pictures in `public/images/category/digital-marketing/` are copies of the web-development ones: replace them with real artwork. The SEO tab's button links to `/service/seo-services`.
+
+### Digital marketing service pages
+
+`/service/social-media-marketing`, `/service/facebook-ads`, `/service/google-ads`, `/service/ecommerce-ads` and `/service/youtube-promotion` use the web-technology service template (`categoryHero` without form, `brandLogos`, `introContent`, `iconCards`, `whyChoose`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, then the global sections). They are registered with the Digital Marketing category page in `src/lib/cms/local-digital-marketing.ts`; the SEO page stays in `local-services.ts`. Banner and intro pictures are copies of the Laravel page's (see `public/images/PLACEHOLDERS.txt`). The header and mobile menus link to all five.
+
 ## Placeholder images
 
 Pictures that the page templates referenced from the live site (portfolio logos and screenshots, blog images, process

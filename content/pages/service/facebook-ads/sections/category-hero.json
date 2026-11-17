@@ -1,0 +1,35 @@
+{
+  "image": {
+    "src": "/images/service/facebook-ads/banner.webp",
+    "alt": "Facebook Ads Agency",
+    "width": "1920",
+    "height": "800"
+  },
+  "heading": "FACEBOOK ADS AGENCY",
+  "text": "Reach the right people on Facebook and Instagram with ads built to convert. As a Facebook ads agency, we plan, launch and optimize campaigns that bring in leads and sales at a cost that makes sense for your business. Talk to our experts to get your campaigns started.",
+  "links": [
+    {
+      "href": "/portfolio",
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
+    },
+    {
+      "href": "/contact",
+      "text": "Get Your FREE Consultation",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Digital Marketing",
+      "href": "/service-category/digital-marketing"
+    },
+    {
+      "text": "Facebook Ads"
+    }
+  ]
+}

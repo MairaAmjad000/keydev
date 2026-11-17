@@ -1,0 +1,25 @@
+{
+  "heading": "E-commerce Advertising Services That Drive Sales",
+  "paragraphs": [
+    {
+      "html": "Running an online store means competing for attention every day. Smart advertising puts your products in front of shoppers who are ready to buy, at a cost that leaves you with profit."
+    },
+    {
+      "html": "KeyDevs Technologies manages your product feeds, builds shopping and social campaigns and brings back visitors who left without buying. We track sales, not just clicks, so you know which ads are paying off."
+    },
+    {
+      "html": "Whether you sell on your own website or on marketplaces, our team builds an advertising plan that fits your products, your margins and your goals."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/service/ecommerce-ads/intro.webp",
+    "alt": "E-commerce Advertising Agency"
+  },
+  "imageClass": "rounded10",
+  "sectionClass": "service-main-content service-web-inner padding-60 bg-white"
+}

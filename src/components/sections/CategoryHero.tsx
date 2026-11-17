@@ -43,6 +43,7 @@ function Field({ field }: { field: FormFieldContent }) {
 /** Inner-page banner: heading + intro + buttons on the left, enquiry form on the right, breadcrumb below. */
 export function CategoryHero({ data }: { data: CategoryHeroContent }) {
   const { form } = data;
+  const recaptchaPrefix = form ? (form.idPrefix ?? form.id.replace(/-banner_form$/, '')) : '';
   const textCol = form
     ? 'col-xl-8 col-lg-7 col-md-12 col-sm-12 col-12'
     : data.sideImage
@@ -95,6 +96,7 @@ export function CategoryHero({ data }: { data: CategoryHeroContent }) {
                 {' '}
                 <div className="col-xl-4 col-lg-5 col-md-12 col-sm-12 col-12 pt-4">
                   <div className="innerbannerform">
+                    {form.title && <div className="innerbannerform-title" dangerouslySetInnerHTML={{ __html: form.title }} />}
                     <form id={form.id}>
                       <div className="alert alert-danger" id={form.errorId} style={{ display: 'none' }} />
                       <div className="alert alert-success" id={form.successId} style={{ display: 'none' }} />
@@ -103,13 +105,13 @@ export function CategoryHero({ data }: { data: CategoryHeroContent }) {
                           <Field key={field.name} field={field} />
                         ))}
                         <div className="form-group col-md-6 text-center text-md-left">
-                          <div id={`${form.id.replace(/-banner_form$/, '')}-intelGrecaptchaInnerBannerContact`} />
+                          <div id={`${recaptchaPrefix}-intelGrecaptchaInnerBannerContact`} />
                           {' '}
                           <input
                             type="hidden"
                             className="form-control"
                             name="grecaptcha_inner_banner"
-                            id={`${form.id.replace(/-banner_form$/, '')}-grecaptcha_inner_banner`}
+                            id={`${recaptchaPrefix}-grecaptcha_inner_banner`}
                           />
                         </div>
                       </div>

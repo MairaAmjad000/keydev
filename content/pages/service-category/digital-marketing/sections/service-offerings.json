@@ -1,0 +1,186 @@
+{
+  "text": "Our digital marketing offerings",
+  "heading": "Explore our digital marketing expertise that covers every channel your customers use",
+  "items": [
+    {
+      "id": "digital-marketing-section1",
+      "navIcon": "svg-522317",
+      "navTitle": "Search Engine Optimization",
+      "number": "01",
+      "heading": "Search Engine Optimization (SEO)",
+      "bodyHtml": "<div class=\"top-text-block\">Rank higher on Google and attract customers who are already searching for what you sell.</div><p>SEO is the most dependable way to earn lasting traffic. We audit your website, fix technical issues, optimize your pages and build quality links, all with white hat techniques that keep you safe from penalties.</p><p>Here is what you get:</p>",
+      "bullets": [
+        {
+          "html": "Keyword research, on-page and technical SEO"
+        },
+        {
+          "html": "Link building, content marketing and local SEO"
+        },
+        {
+          "html": "Clear monthly reports on rankings, traffic and leads"
+        }
+      ],
+      "link": {
+        "href": "/service/seo-services",
+        "text": "Get a FREE SEO Audit"
+      },
+      "image": {
+        "src": "/images/category/digital-marketing/listing-1.webp",
+        "alt": "Search Engine Optimization (SEO) services by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "digital-marketing-section2",
+      "navIcon": "svg-4c0e6c",
+      "navTitle": "Social Media Marketing",
+      "number": "02",
+      "heading": "Social media marketing",
+      "bodyHtml": "<div class=\"top-text-block\">Build a brand people follow, trust and talk about.</div><p>Our social media team plans content, grows your communities and runs campaigns across the platforms where your audience spends time. Every post has a purpose: reach, engagement or sales.</p><p>Here is what you get:</p>",
+      "bullets": [
+        {
+          "html": "Content calendars, design and copywriting"
+        },
+        {
+          "html": "Community management and influencer outreach"
+        },
+        {
+          "html": "Performance reports with clear next steps"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Talk to Our Expert"
+      },
+      "image": {
+        "src": "/images/category/digital-marketing/listing-2.webp",
+        "alt": "Social media marketing services by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "digital-marketing-section3",
+      "navIcon": "svg-aa3e20",
+      "navTitle": "Facebook Ads",
+      "number": "03",
+      "heading": "Facebook & Instagram ads",
+      "bodyHtml": "<div class=\"top-text-block\">Reach the right people with ads that are built to convert.</div><p>We set up and manage Facebook and Instagram ad campaigns with precise audience targeting, creative testing and tracking, so your budget goes to the ads that actually perform.</p><p>Here is what you get:</p>",
+      "bullets": [
+        {
+          "html": "Audience research, targeting and retargeting"
+        },
+        {
+          "html": "Creative and copy testing"
+        },
+        {
+          "html": "Conversion tracking and budget optimization"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Get in Touch with Us"
+      },
+      "image": {
+        "src": "/images/category/digital-marketing/listing-3.webp",
+        "alt": "Facebook & Instagram ads services by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "digital-marketing-section4",
+      "navIcon": "svg-a9eeae",
+      "navTitle": "Google Ads",
+      "number": "04",
+      "heading": "Google Ads (PPC)",
+      "bodyHtml": "<div class=\"top-text-block\">Appear at the top of search results the moment customers are ready to buy.</div><p>Our certified specialists build search, display and shopping campaigns around high-intent keywords, then refine bids, ads and landing pages to lower your cost per lead.</p><p>Here is what you get:</p>",
+      "bullets": [
+        {
+          "html": "Search, display and shopping campaigns"
+        },
+        {
+          "html": "Keyword, bid and landing page optimization"
+        },
+        {
+          "html": "Transparent spend and ROI reporting"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Talk to Our Expert"
+      },
+      "image": {
+        "src": "/images/category/digital-marketing/listing-4.webp",
+        "alt": "Google Ads (PPC) services by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    },
+    {
+      "id": "digital-marketing-section5",
+      "navIcon": "svg-34ba9a",
+      "navTitle": "E-commerce Ads",
+      "number": "05",
+      "heading": "eCommerce advertising",
+      "bodyHtml": "<div class=\"top-text-block\">Turn your online store into a steady source of orders.</div><p>We drive qualified shoppers to your store with product feed ads, remarketing and marketplace promotion, while keeping your return on ad spend in focus.</p><p>Here is what you get:</p>",
+      "bullets": [
+        {
+          "html": "Product feed and shopping ad management"
+        },
+        {
+          "html": "Remarketing and abandoned-cart campaigns"
+        },
+        {
+          "html": "Sales and ROAS tracking across channels"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Get in Touch with Us"
+      },
+      "image": {
+        "src": "/images/category/digital-marketing/listing-5.webp",
+        "alt": "eCommerce advertising services by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": true
+    },
+    {
+      "id": "digital-marketing-section6",
+      "navIcon": "svg-eac249",
+      "navTitle": "YouTube Promotion",
+      "number": "06",
+      "heading": "YouTube promotion",
+      "bodyHtml": "<div class=\"top-text-block\">Put your brand in front of an audience that loves video.</div><p>From channel optimization to video ad campaigns, we help your videos get discovered, watched and acted on, growing both your reach and your customer base.</p><p>Here is what you get:</p>",
+      "bullets": [
+        {
+          "html": "Channel and video SEO"
+        },
+        {
+          "html": "Video ad campaigns and remarketing"
+        },
+        {
+          "html": "Audience growth and engagement tracking"
+        }
+      ],
+      "link": {
+        "href": "/contact",
+        "text": "Talk to Our Expert"
+      },
+      "image": {
+        "src": "/images/category/digital-marketing/listing-6.webp",
+        "alt": "YouTube promotion services by KeyDevs Technologies",
+        "width": "511",
+        "height": "478"
+      },
+      "reverse": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "service/social-media-marketing",
+  "seo": {
+    "title": "Social Media Marketing Agency | KeyDevs Technologies",
+    "description": "Turn followers into customers with social media marketing that is planned, creative and measured. As a social media marketing agency, we build your…"
+  },
+  "sections": [
+    "categoryHero",
+    "brandLogos",
+    "introContent",
+    "iconCards",
+    "whyChoose",
+    "portfolio",
+    "testimonials",
+    "featuredIn",
+    "technologies",
+    "blog"
+  ]
+}

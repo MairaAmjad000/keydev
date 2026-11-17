@@ -1,0 +1,25 @@
+{
+  "heading": "Social Media Marketing Services That Grow Your Brand",
+  "paragraphs": [
+    {
+      "html": "Your customers are scrolling, sharing and talking about brands every day. The question is whether they are talking about yours. Our social media marketing services put your business in front of the right people with content they actually want to see."
+    },
+    {
+      "html": "KeyDevs Technologies plans your content, designs your posts, writes your copy and manages your communities across Facebook, Instagram, LinkedIn, TikTok and more. Every post has a goal: awareness, engagement, leads or sales."
+    },
+    {
+      "html": "Our team tracks what works and does more of it. You get simple monthly reports that show how your audience, reach and enquiries are growing."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Talk to Our Expert Now",
+    "className": "btn btn-custome waves-effect waves-light"
+  },
+  "image": {
+    "src": "/images/service/social-media-marketing/intro.webp",
+    "alt": "Social Media Marketing Agency"
+  },
+  "imageClass": "rounded10",
+  "sectionClass": "service-main-content service-web-inner padding-60 bg-white"
+}

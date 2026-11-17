@@ -30,3 +30,6 @@
 .innerbanner.blog p:last-child { margin-bottom:0 }
 .blogauthore .breadcrumb { bottom:30px }
 .breadcrumb.no-company-logo { bottom:20px }
+
+/* Heading above the banner enquiry form (e.g. "Get FREE SEO Audit") */
+.innerbannerform-title { text-align:center;color:#fff;font-size:22px;font-weight:600;margin-bottom:16px }

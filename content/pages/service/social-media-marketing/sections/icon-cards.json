@@ -1,0 +1,40 @@
+{
+  "text": "Our offerings",
+  "heading": "Our suite of Social Media Marketing Services",
+  "text2": "Whether you are building a new brand or scaling an established one, our social media team covers every part of the job.",
+  "heightClass": "m-height-300",
+  "background": "white",
+  "items": [
+    {
+      "icon": "svg-5d5a85",
+      "title": "Social Media Strategy",
+      "text": "We study your audience and competitors, then build a platform-by-platform plan with clear goals and content themes."
+    },
+    {
+      "icon": "svg-d05ce3",
+      "title": "Content Creation",
+      "text": "Eye-catching graphics, short videos and engaging captions made to match your brand voice and stop the scroll."
+    },
+    {
+      "icon": "svg-33e7b4",
+      "title": "Community Management",
+      "text": "We reply to comments and messages quickly and keep your community active, friendly and loyal."
+    },
+    {
+      "icon": "svg-c836e7",
+      "title": "Influencer Marketing",
+      "text": "We find and work with creators who fit your brand and reach the customers you want."
+    },
+    {
+      "icon": "svg-f565c0",
+      "title": "Paid Social Campaigns",
+      "text": "Targeted ads on the major platforms that put your best content in front of people ready to act."
+    },
+    {
+      "icon": "svg-0bdb6f",
+      "title": "Analytics & Reporting",
+      "text": "Clear reports on reach, engagement and leads, with next steps to keep improving every month."
+    }
+  ],
+  "columnClass": "col-lg-4 col-md-4 col-sm-6 col-12 mb-30"
+}

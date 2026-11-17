@@ -1,0 +1,34 @@
+{
+  "blocks": [
+    {
+      "image": {
+        "src": "/images/clients/alghazi-tractors.png",
+        "alt": "Ecommerce website for Alghazi Tractors"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/clients/atlas-fuel.png",
+        "alt": "KeyDevs Technologies provided Portfolio website and ERP Solutions to ATlas Fuel"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/clients/al-iftar-foods.png",
+        "alt": "KeyDevs Technologies provided Portfolio website and CRM and ERP Solutions to Aliftar foods"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/clients/frichiks.png",
+        "alt": "KeyDevs Technologies Provide Email hosting and Food Delivery Mobile app for Frichiks."
+      }
+    },
+    {
+      "image": {
+        "src": "/images/clients/flyashs.png",
+        "alt": "Keydevs Develop Flight , Travel and Tourisum Booking wEbsite and Mobile Apps to FlyAshs"
+      }
+    }
+  ]
+}
