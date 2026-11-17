@@ -1,14 +1,26 @@
 {
-  "heading": "Android Games that Run Everywhere",
+  "heading": "Leading Android Game Development Agency",
   "paragraphs": [
     {
-      "html": "Android players use thousands of different devices. We optimize assets, memory and performance so your game plays well across them."
+      "html": "The Android platform enjoys a large audience through handheld devices across the globe and with it comes and array of opportunities for businesses to get a slice of the billions revenue generated through Android game development."
     },
     {
-      "html": "From hyper-casual hits to 3D adventures, we build with Unity and native tooling, add Google Play Games, ads and purchases, and manage your Play Store release."
+      "html": "Our expertise in the Unity game engine, Cocos2d, Android Studio and Java are instrumental in infusing your creative and innovative game ideas, stories, and gameplay with our excellent game experiences."
     },
     {
-      "html": "Start your android game development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+      "html": "With exceptional experience in the game industry within the Pakistan and across Europe, you can be assured you will have an Android Game that that a local and global audience will love."
+    },
+    {
+      "html": "Our android game developers and design team ensure the end product is tailored to the chosen genre, including designing, animation development, coding/scripting, testing, and marketing accordingly."
+    },
+    {
+      "html": "When faced with the challenge of fragmentation, known to the Android game development industry, our developers are on hand to resolve. Our Android game development infrastructure in our game studio is highly capable to deal with fragmentation issues effectively."
+    },
+    {
+      "html": "Our project management through the latest PMS enable clients to participate actively in the game development process, monitor their project’s progress, as well as gameplay testing to assure the desired quality."
+    },
+    {
+      "html": "Would you like to test your game ideas with the android game development team at KeyDevs Technologies? We can help you attain the top game list in play store.?"
     }
   ],
   "link": {
@@ -17,7 +29,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/mobile-game-development.png",
-    "alt": "Android Game Development"
-  }
+    "src": "/images/service/android-game-development/intro-android-game-development.webp",
+    "alt": "Leading Android Game Development Agency"
+  },
+  "imageClass": ""
 }

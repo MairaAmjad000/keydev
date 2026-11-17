@@ -1,12 +1,13 @@
 {
   "image": {
-    "src": "/images/category/web-development/banner-web-development.webp",
-    "alt": "iOS Game Development by KeyDevs Technologies",
+    "src": "/images/service/ios-game-development/banner-ios-game-development.webp",
+    "alt": "KeyDevs Technologies is top rated iPhone game development company in the Pakistan. We have successful iPhone game development clients in India, Pakistan, USA and across the globe.",
     "width": "1920",
     "height": "800"
   },
-  "heading": "iOS Game Development Company",
-  "text": "Delight iPhone and iPad players with games that run beautifully on Apple hardware. KeyDevs Technologies designs, builds and launches iOS games from concept to App Store.",
+  "heading": "TOP IPAD & IPHONE GAME DEVELOPMENT",
+  "headingClass": "text-uppercase",
+  "text": "KeyDevs Technologies specialises in crafting exciting 2D 3D iPad and iPhone games. Our expertise includes everything from standalone, server-based, single to multiplayer games. Our iOS game development services include prototyping, character creation, programming to successfully launch in the marketplace. With a team of dedicated designers and game developers, you can be assured to be in the company of right team to make your idea enter an amazing world of mobile games.",
   "links": [
     {
       "href": "/portfolio",

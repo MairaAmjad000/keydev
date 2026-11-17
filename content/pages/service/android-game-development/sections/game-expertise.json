@@ -1,0 +1,47 @@
+{
+  "text": "Game Development Expertise",
+  "heading": "Types of Android Game we Develop",
+  "text2": "Each game genre within Android game ecosystem is unique and demands individual approaches while designing an Android game. Moreover, our game development capacities enable our Android game developers to deliver engaging, attractive, and high performing Android games in any desired genre.",
+  "items": [
+    {
+      "icon": "svg-e11cb2",
+      "label": "Sport Game"
+    },
+    {
+      "icon": "svg-e45d78",
+      "label": "Shooting Game"
+    },
+    {
+      "icon": "svg-58e0bf",
+      "label": "Racing Game"
+    },
+    {
+      "icon": "svg-2d1e4f",
+      "label": "Adventure Game"
+    },
+    {
+      "icon": "svg-ec0eb8",
+      "label": "Multiplayer Game"
+    },
+    {
+      "icon": "svg-bf3ee2",
+      "label": "Puzzle Game"
+    },
+    {
+      "icon": "svg-573039",
+      "label": "Fighting Game"
+    },
+    {
+      "icon": "svg-af8f51",
+      "label": "Action Game"
+    },
+    {
+      "icon": "svg-c4e1b6",
+      "label": "Board Game"
+    },
+    {
+      "icon": "svg-b6dced",
+      "label": "Simulator Game"
+    }
+  ]
+}

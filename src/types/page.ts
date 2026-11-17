@@ -13,6 +13,7 @@ import type {
   TechnologyGroupsContent, EstimateWizardContent, BlogPostContent, PolicyContentContent,
   IndustryTabsContent, AppPlatformsContent, AppWhyChooseContent,
   AnchorNavContent, SectionAnchorContent, IntroSliderContent, OfferGridContent, IconCardsContent,
+  GameWhyUsContent, GameExpertiseContent,
 } from './sections';
 import type {
   HeaderContent, MobileMenuContent, GetQuoteButtonContent, CallBackSidebarContent, FooterContent,
@@ -84,6 +85,8 @@ export interface SectionDataMap {
   introSlider: IntroSliderContent;
   offerGrid: OfferGridContent;
   iconCards: IconCardsContent;
+  gameWhyUs: GameWhyUsContent;
+  gameExpertise: GameExpertiseContent;
 }
 
 export type SectionType = keyof SectionDataMap;

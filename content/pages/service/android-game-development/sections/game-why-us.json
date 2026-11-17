@@ -1,0 +1,32 @@
+{
+  "text": "Why Choose Us",
+  "heading": "Why KeyDevs Technologies is the best choice for your Android Game Development",
+  "headingHtml": "Why KeyDevs Technologies is the best choice for your Android <br/>Game Development",
+  "text2": "KeyDevs Technologies has earned a big name in the Android Game development industry in the Pakistan by spending years growing with the industry, and satisfying innumerable clientele in England, across Europe, and throughout the global.",
+  "image": {
+    "src": "/images/service/android-game-development/why-choose-android-game-development.png",
+    "alt": ""
+  },
+  "items": [
+    {
+      "icon": "svg-bb1053",
+      "title": "High-end Game Designing Infrastructure",
+      "text": "Our game studios are equipped with the ultramodern game development infrastructural facilities to provide one-stop solutions for all game development stage, to avoid our Client’s have a single provider for their project."
+    },
+    {
+      "icon": "svg-7987cf",
+      "title": "Keep Game Performance at the Core",
+      "text": "We understand game development and what Clients want, so we keep the game performance at the core while defining the game quality. Thus, we deliver high quality games in the hands of our global patrons to win the hearts of their targeted audience."
+    },
+    {
+      "icon": "svg-18f57a",
+      "title": "Effective Game Monetization",
+      "text": "We look at game monetization opportunities right from the conception to deployment and throughout the project lifecycle. We present innovative ideas, strategies, and methodologies for Android game monetization understanding that this is an investment, not just a hobby."
+    },
+    {
+      "icon": "svg-c6a714",
+      "title": "Uninterrupted Support",
+      "text": "We believe in long-term relationships with clients so always come up with quick response to queries, maintenance requests, and updates & upgrade requirements to ensure you stay with us. Our Hire Android game developer packages are flexible and comprehensive."
+    }
+  ]
+}

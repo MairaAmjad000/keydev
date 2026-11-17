@@ -284,3 +284,22 @@ inline SVG markup still works.
 
 Page order: `categoryHero` (no form), `introContent`, `iconCards` (Node.js uses `coreValues`), optional `featureList` / `advantageGrid`, `whyChoose`, then `brandLogos`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, and the global sections last.
 `iconCards` is the only new section type (`IconCards`, styles already in `why-choose.css`). `advantageGrid` and `coreValues` gained optional `sectionClass` / `heightClass` / `columnClass` fields.
+
+## iOS game development page (`/service/ios-game-development`)
+
+Mirrors the supplied `ios-game-development.html`. Page order: `categoryHero` (no form), `brandLogos`, `introContent`, `gameWhyUs`, `gameExpertise`, `callout`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, and the global sections last.
+
+| type | component | note |
+| --- | --- | --- |
+| `gameWhyUs` | `GameWhyUs` | **new**: picture beside four icon + title + text rows (`headingHtml` allows a `<br>`) |
+| `gameExpertise` | `GameExpertise` | **new**: wrapping grid of round icons with a label ("Types of games we develop") |
+
+Reused: `categoryHero`, `brandLogos`, `introContent` (`imageClass: ""` for the plain picture), `callout` (`wrapperClass: "padding-60-00 bg-white"`), `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`.
+`portfolio` items gained three optional fields: `figureClass` (coloured card, e.g. `whitetext greenshadebg`), `storeLinks` (Google Play / App Store badges in the hover caption) and `link` is now optional (cards with store badges have no "Explore More" button).
+Styles: `styles/sections/game-service.css` (must stay before `layout/mobile-menu.css` / `layout/footer.css`, which hold the responsive rules) and the store-badge rule at the end of `portfolio.css`.
+New images: `images/service/ios-game-development/` (banner, intro, why-choose) and `images/ui/` (store badges). The six game screenshots in `images/portfolio/games/` are placeholders (see `PLACEHOLDERS.txt`): overwrite them with the real files of the same name.
+
+## Android game development page (`/service/android-game-development`)
+
+Same section list and components as the iOS game page above (`categoryHero`, `brandLogos`, `introContent`, `gameWhyUs`, `gameExpertise`, `callout`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, then the global sections), with its own copy, banner / intro / why-choose images (`images/service/android-game-development/`) and four new "why choose us" icons. The game-type icons, store badges and the six game screenshots (`images/portfolio/games/`, still placeholders) are shared with the iOS page.
+Any further game page (Mac, Windows, Unity ...) can reuse this exact layout: only the JSON in `content/pages/service/<slug>/sections/` and the images change.

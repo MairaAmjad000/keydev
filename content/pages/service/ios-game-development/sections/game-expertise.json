@@ -1,0 +1,47 @@
+{
+  "text": "Game Development Expertise",
+  "heading": "Types of iPad and iPhone Game we Develop",
+  "text2": "Our proficiency in various game niches has earned us the big applauds from our clients in the Pakistan and across the globe.",
+  "items": [
+    {
+      "icon": "svg-e11cb2",
+      "label": "Sport Game"
+    },
+    {
+      "icon": "svg-e45d78",
+      "label": "Shooting Game"
+    },
+    {
+      "icon": "svg-58e0bf",
+      "label": "Racing Game"
+    },
+    {
+      "icon": "svg-2d1e4f",
+      "label": "Adventure Game"
+    },
+    {
+      "icon": "svg-ec0eb8",
+      "label": "Multiplayer Game"
+    },
+    {
+      "icon": "svg-bf3ee2",
+      "label": "Puzzle Game"
+    },
+    {
+      "icon": "svg-573039",
+      "label": "Fighting Game"
+    },
+    {
+      "icon": "svg-af8f51",
+      "label": "Action Game"
+    },
+    {
+      "icon": "svg-c4e1b6",
+      "label": "Board Game"
+    },
+    {
+      "icon": "svg-b6dced",
+      "label": "Simulator Game"
+    }
+  ]
+}

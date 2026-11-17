@@ -1,0 +1,32 @@
+{
+  "text": "Why Choose Us",
+  "heading": "Why KeyDevs Technologies is Your Exclusive iPad & iPhone Game Development Partner?",
+  "headingHtml": "Why KeyDevs Technologies is Your Exclusive iPad & iPhone Game <br/>Development Partner?",
+  "text2": "The selection of a dependable iOS game development company is indeed daunting, hopefully our skill set and expertise can help you decide why KeyDevs Technologies should undertake your iOS game app development project.",
+  "image": {
+    "src": "/images/service/ios-game-development/why-choose-ios-game-development.webp",
+    "alt": ""
+  },
+  "items": [
+    {
+      "icon": "svg-755bd1",
+      "title": "Highly Skilled Game Artists",
+      "text": "Our game designers and graphics designers are vector artists besides the pixel artists, so scalability of in-game graphics and animations are reputable within the iOS game designer community."
+    },
+    {
+      "icon": "svg-8f8016",
+      "title": "Awesome 3D Modelling",
+      "text": "Our superiority in Unity iOS Game Development empowers our iOS game programmers to produce stunning 2D & 3D models, 2D & 3D animations, and rendering stunning 3D effects on all iOS devices."
+    },
+    {
+      "icon": "svg-08cced",
+      "title": "Proficient iOS Game Developers",
+      "text": "Our familiarity with the latest iOS game programming best practices, Cocoa Touch, Touch Organizer, and Cut Scenes Scripting Engine, and databases are well known in the iOS game development industry."
+    },
+    {
+      "icon": "svg-551850",
+      "title": "Indispensable Support to Clients",
+      "text": "Support and maintenance services through emergency updates, and upgrade efforts by our renowned iOS game developers ensure you’re in safe hands once your game is live."
+    }
+  ]
+}

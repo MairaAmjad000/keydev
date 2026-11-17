@@ -43,7 +43,7 @@ export function Portfolio({ data }: { data: PortfolioContent }) {
             <Fragment key={i}>
               {i > 0 && ' '}
               <div className="item">
-                <figure className="portfolio-figure">
+                <figure className={item.figureClass ? `portfolio-figure ${item.figureClass}` : 'portfolio-figure'}>
                   <div className="portfolio-title">
                     <h3>
                       {item.heading}
@@ -70,10 +70,29 @@ export function Portfolio({ data }: { data: PortfolioContent }) {
                     <p>
                       {item.text2}
                     </p>
-                    {' '}
-                    <a className="waves-effect waves-light" {...link(item.link.href)}>
-                      {item.link.text}
-                    </a>
+                    {item.link && (
+                      <>
+                        {' '}
+                        <a className="waves-effect waves-light" {...link(item.link.href)}>
+                          {item.link.text}
+                        </a>
+                      </>
+                    )}
+                    {item.storeLinks && item.storeLinks.length > 0 && (
+                      <>
+                        {' '}
+                        <div className="portfolio-store-button">
+                          {item.storeLinks.map((store, j) => (
+                            <Fragment key={j}>
+                              {j > 0 && ' '}
+                              <a href={store.href} rel="noreferrer" target="_blank" title={store.title}>
+                                <img src={store.image.src} alt={store.image.alt} width={store.image.width} height={store.image.height} />
+                              </a>
+                            </Fragment>
+                          ))}
+                        </div>
+                      </>
+                    )}
                   </figcaption>
                 </figure>
               </div>

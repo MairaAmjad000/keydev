@@ -18,6 +18,9 @@
 @import './base/buttons.css';
 @import './base/shared.css';
 
+/* Game service sections: base rules must precede the responsive rules in layout/mobile-menu.css and layout/footer.css. */
+@import './sections/game-service.css';
+
 /* Layout chrome */
 @import './layout/header.css';
 @import './layout/mobile-menu.css';

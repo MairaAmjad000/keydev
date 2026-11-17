@@ -1,14 +1,20 @@
 {
-  "heading": "iOS Games Built for Apple Hardware",
+  "heading": "Highly Acclaimed iOS Game Development Company",
   "paragraphs": [
     {
-      "html": "Apple devices offer powerful graphics, precise touch and a premium audience. We build games that use that power with smooth frame rates and responsive controls."
+      "html": "KeyDevs Technologies is leading iOS game development company in the Pakistan, who ensure a result driven methodical approach for all iPad and iPhone game developments in such a way that the resulting games have to turn out to be engaging gameplay, melodic sounds, striking animations, and seamlessly performance across all iOS devices."
     },
     {
-      "html": "Our team works with Unity and native tools, integrating Game Center, in-app purchases, ads and analytics, and guiding your game through App Store review."
+      "html": "The expert team of the iOS game development at KeyDevs Technologies understands the rapidly changing mobile gaming trends and the desire of every client to create the next most exciting game in the world. Our iOS game design and programming infrastructure enable us to perform seamless integration of the latest technologies to make every game we develop goes out to be a great success in its audience."
     },
     {
-      "html": "Start your ios game development project with an experienced team. Tell us about your idea and we will help you take it from concept to launch and beyond."
+      "html": "Our iOS mobile game app development services, such as character creation, graphics integration, programming, testing with advanced tools and the latest frameworks have yielded a cost-effective yet high-quality mobile game app development with greater ROI. Because of these traits, KeyDevs Technologies enjoys a high reputation among its clients in the Pakistan, USA, Canada, Spain, France, Israel, UAE, Europe and across the globe."
+    },
+    {
+      "html": "The years of experience and hands-on expertise across the various genre of iPhone game app development and iPad game development has enabled us to attune the most flexible requirements and became the top iOS game developers in the Pakistan and across the world. The expert iPhone game developers at KeyDevs Technologies know how to monetise iOS games for entrepreneurs and help them accomplish business goals."
+    },
+    {
+      "html": "If you have a mobile game development idea, we are ready to turn it into an exciting reality. Do you want to discuss your idea with us?"
     }
   ],
   "link": {
@@ -17,7 +23,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/mobile-game-development.png",
-    "alt": "iOS Game Development"
-  }
+    "src": "/images/service/ios-game-development/intro-ios-game-development.webp",
+    "alt": "Bespoke iPad game development company in Pakistan. With 8+ years of experience, KeyDevs Technologies has developed an amazing iPad game which has been a great success."
+  },
+  "imageClass": ""
 }

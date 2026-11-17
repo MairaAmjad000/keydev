@@ -62,6 +62,8 @@ import { SectionAnchor } from './SectionAnchor';
 import { IntroSlider } from './IntroSlider';
 import { OfferGrid } from './OfferGrid';
 import { IconCards } from './IconCards';
+import { GameWhyUs } from './GameWhyUs';
+import { GameExpertise } from './GameExpertise';
 
 function renderSection(block: SectionBlock, forms: FormsContent) {
   switch (block.type) {
@@ -127,6 +129,8 @@ function renderSection(block: SectionBlock, forms: FormsContent) {
     case 'introSlider': return <IntroSlider data={block.data} />;
     case 'offerGrid': return <OfferGrid data={block.data} />;
     case 'iconCards': return <IconCards data={block.data} />;
+    case 'gameWhyUs': return <GameWhyUs data={block.data} />;
+    case 'gameExpertise': return <GameExpertise data={block.data} />;
     default: return null;
   }
 }

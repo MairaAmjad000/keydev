@@ -227,3 +227,12 @@
      padding: 0 0 20px !important
   }
 }
+
+/* Google Play / App Store badges in a portfolio card's hover caption (game portfolio cards) */
+.portfolio-figure-caption .portfolio-store-button a {
+   border: 0;
+   background-color: transparent;
+   padding: 0;
+   box-shadow: none;
+   margin: 0 5px 10px
+}

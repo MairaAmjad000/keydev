@@ -1,24 +1,20 @@
 {
   "slug": "service/ios-game-development",
   "seo": {
-    "title": "iOS Game Development Company | KeyDevs Technologies",
-    "description": "Beautiful, smooth games for iPhone and iPad built to take full advantage of Apple hardware. Talk to KeyDevs Technologies, Lahore."
+    "title": "iOS Game Development | KeyDevs Technologies",
+    "description": "iOS game development services by KeyDevs Technologies."
   },
   "sections": [
     "categoryHero",
     "brandLogos",
     "introContent",
-    "offerCards",
-    "imageCards",
-    "compareBenefits",
-    "sprintProcess",
-    "techStackTabs",
-    "whyChooseImage",
+    "gameWhyUs",
+    "gameExpertise",
+    "callout",
     "portfolio",
     "testimonials",
-    "technologies",
-    "faq",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }

@@ -313,10 +313,19 @@ export interface PortfolioContent {
     };
     heading2: string;
     text2: string;
-    link: {
+    /** "Explore More" button. Omit for cards that show store badges (`storeLinks`) instead. */
+    link?: {
       href: string;
       text: string;
     };
+    /** Extra classes on the card's <figure>, e.g. "whitetext greenshadebg" (coloured card with white text). */
+    figureClass?: string;
+    /** Google Play / App Store badges shown in the card's hover caption. */
+    storeLinks?: Array<{
+      href: string;
+      title: string;
+      image: CmsImage;
+    }>;
   }>;
 }
 
@@ -1396,4 +1405,29 @@ export interface OfferGridContent {
   heading: string;
   text2: string;
   items: Array<{ icon: string; title: string; text: string; link: CmsLink }>;
+}
+
+// ---------------------------------------------------------------------------------------------
+// Game service pages (content/pages/service/ios-game-development).
+// ---------------------------------------------------------------------------------------------
+
+/** "Why choose us": a picture beside a stack of four icon + title + text rows. */
+export interface GameWhyUsContent {
+  text: string;
+  heading: string;
+  /** HTML version of the heading (e.g. with a <br>); used instead of `heading` when present. */
+  headingHtml?: string;
+  text2: string;
+  image: CmsImage;
+  /** `icon`: key of the icon registry (e.g. "svg-1a2b3c") or inline SVG markup. */
+  items: Array<{ icon: string; title: string; text: string }>;
+}
+
+/** "Types of games we develop": a wrapping grid of round icons with a label (six per row on desktop). */
+export interface GameExpertiseContent {
+  text: string;
+  heading: string;
+  text2: string;
+  /** `icon`: key of the icon registry (e.g. "svg-1a2b3c") or inline SVG markup. */
+  items: Array<{ icon: string; label: string }>;
 }

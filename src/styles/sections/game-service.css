@@ -1,0 +1,174 @@
+/* Game service pages: "Why choose us" (GameWhyUs) and "Types of games we develop" (GameExpertise).
+   Base rules only. Their responsive (@media) rules already live in layout/mobile-menu.css and
+   layout/footer.css, so this file must be imported BEFORE those (see styles/index.css). */
+
+.game-experties-box {
+  border:2px solid #ecedee;
+  padding:20px 3px;
+  -webkit-transition:all .3s ease-in-out;
+  -moz-transition:all .3s ease-in-out;
+  -o-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+  background-color:#f8f9fa;
+}
+
+.game-experties-icon {
+  width:100px;
+  height:100px;
+  text-align:center;
+  line-height:100px;
+  border-radius:100%;
+  margin:0 auto 15px;
+  -webkit-transition:all .3s ease-in-out;
+  -moz-transition:all .3s ease-in-out;
+  -o-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+}
+
+.game-experties-icon svg {
+  width:50px;
+  height:50px;
+}
+
+.game-experties-icon svg * {
+  fill:#202122;
+  -webkit-transition:all .3s ease-in-out;
+  -moz-transition:all .3s ease-in-out;
+  -o-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+}
+
+.game-experties-box span {
+  font-size:16px;
+  font-weight:500;
+  -webkit-transition:all .3s ease-in-out;
+  -moz-transition:all .3s ease-in-out;
+  -o-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+}
+
+.game-experties-box:hover {
+  background-color:#008080;
+  border:2px solid #008080;
+}
+
+.game-experties-box:hover .game-experties-icon {
+  background-color:#fff;
+}
+
+.game-experties-box:hover .game-experties-icon svg * {
+  fill:#008080;
+}
+
+.game-experties-box:hover span {
+  color:#fff;
+}
+
+.game-why-us-inner-box {
+  margin-bottom:20px;
+  position:relative;
+  padding:20px 15px;
+  border-radius:10px;
+  -webkit-transition:all .3s ease-in-out;
+  -moz-transition:all .3s ease-in-out;
+  -o-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+}
+
+.game-why-us-inner-box:last-child {
+  margin-bottom:0;
+}
+
+.game-why-us-inner-box:last-child:before {
+  display:none;
+}
+
+.game-why-us-inner-icon {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:90px;
+  height:90px;
+  border-radius:100%;
+  background-color:#fff;
+  border:1px solid #e0e2e4;
+  position:relative;
+  -webkit-transition:all .3s ease-in-out;
+  -moz-transition:all .3s ease-in-out;
+  -o-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+}
+
+.game-why-us-inner-icon svg {
+  width:50px;
+  height:50px;
+}
+
+.game-why-us-inner-icon svg circle,
+.game-why-us-inner-icon svg ellipse,
+.game-why-us-inner-icon svg path,
+.game-why-us-inner-icon svg polygon,
+.game-why-us-inner-icon svg rect {
+  fill:#202122;
+  -webkit-transition:all .3s ease-in-out;
+  -moz-transition:all .3s ease-in-out;
+  -o-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+}
+
+.game-why-us-inner-content {
+  width:calc(100% - 110px);
+  margin-left:20px;
+}
+
+.game-why-us-inner-content h3 {
+  font-size:20px;
+  font-weight:500;
+  -webkit-transition:all .3s ease-in-out;
+  -moz-transition:all .3s ease-in-out;
+  -o-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+}
+
+.game-why-us-inner-content p {
+  -webkit-transition:all .3s ease-in-out;
+  -moz-transition:all .3s ease-in-out;
+  -o-transition:all .3s ease-in-out;
+  transition:all .3s ease-in-out;
+}
+
+.game-why-us-inner-content p:last-child {
+  margin-bottom:0;
+}
+
+.game-why-us-inner-box:hover {
+  background-color:#008080;
+}
+
+.game-why-us-inner-box:hover h3 {
+  color:#fff;
+}
+
+.game-why-us-inner-box:hover p {
+  color:#fff;
+}
+
+.game-why-us-inner-box:hover .game-why-us-inner-icon svg circle,
+.game-why-us-inner-box:hover .game-why-us-inner-icon svg ellipse,
+.game-why-us-inner-box:hover .game-why-us-inner-icon svg path,
+.game-why-us-inner-box:hover .game-why-us-inner-icon svg polygon,
+.game-why-us-inner-box:hover .game-why-us-inner-icon svg rect {
+  fill:#008080;
+}
+
+.game-why-us-inner-box.active:before {
+  background-color:#008080;
+}
+
+.game-why-us-inner-box.active .game-why-us-inner-icon {
+  background-color:#008080;
+}
+
+.game-why-us-inner-box.active .game-why-us-inner-icon svg * {
+  fill:#fff;
+}

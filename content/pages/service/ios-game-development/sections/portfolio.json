@@ -1,97 +1,167 @@
 {
-  "callout": {
-    "text": "Do you have a <span id=\"callouts-type\"></span> We have a TEAM to get you there.",
-    "link": {
-      "href": "/contact",
-      "text": "Get In Touch"
-    }
-  },
-  "text": "The Portfolio",
-  "heading": "Our Unique And Creative Work",
+  "text": "The Gaming Portfolio",
+  "heading": "Glims of Our Creative Mobile Game Development Work",
+  "text2": "KeyDevs Technologies had a humble beginning as a mobile game development company, before becoming a digital agency. Have glims of some of the top mobile games we developed. Your's could be next.",
   "items": [
     {
-      "heading": "FantasyJi",
-      "text": "Fantasy sports app with private leagues, auctions and live scoring.",
+      "heading": "Marve Game",
+      "text": "Arcade Cube hopping game that's filled with plenty of enemies, power-ups, characters and of course cubes.",
       "image": {
-        "src": "/images/portfolio/fantasyji.jpg",
-        "alt": "FantasyJi: Fantasy sports app with private leagues, auctions and live scoring."
+        "src": "/images/portfolio/games/marve-game.webp",
+        "alt": "Marve Game",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Marve Game",
+      "text2": "Arcade Cube hopping game that's filled with plenty of enemies, power-ups, characters and of course cubes.",
+      "figureClass": "whitetext greenshadebg",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Fidget Spinner Tycoon",
+      "text": "Spin the fidget until you can to get more spins & upgrade to the highest spinner.",
+      "image": {
+        "src": "/images/portfolio/games/fidget-spinner-tycoon.webp",
+        "alt": "Fidget Spinner Tycoon",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Fidget Spinner Tycoon",
+      "text2": "Spin the fidget until you can to get more spins & upgrade to the highest spinner.",
+      "figureClass": "whitetext pinkshadebg",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Jack the Miner",
+      "text": "Jack is a specially designed robot, sent by humans, to dig out most precious metal on an alien plane.",
+      "image": {
+        "src": "/images/portfolio/games/jack-the-miner.webp",
+        "alt": "Jack the Miner",
+        "width": "430",
+        "height": "560"
+      },
+      "heading2": "Jack the Miner",
+      "text2": "Jack is a specially designed robot, sent by humans, to dig out most precious metal on an alien plane.",
+      "figureClass": "whitetext blueshadebg",
+      "storeLinks": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.farviewer.jackminer&hl=en",
+          "title": "Google Play",
+          "image": {
+            "src": "/images/ui/google-play-badge.png",
+            "alt": "Google Play",
+            "width": "132",
+            "height": "39"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/us/app/jack-the-miner-mining-game/id1187588949",
+          "title": "App Store",
+          "image": {
+            "src": "/images/ui/app-store-badge.png",
+            "alt": "App Store",
+            "width": "132",
+            "height": "39"
+          }
+        }
+      ]
+    },
+    {
+      "heading": "FantasyJi",
+      "text": "A fantasy sports app that allows users to create private leagues, auctions and bid for players and play fantasy games.",
+      "image": {
+        "src": "/images/portfolio/games/fantasyji-game.webp",
+        "alt": "FantasyJi"
       },
       "heading2": "FantasyJi",
-      "text2": "Fantasy sports app with private leagues, auctions and live scoring.",
-      "link": {
-        "href": "/portfolio",
-        "text": "Explore More"
-      }
+      "text2": "A fantasy sports app that allows users to create private leagues, auctions and bid for players and play fantasy games.",
+      "figureClass": "whitetext fantasybg",
+      "storeLinks": [
+        {
+          "href": "https://s3.ap-south-1.amazonaws.com/devfantasyji/android_apk/v_3_1_1/fantasyji_3_1_1.apk",
+          "title": "Google Play",
+          "image": {
+            "src": "/images/ui/google-play-badge.png",
+            "alt": "Google Play",
+            "width": "132",
+            "height": "39"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/in/app/fantasyji/id1453701051",
+          "title": "App Store",
+          "image": {
+            "src": "/images/ui/app-store-badge.png",
+            "alt": "App Store",
+            "width": "132",
+            "height": "39"
+          }
+        }
+      ]
     },
     {
-      "heading": "Event & Community Building",
-      "text": "Community app for creating, discovering and joining local events.",
+      "heading": "CluedUpp",
+      "text": "Event-based crime-solving adventure game that can be played in the streets of Lahore and across the globe.",
       "image": {
-        "src": "/images/portfolio/event-and-community-building.jpg",
-        "alt": "Event & Community Building: Community app for creating, discovering and joining local events."
+        "src": "/images/portfolio/games/clued-app-game.webp",
+        "alt": "CluedUpp"
       },
-      "heading2": "Event & Community Building",
-      "text2": "Community app for creating, discovering and joining local events.",
-      "link": {
-        "href": "/portfolio",
-        "text": "Explore More"
-      }
+      "heading2": "CluedUpp",
+      "text2": "Event-based crime-solving adventure game that can be played in the streets of Lahore and across the globe.",
+      "figureClass": "whitetext cluedbg",
+      "storeLinks": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.cluedupp.detective&hl=en_GB",
+          "title": "Google Play",
+          "image": {
+            "src": "/images/ui/google-play-badge.png",
+            "alt": "Google Play",
+            "width": "132",
+            "height": "39"
+          }
+        },
+        {
+          "href": "https://apps.apple.com/gb/app/cluedupp-detective/id1360283188",
+          "title": "App Store",
+          "image": {
+            "src": "/images/ui/app-store-badge.png",
+            "alt": "App Store",
+            "width": "132",
+            "height": "39"
+          }
+        }
+      ]
     },
     {
-      "heading": "Social Media",
-      "text": "Social networking app with feeds, chat and media sharing.",
+      "heading": "Blob & Friends",
+      "text": "Play Learn Snap, simple colour filling mechanics by choosing the character in the game.",
       "image": {
-        "src": "/images/portfolio/social-media.jpg",
-        "alt": "Social Media: Social networking app with feeds, chat and media sharing."
+        "src": "/images/portfolio/games/blog-game.webp",
+        "alt": "Blob & Friends",
+        "width": "430",
+        "height": "560"
       },
-      "heading2": "Social Media",
-      "text2": "Social networking app with feeds, chat and media sharing.",
-      "link": {
-        "href": "/portfolio",
-        "text": "Explore More"
-      }
-    },
-    {
-      "heading": "Delivery Shark",
-      "text": "Super app for a UK customer with food delivery, ride and handyman services with real-time tracking.",
-      "image": {
-        "src": "/images/portfolio/delivery-shark.jpg",
-        "alt": "Delivery Shark: Super app for a UK customer with food delivery, ride and handyman services with real-time tracking."
-      },
-      "heading2": "Delivery Shark",
-      "text2": "Super app for a UK customer with food delivery, ride and handyman services with real-time tracking.",
-      "link": {
-        "href": "/portfolio",
-        "text": "Explore More"
-      }
-    },
-    {
-      "heading": "Healthcare & Fitness",
-      "text": "Health and fitness app that tracks workouts and keeps users motivated.",
-      "image": {
-        "src": "/images/portfolio/healthcare-and-fitness.jpg",
-        "alt": "Healthcare & Fitness: Health and fitness app that tracks workouts and keeps users motivated."
-      },
-      "heading2": "Healthcare & Fitness",
-      "text2": "Health and fitness app that tracks workouts and keeps users motivated.",
-      "link": {
-        "href": "/portfolio",
-        "text": "Explore More"
-      }
-    },
-    {
-      "heading": "Finance App",
-      "text": "Personal finance app with budgeting, spending insights and secure access.",
-      "image": {
-        "src": "/images/portfolio/finance-app.jpg",
-        "alt": "Finance App: Personal finance app with budgeting, spending insights and secure access."
-      },
-      "heading2": "Finance App",
-      "text2": "Personal finance app with budgeting, spending insights and secure access.",
-      "link": {
-        "href": "/portfolio",
-        "text": "Explore More"
-      }
+      "heading2": "Blob & Friends",
+      "text2": "Play Learn Snap, simple colour filling mechanics by choosing the character in the game.",
+      "figureClass": "whitetext blobbg",
+      "storeLinks": [
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.blobandfriends.colorbook",
+          "title": "Google Play",
+          "image": {
+            "src": "/images/ui/google-play-badge.png",
+            "alt": "Google Play",
+            "width": "132",
+            "height": "39"
+          }
+        }
+      ]
     }
   ]
 }

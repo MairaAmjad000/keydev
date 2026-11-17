@@ -123,3 +123,10 @@ placeholder path  <-  existing image it was made from
 /images/service/industries/shopping-and-ecommerce.webp  <-  /images/how-we-work/how-it-works.webp
 /images/service/industries/social-networking-apps.webp  <-  /images/engagement/partnership-model.jpg
 /images/service/industries/travel-and-tourism.webp  <-  /images/services/ux-ui-design.jpg
+
+/images/portfolio/games/marve-game.webp  <-  /images/portfolio/mobile-1.jpg
+/images/portfolio/games/fidget-spinner-tycoon.webp  <-  /images/portfolio/mobile-2.jpg
+/images/portfolio/games/jack-the-miner.webp  <-  /images/portfolio/mobile-3.jpg
+/images/portfolio/games/fantasyji-game.webp  <-  /images/portfolio/mobile-4.jpg
+/images/portfolio/games/clued-app-game.webp  <-  /images/portfolio/mobile-1.jpg
+/images/portfolio/games/blog-game.webp  <-  /images/portfolio/mobile-2.jpg
