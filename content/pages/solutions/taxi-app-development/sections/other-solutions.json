@@ -1,4 +1,5 @@
 {
+  "sectionClass": "padding-6030 bg-white other-demand-app-main",
   "text": "We are Versatile",
   "heading": "Our Expertise in Other On-demand Solution",
   "items": [
@@ -9,7 +10,7 @@
     },
     {
       "icon": "svg-a55fad",
-      "title": "Food Delivery",
+      "title": "Food App",
       "href": "/solutions/food-delivery-app-development"
     },
     {

@@ -1,18 +1,28 @@
 {
   "image": {
-    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
-    "alt": "Chat App app development",
+    "src": "/images/instant-messaging/instant-messaging-banner.jpg",
+    "alt": "if you are looking for an instant messaging app development solutions, get in touch with us to request a free quote for instant messaging solutions.",
     "width": "1920",
-    "height": "780"
+    "height": "800"
   },
-  "headingClass": "text-uppercase f-40",
-  "heading": "Chat App App Development Company",
-  "text": "People live in conversations. Launch your own white label chat app with one-to-one and group messaging, media sharing, voice and video calls, strong security and an admin panel that keeps you in control.",
+  "sideImage": {
+    "src": "/images/service/chat-instant-messaging-app-development/hero-side.png",
+    "alt": "KeyDevs Technologies specialises in chat app development. We provide chat app like WhatsApp, Snapchat, WeChat, Telegram, Facebook Messenger. Tell us about your project today!"
+  },
+  "sideImageClass": "bannerfixedimagewidth",
+  "headingClass": "text-uppercase",
+  "heading": "Instant Messaging App Development",
+  "text": "2.5 Billion users from all around the world use instant messaging apps on a daily basis. From exchanging pleasantries to collaborating on the go, an instant messaging app can make a lot happen. Want to build an instant messaging app that does not more than messaging? You have landed on the right page.",
   "links": [
     {
+      "href": "/javascript:;",
+      "text": "Let's Chat",
+      "className": "btn waves-effect waves-light btn-custome mb-3 open_drift_chat"
+    },
+    {
       "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Get a Quote Now"
+      "text": "Get an Estimate",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -21,7 +31,7 @@
       "href": "/"
     },
     {
-      "text": "Chat App App Development"
+      "text": "Instant Messaging App Development"
     }
   ]
 }

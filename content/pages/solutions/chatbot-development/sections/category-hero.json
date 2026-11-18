@@ -1,27 +1,11 @@
 {
   "image": {
-    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
-    "alt": "Chatbot development",
-    "width": "1920",
-    "height": "780"
+    "src": "/images/mobile-app-development/chatbot/chatbot-banner.jpg",
+    "alt": "chatbot development company"
   },
-  "sideImage": {
-    "src": "/images/solutions/taxi-app-development/hero-taxi-app.webp",
-    "alt": "Chatbot app",
-    "width": "540",
-    "height": "617"
-  },
-  "sideImageClass": "bannerfixedimagewidth landscape",
-  "headingClass": "text-uppercase f-40",
-  "heading": "Chatbot Development Company",
-  "text": "Customers expect instant answers. Launch an AI chatbot that handles questions, qualifies leads and hands over to live agents, on your website, app and messaging channels.",
-  "links": [
-    {
-      "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Get a Quote Now"
-    }
-  ],
+  "headingClass": "",
+  "heading": "Intelligence-driven Chatbot App Development",
+  "text": "Chatbots are intelligent systems. Building an intelligent chatbot requires more than just coding skills. You need to apply business logic and think from a business perspective. KeyDevs Technologies is a chatbot development company. We are made up of chatbot developers who know how industries work and how a chatbot can be created to solve the unique challenges of these industries. Curious to know how a chatbot can serve your business?",
   "breadcrumbs": [
     {
       "text": "Home",
@@ -30,5 +14,20 @@
     {
       "text": "Chatbot Development"
     }
-  ]
+  ],
+  "links": [
+    {
+      "href": "/portfolio",
+      "text": "View Our Work",
+      "className": "btn waves-effect waves-light",
+      "itemClass": "mb-3 mr-3"
+    },
+    {
+      "href": "/app-development-cost-calculator",
+      "text": "Calculate App Development Cost",
+      "className": "btn waves-effect waves-light",
+      "itemClass": "mb-3"
+    }
+  ],
+  "plain": true
 }

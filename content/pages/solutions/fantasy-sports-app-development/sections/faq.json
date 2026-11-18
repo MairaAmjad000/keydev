@@ -3,33 +3,41 @@
   "idPrefix": "fantasy-sports-app-development",
   "plusIcon": "svg-b523de",
   "minusIcon": "svg-42dc3f",
-  "text": "Answers for You",
-  "heading": "FAQ’s on Fantasy Sports App Development Solutions",
+  "text": "FAQs",
+  "heading": "",
   "text2": "",
   "items": [
     {
-      "question": "Does the app use live sports data?",
-      "answer": "<p>Yes. We integrate with live sports data providers for real-time scoring.</p>"
+      "question": "How do you show live score updates?",
+      "answer": "<p>We integrate APIs that will fetch live scores and feed it directly into the app. Talk to our experts to know what kind of APIs we use and how.</p>"
     },
     {
-      "question": "How are payments handled?",
-      "answer": "<p>Wallets and payment gateways handle deposits and withdrawals securely.</p>"
+      "question": "How will fantasy apps get the player and tournament information?",
+      "answer": "<p>The basic player and tournament information is updated on the app based on the sports knowledge available on the public domain. Any additional information that you need can also be incorporated to give the app a unique feel.</p>"
     },
     {
-      "question": "How long does it take to launch?",
-      "answer": "<p>A branded launch typically takes 6–8 weeks, depending on customisation.</p>"
+      "question": "Can you Develop a web application for fantasy sports?",
+      "answer": "<p>Yes. Our Fantasy Sports App Developers rely on cloud technologies for developing fantasy sports apps. We can build web applications for the same app as well.</p>"
     },
     {
-      "question": "Is it compliant with local laws?",
-      "answer": "<p>We build to your requirements; legal compliance depends on your market and licences.</p>"
+      "question": "Do you have experience in Fantasy Cricket App Development?",
+      "answer": "<p>Check out our case study on the recent fantasy cricket app project that we delivered. </p>"
     },
     {
-      "question": "Can I add multiple sports?",
-      "answer": "<p>Yes. Multiple sports and formats are supported.</p>"
+      "question": "How much does it cost to develop a Fantasy Cricket App like Dream11?",
+      "answer": "<p>The cost to develop a fantasy cricket like Dream 11 cannot be estimated accurately. However, we can give you a ballpark amount if you can share your requirements with our team.</p>"
     },
     {
-      "question": "How much does a fantasy sports app cost?",
-      "answer": "<p>Cost depends on features and data providers. Share your requirements for an estimate.</p>"
+      "question": "Will a single Fantasy App support multiple sports?",
+      "answer": "<p>Yes. A single fantasy sports app can be configured to have multiple sports. For example, a cricket fantasy app can be configured to have tennis, basketball, hockey and many other fantasy sports.</p>"
+    },
+    {
+      "question": "Why should I hire KeyDevs Technologies for Fantasy Sports App Development?",
+      "answer": "<p>If you want your fantasy sports app to boast of top-notch quality,<br/>If you want the app to deliver a superior user experience, and<br/>If you want the app to be delivered on time,<br/>You should hire KeyDevs Technologies.</p>"
+    },
+    {
+      "question": "Will I Have Access to The Source Code After The Product is Launched?",
+      "answer": "<p>Yes. As a standard practice we hand over the source code of the app once the product is launched.</p>"
     }
   ]
 }

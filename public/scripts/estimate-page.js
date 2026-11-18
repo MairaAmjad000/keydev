@@ -112,3 +112,9 @@ $(document).ready(function () {
     }).catch(function () {});
   });
 });
+
+/* "Thank you" modal: OK returns to the home page (the template did window.location='index.php') */
+document.addEventListener('click', function (e) {
+  var b = e.target.closest ? e.target.closest('#successModal .custome_btn') : null;
+  if (b) { window.location = b.getAttribute('data-home') || '/'; }
+});

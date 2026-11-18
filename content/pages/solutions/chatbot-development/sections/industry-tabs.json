@@ -1,0 +1,120 @@
+{
+  "bareIcons": true,
+  "sectionClass": "padding-60 bg-light p-relative",
+  "text": "Type of Solutions",
+  "heading": "A chatbot app development company for all industries",
+  "text2": "KeyDevs Technologies builds chatbots for all industries that have high-volume conversations which require instant responses and have specific scope of services.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/ecomm-app.jpg",
+        "alt": ""
+      },
+      "title": "eCommerce",
+      "paragraphs": [
+        "Increases your online sales, boost customer retention and elevate customer service with chatbots for eCommerce. Chatbots can offer related product recommendations that will lead to higher upsell and cross-selling opportunities."
+      ],
+      "icon": "svg-479a2a",
+      "navIcon": "svg-479a2a",
+      "navLabel": "eCommerce"
+    },
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/hospital-app.jpg",
+        "alt": ""
+      },
+      "title": "Hospitals",
+      "paragraphs": [
+        "Time is of essence for hospitals and healthcare giving institutions. We can help you build a chatbot that will save time and effort for your patients and doctors in scheduling appointments, following up on previous appointments, making critical care instantly available and so on."
+      ],
+      "icon": "svg-a39f3a",
+      "navIcon": "svg-a39f3a",
+      "navLabel": "Hospitals"
+    },
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/manufacturing-app.jpg",
+        "alt": ""
+      },
+      "title": "Manufacturing",
+      "paragraphs": [
+        "Manufacturing is one domain where timely communication can make or break the bottom lines. Quite often excess inventory gets piled up because one department is unable to inform the other about placing orders or cancelling orders. With a chatbot system, managers can easily monitor the queue of requirements and ensure optimized order fulfillment."
+      ],
+      "icon": "svg-90f305",
+      "navIcon": "svg-90f305",
+      "navLabel": "Manufacturing"
+    },
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/finance-app.jpg",
+        "alt": ""
+      },
+      "title": "Finance",
+      "paragraphs": [
+        "Millions of customers. Billions of conversations. The BFSI industry is a perfect place to deploy a chatbot to automate conversations. be it for customer support or real-time information retrieval, there are umpteen number of use cases for a chatbot in BFSI."
+      ],
+      "icon": "svg-987065",
+      "navIcon": "svg-987065",
+      "navLabel": "Finance"
+    },
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/customer-support-app.jpg",
+        "alt": ""
+      },
+      "title": "Customer support",
+      "paragraphs": [
+        "Your customer support agents need breaks and have capped working hours. But, support calls can come in at any point in time, day or night or even at midnight. A customer support chatbot can step in as a round the clock support system that can attend to your customers calls without any limitations."
+      ],
+      "icon": "svg-4ba1d8",
+      "navIcon": "svg-4ba1d8",
+      "navLabel": "Customer Support"
+    },
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/insurance-app.jpg",
+        "alt": ""
+      },
+      "title": "Insurance",
+      "paragraphs": [
+        "In the insurance sector, selling is difficult, retaining is even difficult. A chatbot can interact with your customers to help them choose the right insurance product, get receipts for premiums paid, lodge requests for claim settlement, monitor claim settlement progress and much more."
+      ],
+      "icon": "svg-98387d",
+      "navIcon": "svg-98387d",
+      "navLabel": "Insurance"
+    },
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/retail-app.jpg",
+        "alt": ""
+      },
+      "title": "Retail",
+      "paragraphs": [
+        "Millennial customers want novel in-store experiences more than anything else. They value customer experience above brand and pricing. A chatbot can help your business deliver remarkable in-store experience with chatbots that can assist in navigating the product racks, bill products instantly, collect customer feedback and much more."
+      ],
+      "icon": "svg-d35b5e",
+      "navIcon": "svg-d35b5e",
+      "navLabel": "Retail"
+    },
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/restaurent-app.jpg",
+        "alt": ""
+      },
+      "title": "Restaurant",
+      "paragraphs": [
+        "Place a chatbot for your restaurant on your website, social media channels or even on your mobile app. The chatbot can be trained to respond to user queries, make table reservations, take orders, inform customers of deals and promo codes and much more."
+      ],
+      "icon": "svg-7fffbe",
+      "navIcon": "svg-7fffbe",
+      "navLabel": "Restaurant"
+    }
+  ],
+  "callout": {
+    "text": "Do you have a <span id=\"chatbot-development-callouts-type\"></span> We have a TEAM to get you there.",
+    "link": {
+      "href": "/contact",
+      "text": "Get In Touch"
+    }
+  }
+}

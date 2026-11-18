@@ -23,10 +23,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
-    "alt": "Taxi booking app screens with a yellow cab",
-    "width": "481",
-    "height": "588"
+    "src": "/images/service/taxi-app-development/intro.webp",
+    "alt": ""
   },
   "imageClass": ""
 }

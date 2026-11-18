@@ -1,0 +1,185 @@
+{
+  "sectionClass": "padding-60 bg-light car-wash-feature-main key-feature-opt2",
+  "text": "Key Features",
+  "heading": "Features for players and admins to make the most of a fantasy sport app experience",
+  "text2": "Check out the list of our carefully curated features for fantasy sports app experience that will keep your players hooked to the app endlessly.",
+  "idPrefix": "fantasy-sports-app-development",
+  "showAllText": "Show All",
+  "showLessText": "Show Less",
+  "tabs": [
+    {
+      "id": "participant",
+      "title": "Participant",
+      "items": [
+        {
+          "icon": "svg-8c09e8",
+          "title": "User Authentication"
+        },
+        {
+          "icon": "svg-5f53e2",
+          "title": "Search and Filter Matches"
+        },
+        {
+          "icon": "svg-344461",
+          "title": "Join Tournament"
+        },
+        {
+          "icon": "svg-7cce0f",
+          "title": "Create Private Tournament"
+        },
+        {
+          "icon": "svg-fd1fa7",
+          "title": "Multiple Payment"
+        },
+        {
+          "icon": "svg-4410a7",
+          "title": "Create Fantasy Team"
+        },
+        {
+          "icon": "svg-21d200",
+          "title": "Create Multiple Team"
+        },
+        {
+          "icon": "svg-e2f200",
+          "title": "Reward"
+        },
+        {
+          "icon": "svg-fb209e",
+          "title": "Invite and Earn"
+        },
+        {
+          "icon": "svg-01f0d1",
+          "title": "Live Score"
+        },
+        {
+          "icon": "svg-ab39f1",
+          "title": "Leaderboard"
+        },
+        {
+          "icon": "svg-5ac787",
+          "title": "Playing History"
+        },
+        {
+          "icon": "svg-2eb530",
+          "title": "Winning History",
+          "hidden": true
+        },
+        {
+          "icon": "svg-3db721",
+          "title": "Transaction History",
+          "hidden": true
+        },
+        {
+          "icon": "svg-ba1dbe",
+          "title": "Create Auction (private and public)",
+          "hidden": true
+        },
+        {
+          "icon": "svg-034cff",
+          "title": "View and Withdraw Money",
+          "hidden": true
+        },
+        {
+          "icon": "svg-dce6f4",
+          "title": "View other team",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "Admin",
+      "heightClass": "m-height-300",
+      "items": [
+        {
+          "icon": "svg-b1d532",
+          "title": "Admin Login"
+        },
+        {
+          "icon": "svg-3e5cbd",
+          "title": "User Management"
+        },
+        {
+          "icon": "svg-53b24f",
+          "title": "Manage Game Category"
+        },
+        {
+          "icon": "svg-5c8c29",
+          "title": "League Management"
+        },
+        {
+          "icon": "svg-7a7a4e",
+          "title": "Match Management"
+        },
+        {
+          "icon": "svg-11ba6c",
+          "title": "Revenue Management"
+        },
+        {
+          "icon": "svg-31bb19",
+          "title": "Reward Point"
+        },
+        {
+          "icon": "svg-e8114e",
+          "title": "Bonus Cash Management"
+        },
+        {
+          "icon": "svg-86fb3f",
+          "title": "CMS System"
+        },
+        {
+          "icon": "svg-61ce18",
+          "title": "Manage Report"
+        },
+        {
+          "icon": "svg-524484",
+          "title": "Player Auction Management"
+        },
+        {
+          "icon": "svg-d71f31",
+          "title": "Player Valuation for Auction"
+        },
+        {
+          "icon": "svg-a71882",
+          "title": "Customer Support",
+          "hidden": true
+        },
+        {
+          "icon": "svg-90088c",
+          "title": "Push Notification",
+          "hidden": true
+        },
+        {
+          "icon": "svg-57a895",
+          "title": "User Payment Withdraw Management",
+          "hidden": true
+        },
+        {
+          "icon": "svg-8c4ac0",
+          "title": "Document Management",
+          "hidden": true
+        },
+        {
+          "icon": "svg-38939a",
+          "title": "Players Point Management",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c47be4",
+          "title": "Withdraw Request Management",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2671dd",
+          "title": "Salary Cap Management",
+          "hidden": true
+        },
+        {
+          "icon": "svg-2671dd",
+          "title": "Region Restriction",
+          "hidden": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "sectionClass": "padding-60 key-features-main bg-light",
+  "text": "Key Features",
+  "heading": "Features to plan & execute fitness goals",
+  "text2": "From planning to workout to seeing those plans to action, our health and fitness mobile apps are enriched with features that your users will become habitual to.",
+  "items": [
+    {
+      "icon": "svg-a9bf9f",
+      "title": "Activity tracking"
+    },
+    {
+      "icon": "svg-292179",
+      "title": "Workout videos"
+    },
+    {
+      "icon": "svg-e4d074",
+      "title": "Personalized plans"
+    },
+    {
+      "icon": "svg-615890",
+      "title": "Workout calendars"
+    },
+    {
+      "icon": "svg-3d3d93",
+      "title": "HealthKit & Google Fit integration"
+    },
+    {
+      "icon": "svg-630ae4",
+      "title": "Progress visualization"
+    },
+    {
+      "icon": "svg-a71615",
+      "title": "Wearables Integration"
+    },
+    {
+      "icon": "svg-5bc25a",
+      "title": "Challenges and goals"
+    },
+    {
+      "icon": "svg-ebc2c1",
+      "title": "Social features"
+    },
+    {
+      "icon": "svg-de8493",
+      "title": "Instant messaging"
+    },
+    {
+      "icon": "svg-3a6a73",
+      "title": "Nutrition"
+    },
+    {
+      "icon": "svg-40ba98",
+      "title": "Workout"
+    },
+    {
+      "icon": "svg-e96e0d",
+      "title": "Payment Integration",
+      "hidden": true
+    },
+    {
+      "icon": "svg-648a37",
+      "title": "Chatbot",
+      "hidden": true
+    },
+    {
+      "icon": "svg-6fa17d",
+      "title": "Timer and countdown",
+      "hidden": true
+    }
+  ],
+  "showAll": {
+    "text": "Show All",
+    "lessText": "Show Less"
+  },
+  "spacerAfter": "padding-60-00 bg-light d-none d-md-block"
+}

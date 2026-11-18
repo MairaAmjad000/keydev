@@ -1,0 +1,64 @@
+{
+  "sectionClass": "padding-60 bg-white o-hidden",
+  "text": "The Portfolio",
+  "heading": "Our Unique And Creative Work",
+  "text2": "With the ever-growing smartphone and iPhone app development demand, we have come flying in providing mobility solutions to simplify the business process. check out few of the top mobile apps created by KeyDevs Technologies.",
+  "items": [
+    {
+      "heading": "Gojek Clone Super App",
+      "text": "A training academy app for students & trainers with built-in chat and task management features.",
+      "image": {
+        "src": "/images/service/chatbot-development/portfolio-1.jpg",
+        "alt": ""
+      },
+      "heading2": "AK Microblading Traning",
+      "text2": "A training academy app for students & trainers with built-in chat and task management features.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Food Delivery App",
+      "text": "A custom emoji creating app for Pakistan’s popular Mrs. Bella and Claireabella characters.",
+      "image": {
+        "src": "/images/service/chatbot-development/portfolio-2.jpg",
+        "alt": ""
+      },
+      "heading2": "ClaireaBella",
+      "text2": "A custom emoji creating app for Pakistan’s popular Mrs. Bella and Claireabella characters.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "Ride App",
+      "text": "On-demand taxi booking app for Nigeria with features for passengers, drivers and admins.",
+      "image": {
+        "src": "/images/service/chatbot-development/portfolio-3.jpg",
+        "alt": ""
+      },
+      "heading2": "Dorel Taxi",
+      "text2": "On-demand taxi booking app for Nigeria with features for passengers, drivers and admins.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    },
+    {
+      "heading": "E-commerce App",
+      "text": "Event-based crime-solving adventure game that can be played in the streets of Lahore and across the globe.",
+      "image": {
+        "src": "/images/service/chatbot-development/portfolio-4.jpg",
+        "alt": ""
+      },
+      "heading2": "CluedUpp",
+      "text2": "Event-based crime-solving adventure game that can be played in the streets of Lahore and across the globe.",
+      "link": {
+        "href": "/portfolio",
+        "text": "Explore More"
+      }
+    }
+  ]
+}

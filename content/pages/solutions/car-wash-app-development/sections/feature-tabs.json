@@ -1,319 +1,266 @@
 {
-  "text": "Sets of Features",
-  "heading": "The Main Features Of Our Car Wash App Development Services",
+  "sectionClass": "padding-6030 bg-white car-wash-feature-main",
+  "text": "For all users",
+  "heading": "An on demand car app with multi-dimensional use cases",
   "idPrefix": "car-wash-app-development",
   "showAllText": "Show All",
   "showLessText": "Show Less",
   "tabs": [
     {
       "id": "user",
-      "title": "Customer",
+      "title": "User",
       "icon": "svg-c59471",
       "headIcon": "svg-c59471",
       "items": [
         {
-          "icon": "svg-30846f",
-          "title": "Customer Profile",
-          "text": "Customers create a profile with contact details, saved vehicles and addresses.",
+          "icon": "svg-3c21a4",
+          "title": "User Profile",
+          "text": "Every user who downloads the app can create a user profile with a personalized name and personal details.",
           "hidden": false
         },
         {
-          "icon": "svg-971d83",
-          "title": "Book Now",
-          "text": "Request an immediate wash at the customer’s current location.",
+          "icon": "svg-09602d",
+          "title": "Address",
+          "text": "Create custom addresses, favorite locations on the built-in map for easier finding of car wash services.",
           "hidden": false
         },
         {
-          "icon": "svg-2e6bf5",
-          "title": "Schedule a Wash",
-          "text": "Pick a convenient date and time slot for a later appointment.",
+          "icon": "svg-c23aba",
+          "title": "Car Details",
+          "text": "Enter car details like make, model name, year, color and other details to pick the right car wash service.",
           "hidden": false
         },
         {
-          "icon": "svg-b20b29",
-          "title": "Vehicle & Package",
-          "text": "Choose the vehicle type and a wash package that fits the need.",
+          "icon": "svg-116275",
+          "title": "Book a wash",
+          "text": "Users can book a car wash from their real-time location. The booking can be made for immediate use or schedule it for later.",
           "hidden": false
         },
         {
-          "icon": "svg-16859b",
-          "title": "Washer Tracking",
-          "text": "Follow the washer on the map as they travel to the booking.",
+          "icon": "svg-5b5cef",
+          "title": "Prefered Date and Time",
+          "text": "Set preferred data and time in advance for car wash services. Helps plan for recurring services proactively.",
           "hidden": false
         },
         {
-          "icon": "svg-7cf20d",
-          "title": "Live ETA",
-          "text": "See an accurate arrival time for every confirmed booking.",
+          "icon": "svg-ed0a31",
+          "title": "Cancel Request",
+          "text": "Users can cancel already placed car wash requests. The requests can be postponed to a later date or right away canceled.",
           "hidden": false
         },
         {
-          "icon": "svg-661d46",
-          "title": "Price Estimates",
-          "text": "Show the cost up front based on vehicle type and selected services.",
+          "icon": "svg-4161b5",
+          "title": "Notification",
+          "text": "Every booking made, accepted or rejected will be intimated to the user through push notifications.",
           "hidden": false
         },
         {
-          "icon": "svg-0e5a71",
-          "title": "Multiple Payment Options",
-          "text": "Pay with cash, cards or an in-app wallet.",
+          "icon": "svg-9d0aaf",
+          "title": "Payment Summary",
+          "text": "Users can get immediate payment summary for the services received.",
           "hidden": false
         },
         {
-          "icon": "svg-e5be1c",
-          "title": "Notification Alerts",
-          "text": "Updates for confirmation, arrival, completion and offers.",
+          "icon": "svg-6d3447",
+          "title": "Wallet",
+          "text": "Payment for services offered can be made from within the mobile app with integrated digital wallets.",
           "hidden": false
         },
         {
-          "icon": "svg-67ec81",
-          "title": "Ratings & Reviews",
-          "text": "Rate each wash and read feedback before choosing a provider.",
+          "icon": "svg-255063",
+          "title": "Multiple Payment",
+          "text": "Notification for every successful cab booking, the arrival of a cab, ride cancellation, ride completion, offer alerts and so on.",
           "hidden": false
         },
         {
-          "icon": "svg-b84dab",
-          "title": "Promo Codes",
-          "text": "Discounts and loyalty offers that bring customers back.",
+          "icon": "svg-34523a",
+          "title": "My Washes",
+          "text": "Users can view the timeline of all car washes that they have carried out since installing the app.",
           "hidden": false
         },
         {
-          "icon": "svg-0d0a3d",
-          "title": "Booking History",
-          "text": "Review past washes and rebook with one tap.",
+          "icon": "svg-352060",
+          "title": "Wash Status",
+          "text": "Get a real-time update of the car’s wash status - done, in progress, in queue, etc. through the app.",
           "hidden": false
         },
         {
-          "icon": "svg-2c96b2",
-          "title": "Saved Locations",
-          "text": "Store home and work addresses for faster booking.",
+          "icon": "svg-65ed79",
+          "title": "Special instruction",
+          "text": "Users can instruct the washer to wash the car using specific washing materials, in specific routines and so on for the desired outcome.",
           "hidden": true
         },
         {
-          "icon": "svg-1d73bf",
-          "title": "Cancel or Reschedule",
-          "text": "Change or cancel a booking within the allowed window.",
+          "icon": "svg-f9eb75",
+          "title": "Ratings and reviews",
+          "text": "All services provided by the washer can be rated and reviewed with the built-in rating and review system.",
           "hidden": true
         },
         {
-          "icon": "svg-4bb34d",
-          "title": "Help & Support",
-          "text": "Reach support directly from the app.",
+          "icon": "svg-57a076",
+          "title": "Wash history",
+          "text": "The user gets a wash history of all of its cars. This gives customers to keep better track of car wash and book next wash.",
           "hidden": true
         },
         {
-          "icon": "svg-8af434",
-          "title": "Invite Friends",
-          "text": "Referral rewards for every friend who books.",
+          "icon": "svg-6ef35e",
+          "title": "Multilingual",
+          "text": "The app is a truly global app and can be used by any users, washers and admins from varying language backgrounds.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-82d2da",
+          "title": "Help & support",
+          "text": "For all kinds of troubleshooting and issues while using the app, help and support can be accessed from within the app itself.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-c7c114",
+          "title": "Invite friends",
+          "text": "Users can invite their friends to use the app and gain loyalty points or offers therein.",
           "hidden": true
         }
       ]
     },
     {
-      "id": "provider",
+      "id": "washer",
       "title": "Washer",
-      "icon": "svg-0358bb",
-      "headIcon": "svg-0358bb",
+      "icon": "svg-f8b210",
+      "headIcon": "svg-f8b210",
       "items": [
         {
-          "icon": "svg-b1d532",
-          "title": "Easy Registration",
-          "text": "Washers sign up and submit documents for verification.",
+          "icon": "svg-b92056",
+          "title": "Washer Profile",
+          "text": "Washers can create their own profiles complete with range of services offered, timing, special services offered and so on.",
           "hidden": false
         },
         {
-          "icon": "svg-3e5cbd",
-          "title": "Set Availability",
-          "text": "Go online or offline and choose working hours.",
+          "icon": "svg-61f3e2",
+          "title": "Add Location",
+          "text": "Washers can add multiple locations to their services to help customers find on demand car wash services easily from their real-time location.",
           "hidden": false
         },
         {
-          "icon": "svg-53b24f",
-          "title": "Live Job Requests",
-          "text": "Receive nearby wash requests in real time.",
+          "icon": "svg-7363a8",
+          "title": "Wash request",
+          "text": "Admins sends washer new wash request in its region. The washer can either accept or decline the request.",
           "hidden": false
         },
         {
-          "icon": "svg-5c8c29",
-          "title": "Accept or Reject",
-          "text": "Take the jobs that suit the schedule.",
+          "icon": "svg-353a7d",
+          "title": "Upcoming washes",
+          "text": "A bird’s eye view of upcoming washes, special requests from customers, estimated earnings from each wash and so on.",
           "hidden": false
         },
         {
-          "icon": "svg-7a7a4e",
-          "title": "Job Details",
-          "text": "See vehicle, package, address and notes before accepting.",
+          "icon": "svg-352060",
+          "title": "Wash Status",
+          "text": "Real-time status of the wash can be updated by the user so that the user stays in loop of the estimated time of delivery of the washed car.",
           "hidden": false
         },
         {
-          "icon": "svg-11ba6c",
-          "title": "Navigation",
-          "text": "Turn-by-turn directions to the customer’s location.",
+          "icon": "svg-4161b5",
+          "title": "Notifications",
+          "text": "The washer will receive a notification for the new car wash request sent by the admin.",
           "hidden": false
         },
         {
-          "icon": "svg-86fb3f",
-          "title": "Start & End Job",
-          "text": "Mark a job as started and completed from the app.",
+          "icon": "svg-43b90f",
+          "title": "Before and after photo",
+          "text": "Washers can prove their efficiency in delivering wash services by adding the before and after wash photo of the cars.",
           "hidden": false
         },
         {
-          "icon": "svg-61ce18",
-          "title": "Job Summary",
-          "text": "A clear breakdown of services and amount for every job.",
+          "icon": "svg-0b7a67",
+          "title": "Key request",
+          "text": "On the scheduled time, the washer can reach the car owners place and within the app, they can request a car key.",
           "hidden": false
         },
         {
-          "icon": "svg-524484",
-          "title": "Track Earnings",
-          "text": "Daily, weekly and monthly earnings at a glance.",
+          "icon": "svg-b64b0f",
+          "title": "Payment request",
+          "text": "Once the wash is completed, the washer can request for the payment to the admin. He can request payment for multiple services.",
           "hidden": false
         },
         {
-          "icon": "svg-d71f31",
-          "title": "Washer Dashboard",
-          "text": "Jobs, ratings and earnings in one place.",
+          "icon": "svg-f5463c",
+          "title": "Ratings and reviews",
+          "text": "Washers can leave reviews and ratings for the customers to point out best customers and the unruly lot.",
           "hidden": false
-        },
-        {
-          "icon": "svg-e8114e",
-          "title": "Contact Customer",
-          "text": "Call or message the customer without sharing numbers.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-8c4ac0",
-          "title": "Upcoming Jobs",
-          "text": "Plan the day with a list of scheduled washes.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-a71882",
-          "title": "Rate Customer",
-          "text": "Leave feedback after each completed job.",
-          "hidden": true
-        },
-        {
-          "icon": "svg-38939a",
-          "title": "Payment Management",
-          "text": "Manage payouts and cash collections.",
-          "hidden": true
-        },
-        {
-          "icon": "svg-c47be4",
-          "title": "Job History",
-          "text": "Browse every completed wash.",
-          "hidden": true
-        },
-        {
-          "icon": "svg-2671dd",
-          "title": "Support",
-          "text": "Get help from the admin team when needed.",
-          "hidden": true
         }
       ]
     },
     {
       "id": "admin",
       "title": "Admin",
-      "icon": "svg-53c0b4",
-      "headIcon": "svg-53c0b4",
+      "icon": "svg-bd2922",
+      "headIcon": "svg-bd2922",
       "items": [
         {
-          "icon": "svg-5fa7c4",
-          "title": "Secure Login",
-          "text": "Role-based access for admins and managers.",
+          "icon": "svg-ceb6a7",
+          "title": "Washer registration",
+          "text": "Admin has the control to accept or reject a washer registration request in the app backend.",
           "hidden": false
         },
         {
-          "icon": "svg-07fc9b",
-          "title": "Admin Dashboard",
-          "text": "Bookings, revenue and activity summarised in real time.",
+          "icon": "svg-cf9ac3",
+          "title": "User registration",
+          "text": "Admin can moderate users by checking their profiles, social media handles and so on.",
           "hidden": false
         },
         {
-          "icon": "svg-5d5ddc",
-          "title": "Track Washers",
-          "text": "Watch washers on a live map.",
+          "icon": "svg-5bb05c",
+          "title": "Car wash request",
+          "text": "Manage car wash requests proactively by giving high priority to idle washers.",
           "hidden": false
         },
         {
-          "icon": "svg-338286",
-          "title": "Manage Washers",
-          "text": "Approve, suspend and review washer accounts.",
+          "icon": "svg-3b7aba",
+          "title": "Washer approved payout",
+          "text": "Admins can check reviews and ratings, terms of service and so on before approving payout to the washer.",
           "hidden": false
         },
         {
-          "icon": "svg-c201bb",
-          "title": "Manage Customers",
-          "text": "View and manage customer profiles and bookings.",
+          "icon": "svg-31086f",
+          "title": "Washer pending payout",
+          "text": "A quick view of the payments pending to washers, wash transactions and overdue duration can be seen.",
           "hidden": false
         },
         {
-          "icon": "svg-e7a45e",
-          "title": "Manage Services",
-          "text": "Create wash packages, add-ons and categories.",
+          "icon": "svg-6105a9",
+          "title": "Create plans",
+          "text": "Admins can create specific pricing plans based on the nature of services offered, duration of the plan, location and so on.",
           "hidden": false
         },
         {
-          "icon": "svg-812812",
-          "title": "Manage Pricing",
-          "text": "Set prices by vehicle type, service and area.",
+          "icon": "svg-c1c908",
+          "title": "Create a car category",
+          "text": "Admins can create a template or readymade list of car categories that users and washers can pick from for services.",
           "hidden": false
         },
         {
-          "icon": "svg-b4dc13",
-          "title": "Reports & Analytics",
-          "text": "Understand peak hours, popular packages and revenue.",
+          "icon": "svg-34523a",
+          "title": "Car wash history",
+          "text": "For verifying payouts, service frequency and for your measuring efficiency, the admin can look up car wash history from the dashboard.",
           "hidden": false
         },
         {
-          "icon": "svg-91e1f4",
-          "title": "Manual Bookings",
-          "text": "Create bookings for customers who call in.",
+          "icon": "svg-53c4c9",
+          "title": "Email and SMS notification",
+          "text": "Admins can configure email settings for firing email and SMS notification for every major action carried out using the app.",
           "hidden": false
         },
         {
-          "icon": "svg-4dcb5a",
-          "title": "Demand Heat Map",
-          "text": "See where demand is highest and deploy washers.",
+          "icon": "svg-c5c497",
+          "title": "Washer payout",
+          "text": "Upon receiving the payment request from the washer, Admin verifies the services and releases payment to the washers bank account.",
           "hidden": false
         },
         {
-          "icon": "svg-60180e",
-          "title": "Manage Refunds",
-          "text": "Review and process refunds after verification.",
+          "icon": "svg-9aa49b",
+          "title": "Manage ratings & feedback",
+          "text": "Admin can moderate the star rating and reviews given by users and control any malicious activity, if needed.",
           "hidden": false
-        },
-        {
-          "icon": "svg-91b25f",
-          "title": "SMS Alerts",
-          "text": "Control which SMS alerts are sent and when.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-74591f",
-          "title": "Scheduling Settings",
-          "text": "Define how far ahead customers can book.",
-          "hidden": true
-        },
-        {
-          "icon": "svg-becfd7",
-          "title": "Currency & Language",
-          "text": "Multi-currency and multilingual support.",
-          "hidden": true
-        },
-        {
-          "icon": "svg-800400",
-          "title": "Push Notifications",
-          "text": "Send offers and updates from the admin panel.",
-          "hidden": true
-        },
-        {
-          "icon": "svg-22507c",
-          "title": "Payment Integration",
-          "text": "Connect card, bank and wallet gateways.",
-          "hidden": true
         }
       ]
     }

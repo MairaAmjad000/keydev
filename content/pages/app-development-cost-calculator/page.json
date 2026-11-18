@@ -12,5 +12,6 @@
     "scheduleCall",
     "engagement",
     "locations"
-  ]
+  ],
+  "bareLayout": true
 }

@@ -1,0 +1,110 @@
+{
+  "sectionClass": "padding-60 bg-white ins-msg-how-build-main",
+  "text": "How we Build it?",
+  "heading": "Technology Stack Behind Chat App Development",
+  "idPrefix": "chat-instant-messaging-app-development",
+  "tabs": [
+    {
+      "id": "Application",
+      "title": "Application",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/swift.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/fabric.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/java.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/google-analytics.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/alamofire.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/glide.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/google-exoplayer.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/retrofit.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "backend",
+      "title": "Backend",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/service/chat-instant-messaging-app-development/img-9.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/chat-instant-messaging-app-development/img-10.svg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "database",
+      "title": "Database & Server",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/service/chat-instant-messaging-app-development/img-11.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/chat-instant-messaging-app-development/img-12.svg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "notification",
+      "title": "Notification",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/service/chat-instant-messaging-app-development/img-13.svg",
+            "alt": ""
+          }
+        }
+      ]
+    }
+  ]
+}

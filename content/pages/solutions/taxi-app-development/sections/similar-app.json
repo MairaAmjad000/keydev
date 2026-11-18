@@ -1,0 +1,31 @@
+{
+  "sectionClass": "padding-60 bg-white similar-app-white-main fitness p-relative",
+  "heading": "An on-Demand Taxi-Hailing App for Commuters Convenience",
+  "paragraphs": [
+    {
+      "html": "With the tremendous success of Uber across the globe, the taxi-hailing app is becoming the prime startup ideas for delivering convenience to passengers to the extreme remote of the world. With stepping in of cab-hailing leader Uber in Nigeria, On-demand taxi booking business was instantly on the fast track to success. Our client wanted to leverage the arising market opportunity and give both passengers and drivers the Nigerian system of the business."
+    },
+    {
+      "html": "The taxi app developers at KeyDevs Technologies developed an on-demand taxi booking app Dorel Taxi for Nigerians. The application was developed for iOS and Android platform which includes passengers as well as driver app. The admin manages entire taxi dispatch and drivers through the robust ad secure admin dashboard."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Get Started, Request a Demo Now!",
+    "className": "btn-custome btn btn-lg waves-effect waves-light"
+  },
+  "images": {
+    "first": {
+      "src": "/images/service/taxi-app-development/similar-1.webp",
+      "alt": "taxi app developers"
+    },
+    "second": {
+      "src": "/images/service/taxi-app-development/similar-2.webp",
+      "alt": "taxi booking app development company"
+    },
+    "mobile": {
+      "src": "/images/service/taxi-app-development/similar-mobile.webp",
+      "alt": "taxi app development services"
+    }
+  }
+}

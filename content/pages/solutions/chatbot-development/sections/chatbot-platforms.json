@@ -1,0 +1,37 @@
+{
+  "sectionClass": "padding-60 bg-white",
+  "text": "Platforms",
+  "heading": "Platform-wide Chatbot App Development Services",
+  "text2": "Your business uses several apps and platforms everyday. A chatbot can make things easy. We build chatbots that can be integrated with every major platform.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/facebook.png",
+        "alt": ""
+      },
+      "text": "Build a chatbot for Facebook which will respond to user queries on your business page. The chatbot can be trained to respond to FAQs or even take online orders that will directly reflect on your dashboard."
+    },
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/slack.png",
+        "alt": ""
+      },
+      "text": "Slack makes communication and collaboration easier. What if a chatbot can be integrated into your Slack community for automating responses or sending timely updates? We can do that for you."
+    },
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/skype.png",
+        "alt": ""
+      },
+      "text": "As a chatbot development company we are feared up to build a Skype bot that can search for news, play games, summarize webpages and do much more that you will expect a human agent to do."
+    },
+    {
+      "image": {
+        "src": "/images/mobile-app-development/chatbot/webchat.png",
+        "alt": ""
+      },
+      "text": "Real-time communication takes a leap forward with WebChat. Add a dose of intelligence to WebChat conversations with our chatbot app development services.",
+      "columnClass": "col-lg-6 col-md-6 col-12"
+    }
+  ]
+}

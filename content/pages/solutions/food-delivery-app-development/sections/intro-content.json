@@ -1,17 +1,20 @@
 {
-  "heading": "A White Label Food Delivery App, Ready for Your Brand",
+  "heading": "The Hunger-driven Food Delivery App Development Company",
   "paragraphs": [
     {
-      "html": "Hungry customers expect fast ordering, accurate tracking and reliable delivery. Restaurants need a simple order workflow, and riders need clear routes."
+      "html": "The online food delivery industry is outpacing the dine-in restaurant business by 300%. Let that sink in. People are placing more doorstep food delivery orders than visiting their favorite restaurants. Like one industry veteran said it right, “From the consumer perspective, there’s nothing more convenient than having the restaurant come to them.”"
     },
     {
-      "html": "We build all three apps and the admin panel together, so orders flow smoothly from the menu to the doorstep."
+      "html": "If you are in the restaurant business or is someone who wants to crack the on-demand food delivery app market with an idea of your own, you have landed at the right place. KeyDevs Technologies being one among the top food delivery app development companies in the Pakistan, We provide customised on-demand food delivery app development service that are perfected on all corners. In a way, we cook to order on-demand food delivery apps."
     },
     {
-      "html": "Menus, offers, delivery zones, fees and branding can all be tailored to your market and business model."
+      "html": "Here is why you should count on us: we know what we are doing. We have already built and launched a handful on-demand apps for a global clientbase that are climbing the leaderboards of app stores. From thinking from the customer shoes’ to looking through the business owner’s eyes, we take a 360-degree approach in on-demand food delivery app development."
     },
     {
-      "html": "Have questions? An expert from our team will walk you through options and timelines."
+      "html": "Rest assured your idea of a food delivery app will be made reality in the best manner possible. We will be your partner in innovation to build and launch a feature-rich food delivery app."
+    },
+    {
+      "html": "Wondering if it will burn a hole in your pocket? Not necessarily. Feel free to request for a quote."
     }
   ],
   "link": {
@@ -20,7 +23,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/mobile-app-development.png",
-    "alt": "Food Delivery app development"
-  }
+    "src": "/images/service/food-delivery-app-development/intro.webp",
+    "alt": "on-demand food delivery app development company in india"
+  },
+  "imageClass": ""
 }

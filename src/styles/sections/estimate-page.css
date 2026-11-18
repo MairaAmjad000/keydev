@@ -999,3 +999,22 @@
     height: 100%;
   }
 }
+
+/* ---- ported from the estimate template ---- */
+#estimate input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button {-webkit-appearance: none;margin: 0;}
+.pjax-content {width: 100%;height: 100%;padding: 160px 0 70px;display: table-cell;vertical-align: middle;position: relative;overflow: hidden;}
+.pjax-content p {color: #555;font-size: 16px;line-height: 24px;font-weight: 500;width: 100%;max-width: 940px !important;position: relative;}
+.tooltip .tooltip-inner, .estimate_tab .tooltip .tooltip-inner {white-space: normal;max-width: 320px;padding: 10px;font-size: 14px;background: #008080;}
+.input-append .fa-paperclip {font: normal normal normal 14px/1 FontAwesome;color: #fff;}
+.input-append .fa-paperclip:hover {color: #fff;}
+.input-append .fa-paperclip:before {content: "\f0c6";}
+
+@media (max-width: 1024px) {
+  .pjax-content {padding: 80px 0 70px;}
+  .pjax-content p {font-size: 14px;line-height: 20px;}
+}
+
+@media (max-width: 767px) {
+  .pjax-content p {font-size: 12px;line-height: 18px;}
+  .pjax-content {position: relative;min-height: inherit; padding: 30px 15px;}
+}

@@ -17,7 +17,7 @@ export function AppWhyChoose({ data }: { data: AppWhyChooseContent }) {
       <div className={data.callout ? 'container mt-5' : 'container'}>
         <SectionTitle text={data.text} heading={data.heading} paragraphs={[data.text2]} />
         {' '}
-        <div className="row">
+        <div className={data.rowClass ?? 'row'}>
           {data.items.map((item, i) => (
             <Fragment key={i}>
               {i > 0 && ' '}

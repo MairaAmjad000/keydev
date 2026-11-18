@@ -1,0 +1,213 @@
+{
+  "sectionClass": "padding-60 bg-light ins-msg-how-build-main",
+  "text": "Tech stack",
+  "heading": "A bouquet of handpicked technologies to build a robust fantasy sports app",
+  "idPrefix": "fantasy-sports-app-development",
+  "tabs": [
+    {
+      "id": "sports",
+      "title": "Sports API",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/swift.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/fabric.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/java.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/google-analytics.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "payment",
+      "title": "Payment",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/stripe.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/Paypal.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/braintree.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "real-time-analytics",
+      "title": "Real-time analytics",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/service/fantasy-sports-app-development/img-8.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/fantasy-sports-app-development/img-9.svg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "database",
+      "title": "Database",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/amazon-rds.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-ec2.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-s3.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/AWS-API-Gateway.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/fantasy-sports-app-development/img-14.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/socket-io.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/fantasy-sports-app-development/img-16.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/fantasy-sports-app-development/img-17.svg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "cloud-environment",
+      "title": "Cloud Environment",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/twillo.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/Aws-ses.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "notification",
+      "title": "Notification",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/twilio.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws_sns.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws_ses.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/firebase_2.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra",
+      "title": "Others",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/socket_io.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/Retrofit _networking.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/firebasedynamiclinks.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/kotlin_1.svg",
+            "alt": ""
+          }
+        }
+      ]
+    }
+  ],
+  "titleClass": "title mt-md-5"
+}

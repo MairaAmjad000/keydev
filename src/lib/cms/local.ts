@@ -257,13 +257,19 @@ const uiUxDesignSections: Partial<SectionDataMap> = {
 
 /** Builds a page from its manifest (slug, seo, ordered list of section types). */
 function buildPage(
-  manifest: { slug: string; seo?: PageData['seo']; sections: string[] },
+  manifest: { slug: string; seo?: PageData['seo']; sections: string[]; hideGlobalSections?: string[]; bareLayout?: boolean },
   data: Partial<SectionDataMap>,
 ): PageData {
   const sections = manifest.sections.flatMap((type) =>
     Object.prototype.hasOwnProperty.call(data, type) ? [{ type: type as SectionType, data: data[type as SectionType] } as SectionBlock] : [],
   );
-  return { slug: manifest.slug, seo: manifest.seo, sections };
+  return {
+    slug: manifest.slug,
+    seo: manifest.seo,
+    sections,
+    ...(manifest.hideGlobalSections ? { hideGlobalSections: manifest.hideGlobalSections as PageData['hideGlobalSections'] } : {}),
+    ...(manifest.bareLayout ? { bareLayout: true } : {}),
+  };
 }
 
 export const localPages: Record<string, PageData> = {
@@ -287,6 +293,6 @@ export const localPages: Record<string, PageData> = {
   ...Object.fromEntries(clientReviewPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(technologiesPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
   ...Object.fromEntries(estimatePageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
-  ...Object.fromEntries(mobileApplicationPages.map((page) => [page.slug, page])),
   ...Object.fromEntries(digitalMarketingPageSources.map(({ manifest, data }) => [manifest.slug, buildPage(manifest, data)])),
+  ...Object.fromEntries(mobileApplicationPages.map((page) => [page.slug, page])),
 };

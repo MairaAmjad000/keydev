@@ -5,7 +5,7 @@ import type {
   LocationsContent, CategoryHeroContent, IntroContentContent, ServiceOfferingsContent, FeatureListContent,
   AdvantageGridContent, FrameworkTabsContent, WhyChooseContent, FaqContent, FeaturedInContent,
   OfferCardsContent, ImageCardsContent, CompareBenefitsContent, SprintProcessContent, TechStackTabsContent,
-  WhyChooseImageContent, FeatureTabsContent, IdealBusinessContent, SolutionCtaContent, OtherSolutionsContent,
+  WhyChooseImageContent, FeatureTabsContent, IdealBusinessContent, SolutionCtaContent, OtherSolutionsContent, KeyFeatureTabsContent, CaseStudyContent, ChatbotAdvantagesContent, ChatbotPlatformsContent, SocialTypesContent, MessagingFeaturesContent, MessagingPanelsContent, KeyFeaturesContent, SolutionOffersContent, FitnessAudienceContent, SimilarAppContent, WorkflowProcessContent,
   WhyInvestContent, PortfolioShowcaseContent, BlogListContent,
   ContactFormContent, ContactInfoContent, ContactMapContent,
   StatsCountersContent, LeadershipContent, MissionVisionContent, CoreValuesContent, HistoryTimelineContent,
@@ -64,6 +64,18 @@ export interface SectionDataMap {
   idealBusiness: IdealBusinessContent;
   solutionCta: SolutionCtaContent;
   otherSolutions: OtherSolutionsContent;
+  similarApp: SimilarAppContent;
+  keyFeatureTabs: KeyFeatureTabsContent;
+  caseStudy: CaseStudyContent;
+  chatbotAdvantages: ChatbotAdvantagesContent;
+  chatbotPlatforms: ChatbotPlatformsContent;
+  socialTypes: SocialTypesContent;
+  messagingFeatures: MessagingFeaturesContent;
+  messagingPanels: MessagingPanelsContent;
+  keyFeatures: KeyFeaturesContent;
+  solutionOffers: SolutionOffersContent;
+  fitnessAudience: FitnessAudienceContent;
+  workflowProcess: WorkflowProcessContent;
   whyInvest: WhyInvestContent;
   portfolioShowcase: PortfolioShowcaseContent;
   blogList: BlogListContent;
@@ -110,6 +122,8 @@ export interface PageData {
   sections: SectionBlock[];
   /** Global sections this page does NOT show (e.g. the contact page hides all four). */
   hideGlobalSections?: GlobalSectionType[];
+  /** Bare page: no footer, quote popup, cookie bar or sticky bar, and no <main> wrapper (e.g. the estimate wizard). */
+  bareLayout?: boolean;
 }
 
 /** Sections shared by every page, shown at the end above the footer, always in this order. */

@@ -1,0 +1,57 @@
+{
+  "sectionClass": "padding-6030 bg-white solution-we-offer-main invest-erp-main",
+  "text": "Multi-functional",
+  "heading": "Develop one fantasy sports app that plays many sports",
+  "text2": "Fantasy Cricket App Development is time-consuming and requires resources. Why waste too much of both when fantasy sports app developers can build one fantasy sports all that has multiple sports within it,",
+  "items": [
+    {
+      "image": {
+        "src": "/images/fantasysports/football-solution.webp",
+        "alt": ""
+      },
+      "title": "Football",
+      "text": "Build a fantasy sports app that lets users to put up a virtual team of world-class soccers handpicked from various teams and clubs."
+    },
+    {
+      "image": {
+        "src": "/images/fantasysports/tennis-solution.webp",
+        "alt": ""
+      },
+      "title": "Tennis",
+      "text": "The league of extraordinary players who whack it off at ATP and WTA tournaments brought together in a single fantasy sport for tennis."
+    },
+    {
+      "image": {
+        "src": "/images/fantasysports/cricket-solution.webp",
+        "alt": ""
+      },
+      "title": "Cricket",
+      "text": "11 players play a game of cricket. With a cricket fantasy sports app, players can choose which are those 11 players and which teams they will play for."
+    },
+    {
+      "image": {
+        "src": "/images/fantasysports/basketball-solution.webp",
+        "alt": ""
+      },
+      "title": "Basketball",
+      "text": "Build a fantasy basketball app with super league teams from around the world. Host contests, manage tournaments and give out rewards."
+    },
+    {
+      "image": {
+        "src": "/images/fantasysports/golf-solution.webp",
+        "alt": ""
+      },
+      "title": "Golf",
+      "text": "Assemble a virtual team of real-world golf players whose points will be evaluated based on their performance in the tournament. The app can also create contests based on major golf championships."
+    },
+    {
+      "image": {
+        "src": "/images/fantasysports/hockey-solution.webp",
+        "alt": ""
+      },
+      "title": "Hockey",
+      "text": "Create a fantasy hockey app that can create a league of its own or a team of its own to host matches. Individual players or teams can compete with each other to find the victor for major championships."
+    }
+  ],
+  "rowClass": "row"
+}

@@ -1,0 +1,40 @@
+/* Rules for the industry solution pages (key features, solution cards, fitness blocks) ported from the source HTML. */
+.key-features-box {min-height:210px;padding:30px 15px 20px;text-align:center;border:2px solid #ecedee;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out;position:relative;overflow:hidden}
+.key-features-box:before {content:"";display:block;width:55px;height:55px;display:block;position:absolute;bottom:-27px;left:-27px;background-color:rgba(236,115,35,.05);border-radius:100%}
+.key-features-icon {width:90px;height:90px;background-color:#eef2f3;border-radius:100%;margin:0 auto 25px;position:relative}
+.key-features-icon svg {width:60px;height:60px;position:absolute;right:-10px;bottom:5px}
+.key-features-icon svg circle,.key-features-icon svg ellipse,.key-features-icon svg path,.key-features-icon svg polygon,.key-features-icon svg rect {fill:#008080}
+.key-features-box h4 {font-size:16px;font-weight:500;margin-bottom:0;min-height:38px;display:flex;justify-content:center;align-items:center}
+.key-features-box:hover {border:2px solid #008080}
+.key-features-main .hide {display:none}
+.key-features-main .hide.show {display:block}
+.key-feeature-show-all-button .btn-custome.btn-lg {font-size:16px}
+.fitness-tab-panel {position:relative}
+.fitness-tab-panel:before {content:"";display:block;position:absolute;left:0;right:0;top:61px;height:2px;width:100%;background-color:#e8f1f1}
+.fitness-app-image {position:relative}
+.fitness-app-overlay-content {position:absolute;left:0;right:0;bottom:0;max-width:840px;width:100%;margin:0 auto;background-color:#fff;border:1px solid #ecedee;border-radius:10px 10px 0 0}
+.fitness-app-overlay-content-table {display:table;min-height:120px;width:100%}
+.fitness-app-overlay-content-box {width:25%;text-align:center;display:table-cell;vertical-align:middle;padding:10px 10px;border-right:1px solid #ecedee}
+.fitness-app-overlay-content-box:last-child {border-right:0}
+.fitness-app-overlay-content-icon {margin-bottom:12px}
+.fitness-app-overlay-content-icon svg {width:50px;height:50px}
+.fitness-app-overlay-content-icon svg * {fill:#7e8082;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.fitness-app-overlay-content-box span {font-size:16px;font-weight:500;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.fitness-app-overlay-content-box:hover svg * {fill:#008080}
+.fitness-app-overlay-content-box:hover span {color:#008080}
+.why-you-invest-main-2 .why-you-invest-box {background-color:transparent;padding:20px 15px;position:relative}
+.why-you-invest-main-2 .why-you-invest-box:before {content:"";display:block;position:absolute;top:43px;height:67px;width:8px;background-color:#f8f9fa;left:-7px;z-index:1}
+.why-you-invest-main-2 .why-you-invest-icon {position:relative;left:inherit;top:inherit;border-radius:5px;margin-bottom:15px}
+.why-you-invest-main-2 .why-you-invest-icon svg {width:45px;height:45px}
+.why-you-invest-main-2 .why-you-invest-box h5 {padding:0;margin-bottom:10px}
+.solution-we-offer-box {position:relative}
+.solution-we-offer-image {width:268px;float:none;position:relative;left:0;top:0;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.solution-we-offer-content {max-width:370px;width:100%;padding:30px 30px;position:absolute;right:0;top:50%;transform:translateY(-50%);border:1px solid #ecedee;background-color:#fff}
+.solution-we-offer-content h3 {font-size:18px;font-weight:600;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.solution-we-offer-content p:last-child {margin-bottom:0}
+.solution-we-offer-box:hover .solution-we-offer-image {position:relative;left:-5px;top:-5px}
+.solution-we-offer-box:hover .solution-we-offer-content h3 {color:#008080}
+.real-estate-type-main .game-what-we-offer-box {min-height:310px}
+
+/* Not present in the source HTML's embedded styles (the full-bleed picture comes from the site stylesheet); added so the background fills the block. */
+.similar-app-main .imgbg {position:absolute;left:0;top:0;width:100%;height:100%;object-fit:cover}

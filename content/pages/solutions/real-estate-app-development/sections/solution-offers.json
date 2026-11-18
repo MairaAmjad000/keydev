@@ -1,0 +1,40 @@
+{
+  "sectionClass": "padding-6030 bg-white solution-we-offer-main invest-erp-main",
+  "text": "Solutions",
+  "heading": "The many possibilities of a real estate mobile app",
+  "text2": "A real estate app can do lot more than what you can imagine. As a real estate development company, we will help you build a real estate app that can perform several functions at once.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/real-estate/property-booking.webp",
+        "alt": ""
+      },
+      "title": "Property Booking",
+      "text": "Build a real estate app that allows users to book favorite properties based on location, price range, number of rooms, property type, age and much more."
+    },
+    {
+      "image": {
+        "src": "/images/real-estate/property-renting.webp",
+        "alt": ""
+      },
+      "title": "Property Renting",
+      "text": "The biggest market for real estate is with the rental properties. We can help you build a real estate app that allows users to find rental properties based on several parameters."
+    },
+    {
+      "image": {
+        "src": "/images/real-estate/property-management.webp",
+        "alt": ""
+      },
+      "title": "Property Management",
+      "text": "When there are several properties owned by a single owner, property management becomes cumbersome. Our real estate app can help you manage all properties from a single dashboard."
+    },
+    {
+      "image": {
+        "src": "/images/real-estate/360-virtual-view-of-property.webp",
+        "alt": ""
+      },
+      "title": "360 Virtual View of Property",
+      "text": "Turn real estate selling into an immersive experience with 360-degree views of properties that have more detailing about interiors, room dimensions, floor area and much more."
+    }
+  ]
+}

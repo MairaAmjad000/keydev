@@ -1,17 +1,17 @@
 {
-  "heading": "A White Label Fitness App, Built to Keep People Moving",
+  "heading": "Build a health & fitness mobile app that can make anyone healthy",
   "paragraphs": [
     {
-      "html": "The best fitness apps make healthy habits simple and rewarding."
+      "html": "The endless digital entertainment that mobile apps serve used with has long since been blamed to be the cause of physical inactivity. We believe that the same mobile apps to hold the power to help users adopt a healthy lifestyle."
     },
     {
-      "html": "We build member and trainer apps with workouts, nutrition, tracking, wearable sync and coaching, all under your brand."
+      "html": "KeyDevs Technologies brings together the power of technology and age-old physical training to help users lead a healthy lifestyle. We build health and fitness mobile apps that empower users to set up an exercise regime, follow the regime like a habit and also measure the results from time-to-time."
     },
     {
-      "html": "Plans, subscriptions and content can be tailored to gyms, studios, coaches or wellness brands."
+      "html": "If a mobile app that runs ahead of the time is what you are looking for, KeyDevs Technologies can help you build mobile apps that can work fine with wearable devices, fitness trackers and even on usual smartphones."
     },
     {
-      "html": "Questions? An expert from our team will help you plan your app."
+      "html": "All we need you to do is to give a broad picture of what you are looking for. We will bring in rest of the IT capabilities you need to build a complete health & fitness app."
     }
   ],
   "link": {
@@ -20,10 +20,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
-    "alt": "Health and Fitness solution",
-    "width": "481",
-    "height": "588"
+    "src": "/images/service/health-fitness-app-development/intro.webp",
+    "alt": ""
   },
-  "imageClass": ""
+  "imageClass": "rounded10 box-shadow"
 }

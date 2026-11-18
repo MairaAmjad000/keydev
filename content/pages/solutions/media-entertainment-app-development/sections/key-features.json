@@ -1,0 +1,40 @@
+{
+  "sectionClass": "padding-60 key-features-main bg-light",
+  "text": "Key Features",
+  "heading": "Everything you need to serve endless entertainment",
+  "text2": "We build all types of entertainment apps that modern-day users have got accustomed to as a way of life.",
+  "items": [
+    {
+      "icon": "svg-a4b88b",
+      "title": "Audio & Video Streaming"
+    },
+    {
+      "icon": "svg-beba0b",
+      "title": "Real-Time Content Update"
+    },
+    {
+      "icon": "svg-3d60fa",
+      "title": "GPS Enabled"
+    },
+    {
+      "icon": "svg-d16476",
+      "title": "In-App Purchases"
+    },
+    {
+      "icon": "svg-618045",
+      "title": "Push Notifications"
+    },
+    {
+      "icon": "svg-23e021",
+      "title": "Social Media Sharing"
+    },
+    {
+      "icon": "svg-f83131",
+      "title": "Social Media Integration"
+    },
+    {
+      "icon": "svg-c7342b",
+      "title": "Advance CMS"
+    }
+  ]
+}

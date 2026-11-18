@@ -8,16 +8,16 @@
     "categoryHero",
     "brandLogos",
     "introContent",
-    "featureTabs",
-    "whyChoose",
-    "technologies",
-    "idealBusiness",
-    "faq",
+    "messagingFeatures",
+    "messagingPanels",
+    "similarApp",
+    "whyInvest",
+    "techStackTabs",
     "solutionCta",
     "otherSolutions",
-    "whyInvest",
     "testimonials",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }

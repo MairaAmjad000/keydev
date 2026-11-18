@@ -210,18 +210,6 @@ is `/estimate-your-project`; registered in `src/lib/cms/local-estimate.ts`). One
 options with icon / next_step ...). Branching, answers, submit (POST to `form.action`, JSON reply) and the phone
 field are in `public/scripts/estimate-page.js`. Option icons are in `public/images/estimate/`.
 
-## SEO page (`/service/seo-services`)
-
-Mirrors the supplied `digital-marketing.html` (`content/pages/service/seo-services`, registered in `src/lib/cms/local-services.ts`). Page order: `anchorNav`, `sectionAnchor`, `categoryHero` (with enquiry form), `brandLogos`, `introContent`, `iconCards` (12 SEO services), `advantageGrid` (6 advantages), `featuredIn` (grid variant with callout bar), `testimonials`, `blog`, and the global sections last. It reuses existing section types; optional fields added: `categoryHero.form.title` / `form.idPrefix`, `introContent.subheading`, `featuredIn.variant` / `callout` / `spacer`. 18 new icons are in `src/components/icons/index.tsx`; pictures are in `public/images/service/seo-services/` (the intro picture is a placeholder, see `public/images/PLACEHOLDERS.txt`).
-
-## Digital marketing page (`/service-category/digital-marketing`)
-
-`content/pages/service-category/digital-marketing` (registered in `src/lib/cms/local-digital-marketing.ts`) uses the web-development category template with existing sections only: `categoryHero` (with form), `brandLogos`, `introContent`, `serviceOfferings` (SEO, social media, Facebook ads, Google ads, eCommerce ads, YouTube promotion), `whyChoose`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, then the global sections. Its banner, intro and `listing-1..6` pictures in `public/images/category/digital-marketing/` are copies of the web-development ones: replace them with real artwork. The SEO tab's button links to `/service/seo-services`.
-
-### Digital marketing service pages
-
-`/service/social-media-marketing`, `/service/facebook-ads`, `/service/google-ads`, `/service/ecommerce-ads` and `/service/youtube-promotion` use the web-technology service template (`categoryHero` without form, `brandLogos`, `introContent`, `iconCards`, `whyChoose`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, then the global sections). They are registered with the Digital Marketing category page in `src/lib/cms/local-digital-marketing.ts`; the SEO page stays in `local-services.ts`. Banner and intro pictures are copies of the Laravel page's (see `public/images/PLACEHOLDERS.txt`). The header and mobile menus link to all five.
-
 ## Placeholder images
 
 Pictures that the page templates referenced from the live site (portfolio logos and screenshots, blog images, process
@@ -320,3 +308,49 @@ New images: `images/service/ios-game-development/` (banner, intro, why-choose) a
 
 Same section list and components as the iOS game page above (`categoryHero`, `brandLogos`, `introContent`, `gameWhyUs`, `gameExpertise`, `callout`, `portfolio`, `testimonials`, `featuredIn`, `technologies`, `blog`, then the global sections), with its own copy, banner / intro / why-choose images (`images/service/android-game-development/`) and four new "why choose us" icons. The game-type icons, store badges and the six game screenshots (`images/portfolio/games/`, still placeholders) are shared with the iOS page.
 Any further game page (Mac, Windows, Unity ...) can reuse this exact layout: only the JSON in `content/pages/service/<slug>/sections/` and the images change.
+
+## On-demand solution pages (taxi / food delivery / car wash)
+
+`/solutions/{taxi,food-delivery,car-wash}-app-development` now mirror the source HTML section by section.
+New sections: `similarApp` (taxi) and `workflowProcess` (car wash); `featureTabs` and `otherSolutions` gained `sectionClass`
+(and per-item `columnClass`). Page-specific CSS ported to `src/styles/sections/solution-extras.css`.
+Image placeholders (if any) are listed in `public/images/PLACEHOLDERS.txt`.
+The older `/service/*-app-development` copies of these pages were left untouched.
+
+## Industry solution pages (real estate / finance / travel / health & fitness)
+
+`/solutions/{real-estate,finance,travel,health-fitness}-app-development` mirror the source HTML section by section.
+New sections: `keyFeatures`, `solutionOffers`, `fitnessAudience`. Extended: `featureTabs` (`variant: "fitness"`, `bar`), `similarApp`
+(`backgroundImage`, `spacerAfter`), `whyChoose` / `whyInvest` (`columnClass`, empty `heightClass` = no wrapper), `moduleBoxes`,
+`categoryHero` (`textColumnClass`). CSS: `src/styles/sections/industry-extras.css`; "Show All" for key features: `public/scripts/solution-page.js`.
+
+## Social solution pages (social media / chat & instant messaging / media & entertainment)
+
+`/solutions/{social-media,chat-instant-messaging,media-entertainment}-app-development` mirror the source HTML section by section.
+New sections: `socialTypes`, `messagingFeatures`, `messagingPanels` (plus the existing `keyFeatures`, `solutionOffers`, `similarApp`, `whyInvest`, `techStackTabs`, `solutionCta`).
+`solutionOffers` gained `rowClass`, `messagingFeatures` items can carry `moreText`. CSS: `src/styles/sections/social-extras.css`.
+
+## Other solution pages
+
+`/solutions/fantasy-sports-app-development` and `/solutions/chatbot-development` are rebuilt from the supplied HTML.
+
+- New sections: `keyFeatureTabs`, `caseStudy`, `chatbotAdvantages`, `chatbotPlatforms`.
+- Extended: `categoryHero` (`sideImageInner`, `textWrapperClass`, `plain`), `introContent` (`imageFirst`, `textColumnClass`, `imageColumnClass`), `industryTabs` (`text2`, `bareIcons`), `techStackTabs` (`titleClass`), `appWhyChoose` (`rowClass`), `SectionTitle` (skips an empty heading).
+- Styles: `src/styles/sections/other-extras.css`.
+
+## Digital marketing (merged from the other AI's zip)
+
+- `/service-category/digital-marketing` and `/service/{seo-services,social-media-marketing,facebook-ads,google-ads,ecommerce-ads,youtube-promotion}`; registry in `src/lib/cms/local-digital-marketing.ts` (SEO is in `local-services.ts`).
+- Shared components extended: `CategoryHero` form title / `idPrefix`, `FeaturedIn` `grid` variant with callout, `IntroContent` `subheading`.
+- Header and mobile menu: "Digital Marketing" replaces the "Game Development" dropdown. The game pages still exist and are linked from the Mobile App Development menu (iOS and Android).
+
+## Footer reveal
+
+Page sections and the footer are wrapped in `<main>` again (as in the source HTML). The fixed footer is uncovered as the page scrolls. The earlier "footer fix" overrides in `global.css` and `footer.css` were removed.
+
+## Estimate page
+
+- `app-development-cost-calculator` now has `bareLayout: true`: no footer, quote popup, cookie bar or sticky bar, and no `<main>` wrapper (as in the template). `buildPage` passes `hideGlobalSections` and `bareLayout` from the manifest on to the page.
+- Steps `web_payment_2`, `web_advertise` and `web_old_dynamic_brief_description` are inactive, as in the template.
+- Final form: `briefAttachment` file input, "Select Your Region" placeholder, `check1` label link, and the "Thank You" success modal.
+- Styles for `.pjax-content` and the paperclip icon were added to `estimate-page.css`.

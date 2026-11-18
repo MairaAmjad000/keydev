@@ -1,0 +1,36 @@
+.app-why-box {width:100%;background:#fff;border:1px solid #ecedee;border-radius:10px;text-align:center;padding:20px 13px;transition:all .3s ease;margin-bottom:30px;min-height:320px}
+.app-why-box-icon {margin:0 auto;width:70px;height:70px;background:#fff;box-shadow:0 3px 10px 0 rgba(0,0,0,.1);border-radius:7px;padding:10px;transition:all .3s ease}
+.app-why-box h4 {font-size:18px;margin:15px 0 10px;transition:all .3s ease;min-height:50px;display:flex;align-items:center;line-height:1.3;justify-content:center;width:100%}
+.app-why-box:hover .app-why-box-icon {background:#008080}
+.app-service-tab-text svg {width:74px;height:74px}
+.app-service-tab-text svg circle,.app-service-tab-text svg ellipse,.app-service-tab-text svg line,.app-service-tab-text svg path,.app-service-tab-text svg polygon,.app-service-tab-text svg rect {fill:#008080}
+.app-why-box-icon svg circle,.app-why-box-icon svg ellipse,.app-why-box-icon svg path,.app-why-box-icon svg polygon,.app-why-box-icon svg rect {transition:all .3s ease;fill:#6a6d6f}
+.app-why-box:hover {box-shadow:0 3px 10px rgba(0,0,0,.15)}
+.app-why-box:hover .app-why-box-icon svg circle,.app-why-box:hover .app-why-box-icon svg ellipse,.app-why-box:hover .app-why-box-icon svg path,.app-why-box:hover .app-why-box-icon svg polygon,.app-why-box:hover .app-why-box-icon svg rect {fill:#fff}
+.app-service-tab {max-width:1600px;width:100%;margin:0 auto;padding:0 15px!important}
+.app-service-tab-text h3 {font-size:24px;margin:30px 0 20px;font-weight:600}
+.app-service-tab-box {width:165px;height:165px;margin:0 auto;display:flex;align-items:center;justify-content:center;flex-wrap:wrap;background:#fff;border:1px solid #ecedee;border-radius:10px;padding:15px 15px;transition:all .3s ease;cursor:pointer}
+.app-service-tab-box span {font-size:16px;width:100%;text-align:center;margin-top:10px;font-weight:500}
+.app-service-tab .slick-current.slick-active .app-service-tab-box {box-shadow:0 3px 10px rgba(0,0,0,.15)}
+.app-service-tab .slick-list {padding-top:15px!important;padding-bottom:20px!important}
+.app-service-tab .slick-current.slick-active .app-service-tab-box svg circle,.app-service-tab .slick-current.slick-active .app-service-tab-box svg ellipse,.app-service-tab .slick-current.slick-active .app-service-tab-box svg line,.app-service-tab .slick-current.slick-active .app-service-tab-box svg path,.app-service-tab .slick-current.slick-active .app-service-tab-box svg polygon,.app-service-tab .slick-current.slick-active .app-service-tab-box svg rect {fill:#008080}
+.app-service-tab-box svg {width:50px;height:50px}
+.app-service-tab-box svg circle,.app-service-tab-box svg ellipse,.app-service-tab-box svg line,.app-service-tab-box svg path,.app-service-tab-box svg polygon,.app-service-tab-box svg rect {transition:all .3s ease}
+.app-service-tab-content .slick-slide img {-webkit-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);-moz-box-shadow:0 3px 10px 0 rgba(0,0,0,.15);box-shadow:0 3px 10px 0 rgba(0,0,0,.15);border-radius:10px;margin-bottom:30px}
+.chatbot-adv-box {border:1px solid #ecedee;padding:0 15px 20px;min-height:235px;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.chatbot-adv-icon {width:130px;height:75px;margin:0 auto 15px;position:relative;overflow:hidden}
+.chatbot-adv-icon:before {content:"";display:block;width:130px;height:150px;border:1px solid #ecedee;border-radius:100%;position:absolute;top:-75px;left:0;right:0;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.chatbot-adv-icon svg {height:60px;width:60px;position:relative}
+.chatbot-adv-icon svg circle,.chatbot-adv-icon svg ellipse,.chatbot-adv-icon svg path,.chatbot-adv-icon svg polygon,.chatbot-adv-icon svg rect {fill:#6a6d6f;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.chatbot-adv-box h3 {font-weight:500;font-size:18px;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.chatbot-adv-box p:last-child {margin-bottom:0}
+.chatbot-adv-box:hover {border:1px solid #008080;box-shadow:0 3px 10px rgba(0,0,0,.15)}
+.chatbot-adv-box:hover .chatbot-adv-icon:before {background-color:#008080;box-shadow:0 1px 5px rgba(0,0,0,.15)}
+.chatbot-adv-box:hover .chatbot-adv-icon svg circle,.chatbot-adv-box:hover .chatbot-adv-icon svg ellipse,.chatbot-adv-box:hover .chatbot-adv-icon svg path,.chatbot-adv-box:hover .chatbot-adv-icon svg polygon,.chatbot-adv-box:hover .chatbot-adv-icon svg rect {fill:#fff}
+.chatbot-adv-box:hover h3 {color:#008080}
+.chatbot-platform-box {padding:30px 30px;border:1px solid #f0f1f2;min-height:210px}
+.chatbot-platform-box-icon {display:block;margin-bottom:25px}
+
+.cftst0{display:none}
+.cftst1{display:inline}
+.cftst2{display:none;opacity:.31}

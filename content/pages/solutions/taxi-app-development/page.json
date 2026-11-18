@@ -10,14 +10,15 @@
     "introContent",
     "featureTabs",
     "whyChoose",
-    "technologies",
+    "techStackTabs",
+    "similarApp",
     "idealBusiness",
     "faq",
     "solutionCta",
     "otherSolutions",
-    "whyInvest",
     "testimonials",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }

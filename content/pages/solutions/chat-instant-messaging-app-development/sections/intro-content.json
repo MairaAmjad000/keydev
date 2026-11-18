@@ -1,17 +1,20 @@
 {
-  "heading": "A White Label Chat App, Built for Real-Time",
+  "heading": "Connect real-time, everytime with the instant messaging app development",
   "paragraphs": [
     {
-      "html": "Messaging apps succeed on speed and reliability. Messages must arrive instantly, in order, on any connection."
+      "html": "Once upon a time, pigeons carried messages. Then came post mail. Then, Graham Bell introduced the world to landlines. In the past few decades, landlines have evolved into mobiles and mobiles into the ultimate smartphones. Man’s need for communication is what has pushed the glorious transformation of telecommunication."
     },
     {
-      "html": "We build on proven real-time infrastructure with push notifications, delivery and read receipts, media sharing and optional end-to-end encryption."
+      "html": "Instant messaging was born out of the same need. Thanks to smartphones that are as powerful as the computers that put man on the moon, today instant messaging has become a thing that we take for granted. Instant messaging has empowered us all with a utility that even Graham Bell would not have dreamt of — real-time communication."
     },
     {
-      "html": "Branding, features and moderation tools can be tailored for consumer, community or business messaging."
+      "html": "From a small group of friends to a thousand-strong workforce, instant messaging helps everyone share information and get things done. An instant messaging app can connect remotely located individuals to each other in real-time without the need for any bulky hardware or expensive bandwidth."
     },
     {
-      "html": "Questions? An expert from our team will help you plan scope, timelines and cost."
+      "html": "All that it takes is an instant messaging app. A feature-rich instant messaging app can empower users to exchange real-time text messages, audio messages, transact video calling, share multimedia or even create chat groups and communities."
+    },
+    {
+      "html": "Want to build a custom-made instant messaging app that can connect users anywhere,anytime?"
     }
   ],
   "link": {
@@ -20,7 +23,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/mobile-app-development.png",
-    "alt": "Chat App app development"
-  }
+    "src": "/images/instant-messaging/instant-messaging-main.jpg",
+    "alt": "Being a top chat app development company, we provide solutions that help you connect people instantly. Hire best instant messaging developers for your chat app development."
+  },
+  "imageClass": "box-shadow rounded10"
 }

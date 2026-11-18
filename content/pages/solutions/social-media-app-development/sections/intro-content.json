@@ -1,17 +1,14 @@
 {
-  "heading": "A White Label Social Media App, Made for Your Community",
+  "heading": "Bring the world together with our social media app development solutions",
   "paragraphs": [
     {
-      "html": "Successful social apps give people a clear reason to join and a smooth way to connect."
+      "html": "A decade ago, meeting and greeting strangers happened on streets. Thanks to social media apps, they happen everywhere. Strangers from two corners of the world turn into friends with the power of social media. Social media is also an economic powerhouse that has a population of many countries put together."
     },
     {
-      "html": "We build feeds, stories, groups, messaging and notifications on scalable infrastructure designed for growing communities."
+      "html": "Does the world have room for another social media network? Why not? Facebook, Twitter, LinkedIn and several others might have the first-mover advantage. Still a unique theme that brings together people can still make a difference. After all, the global internet users count is increasing steadily as is mobile apps. A new social media app will still have takers."
     },
     {
-      "html": "Privacy controls and moderation tools are part of the platform from day one, so you can keep your community healthy."
-    },
-    {
-      "html": "Questions? An expert from our team will help you shape the product and plan the launch."
+      "html": "Want to build a social media app that can bring together people and can also be monetized? KeyDevs Technologies can help."
     }
   ],
   "link": {
@@ -20,7 +17,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/mobile-app-development.png",
-    "alt": "Social Media app development"
-  }
+    "src": "/images/social-media/social-media-main.jpg",
+    "alt": ""
+  },
+  "imageClass": "rounded10 box-shadow"
 }

@@ -1,0 +1,24 @@
+{
+  "sectionClass": "padding-6030 bg-white real-estate-type-main",
+  "columnClass": "col-lg-4 col-md-6 col-sm-6 col-12 mb-30",
+  "text": "Beneficiaries",
+  "heading": "Who is it for?",
+  "text2": "You can be a real estate owner, a broker or someone who wants to build a real estate aggregator app. Whoever you are, KeyDevs Technologies can help you build the right mobile app.",
+  "items": [
+    {
+      "icon": "svg-78fb95",
+      "title": "Real Estate Buyers",
+      "text": "There is a better way for users to find and buy their dream estate property. It is through a mobile app. KeyDevs Technologies builds mobile apps that makes it easier for users to buy real estate properties."
+    },
+    {
+      "icon": "svg-e3b46f",
+      "title": "Real Estate Company",
+      "text": "Take your offline real estate company into the digital space with a bespoke mobile app. Showcase your portfolio digitally with images, videos, virtual tours and much more."
+    },
+    {
+      "icon": "svg-7e3508",
+      "title": "Real Estate Aggregators",
+      "text": "Be the connecting force between real estate buyers and sellers. Create a marketplace of real estate with an aggregator app that lists diverse range of properties."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+/* Rules for the social / messaging solution pages ported from the source HTML. */
+.ins-msg-content-wrap {padding:25px 25px 25px 0}
+.ins-msg-content-wrap .contentrow img {display:none;margin-left:-100px;width:212px}
+.ins-msg-content-wrap .contentrow.active img {display:block}
+.ins-msg-content-wrap .tab_content_wrap {width:calc(100% - 112px)}
+.ins-msg-tab-wrap .tab_list_title {font-size:16px;font-weight:500;margin-left:20px;width:calc(100% - 60px);-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.ins-msg-tab-wrap .tab_list_title_icon {width:40px;height:40px}
+.ins-msg-tab-wrap .tab_list_title_icon svg circle,.ins-msg-tab-wrap .tab_list_title_icon svg ellipse,.ins-msg-tab-wrap .tab_list_title_icon svg path,.ins-msg-tab-wrap .tab_list_title_icon svg polygon,.ins-msg-tab-wrap .tab_list_title_icon svg rect {fill:#202122;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.ins-msg-app-panels-content h3 {font-size:26px;font-weight:500}
+.ins-msg-app-panels-content p:last-child {margin-bottom:0}
+.types-of-social-media-box {min-height:310px;border:1px solid #f5f6f6;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+.types-of-social-media-platform {padding:20px 20px 15px;border-bottom:2px solid #008080}
+.types-of-social-media-platform ul li {display:inline-block;vertical-align:middle;margin:0 3px 0 0}
+.types-of-social-media-content {padding:25px 20px}
+.types-of-social-media-content h3 {font-size:18px;font-weight:600}
+.types-of-social-media-content p:last-child {margin-bottom:0}
+.types-of-social-media-box:hover {border:1px solid #008080}

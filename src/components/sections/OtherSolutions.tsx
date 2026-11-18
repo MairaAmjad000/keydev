@@ -7,7 +7,7 @@ import { SectionTitle } from './shared/SectionTitle';
 /** Row of linked icon tiles pointing to related solutions. */
 export function OtherSolutions({ data }: { data: OtherSolutionsContent }) {
   return (
-    <section className="padding-6030 bg-light other-demand-app-main">
+    <section className={data.sectionClass ?? 'padding-6030 bg-light other-demand-app-main'}>
       <div className="container">
         <SectionTitle text={data.text} heading={data.heading} />
         {' '}
@@ -15,7 +15,7 @@ export function OtherSolutions({ data }: { data: OtherSolutionsContent }) {
           {data.items.map((item, i) => (
             <Fragment key={i}>
               {i > 0 && ' '}
-              <div className="col-lg-3 col-md-3 col-sm-6 col-12 mb-30">
+              <div className={item.columnClass ?? 'col-lg-3 col-md-3 col-sm-6 col-12 mb-30'}>
                 <div className="other-demand-app-box text-center box-shadow rounded10">
                   <a {...link(item.href)}>
                     <div className="other-demand-app-icon">

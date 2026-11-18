@@ -1,17 +1,14 @@
 {
-  "heading": "A White Label Streaming App, Built for Engagement",
+  "heading": "Design otherworldly experiences with our Entertainment Mobile App Development expertise",
   "paragraphs": [
     {
-      "html": "Great media apps deliver smooth playback and make discovery effortless."
+      "html": "Listening to music. Watching a movie. Tuning into a podcast. Reading a book. Playing a game. Almost every imaginable form of entertainment has moved to the digital medium. Mobile apps have become the one source for all entertainment. KeyDevs Technologies builds mobile apps for entertainment that will turn your users into loyal customers who get used to it like a habit."
     },
     {
-      "html": "We build viewer and creator apps with streaming, downloads, recommendations, subscriptions and analytics."
+      "html": "And, how do we do that? During our decade-long experience in mobile app development, we have found out that entertainment is one of a kind of an industry. It is highly segmented and requires personalization. As an entertainment app owner, you would want to build apps that can personalization at a mass scale. That is quite a challenge."
     },
     {
-      "html": "Content libraries, pricing and branding can be tailored to broadcasters, studios and independent creators."
-    },
-    {
-      "html": "Questions? An expert from our team will help you plan."
+      "html": "With KeyDevs Technologies by your side, you can overcome those challenges in Media and Entertainment App Development and build entertainment apps that can keep users hooked for hours long."
     }
   ],
   "link": {
@@ -20,10 +17,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
-    "alt": "Media and Entertainment solution",
-    "width": "481",
-    "height": "588"
+    "src": "/images/media-entertainment/media-entertainment-main.jpg",
+    "alt": ""
   },
-  "imageClass": ""
+  "imageClass": "rounded10 box-shadow"
 }

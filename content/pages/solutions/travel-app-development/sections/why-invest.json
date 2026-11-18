@@ -1,37 +1,41 @@
 {
-  "text": "Why should you invest?",
-  "heading": "Why Choose Us",
-  "text2": "KeyDevs Technologies builds custom digital products for businesses around the world. Here is what makes us a dependable development partner.",
+  "sectionClass": "padding-6030 bg-light why-you-invest-main invest-erp-main",
+  "containerClass": "container mt-md-5",
+  "columnClass": "col-lg-4 col-md-6 col-sm-6 col-12 mb-30",
+  "heightClass": "m-height-130",
+  "text": "Why Choose Us",
+  "heading": "Know our unique strengths",
+  "text2": "Like every successful mobile app that has its own handful of great features, KeyDevs Technologies also has some unique features that makes us awesome.",
   "items": [
     {
-      "icon": "svg-1af174",
-      "title": "Custom Solutions",
-      "text": "Every project is treated as new, with its own requirements, design and user experience."
+      "icon": "svg-f28ac9",
+      "title": "Customized Solutions",
+      "text": "Your business is as unique in its own way. Your requirements would be unique in its own way. We offer customized solutions that will cater to those unique requirements."
     },
     {
-      "icon": "svg-f4e772",
-      "title": "Rapid Development",
-      "text": "A streamlined, organised process gets your product to market faster."
+      "icon": "svg-2f2dff",
+      "title": "NDA Compliance",
+      "text": "All data, know-how and information that you share with us during the engagement will not be shared with third parties. We sign a non-disclosure agreement to put that in writing."
     },
     {
-      "icon": "svg-6433f5",
-      "title": "Interactive Design",
-      "text": "Thoughtful design makes the product easy and enjoyable to use."
+      "icon": "svg-323c5a",
+      "title": "Deliver Global Experience",
+      "text": "Our UI/UX designers with a creative bent of mind know how to make users fall in love with travel apps. We design and deploy mobile apps that offer an enriched user experience to users all around the world."
     },
     {
-      "icon": "svg-1c23b7",
-      "title": "Adopt Agile Methodology",
-      "text": "Dedicated project managers and scrum masters keep every milestone on track."
+      "icon": "svg-71c072",
+      "title": "Affordable Pricing",
+      "text": "The software we develop and the apps we launch look and feel premium. But our travel mobile app development services are not charged to cost a bomb. They will be reasonable for the value offered."
     },
     {
-      "icon": "svg-e5b76e",
-      "title": "Cost Efficient Solutions",
-      "text": "Quality should not carry a high price; our services are priced for businesses of every size."
+      "icon": "svg-faffff",
+      "title": "Dedicated Teams",
+      "text": "We have a team of travel app developers who are assigned to each project. There is no multi-tasking involved which ensures that your app is given complete focus and attention that it deserves."
     },
     {
-      "icon": "svg-46a4c6",
+      "icon": "svg-73877e",
       "title": "On-Time Delivery",
-      "text": "We put real emphasis on delivering projects on schedule."
+      "text": "In travel and in business, time is of essence. A day lost will never come back. The market timing once missed will cost dearly. We run the extra mile to ensure that all projects are delivered on time without any delays."
     }
   ]
 }

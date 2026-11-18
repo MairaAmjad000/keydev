@@ -1,17 +1,17 @@
 {
-  "heading": "A White Label Car Wash App, Built Around Your Business",
+  "heading": "A smart way of on demand car wash app development",
   "paragraphs": [
     {
-      "html": "Customers want a clean car without the queue. A car wash app lets them choose a service, pick a time and location, and pay in a few taps."
+      "html": "Building any app is a difficult project. Building an on demand car wash app is even more complex since it requires high-end planning, integrating APIs and many other intricacies. Our car wash app development services will help build an on demand car wash without breaking into a sweat."
     },
     {
-      "html": "Our team builds customer and washer apps with map-based booking, service packages, scheduling, digital payments and ratings, all branded as your own."
+      "html": "KeyDevs Technologies is made up of web developers, creative professionals and project managers who know how to make things happen — especially building an on demand car wash app. We have developed and launched several types of on demand apps that connect on demand service providers with customers."
     },
     {
-      "html": "We tailor colours, screens and workflows to your business model, whether you run a mobile wash fleet, partner stations or both."
+      "html": "With on demand services becoming an integral part of our daily lives, an on demand car service is nothing but an essential that most users look forward to. An app that can crowdsource car wash service providers by location, help customers find them through a quick mobile search and also pay for the services through the ap is increasing in demand."
     },
     {
-      "html": "Questions about scope or timelines? An expert from our team will guide you from idea to launch."
+      "html": "As top-ranked mobile app developers, we can help you build the on demand car wash app on Android and iOS platforms. Talk to our experts to set the ball rolling."
     }
   ],
   "link": {
@@ -20,7 +20,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/services/mobile-app-development.png",
-    "alt": "Car Wash app development"
-  }
+    "src": "/images/service/car-wash-app-development/intro.webp",
+    "alt": "on-demand car wash app development"
+  },
+  "imageClass": ""
 }

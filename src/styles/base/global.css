@@ -170,5 +170,4 @@ main {
   }
 }
 
-/* footer fix: render footer in normal flow at page bottom instead of fixed behind content */
-main{margin-bottom:0!important}
+

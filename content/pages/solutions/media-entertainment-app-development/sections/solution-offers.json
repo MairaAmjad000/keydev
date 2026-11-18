@@ -1,0 +1,41 @@
+{
+  "sectionClass": "padding-6030 bg-white solution-we-offer-main invest-erp-main",
+  "text": "Media and Entertainment App Development",
+  "heading": "Our experience-driven Entertainment Mobile App Development",
+  "text2": "We offer a lot more than Entertainment Mobile App Development. We offer experience development through entertainment mobile apps.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/media-entertainment/video-streaming-apps.jpg",
+        "alt": ""
+      },
+      "title": "Video Streaming Apps",
+      "text": "Build video streaming apps that can stream pre-recorded videos or live videos to millions of customers with high quality. We can also help integrate paywalls into the app for monetization."
+    },
+    {
+      "image": {
+        "src": "/images/media-entertainment/music-streaming-apps.jpg",
+        "alt": ""
+      },
+      "title": "Music Streaming Apps",
+      "text": "Build the next Spotify or SoundCloud that will allow users to stream music from their favorite artists and bands to any device. Apps can be configured with features for offline downloads, playlist creation, etc."
+    },
+    {
+      "image": {
+        "src": "/images/media-entertainment/photo-editing-and-sharing-apps.jpg",
+        "alt": ""
+      },
+      "title": "Photo Editing & Sharing Apps",
+      "text": "Not everybody is an expert with image editing tools. But, with our media app development expertise, your users can have photo editing and sharing apps that will allow them to edit photos without any prior expertise."
+    },
+    {
+      "image": {
+        "src": "/images/media-entertainment/gaming-app.jpg",
+        "alt": ""
+      },
+      "title": "Gaming App",
+      "text": "Build a mobile gaming app — puzzle, strategy, action, adventure, word, trivia — or anything else with our gaming app development expertise."
+    }
+  ],
+  "rowClass": "row"
+}

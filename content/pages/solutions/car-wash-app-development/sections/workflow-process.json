@@ -1,0 +1,85 @@
+{
+  "sectionClass": "padding-60-00 bg-light car-wash-process-main p-relative",
+  "bar": {
+    "text": "Do you have a <span id=\"car-wash-app-development-callouts-type\"></span> We have a TEAM to get you there.",
+    "link": {
+      "href": "/contact",
+      "text": "Get In Touch",
+      "className": "btn-custome btn waves-effect waves-light"
+    }
+  },
+  "barClass": "callouts-separate-2",
+  "containerClass": "container mt-50 mt-b-0",
+  "text": "How it works",
+  "heading": "The workflow of how an on demand car wash request is served",
+  "arrowImage": {
+    "src": "/images/service/car-wash-app-development/process-arrow.png",
+    "alt": "how to make a car wash app"
+  },
+  "items": [
+    {
+      "columnClass": "wow fadeIn col-lg-3 col-md-4 col-sm-6 col-12 order-lg-0",
+      "delay": ".4s",
+      "duration": ".4s",
+      "icon": "svg-4fcc94",
+      "text": "The user sends a request for the car wash service",
+      "arrowClass": "bt arrow"
+    },
+    {
+      "columnClass": "wow fadeIn col-lg-3 col-md-4 col-sm-6 col-12 order-lg-1",
+      "delay": ".8s",
+      "duration": ".4s",
+      "icon": "svg-666998",
+      "text": "Admin receives the request from the user",
+      "arrowClass": "bb arrow"
+    },
+    {
+      "columnClass": "wow fadeIn col-lg-3 col-md-4 col-sm-6 col-12 order-lg-2 order-md-3 order-sm-4",
+      "delay": "1.2s",
+      "duration": ".4s",
+      "icon": "svg-c55c20",
+      "text": "Admin start searching for the car washer around the location",
+      "arrowClass": "bt arrow"
+    },
+    {
+      "columnClass": "wow fadeIn col-lg-3 col-md-4 col-sm-6 col-12 order-lg-3 order-md-6 order-sm-3",
+      "delay": "1.6s",
+      "duration": ".4s",
+      "icon": "svg-412c53",
+      "text": "Nearby car washer accepts the wash request",
+      "arrowClass": "down arrow"
+    },
+    {
+      "columnClass": "wow fadeIn col-lg-3 col-md-4 col-sm-6 col-12 order-lg-4 order-md-8 order-sm-7 order-8",
+      "delay": "3.2s",
+      "duration": ".4s",
+      "icon": "svg-486d95",
+      "text": "Washer receive payment in its wallet",
+      "arrowClass": "bb rotate arrow"
+    },
+    {
+      "columnClass": "wow fadeIn col-lg-3 col-md-4 col-sm-6 col-12 order-lg-5 order-md-7 order-sm-8 order-7",
+      "delay": "2.8s",
+      "duration": ".4s",
+      "icon": "svg-c68f2a",
+      "text": "Provide service as per the package",
+      "arrowClass": "bt rotate arrow"
+    },
+    {
+      "columnClass": "wow fadeIn col-lg-3 col-md-4 col-sm-6 col-12 order-lg-6 order-md-4 order-sm-6 order-6",
+      "delay": "2.4s",
+      "duration": ".4s",
+      "icon": "svg-f574b0",
+      "text": "Washer goes to the user location on the preferred date and time",
+      "arrowClass": "bb rotate arrow"
+    },
+    {
+      "columnClass": "wow fadeIn col-lg-3 col-md-4 col-sm-6 col-12 order-lg-7 order-md-5 order-sm-5 order-5",
+      "delay": "2s",
+      "duration": ".4s",
+      "icon": "svg-4161b5",
+      "text": "User get notification",
+      "arrowClass": "bb rotate arrow"
+    }
+  ]
+}

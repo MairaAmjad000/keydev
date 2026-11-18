@@ -1,17 +1,19 @@
 {
-  "heading": "A White Label Fantasy Sports App, Built for Game Day",
+  "sectionClass": "service-main-content padding-60 bg-white",
+  "headingClass": "h4 mb-3",
+  "heading": "Building a fantasy app world of fantasy sports",
   "paragraphs": [
     {
-      "html": "Fantasy sports thrives on live data, fair play and fast payouts."
+      "html": "Fantasy sports is a $7.22 billion industry with 59.3 million fantasy sports. Rugby, soccer, cricket, basketball, tennis, baseball, hockey may be games that are played on the field with real players. But, fantasy sports app development makes it possible for users to build their own team, set their own game and play a match that drives greater satisfaction."
     },
     {
-      "html": "We build apps with team creation, contests, real-time scoring, leaderboards and wallets, all under your brand."
+      "html": "KeyDevs Technologies is an experienced fantasy sports app development company that has built and launched several fantasy sports all that are delivering unrivaled gaming experience around the world. Our focus to creating a perfect app interface that gives players a fulfilling experience is what helps us stand out from the crowd."
     },
     {
-      "html": "Sports, formats and contest rules can be tailored to your market and local regulations."
+      "html": "Since delivering experience is out forte, we build fantasy sports mobile apps that have multiple sports integrated into them. Be it basketball, cricket, hockey, tennis — we are equipped to build any type of fantasy sports mobile app for you."
     },
     {
-      "html": "Questions? An expert from our team will help you plan."
+      "html": "Have a fantasy sports mobile app in mind? Want to know how to make it a reality? Talk to our experts."
     }
   ],
   "link": {
@@ -20,10 +22,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
-    "alt": "Fantasy Sports solution",
-    "width": "481",
-    "height": "588"
+    "src": "/images/service/fantasy-sports-app-development/intro.webp",
+    "alt": ""
   },
-  "imageClass": ""
+  "imageClass": "rounded10 box-shadow"
 }

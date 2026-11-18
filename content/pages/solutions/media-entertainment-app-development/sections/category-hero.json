@@ -1,25 +1,23 @@
 {
   "image": {
-    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
-    "alt": "Media and Entertainment development",
+    "src": "/images/media-entertainment/media-entertainment-banner.jpg",
+    "alt": "entertainment app development",
     "width": "1920",
-    "height": "780"
+    "height": "800"
   },
   "sideImage": {
-    "src": "/images/solutions/taxi-app-development/hero-taxi-app.webp",
-    "alt": "Media and Entertainment app",
-    "width": "540",
-    "height": "617"
+    "src": "/images/service/media-entertainment-app-development/hero-side.png",
+    "alt": "entertainment app development company"
   },
-  "sideImageClass": "bannerfixedimagewidth landscape",
-  "headingClass": "text-uppercase f-40",
-  "heading": "Media and Entertainment App Development Company",
-  "text": "Audiences want content anywhere. Launch a white label streaming app for video, music or live events, with subscriptions, creator tools and an admin panel to manage your catalogue.",
+  "sideImageClass": "bannerfixedimagewidth",
+  "headingClass": "",
+  "heading": "Accelerate Your Media and Entertainment App Development",
+  "text": "Entertainment is an experience. Deliver the best user experience for your users with an media and entertainment app that is built for video streaming, audio streaming, gaming and much more.",
   "links": [
     {
       "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Get a Quote Now"
+      "text": "Get Your Project Estimate",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -28,7 +26,7 @@
       "href": "/"
     },
     {
-      "text": "Media and Entertainment App Development"
+      "text": "Media Entertainment App Development"
     }
   ]
 }

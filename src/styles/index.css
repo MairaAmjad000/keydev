@@ -20,6 +20,10 @@
 
 /* Game service sections: base rules must precede the responsive rules in layout/mobile-menu.css and layout/footer.css. */
 @import './sections/game-service.css';
+@import './sections/solution-extras.css';
+@import './sections/industry-extras.css';
+@import './sections/social-extras.css';
+@import './sections/other-extras.css';
 
 /* Layout chrome */
 @import './layout/header.css';

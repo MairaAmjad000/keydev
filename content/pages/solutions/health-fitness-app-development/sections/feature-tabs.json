@@ -1,249 +1,364 @@
 {
-  "text": "Sets of Features",
-  "heading": "The Main Features Of Our Health & Fitness App Development Services",
+  "sectionClass": "padding-60 bg-white car-wash-feature-main p-relative",
+  "text": "Modules",
+  "heading": "One App, Many Users",
   "idPrefix": "health-fitness-app-development",
   "showAllText": "Show All",
   "showLessText": "Show Less",
   "tabs": [
     {
       "id": "user",
-      "title": "Member",
+      "title": "User",
       "icon": "svg-c59471",
       "headIcon": "svg-c59471",
       "items": [
         {
-          "icon": "svg-30846f",
-          "title": "Member Profile",
-          "text": "Goals, body metrics and preferences.",
+          "icon": "svg-113faa",
+          "title": "Profile",
+          "text": "Each user can create their own profile complete with current health metrics like height, weight, and health inputs.",
           "hidden": false
         },
         {
-          "icon": "svg-b20b29",
-          "title": "Workout Library",
-          "text": "Browse workouts by goal, level and duration.",
+          "icon": "svg-4915c4",
+          "title": "Subscription",
+          "text": "The app can be configured as a free service with limited functionalities or as a paid one with subscription.",
           "hidden": false
         },
         {
-          "icon": "svg-2e6bf5",
-          "title": "Workout Plans",
-          "text": "Follow structured weekly plans.",
+          "icon": "svg-880914",
+          "title": "Activity timeline",
+          "text": "Users can view their activity routine from day one until the present day through a well-designed dashboard.",
           "hidden": false
         },
         {
-          "icon": "svg-16859b",
-          "title": "Activity Tracking",
-          "text": "Track steps, calories and workouts.",
+          "icon": "svg-c2fcae",
+          "title": "Daily plan",
+          "text": "A customized daily plan to help users to train for their goals using weights, cardio, strength training, etc.",
           "hidden": false
         },
         {
-          "icon": "svg-67ec81",
-          "title": "Progress Insights",
-          "text": "Charts and milestones show improvement.",
+          "icon": "svg-c47e5b",
+          "title": "Daily activity inputs",
+          "text": "Users can input the app with relevant information about daily activities which will be used to create the activity timeline.",
           "hidden": false
         },
         {
-          "icon": "svg-2c96b2",
-          "title": "Nutrition & Meal Plans",
-          "text": "Log meals and follow diet plans.",
+          "icon": "svg-702f7d",
+          "title": "Video training",
+          "text": "The app will have videos from experts to help them train the right manner without suffering any injuries due to mistakes.",
           "hidden": false
         },
         {
-          "icon": "svg-e5be1c",
-          "title": "Reminders",
-          "text": "Nudges for workouts, water and sleep.",
+          "icon": "svg-5e006a",
+          "title": "Live chat",
+          "text": "A live chat feature will be available in the app to enable users to chat with their fitness instructors for improving results.",
           "hidden": false
         },
         {
-          "icon": "svg-2ea89f",
-          "title": "Chat with Trainer",
-          "text": "Get coaching and feedback.",
+          "icon": "svg-185573",
+          "title": "Diet chart",
+          "text": "Weight loss, weight gain, fitness training — the app can give a customized diet chart customized to each fitness goal",
           "hidden": false
         },
         {
-          "icon": "svg-8af434",
-          "title": "Challenges",
-          "text": "Compete with friends and the community.",
+          "icon": "svg-b9fcaa",
+          "title": "Fitness plans",
+          "text": "Daily, weekly, monthly and quarterly fitness plans will be charted to help the user progress consistently.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-e156b7",
+          "title": "Workout plans",
+          "text": "According to fitnes goals, the personal trainer provides exclusive custom workout routines to the premium customers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0169bd",
+          "title": "Track Progress",
+          "text": "Users can monitor their progress in terms of calories burnt, fitness performance, endurance, etc",
+          "hidden": false
+        },
+        {
+          "icon": "svg-7c7a75",
+          "title": "Steps counter",
+          "text": "In-built navigation and motion sensors will ensure that every step taken by the user during a day is counted by steps counter.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0b7d33",
+          "title": "Calorie counter",
+          "text": "Users can input the food items that are consuming daily to keep track of their calorie intake.",
           "hidden": true
         },
         {
-          "icon": "svg-0d0a3d",
-          "title": "Workout History",
-          "text": "Review past sessions.",
+          "icon": "svg-69f358",
+          "title": "Alerts and reminders",
+          "text": "Built-in alert and reminder system that notifies when it is time for daily workout.",
           "hidden": true
         },
         {
-          "icon": "svg-0e5a71",
-          "title": "Subscriptions",
-          "text": "Pay for plans and premium content.",
+          "icon": "svg-b5d9e2",
+          "title": "Customer support",
+          "text": "Round the clock, multi-channel support to attend to any troubleshooting issues with the app.",
           "hidden": true
         },
         {
-          "icon": "svg-4bb34d",
-          "title": "Help & Support",
-          "text": "Get help from the team.",
+          "icon": "svg-8987c6",
+          "title": "Payment options",
+          "text": "In-app purchases and multiple payment options to enable users to pay in the medium that suits them the most.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-259ef3",
+          "title": "FAQ",
+          "text": "A detailed FAQ section where every possible query is addressed in a detailed manner.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-58717a",
+          "title": "Blogs",
+          "text": "A branded blog complete with facility to publish text, image and video blogs.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-7405ce",
+          "title": "Recipes",
+          "text": "Explore and find recipes for weight gain, reduction or improving endurance.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-b7ae87",
+          "title": "Rating and Reviews",
+          "text": "Users can review and rate each personal trainer based on their training experience and results achieved.",
           "hidden": true
         }
       ]
     },
     {
-      "id": "provider",
-      "title": "Trainer",
-      "icon": "svg-0358bb",
-      "headIcon": "svg-0358bb",
+      "id": "trainer",
+      "title": "Personal Trainer",
+      "icon": "svg-15eb09",
+      "headIcon": "svg-15eb09",
       "items": [
         {
-          "icon": "svg-b1d532",
-          "title": "Trainer Registration",
-          "text": "Trainers sign up and get verified.",
+          "icon": "svg-113faa",
+          "title": "Profile",
+          "text": "Each personal trainer can create their own profile enlisting their experience, qualifications and certifications.",
           "hidden": false
         },
         {
-          "icon": "svg-7a7a4e",
-          "title": "Create Plans",
-          "text": "Build workout and diet plans.",
+          "icon": "svg-764463",
+          "title": "Upload Workout Videos",
+          "text": "Personal trainers can upload their own workout videos that can help users train themselves.",
           "hidden": false
         },
         {
-          "icon": "svg-53b24f",
-          "title": "Client Requests",
-          "text": "Accept new coaching clients.",
+          "icon": "svg-cdb68e",
+          "title": "Send Reminders",
+          "text": "Facility to send timely reminders to users who have subscribed to personal trainer services.",
           "hidden": false
         },
         {
-          "icon": "svg-8c4ac0",
-          "title": "Session Schedule",
-          "text": "Manage live and one-to-one sessions.",
+          "icon": "svg-d384c3",
+          "title": "Schedule Consultation",
+          "text": "Trainers can approve/reject personal consultation requests made by users.",
           "hidden": false
         },
         {
-          "icon": "svg-d71f31",
-          "title": "Trainer Dashboard",
-          "text": "Clients, plans and earnings together.",
+          "icon": "svg-745c1f",
+          "title": "Manage Workout Plans",
+          "text": "Trainers can organize and manage all workout plans they have suggested to users.",
           "hidden": false
         },
         {
-          "icon": "svg-61ce18",
-          "title": "Client Progress",
-          "text": "Follow each client’s results.",
+          "icon": "svg-1b5e1a",
+          "title": "Track Pre-Workout Details",
+          "text": "Users can be instructed to prep the right way before the intense workout session begins",
           "hidden": false
         },
         {
-          "icon": "svg-e8114e",
-          "title": "Client Chat",
-          "text": "Message clients directly.",
+          "icon": "svg-848abd",
+          "title": "Fitness Chart",
+          "text": "Trainers can see the progress of users in a fitness chart that is designed like a comprehensive dashboard.",
           "hidden": false
         },
         {
-          "icon": "svg-5c8c29",
-          "title": "Live Classes",
-          "text": "Host live or recorded classes.",
+          "icon": "svg-b7ae87",
+          "title": "Rating and Reviews",
+          "text": "Personal trainer can rate and review its trainee as per its dedication and other fitness parameters.",
           "hidden": false
         },
         {
-          "icon": "svg-524484",
-          "title": "Earnings",
-          "text": "Track income and payouts.",
-          "hidden": true
+          "icon": "svg-898805",
+          "title": "Message the users",
+          "text": "Trainers can message to communicate with users to check ongoing workout sessions, future plans and goals to be achieved.",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "id": "dietitian",
+      "title": "Dietitian",
+      "icon": "svg-13f9b2",
+      "headIcon": "svg-13f9b2",
+      "items": [
+        {
+          "icon": "svg-113faa",
+          "title": "Profile",
+          "text": "Each dietitian can create a personalized profile complete with information about their educational background, working experience and expertise.",
+          "hidden": false
         },
         {
-          "icon": "svg-67ec81",
-          "title": "Reviews",
-          "text": "Read client feedback.",
-          "hidden": true
+          "icon": "svg-d24f43",
+          "title": "Customized Nutrition Plan",
+          "text": "Dietitian can easily create a customized nutrition plan for each user with the help of a simplified UI for picking and adding diet items.",
+          "hidden": false
         },
         {
-          "icon": "svg-3e5cbd",
-          "title": "Availability",
-          "text": "Set coaching hours.",
-          "hidden": true
+          "icon": "svg-1855ec",
+          "title": "Subscription Packages",
+          "text": "Dietitians can set their own subscription packages based on their level of experience, expertise and services offered.",
+          "hidden": false
         },
         {
-          "icon": "svg-2671dd",
-          "title": "Support",
-          "text": "Contact the admin team.",
-          "hidden": true
+          "icon": "svg-c18471",
+          "title": "BMI Calculator",
+          "text": "A built-in BMI calculator that allows dietitian to quickly calculate the BMI",
+          "hidden": false
+        },
+        {
+          "icon": "svg-848abd",
+          "title": "Fitness Chart",
+          "text": "Dietitians can create customized fitness charts for each users aligned to their fitness goals and diet practices.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-b7ae87",
+          "title": "Rating and Reviews",
+          "text": "Dietitian can rate and review its client as per its observation and fitness progress.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-898805",
+          "title": "Message the users",
+          "text": "Users and dietitians can text each other to exchange diet charts, frequency of mails, supplements if any, to be taken.",
+          "hidden": false
         }
       ]
     },
     {
       "id": "admin",
       "title": "Admin",
-      "icon": "svg-53c0b4",
-      "headIcon": "svg-53c0b4",
+      "icon": "svg-13eaa7",
+      "headIcon": "svg-13eaa7",
       "items": [
         {
-          "icon": "svg-5fa7c4",
-          "title": "Secure Login",
-          "text": "Role-based access for staff.",
+          "icon": "svg-741948",
+          "title": "Dashboard",
+          "text": "Admins can have control the app’s functioning, users/dietitians/trainers being added to the app from the dashboard.",
           "hidden": false
         },
         {
-          "icon": "svg-07fc9b",
-          "title": "Admin Dashboard",
-          "text": "Members, trainers and revenue in real time.",
+          "icon": "svg-798a42",
+          "title": "User management",
+          "text": "Adding new users, deleting dormant accounts, controlling user privileges — users can do much more with their user management controls.",
           "hidden": false
         },
         {
-          "icon": "svg-c201bb",
-          "title": "Manage Members",
-          "text": "View accounts and subscriptions.",
+          "icon": "svg-bf425a",
+          "title": "Manage Subscription plans",
+          "text": "Add new subscription plans or edit existing ones to reflect the right pricing plan on the app.",
           "hidden": false
         },
         {
-          "icon": "svg-338286",
-          "title": "Manage Trainers",
-          "text": "Approve and manage trainers.",
+          "icon": "svg-5302ce",
+          "title": "Manage trainer",
+          "text": "Admins can add new trainers to the app, check their background and also maintain trainer records in the backend.",
           "hidden": false
         },
         {
-          "icon": "svg-e7a45e",
-          "title": "Manage Content",
-          "text": "Add workouts, plans and articles.",
+          "icon": "svg-912360",
+          "title": "Manage food plans",
+          "text": "Admins can create custom food plans on their own and position them in the app for maximum visibility.",
           "hidden": false
         },
         {
-          "icon": "svg-812812",
-          "title": "Plans & Pricing",
-          "text": "Set subscription plans and prices.",
+          "icon": "svg-212855",
+          "title": "Manage Nutrition",
+          "text": "Create goal-based nutrition plans to help users achieve their fitness goals. Admin can assort and arrange nutrition plans for paid and free members.",
           "hidden": false
         },
         {
-          "icon": "svg-b4dc13",
-          "title": "Reports & Analytics",
-          "text": "Engagement, retention and revenue.",
+          "icon": "svg-8a66ad",
+          "title": "Diet list",
+          "text": "Create and upload a detailed diet list for dishes to be made with specific types of ingredients, recipes, time of the day, etc.",
           "hidden": false
         },
         {
-          "icon": "svg-800400",
-          "title": "Push Notifications",
-          "text": "Send reminders and offers.",
+          "icon": "svg-2a8cc2",
+          "title": "Diet template",
+          "text": "Make it easy for users to follow a diet chart with diet templates that list down food intake, calorie count all in one place.",
           "hidden": false
         },
         {
-          "icon": "svg-91e1f4",
-          "title": "Challenges & Events",
-          "text": "Create community challenges.",
+          "icon": "svg-d7251b",
+          "title": "Workout creation",
+          "text": "Create diverse kinds of workouts like weight training, strength training, athletics, endurance, yoga, etc.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-34d91a",
+          "title": "Exercise management",
+          "text": "Manage exercises to be carried out and personal goals to be achieved from a dashboard.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-0b7d33",
+          "title": "Calorie counter",
+          "text": "Measure calorie intake on a regular basis by giving input of food consumed.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-764463",
+          "title": "Workout videos",
+          "text": "Learn the right way of working out with videos from expert fitness trainers.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-21b8ca",
+          "title": "Blog post",
+          "text": "A dedicated module to manage blogs published in the app’s name.",
           "hidden": true
         },
         {
-          "icon": "svg-60180e",
-          "title": "Manage Refunds",
-          "text": "Handle refunds and disputes.",
+          "icon": "svg-1ecd73",
+          "title": "Diet recipes",
+          "text": "Super admin creates entire diet recipes for all the dietitian. Further dietitians this diet recipes according to users plans.",
           "hidden": true
         },
         {
-          "icon": "svg-becfd7",
-          "title": "Currency & Language",
-          "text": "Support multiple markets.",
+          "icon": "svg-ddf735",
+          "title": "Manage bots",
+          "text": "The app can be integrated with bots that can engage in live chat with users.",
           "hidden": true
         },
         {
-          "icon": "svg-22507c",
-          "title": "Payment Integration",
-          "text": "Connect payment gateways.",
+          "icon": "svg-1d7c05",
+          "title": "Notification management",
+          "text": "Admins set the custom notifications system for the users daily meals, workout plans and fitness goals.",
           "hidden": true
         }
       ]
     }
-  ]
+  ],
+  "variant": "fitness",
+  "text2": "We design and develop health & fitness mobile apps that users, personal trainers, dietitians and admins can use alike.",
+  "bar": {
+    "text": "Do you have a <span id=\"health-fitness-app-development-callouts-type\"></span> We have a TEAM to get you there.",
+    "link": {
+      "href": "/contact",
+      "text": "Get In Touch"
+    },
+    "barClass": "callouts-separate-2 grayoption"
+  }
 }

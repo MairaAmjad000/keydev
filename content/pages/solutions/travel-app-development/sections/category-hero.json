@@ -1,25 +1,23 @@
 {
   "image": {
-    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
-    "alt": "Travel and Tourism development",
+    "src": "/images/service/travel-app-development/banner.webp",
+    "alt": "",
     "width": "1920",
-    "height": "780"
+    "height": "800"
   },
   "sideImage": {
-    "src": "/images/solutions/taxi-app-development/hero-taxi-app.webp",
-    "alt": "Travel and Tourism app",
-    "width": "540",
-    "height": "617"
+    "src": "/images/service/travel-app-development/hero-side.webp",
+    "alt": "travel app development"
   },
-  "sideImageClass": "bannerfixedimagewidth landscape",
-  "headingClass": "text-uppercase f-40",
-  "heading": "Travel and Tourism App Development Company",
-  "text": "Travellers plan and book on their phones. Launch a white label travel app for flights, hotels, tours and experiences, with smooth payments, partner tools and an admin panel to manage it all.",
+  "sideImageClass": "bannerfixedimagewidth",
+  "headingClass": "",
+  "heading": "Let your business take flight with our travel app development",
+  "text": "The modern-day traveler wants to plan a travel door-to-destination and back. A travel mobile app can make that possible.",
   "links": [
     {
       "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Get a Quote Now"
+      "text": "Request a Quote",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -28,7 +26,8 @@
       "href": "/"
     },
     {
-      "text": "Travel and Tourism App Development"
+      "text": "Travel App Development"
     }
-  ]
+  ],
+  "textColumnClass": "col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12"
 }

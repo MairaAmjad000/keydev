@@ -8,16 +8,15 @@
     "categoryHero",
     "brandLogos",
     "introContent",
-    "featureTabs",
+    "keyFeatures",
+    "solutionOffers",
     "whyChoose",
-    "technologies",
-    "idealBusiness",
-    "faq",
-    "solutionCta",
-    "otherSolutions",
+    "moduleBoxes",
     "whyInvest",
+    "otherSolutions",
     "testimonials",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }

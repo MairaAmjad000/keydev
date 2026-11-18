@@ -34,17 +34,23 @@ export function IntroContent({ data }: { data: IntroContentContent }) {
       height={data.image.height}
     />
   );
+  const textCol = (
+    <div className={data.textColumnClass ?? 'col-lg-7 col-md-12 col-sm-12 col-12 order-lg-1 mb-4 m-lg-0'}>
+      {data.contentClass ? <div className={data.contentClass}>{text}</div> : text}
+    </div>
+  );
+  const imageCol = (
+    <div className={data.imageColumnClass ?? 'col-lg-5 col-md-12 col-sm-12 col-12 text-center'}>
+      {data.imageWrapClass ? <div className={data.imageWrapClass}>{picture}</div> : picture}
+    </div>
+  );
   return (
     <section className={data.sectionClass ?? 'service-main-content padding-60 bg-white'}>
       <div className="container">
         <div className={data.rowClass ?? 'row align-items-center'}>
-          <div className="col-lg-7 col-md-12 col-sm-12 col-12 order-lg-1 mb-4 m-lg-0">
-            {data.contentClass ? <div className={data.contentClass}>{text}</div> : text}
-          </div>
+          {data.imageFirst ? imageCol : textCol}
           {' '}
-          <div className="col-lg-5 col-md-12 col-sm-12 col-12 text-center">
-            {data.imageWrapClass ? <div className={data.imageWrapClass}>{picture}</div> : picture}
-          </div>
+          {data.imageFirst ? textCol : imageCol}
         </div>
       </div>
     </section>

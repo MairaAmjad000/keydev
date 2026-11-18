@@ -1,0 +1,134 @@
+{
+  "sectionClass": "padding-60 bg-white ins-msg-how-build-main",
+  "text": "How we Build it?",
+  "heading": "Technology Stack Behind Fitness App Development",
+  "idPrefix": "health-fitness-app-development",
+  "tabs": [
+    {
+      "id": "Application",
+      "title": "Application",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/GoogleFit.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/retrofit.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/health-fitness-app-development/img-3.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/Gradle.svg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "payment-gateway",
+      "title": "Payment Gateway",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/stripe.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/Paypal.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/braintree.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/payu.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "backend",
+      "title": "Backend",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/service/health-fitness-app-development/img-9.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/health-fitness-app-development/img-10.svg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "database",
+      "title": "Database & Server",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/service/health-fitness-app-development/img-11.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/health-fitness-app-development/img-12.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-ec2.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "sms-email",
+      "title": "SMS & E-mail",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/Aws-ses.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "map-and-navigation",
+      "title": "Map & Navigation",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/googlemap.png",
+            "alt": ""
+          }
+        }
+      ]
+    }
+  ]
+}

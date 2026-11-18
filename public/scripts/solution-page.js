@@ -18,6 +18,15 @@ $(document).ready(function () {
     });
   }
 
+  /* Key features: Show All / Show Less for the extra tiles */
+  $('.key-feeature-show-all-button a').on('click', function (e) {
+    e.preventDefault();
+    var $btn = $(this);
+    $btn.closest('.key-features-main').find('.hide').toggleClass('show');
+    $btn.toggleClass('active');
+    $btn.text($btn.hasClass('active') ? $btn.data('show-less') : $btn.data('show-all'));
+  });
+
   /* Feature tabs: Show All / Show Less for the active tab */
   if ($('.car-wash-feature-tab-content').length) {
     $('.show-all-button a').on('click', function (e) {

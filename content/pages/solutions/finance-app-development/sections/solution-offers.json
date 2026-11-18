@@ -1,0 +1,56 @@
+{
+  "sectionClass": "padding-6030 bg-white solution-we-offer-main invest-erp-main",
+  "text": "Solutions",
+  "heading": "Our FinTech offerings",
+  "text2": "We build mobile apps that will transcend your business into the future where the world of finance is accessible at fingertips, literally.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/finance/insurance-apps.webp",
+        "alt": ""
+      },
+      "title": "Insurance Apps",
+      "text": "Apps for the insurance industry that help customers choose, compare and purchase insurance products for life, automobile or business."
+    },
+    {
+      "image": {
+        "src": "/images/finance/investment-apps.webp",
+        "alt": ""
+      },
+      "title": "Investment Apps",
+      "text": "A personal financial advisor in the user’s pocket. From current stock prices to upcoming IPOs, all information made available in a mobile app."
+    },
+    {
+      "image": {
+        "src": "/images/finance/accounting-apps.webp",
+        "alt": ""
+      },
+      "title": "Accounting Apps",
+      "text": "Simple, easy-to-use yet feature-rich accounting apps that helps users to record, classify and manage their accounting records on the go."
+    },
+    {
+      "image": {
+        "src": "/images/finance/banking-apps.webp",
+        "alt": ""
+      },
+      "title": "Banking Apps",
+      "text": "Visiting a bank’s branch in person would be a thing of the future with banking apps. Users can transfer funds, check bank balance, give standing instructions and much more from a banking app."
+    },
+    {
+      "image": {
+        "src": "/images/finance/digital-wallet-apps.webp",
+        "alt": ""
+      },
+      "title": "Digital Wallet Apps",
+      "text": "Who needs ten apps when a single digital wallet can do the task of paying utility bills, phone recharges, online shopping, sending gifts, ticket booking and much more."
+    },
+    {
+      "image": {
+        "src": "/images/finance/personal-finance-apps.webp",
+        "alt": ""
+      },
+      "title": "Personal Finance Apps",
+      "text": "Bringing personal finance under control is not a straightforward task. A well-designed personal finance app can help user manage their personal finance like experts do."
+    }
+  ]
+}

@@ -663,26 +663,36 @@ export interface CategoryHeroContent {
     href: string;
     className: string;
     text: string;
+    /** Classes of the <li> around the button (plain layout). */
+    itemClass?: string;
     /** Small word shown before the button, e.g. "OR". */
     separator?: string;
   }>;
   /** Extra classes of the banner section, e.g. "height668" (tall banner). */
   sectionClass?: string;
+  /** Replaces the default column classes of the text column. */
+  textColumnClass?: string;
   /** Extra classes of the text column, e.g. "text-center". */
   textClass?: string;
   /** Extra classes of the heading, e.g. "text-uppercase f-40". */
   headingClass?: string;
   /** Phone / product picture at the bottom right of the banner (solution pages). */
   sideImage?: CmsImage;
+  /** Second picture shown inside the main one (scrolling phone screen). */
+  sideImageInner?: CmsImage;
+  /** Wraps the text column's content in a <div> with these classes (e.g. "pr-20"). */
+  textWrapperClass?: string;
+  /** Plain layout: heading, text and a button list sit directly in the container (no row/column). */
+  plain?: boolean;
   /** Classes of the picture wrapper (default "bannerfixedimagewidth landscape"). */
   sideImageClass?: string;
   /** Omit for a banner without an enquiry form (the text then spans the full width). */
   form?: {
-    id: string;
     /** Heading above the fields (HTML allowed, e.g. "Get <u>FREE</u> SEO Audit"). */
     title?: string;
     /** Prefix of the reCAPTCHA element ids; default: `id` without its "-banner_form" ending. */
     idPrefix?: string;
+    id: string;
     fields: FormFieldContent[];
     submitText: string;
     errorId: string;
@@ -692,9 +702,13 @@ export interface CategoryHeroContent {
 }
 
 export interface IntroContentContent {
-  heading: string;
   /** Small tagline between the heading and the first paragraph. */
   subheading?: string;
+  /** Picture column first, text second (no order-lg-1). */
+  imageFirst?: boolean;
+  textColumnClass?: string;
+  imageColumnClass?: string;
+  heading: string;
   paragraphs: Array<{ html: string }>;
   link: CmsLink;
   image: CmsImage;
@@ -781,6 +795,8 @@ export interface OfferBoxesContent {
 export interface ModuleBoxesContent {
   /** Classes of the <section> (default "padding-6030 bg-white game-what-we-offer-main"). */
   sectionClass?: string;
+  /** Classes of each card column (default "col-lg-4 col-md-6 col-sm-12 col-12 mb-30"). */
+  columnClass?: string;
   text: string;
   heading: string;
   text2?: string;
@@ -849,7 +865,9 @@ export interface WhyChooseContent {
   rowClass?: string;
   /** Classes of the <section> (default "padding-60 bg-light web-why-choose-us-main"). */
   sectionClass?: string;
-  /** Equal-height helper class of the card grid (default "m-height-170"). */
+  /** Classes of each card column (default "col-lg-6 col-md-6 col-sm-12 col-12"). */
+  columnClass?: string;
+  /** Equal-height helper class of the card grid (default "m-height-170"); an empty string renders no wrapper. */
   heightClass?: string;
   text: string;
   heading: string;
@@ -931,6 +949,9 @@ export interface TechStackTabsContent {
   sectionClass?: string;
   text: string;
   heading: string;
+  text2?: string;
+  /** Classes of the title block (default "title"). */
+  titleClass?: string;
   /** Prefix for the tab / pane ids so several tab groups can share a page. */
   idPrefix: string;
   tabs: Array<{ id: string; title: string; icons: Array<{ image: CmsImage }> }>;
@@ -950,8 +971,15 @@ export interface WhyChooseImageContent {
 // ---------------------------------------------------------------------------------------------
 
 export interface FeatureTabsContent {
+  /** "fitness": callout bar + tab strip and cards in their own panels, plainer tab icons and cards. */
+  variant?: 'fitness';
+  /** Callout bar rendered at the top of the section. */
+  bar?: CalloutBarContent;
+  /** Classes of the <section> (default "padding-60 bg-light car-wash-feature-main"). */
+  sectionClass?: string;
   text: string;
   heading: string;
+  text2?: string;
   /** Prefix for the tab / pane ids so the tabs stay unique on the page. */
   idPrefix: string;
   showAllText: string;
@@ -989,14 +1017,18 @@ export interface SolutionCtaContent {
 }
 
 export interface OtherSolutionsContent {
+  /** Classes of the <section> (default "padding-6030 bg-light other-demand-app-main"). */
+  sectionClass?: string;
   text: string;
   heading: string;
-  items: Array<{ icon: string; title: string; href: string }>;
+  items: Array<{ icon: string; title: string; href: string; /** Classes of the column (default "col-lg-3 col-md-3 col-sm-6 col-12 mb-30"). */ columnClass?: string }>;
 }
 
 export interface WhyInvestContent {
   /** Classes of the <section> (default "padding-6030 bg-white why-you-invest-main invest-erp-main"). */
   sectionClass?: string;
+  /** Equal-height wrapper class (default "m-height-130"); an empty string renders no wrapper. */
+  heightClass?: string;
   /** Classes of the container (default "container mt-md-5"). */
   containerClass?: string;
   /** Classes of each card column (default "col-lg-4 col-md-6 col-sm-6 col-12 mb-30"). */
@@ -1305,6 +1337,10 @@ export interface EstimateWizardContent {
       iosLink: string;
       additional: string;
     };
+    /** First option of the region select (replaces the shared list's "Your Region"). */
+    regionPlaceholder?: string;
+    /** "Thank you" modal rendered after the wizard. */
+    successModal?: { title: string; subtitle: string; text: string; buttonText: string; homeHref: string };
     successTitle: string;
     errorTitle: string;
     errorText: string;
@@ -1416,11 +1452,15 @@ export interface PolicyContentContent {
 // ---------------------------------------------------------------------------------------------
 
 export interface IndustryTabsContent {
+  /** Render icons as bare <svg> (no "app-svg-icon" wrapper div). */
+  bareIcons?: boolean;
   /** Classes of the heading <section> (default "padding-60 bg-light p-relative pb-0"). */
   sectionClass?: string;
   /** Small label above the heading. The title block is left out when `heading` is empty. */
   text: string;
   heading: string;
+  /** Short paragraph under the heading. */
+  text2?: string;
   /** Callout bar shown at the top of the title block (e.g. "Do you have a VISION? ..."). */
   callout?: CalloutBarContent;
   items: Array<{
@@ -1444,6 +1484,8 @@ export interface AppPlatformsContent {
 }
 
 export interface AppWhyChooseContent {
+  /** Classes of the row (default "row"). */
+  rowClass?: string;
   /** Classes of the <section> (default "padding-60 bg-white"). */
   sectionClass?: string;
   /** Callout bar shown at the top of the section; use with a "p-relative" section class. */
@@ -1522,4 +1564,158 @@ export interface GameExpertiseContent {
   text2: string;
   /** `icon`: key of the icon registry (e.g. "svg-1a2b3c") or inline SVG markup. */
   items: Array<{ icon: string; label: string }>;
+}
+
+/** Case-study block with two app pictures bleeding in from the right (solution pages). */
+export interface SimilarAppContent {
+  /** Classes of an empty spacer <div> rendered right after the section. */
+  spacerAfter?: string;
+  /** Full-bleed background picture; switches to the "fitness" layout (empty left column, text on the right). */
+  backgroundImage?: CmsImage;
+  sectionClass: string;
+  heading: string;
+  paragraphs: Array<{ html: string }>;
+  link: CmsLink;
+  images: { first: CmsImage; second: CmsImage; /** Shown on small screens instead of the pair. */ mobile: CmsImage };
+}
+
+/** "How it works" snake of step boxes under a callout bar (solution pages). */
+export interface WorkflowProcessContent {
+  sectionClass: string;
+  bar: { text: string; link: { href: string; text: string } };
+  /** Extra classes of the callout bar (e.g. "callouts-separate-2"). */
+  barClass: string;
+  containerClass: string;
+  text: string;
+  heading: string;
+  arrowImage?: CmsImage;
+  items: Array<{
+    /** Bootstrap column + order classes of the step. */
+    columnClass: string;
+    delay?: string;
+    duration?: string;
+    icon: string;
+    text: string;
+    /** e.g. "bt arrow", "down arrow", "bb rotate arrow". */
+    arrowClass: string;
+    /** Leave the arrow box empty. */
+    noArrowImage?: boolean;
+  }>;
+}
+
+/** Grid of small feature tiles (industry solution pages). */
+export interface KeyFeaturesContent {
+  /** Classes of the <section> (default "padding-60 key-features-main bg-light"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  items: Array<{ icon: string; title: string; /** Hidden until "Show All" is pressed. */ hidden?: boolean }>;
+  /** "Show All" button for the hidden tiles. */
+  showAll?: { text: string; lessText: string };
+  /** Classes of an empty spacer <div> rendered right after the section. */
+  spacerAfter?: string;
+}
+
+/** Two-column picture + text-panel cards (industry solution pages). */
+export interface SolutionOffersContent {
+  /** Classes of the card row (default "row justify-content-center"). */
+  rowClass?: string;
+  /** Classes of the <section> (default "padding-6030 bg-white solution-we-offer-main invest-erp-main"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  items: Array<{ image: CmsImage; title: string; text: string }>;
+}
+
+/** Big picture with audience icons overlaid (health & fitness page). */
+export interface FitnessAudienceContent {
+  /** Classes of the <section> (default "padding-60 bg-white fitness-app-main"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  image: CmsImage;
+  items: Array<{ icon: string; title: string }>;
+}
+
+/** Messaging-app feature picker: phone picture + clickable feature list (chat solution page). */
+export interface MessagingFeaturesContent {
+  /** Classes of the <section> (default "padding-60 bg-light ins-msg-solution-main"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  items: Array<{ title: string; icon: string; image: CmsImage; text: string; /** Further paragraphs shown under `text`. */ moreText?: string[] }>;
+}
+
+/** Admin-panel block: text beside a big screenshot (chat solution page). */
+export interface MessagingPanelsContent {
+  /** Classes of the <section> (default "padding-60 bg-white ins-msg-app-panels-main"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  panelTitle: string;
+  paragraphs: Array<{ html: string }>;
+  image: CmsImage;
+}
+
+/** Cards of app kinds with a strip of platform logos (social media solution page). */
+export interface SocialTypesContent {
+  /** Classes of the <section> (default "padding-6030 bg-white solution-we-offer-main invest-erp-main"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  items: Array<{ title: string; text: string; logos: CmsImage[] }>;
+}
+
+/** Feature tabs with icon tiles and per-pane "Show All" (fantasy sports page). */
+export interface KeyFeatureTabsContent {
+  /** Classes of the <section> (default "padding-60 bg-light car-wash-feature-main key-feature-opt2"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  idPrefix: string;
+  showAllText: string;
+  showLessText: string;
+  tabs: Array<{
+    id: string;
+    title: string;
+    /** Extra class of the tile row, e.g. "m-height-300". */
+    heightClass?: string;
+    items: Array<{ icon: string; title: string; hidden?: boolean }>;
+  }>;
+}
+
+/** Heading-only block introducing a case study. */
+export interface CaseStudyContent {
+  /** Classes of the <section> (default "padding-6030 bg-white"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+}
+
+/** Advantage cards of the chatbot page. */
+export interface ChatbotAdvantagesContent {
+  /** Classes of the <section> (default "padding-6030 bg-light chatbot-adv"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  items: Array<{ icon: string; title: string; text: string }>;
+}
+
+/** Platform boxes of the chatbot page. */
+export interface ChatbotPlatformsContent {
+  /** Classes of the <section> (default "padding-60 bg-white"). */
+  sectionClass?: string;
+  text: string;
+  heading: string;
+  text2?: string;
+  items: Array<{ image: CmsImage; text: string; /** Default "col-lg-6 col-md-6 col-12 mb-30". */ columnClass?: string }>;
 }

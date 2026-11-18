@@ -1,25 +1,23 @@
 {
   "image": {
-    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
+    "src": "/images/service/taxi-app-development/banner.webp",
     "alt": "taxi app development",
     "width": "1920",
-    "height": "780"
+    "height": "800"
   },
   "sideImage": {
-    "src": "/images/solutions/taxi-app-development/hero-taxi-app.webp",
-    "alt": "taxi app development company",
-    "width": "540",
-    "height": "617"
+    "src": "/images/service/taxi-app-development/hero-side.webp",
+    "alt": "taxi app development company"
   },
   "sideImageClass": "bannerfixedimagewidth landscape",
   "headingClass": "text-uppercase f-40",
-  "heading": "Taxi App Development Company",
+  "heading": "TAXI APP DEVELOPMENT COMPANY",
   "text": "On-demand taxi booking has matured into a Billion dollar market. Take a slice of that market with your own white label UBER like taxi app and get it customized to all corners. From onboarding admins to enlisting taxi drivers and also managing customer data, our taxi app developers can help you with a taxi app development solution that can do it all.",
   "links": [
     {
       "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Get a Quote Now"
+      "text": "Get a Quote Now",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [

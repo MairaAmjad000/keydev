@@ -1,0 +1,36 @@
+{
+  "sectionClass": "similar-app-main fitness",
+  "heading": "From out-of-shape to ripped model, an app that helps users get fit",
+  "paragraphs": [
+    {
+      "html": "Fitness is for all. But, not everyone knows the best practices to get fit without burning out. One of our clients approached to build a mobile app that will act like an assistant to those who want to get fit. Form Assist would be a mobile app that will train users what to eat, how to work out and how to become the best selves that they want to be."
+    },
+    {
+      "html": "In order to make the app a truly personalized health and fitness coach, we integrated the app with features like recipe finding, workout planning, chat with dietitians and trainers, goal setting and activity tracking and much more. The app was well-received in app stores and continues to help several users reach their fitness goals."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Get Your Fitness App Developed Now",
+    "className": "btn-custome btn btn-lg waves-effect waves-light"
+  },
+  "images": {
+    "first": {
+      "src": "/images/service/health-fitness-app-development/similar-1.webp",
+      "alt": ""
+    },
+    "second": {
+      "src": "/images/service/health-fitness-app-development/similar-2.webp",
+      "alt": ""
+    },
+    "mobile": {
+      "src": "/images/service/health-fitness-app-development/similar-mobile.webp",
+      "alt": ""
+    }
+  },
+  "spacerAfter": "padding-60-00 d-none d-lg-block",
+  "backgroundImage": {
+    "src": "/images/service/health-fitness-app-development/fitness-bg.webp",
+    "alt": "health and fitness app development"
+  }
+}

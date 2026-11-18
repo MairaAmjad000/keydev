@@ -10,7 +10,7 @@ export function TechStackTabs({ data }: { data: TechStackTabsContent }) {
   return (
     <section className={data.sectionClass ?? 'padding-60 bg-light ins-msg-how-build-main'}>
       <div className="container">
-        <div className="title">
+        <div className={data.titleClass ?? 'title'}>
           <span>{data.text}</span>
           {' '}
           <h2>{data.heading}</h2>

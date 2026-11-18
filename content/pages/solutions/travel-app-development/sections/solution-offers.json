@@ -1,0 +1,56 @@
+{
+  "sectionClass": "padding-6030 bg-white solution-we-offer-main invest-erp-main",
+  "text": "Types of Apps",
+  "heading": "Travel App Development Solutions we offer",
+  "text2": "The travel and tourism industry is not made up of a single activity. It is the coming together of several activities. No matter what activity you want to focus on, we can build an app for that.",
+  "items": [
+    {
+      "image": {
+        "src": "/images/travel/travel-planning.webp",
+        "alt": ""
+      },
+      "title": "Travel Planning",
+      "text": "Apps that help travelers to find new destinations, explore mode of transport to reach them, know about its history and landmarks, read other traveler stories and much more."
+    },
+    {
+      "image": {
+        "src": "/images/travel/hotel-booking.webp",
+        "alt": ""
+      },
+      "title": "Hotel Booking",
+      "text": "A place to rest when done traveling is hard to find. We build mobile apps that will help weary travelers find a safe place to rest and rejuvenate so that they can start again the next day."
+    },
+    {
+      "image": {
+        "src": "/images/travel/ticket-booking.webp",
+        "alt": ""
+      },
+      "title": "Ticket Booking",
+      "text": "KeyDevs Technologies can help your business build mobile apps for ticket booking for flight, train, cab, bikes or even luxury cruises. If you want to sell a ticket, we can build you an app for that."
+    },
+    {
+      "image": {
+        "src": "/images/travel/finding-home-stay.webp",
+        "alt": ""
+      },
+      "title": "Finding Home Stay",
+      "text": "On one hand hosts with home stays. On the other, verified travelers who want interesting places to stay. Make them both meet with a mobile app that is built on the lines of vacation rental marketplace."
+    },
+    {
+      "image": {
+        "src": "/images/travel/virtual-tours.webp",
+        "alt": ""
+      },
+      "title": "Virtual Tours",
+      "text": "Travel is an experience. Let your users experience them the best from the comfort of their couch with virtual tours. We can help you build a mobile app that gives virtual tours from Australia to Zambia."
+    },
+    {
+      "image": {
+        "src": "/images/travel/vehicle-rental-booking.webp",
+        "alt": ""
+      },
+      "title": "Vehicle Rental Booking",
+      "text": "On-demand vehicle rental services are better when they can be accessed through a mobile app. Build the UBER for vehicle rental booking with our mobile app development expertise."
+    }
+  ]
+}

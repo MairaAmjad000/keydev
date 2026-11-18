@@ -1,318 +1,321 @@
 {
-  "text": "Sets of Features",
-  "heading": "The Main Features Of Our Food Delivery App Development Services",
+  "sectionClass": "padding-60 bg-light car-wash-feature-main",
+  "text": "Comprehensive Featureset",
+  "heading": "Unique Features We Embed in Food Delivery App Development",
   "idPrefix": "food-delivery-app-development",
   "showAllText": "Show All",
   "showLessText": "Show Less",
   "tabs": [
     {
       "id": "user",
-      "title": "Customer",
+      "title": "User",
       "icon": "svg-c59471",
       "headIcon": "svg-c59471",
       "items": [
         {
-          "icon": "svg-30846f",
-          "title": "Customer Profile",
-          "text": "Save contact details, addresses and preferences.",
+          "icon": "svg-9f7cf1",
+          "title": "Easy Onboarding",
+          "text": "Users can quickly sign up and log in to start using the app. Single sign ons and social logins makes the onboarding a breeze through.",
           "hidden": false
         },
         {
-          "icon": "svg-b20b29",
-          "title": "Restaurant Search",
-          "text": "Find restaurants by cuisine, rating, distance or delivery time.",
+          "icon": "svg-69084b",
+          "title": "Nearby Restaurants",
+          "text": "Users can search and find nearby restaurants that serve their favorite dishes by running a search enabled with geo-location.",
           "hidden": false
         },
         {
-          "icon": "svg-2c96b2",
-          "title": "Menu & Customisation",
-          "text": "Browse menus and customise dishes with add-ons.",
+          "icon": "svg-1a3117",
+          "title": "Restaurant Menu",
+          "text": "Option to view the restaurant menu online on the mobile app just like it would be presented by a smiling waiter at the restaurant.",
           "hidden": false
         },
         {
-          "icon": "svg-971d83",
-          "title": "Quick Reorder",
-          "text": "Reorder favourite meals with a single tap.",
+          "icon": "svg-6a6ed1",
+          "title": "Order Tracking",
+          "text": "Be in the know of how long before the food will arrive at the user doorstep. GPS-enabled app ensures real-time info for users & admins.",
           "hidden": false
         },
         {
-          "icon": "svg-2e6bf5",
-          "title": "Schedule Orders",
-          "text": "Order now or choose a delivery time later.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-16859b",
-          "title": "Live Order Tracking",
-          "text": "Follow the order from kitchen to doorstep.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-7cf20d",
-          "title": "Delivery ETA",
-          "text": "See an estimated delivery time for every order.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-0e5a71",
+          "icon": "svg-1e293e",
           "title": "Multiple Payment Options",
-          "text": "Cash on delivery, cards and wallets.",
+          "text": "Cash on delivery, debit/credit cards, online banking or food coupons - users can pay any way they wish.",
           "hidden": false
         },
         {
-          "icon": "svg-b84dab",
-          "title": "Offers & Coupons",
-          "text": "Apply promo codes and loyalty rewards.",
+          "icon": "svg-c19311",
+          "title": "Re-Order",
+          "text": "Repeating a favorite order should not take time or energy. Reorder feature makes it easy for users to repeat previous orders.",
           "hidden": false
         },
         {
-          "icon": "svg-e5be1c",
-          "title": "Order Notifications",
-          "text": "Alerts for confirmation, preparation, dispatch and delivery.",
+          "icon": "svg-3c6ba3",
+          "title": "Schedule Order",
+          "text": "Schedule the order to be placed and delivered at a stipulated time and place most convenient to the user.",
           "hidden": false
         },
         {
-          "icon": "svg-67ec81",
+          "icon": "svg-c30b54",
+          "title": "Takeaway Option",
+          "text": "Order online, takeaway offline. Users can place orders from restaurants, pay for them and pick them up themselves.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-c971b7",
           "title": "Ratings & Reviews",
-          "text": "Rate restaurants, dishes and riders.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-0d0a3d",
-          "title": "Order History",
-          "text": "Browse previous orders and receipts.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-2ea89f",
-          "title": "Contact Rider",
-          "text": "Call or message the rider about the delivery.",
+          "text": "General feedback from users can be collected and displayed in the form of text reviews and star ratings against each restaurant.",
           "hidden": true
         },
         {
-          "icon": "svg-1d73bf",
-          "title": "Cancel Order",
-          "text": "Cancel within the allowed window.",
+          "icon": "svg-bf3c2d",
+          "title": "Promos & Offers",
+          "text": "Promo codes, seasonal offers, coupon codes and several other innovative forms of incentives can be baked into the app.",
           "hidden": true
         },
         {
-          "icon": "svg-f34f5a",
-          "title": "Referral Rewards",
-          "text": "Reward customers who bring friends.",
+          "icon": "svg-302763",
+          "title": "Manage Profile",
+          "text": "From display name to delivery addresses and everything in between like favorite payment mode, users can manage their profile in all ways.",
           "hidden": true
         },
         {
           "icon": "svg-4bb34d",
           "title": "Help & Support",
-          "text": "Get help on any order from inside the app.",
+          "text": "One-touch help and support system that allows users to reach out to support team for immediate assistance.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-bb9d31",
+          "title": "Push Notifications",
+          "text": "In-app push notifications that alert users of placed orders, completed orders, cancelled orders, new offers and much more.",
           "hidden": true
         }
       ]
     },
     {
-      "id": "provider",
-      "title": "Rider",
-      "icon": "svg-0358bb",
-      "headIcon": "svg-0358bb",
+      "id": "driver",
+      "title": "Driver",
+      "icon": "svg-ace64a",
+      "headIcon": "svg-ace64a",
       "items": [
         {
-          "icon": "svg-b1d532",
-          "title": "Easy Registration",
-          "text": "Riders sign up and submit documents for approval.",
+          "icon": "svg-75071a",
+          "title": "Create Profile",
+          "text": "Driver can create their unique profile complete with vehicle details, driving license number & contact details.",
           "hidden": false
         },
         {
-          "icon": "svg-3e5cbd",
-          "title": "Go Online or Offline",
-          "text": "Choose when to receive delivery requests.",
+          "icon": "svg-70b124",
+          "title": "Availability Settings",
+          "text": "Driver can toggle between available and unavailable status to take or reject upcoming deliver orders.",
           "hidden": false
         },
         {
-          "icon": "svg-53b24f",
-          "title": "Delivery Requests",
-          "text": "Get nearby orders in real time.",
+          "icon": "svg-33442f",
+          "title": "Receive Order",
+          "text": "Drivers can receive orders and accept them for deliver to customer location even while processing another order.",
           "hidden": false
         },
         {
-          "icon": "svg-5c8c29",
-          "title": "Accept or Reject",
-          "text": "Take only the deliveries that fit.",
+          "icon": "svg-0380f1",
+          "title": "Receive Delivery Location",
+          "text": "The order will contain accurate location details of the customer that will help the driver locate them faster.",
           "hidden": false
         },
         {
-          "icon": "svg-7a7a4e",
-          "title": "Order Details",
-          "text": "See pickup, drop-off and order items.",
+          "icon": "svg-e44ca4",
+          "title": "Receive Multiple Deliveries",
+          "text": "Real-time location based order matching ensures that drivers can be assigned multiple deliveries at the same time.",
           "hidden": false
         },
         {
-          "icon": "svg-11ba6c",
-          "title": "Navigation",
-          "text": "Optimised routes to restaurant and customer.",
+          "icon": "svg-f896ec",
+          "title": "Manage Orders",
+          "text": "Depending on the ETA of each order, drivers can prioritise the delivery for each order.",
           "hidden": false
         },
         {
-          "icon": "svg-86fb3f",
-          "title": "Pickup & Delivery Status",
-          "text": "Update the order status at every step.",
+          "icon": "svg-bc6fa3",
+          "title": "Realtime Tracking",
+          "text": "Track the time elapsed for each order on a real-time basis to ensure that orders are delivered without delays.",
           "hidden": false
         },
         {
-          "icon": "svg-e8114e",
-          "title": "Contact Customer",
-          "text": "Reach the customer without exposing numbers.",
+          "icon": "svg-9510e2",
+          "title": "Delivery Status",
+          "text": "Multiple options to update delivery status as completed, in progress, abandoned, or customer unavailable.",
           "hidden": false
         },
         {
-          "icon": "svg-61ce18",
-          "title": "Delivery Summary",
-          "text": "Distance, time and payout for each delivery.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-524484",
-          "title": "Track Earnings",
-          "text": "View earnings, tips and incentives.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-d71f31",
-          "title": "Rider Dashboard",
-          "text": "Deliveries and ratings in one view.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-8c4ac0",
-          "title": "Upcoming Orders",
-          "text": "See scheduled orders ahead of time.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-90088c",
-          "title": "Emergency Contacts",
-          "text": "Quick access to help on the road.",
+          "icon": "svg-a15a23",
+          "title": "View Order History",
+          "text": "A comprehensive view of the number of order delivered, cancelled, with timestamps.",
           "hidden": true
         },
         {
-          "icon": "svg-38939a",
-          "title": "Cash & Payouts",
-          "text": "Manage cash collected and payouts.",
+          "icon": "svg-ced7cd",
+          "title": "Payment History",
+          "text": "Drivers can keep a track of their total money collected and their individuals earnings from completed deliveries.",
           "hidden": true
         },
         {
-          "icon": "svg-c47be4",
-          "title": "Delivery History",
-          "text": "Review every completed delivery.",
+          "icon": "svg-64b5a8",
+          "title": "Notifications",
+          "text": "Push notifications for new deliveries, canceled deliveries, change in delivery locations, and much more.",
           "hidden": true
         },
         {
-          "icon": "svg-2671dd",
-          "title": "Support",
-          "text": "Chat with the admin team when needed.",
+          "icon": "svg-4bb34d",
+          "title": "Help & Support",
+          "text": "In-app support portal as well as emergency support that can help drivers reach out for immediate assistance.",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "restaurant",
+      "title": "Restaurant",
+      "icon": "svg-95083b",
+      "headIcon": "svg-95083b",
+      "items": [
+        {
+          "icon": "svg-3b5b20",
+          "title": "Profile Creation",
+          "text": "Restaurant owners can create unique profiles for their restaurants complete with images and videos.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2dae4d",
+          "title": "Manage Business Info",
+          "text": "Option to manage business info like working hours, location & contact details on the profile.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-ae8eff",
+          "title": "Manage Menu",
+          "text": "Add, edit or remove dishes from the menu on a real-time basis. Pricing can also be updated from time-to-time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-998f77",
+          "title": "Order Alerts",
+          "text": "Restaurant admin can get alerts for new orders, upcoming orders or cancelled orders.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-f896ec",
+          "title": "Manage Orders",
+          "text": "Accept or reject orders depending on the working hours, staff availability and cooking time.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-156005",
+          "title": "Payment Management",
+          "text": "Multiple payment options including credit/debit cards, online banking, digital wallets, promo codes, etc.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-3ce9b5",
+          "title": "Reply To Reviews",
+          "text": "Restaurant owners can respond to reviews submitted by customers on their profiles.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-fe6672",
+          "title": "Manage Promos",
+          "text": "Release new promos, cancel ongoing ones, limit promos by time period or order numbers or set ceiling limits.",
+          "hidden": false
+        },
+        {
+          "icon": "svg-2139bd",
+          "title": "Get Insights",
+          "text": "Know customer behaviour better by getting insights about frequently ordered dishes, location, time, etc.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-e26695",
+          "title": "Customer Details",
+          "text": "Know more about the customer, their location and payment history to whom the delivery is to be dispatched.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-4bb34d",
+          "title": "Help & Support",
+          "text": "In-app support portal as well as emergency support to find quick resolutions to issues within the app.",
+          "hidden": true
+        },
+        {
+          "icon": "svg-0c33d4",
+          "title": "Track Order History",
+          "text": "Restaurant admin can keep a real-time check on the order history to compute earnings and other key metrics.",
           "hidden": true
         }
       ]
     },
     {
       "id": "admin",
-      "title": "Admin",
+      "title": "Admin Panel",
       "icon": "svg-53c0b4",
       "headIcon": "svg-53c0b4",
       "items": [
         {
-          "icon": "svg-5fa7c4",
-          "title": "Secure Login",
-          "text": "Role-based access for the admin team.",
+          "icon": "svg-f263ba",
+          "title": "Restaurant Management",
+          "text": "Admins can add and manage multiple restaurants from a single admin profile.",
           "hidden": false
         },
         {
-          "icon": "svg-07fc9b",
-          "title": "Admin Dashboard",
-          "text": "Live view of orders, revenue and activity.",
+          "icon": "svg-84da61",
+          "title": "Menu Management",
+          "text": "Monitor menu pricing and edit menu items for multiple properties concurrently.",
           "hidden": false
         },
         {
-          "icon": "svg-e7a45e",
-          "title": "Manage Restaurants",
-          "text": "Onboard restaurants and manage menus.",
+          "icon": "svg-b7e029",
+          "title": "Customer Management",
+          "text": "Maintain a detailed customer information index for improving service quality.",
           "hidden": false
         },
         {
-          "icon": "svg-338286",
-          "title": "Manage Riders",
-          "text": "Approve, assign and monitor riders.",
+          "icon": "svg-efa2b2",
+          "title": "Order Management",
+          "text": "Accept or reject orders. Prioritize orders for processing and delivery based on delivery personnel availability.",
           "hidden": false
         },
         {
-          "icon": "svg-c201bb",
-          "title": "Manage Customers",
-          "text": "View customers and their orders.",
+          "icon": "svg-a279c0",
+          "title": "Payments & Commissions",
+          "text": "Facility to configure various commission rates and payment modes for restaurants.",
           "hidden": false
         },
         {
-          "icon": "svg-5d5ddc",
-          "title": "Live Order Map",
-          "text": "Track every active delivery on a map.",
+          "icon": "svg-fb000f",
+          "title": "Feedback Management",
+          "text": "Collect, manage and respond to customer feedback received. Block offensive users if needed.",
           "hidden": false
         },
         {
-          "icon": "svg-812812",
-          "title": "Fees & Commissions",
-          "text": "Set delivery fees, taxes and commissions.",
+          "icon": "svg-efa2b2",
+          "title": "Offers Management",
+          "text": "A single window to manage all ongoing and upcoming offers. Ongoing offers can be linked to payment section for smooth checkouts.",
           "hidden": false
         },
         {
-          "icon": "svg-4dcb5a",
-          "title": "Delivery Zones",
-          "text": "Define zones and see demand hot spots.",
+          "icon": "svg-07c84b",
+          "title": "Notifications Management",
+          "text": "Create push notifications for new orders, dispatched orders, cancelled orders or completed orders.",
           "hidden": false
         },
         {
-          "icon": "svg-b4dc13",
-          "title": "Reports & Analytics",
-          "text": "Sales, popular dishes and delivery performance.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-91e1f4",
-          "title": "Manual Orders",
-          "text": "Place orders on behalf of customers.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-60180e",
-          "title": "Manage Refunds",
-          "text": "Handle refunds and disputes.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-91b25f",
-          "title": "SMS Alerts",
-          "text": "Configure SMS notifications.",
-          "hidden": false
-        },
-        {
-          "icon": "svg-800400",
-          "title": "Push Notifications",
-          "text": "Send offers and announcements.",
+          "icon": "svg-878651",
+          "title": "Reporting & Analytics",
+          "text": "Have a pulse of the business with real-time reporting and analytics that are displayed in the form of a dashboard.",
           "hidden": true
         },
         {
-          "icon": "svg-becfd7",
-          "title": "Currency & Language",
-          "text": "Support multiple currencies and languages.",
-          "hidden": true
-        },
-        {
-          "icon": "svg-8f78cc",
-          "title": "Dispatch Panel",
-          "text": "Assign orders to riders manually when needed.",
-          "hidden": true
-        },
-        {
-          "icon": "svg-22507c",
-          "title": "Payment Integration",
-          "text": "Connect cards, banking and wallet gateways.",
+          "icon": "svg-3ba493",
+          "title": "Support",
+          "text": "Support portal to reach out for immediate resolution of technical glitches, payment issues, etc.",
           "hidden": true
         }
       ]

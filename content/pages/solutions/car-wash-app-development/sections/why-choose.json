@@ -1,39 +1,40 @@
 {
-  "sectionClass": "padding-60 web-why-choose-us-inner car-wash-advantage-main bg-light",
+  "sectionClass": "padding-60 web-why-choose-us-inner car-wash-advantage-main bg-white",
   "heightClass": "m-height-130",
-  "text": "Why should you invest?",
-  "heading": "The Advantages of our Car Wash App Development",
+  "rowClass": "row align-items-center",
+  "text": "Advantage",
+  "heading": "You stand to gain a lot from resorting to our on demand car wash app development services.",
   "paragraphs": [],
   "items": [
     {
-      "icon": "svg-597df0",
-      "title": "100% customizable",
-      "text": "Customize the app with your own brand colours, fonts, themes and workflows."
-    },
-    {
       "icon": "svg-6c692d",
       "title": "White Label Solution",
-      "text": "Present the app as your own, with no watermarks or logo restrictions."
+      "text": "Have your own branded car wash app with our white label solution that can configured with brand presets."
+    },
+    {
+      "icon": "svg-597df0",
+      "title": "100% customizable",
+      "text": "Customize every pixel of the app to give it a unique touch and feel that is different from all competitors."
     },
     {
       "icon": "svg-64c9c1",
-      "title": "High-end Security",
-      "text": "Encryption-based security prevents unauthorised access across the apps and admin panel."
+      "title": "Robust Admin Access",
+      "text": "Admin can 360-degree control of the app’s activities, user activity and service provider management."
+    },
+    {
+      "icon": "svg-9b8cb8",
+      "title": "Multi-lingual",
+      "text": "The app can be configured to function in more than 60+ languages. Users as well as admin can switch between languages easily."
+    },
+    {
+      "icon": "svg-27eff5",
+      "title": "Multiple Payment Gateway",
+      "text": "Integrate your app with any payment gateway or gateways of your choice. Give your customers the flexibility to use any gateway of their choice."
     },
     {
       "icon": "svg-6e2780",
       "title": "Ready to Market",
-      "text": "The core solution is already tested and can be deployed quickly after customisation."
-    },
-    {
-      "icon": "svg-80a331",
-      "title": "Scalable and Robust",
-      "text": "A robust backend and scalable database keep pace with your growth."
-    },
-    {
-      "icon": "svg-d16f5a",
-      "title": "Industry-Focused",
-      "text": "Adapt the app to behave like a native product for your industry."
+      "text": "Build and launch the app in quick time without losing much time for developing, designing or customization. Our ready-to-market solution will ensure you go live quickly."
     }
   ]
 }

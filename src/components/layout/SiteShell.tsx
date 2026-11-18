@@ -28,17 +28,26 @@ export function SiteShell({ site, page }: { site: SiteData; page: PageData }) {
         <CallBackSidebar data={site.callBackSidebar} forms={site.forms} />
       </div>
       {' '}
-      <div>
-        <SectionRenderer sections={withGlobalSections(page, site.globalSections)} forms={site.forms} />
-        {' '}
-        <Footer data={site.footer} />
-        {' '}
-        <QuotePopup data={site.quotePopup} forms={site.forms} />
-        {' '}
-        <CookieAlert data={site.cookieAlert} />
-        {' '}
-        <HireStickyBar data={site.hireStickyBar} />
-      </div>
+      {page.bareLayout ? (
+        <div>
+          <SectionRenderer sections={withGlobalSections(page, site.globalSections)} forms={site.forms} />
+        </div>
+      ) : (
+        <>
+          <main>
+            <SectionRenderer sections={withGlobalSections(page, site.globalSections)} forms={site.forms} />
+            {' '}
+            <Footer data={site.footer} />
+          </main>
+          <div>
+            <QuotePopup data={site.quotePopup} forms={site.forms} />
+            {' '}
+            <CookieAlert data={site.cookieAlert} />
+            {' '}
+            <HireStickyBar data={site.hireStickyBar} />
+          </div>
+        </>
+      )}
       <SiteScripts />
     </>
   );

@@ -1,0 +1,40 @@
+{
+  "sectionClass": "padding-60 key-features-main bg-light",
+  "text": "Key Features",
+  "heading": "The many possibilities of Fintech App Development",
+  "text2": "A single mobile app to do the multifaceted tasks of finance and accounting management.",
+  "items": [
+    {
+      "icon": "svg-dc969f",
+      "title": "Payment Gateway Integration"
+    },
+    {
+      "icon": "svg-c98330",
+      "title": "Multiple authentication System"
+    },
+    {
+      "icon": "svg-926011",
+      "title": "Calculators for loan and tax"
+    },
+    {
+      "icon": "svg-207f5a",
+      "title": "Data Analytics"
+    },
+    {
+      "icon": "svg-64563e",
+      "title": "Compliance and Regulation"
+    },
+    {
+      "icon": "svg-eaa114",
+      "title": "Encrypted Data"
+    },
+    {
+      "icon": "svg-e17d4e",
+      "title": "Wallet Integration"
+    },
+    {
+      "icon": "svg-15cca8",
+      "title": "Custom Reporting"
+    }
+  ]
+}

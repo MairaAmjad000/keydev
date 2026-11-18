@@ -1,0 +1,19 @@
+{
+  "sectionClass": "padding-60 bg-white ins-msg-app-panels-main",
+  "text": "Manage with ease",
+  "heading": "Ready-to-go Admin Panel",
+  "text2": "From setting the theme of the chatbox to moderating member acitivity, command complete control over your instant messaging app",
+  "panelTitle": "One panel to manage them all",
+  "paragraphs": [
+    {
+      "html": "Being a leader and being an admin are almost the same thing. You have to ensure that all your users get the features they want. At the same time, you cannot be monitoring their activity on an individual basis. You need a single command center, a control console from where everything can be handled."
+    },
+    {
+      "html": "KeyDevs Technologies understands this need for building a comprehensive control panel for its instant messaging app solutions. We have designed the admin app panel in such a manner that you will be able to do everything from adding new members, removing dormant accounts, viewing reports or even setting premium plan features from a single dashboard."
+    }
+  ],
+  "image": {
+    "src": "/images/service/chat-instant-messaging-app-development/admin-panel.jpg",
+    "alt": ""
+  }
+}

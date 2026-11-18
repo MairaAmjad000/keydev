@@ -1,25 +1,23 @@
 {
   "image": {
-    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
-    "alt": "Health and Fitness development",
+    "src": "/images/service/health-fitness-app-development/banner.webp",
+    "alt": "fitness app development",
     "width": "1920",
-    "height": "780"
+    "height": "800"
   },
   "sideImage": {
-    "src": "/images/solutions/taxi-app-development/hero-taxi-app.webp",
-    "alt": "Health and Fitness app",
-    "width": "540",
-    "height": "617"
+    "src": "/images/service/health-fitness-app-development/hero-side.webp",
+    "alt": "fitness app development company"
   },
-  "sideImageClass": "bannerfixedimagewidth landscape",
+  "sideImageClass": "bannerfixedimagewidth",
   "headingClass": "text-uppercase f-40",
-  "heading": "Health and Fitness App Development Company",
-  "text": "People want healthier habits that fit their lives. Launch a white label health and fitness app with workout plans, progress tracking, trainer tools and an admin panel that helps you grow your community.",
+  "heading": "Health & Fitness App Development Company",
+  "text": "Health is the best form of wealth. The digital generation of users want mobile apps to keep track of it. What better than a well-shaped health and fitness app to do the task? Count on KeyDevs Technologies to build a health & fitness app, like a health-conscious individual will count on their fitness coach to see great results.",
   "links": [
     {
       "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Get a Quote Now"
+      "text": "Get Your Project Estimate",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [
@@ -28,7 +26,7 @@
       "href": "/"
     },
     {
-      "text": "Health and Fitness App Development"
+      "text": "Fitness App Development"
     }
   ]
 }

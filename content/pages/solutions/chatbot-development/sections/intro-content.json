@@ -1,29 +1,33 @@
 {
-  "heading": "Custom Chatbots, Trained on Your Business",
+  "sectionClass": "about service-main-content",
+  "headingClass": "mb-3",
+  "heading": "Why you need Chatbot Development Services",
   "paragraphs": [
     {
-      "html": "A good chatbot answers quickly, understands context and knows when to hand over to a person."
+      "html": "Unless you have been off the grid for a really long time, you would have encountered at least one chatbot in your digital interactions. From social media messengers to website landing pages, chatbots have established presence everywhere. Customers too love interacting with customers for several reasons."
     },
     {
-      "html": "We build bots with natural language understanding, integrations with your systems, and analytics that show where to improve."
+      "html": "They slash down the time taken to respond to customer queries to a fraction. They tend to customer queries round the clock and can handle any volume of traffic easily. If you are a business that is keen on serving customers proactively, chatbots can come to your aid. At Intellivita, our chat app development expertise has helped businesses deliver superior customer experience from day one."
     },
     {
-      "html": "Bots can live on your website, mobile app, WhatsApp, Messenger and more."
+      "html": "Your business can also benefit from the brilliance of an AI-infused chatbot. From heavy-duty manufacturing to hyper-sensitive hospitals and even the delicate customer support, our services as a chatbot development company have built chatbots for a variety of use cases. Do you have a chatbot requirement? Our chatbot development services will help you build the perfect chatbot for your business."
     },
     {
-      "html": "Questions? An expert from our team will help you plan your chatbot."
+      "html": "Why wait any longer? Talk to our experts today to know more about how KeyDevs Technologies can build a chatbot for your business in quicktime."
     }
   ],
   "link": {
     "href": "/contact",
     "text": "Talk to Our Expert Now",
-    "className": "btn btn-custome waves-effect waves-light"
+    "className": "btn-custome btn waves-effect waves-light"
   },
   "image": {
-    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
-    "alt": "Chatbot solution",
-    "width": "481",
-    "height": "588"
+    "src": "/images/mobile-app-development/chatbot/chatbot-main.gif",
+    "alt": ""
   },
-  "imageClass": ""
+  "imageClass": "",
+  "imageWrapClass": "video-area-wrapper",
+  "imageFirst": true,
+  "imageColumnClass": "col-12 col-lg-5 col-sm-12 mb-4 mb-lg-0",
+  "textColumnClass": "col-12 col-lg-7 col-sm-12"
 }

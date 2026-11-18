@@ -1,0 +1,56 @@
+{
+  "sectionClass": "padding-60 key-features-main bg-light",
+  "text": "Key Features",
+  "heading": "Social features for a true-blue social media app",
+  "text2": "From infinite newsfeed to individual profile management, we integrate all imaginable social media features into your mobile app.",
+  "items": [
+    {
+      "icon": "svg-330f78",
+      "title": "Profile Management"
+    },
+    {
+      "icon": "svg-71e6e4",
+      "title": "Networking"
+    },
+    {
+      "icon": "svg-e9ff7a",
+      "title": "News Feed"
+    },
+    {
+      "icon": "svg-cd74cf",
+      "title": "Audio Video Calling"
+    },
+    {
+      "icon": "svg-a4b88b",
+      "title": "Live Video Streaming"
+    },
+    {
+      "icon": "svg-ec6625",
+      "title": "Event Management"
+    },
+    {
+      "icon": "svg-291221",
+      "title": "Online Pooling"
+    },
+    {
+      "icon": "svg-813b16",
+      "title": "Instant Messaging"
+    },
+    {
+      "icon": "svg-ceff90",
+      "title": "Video and Image Editing & Sharing"
+    },
+    {
+      "icon": "svg-35a5c7",
+      "title": "Community Building"
+    },
+    {
+      "icon": "svg-eb83ed",
+      "title": "Google Map Integration"
+    },
+    {
+      "icon": "svg-c97ff9",
+      "title": "Push Notification"
+    }
+  ]
+}

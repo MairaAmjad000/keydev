@@ -1,17 +1,14 @@
 {
-  "heading": "A White Label Real Estate App, Built for Your Market",
+  "heading": "Why you should place your bet on real estate app development solutions",
   "paragraphs": [
     {
-      "html": "Buyers, renters and agents all want faster ways to find and list properties. A well-built app brings them together on one platform."
+      "html": "The millennial generation has a different way of doing things. They think is is pretty old school to shortlist brokers and visit each property until a good one is spotted. They do not have the patience nor the time to explore real estate opportunities. What they need is a real estate mobile app that will help them filter the right kind of property and shortlist it for buying or renting. Who else than a top-rated real estate app development company like KeyDevs Technologies to do it for you?"
     },
     {
-      "html": "We build buyer and agent apps with map-based search, filters, saved searches, enquiries and viewings, all under your brand."
+      "html": "KeyDevs Technologies is a mobile app development company that has been helping businesses become digital corporations with the power of mobility. We craft mobile apps for diverse industries, including real estate that can help you reach customer faster, serve them better and also retain them for lifetime. Our app development expertise is designed taking into consideration the needs of builders, brokers, home buyers and also allied business providers."
     },
     {
-      "html": "Listings, lead flows, subscriptions and commissions can be adapted to agencies, portals or developer sales teams."
-    },
-    {
-      "html": "Questions about scope or timelines? An expert from our team will guide you."
+      "html": "Want to see how your real estate business can reach new heights with a real estate mobile app? Talk to our experts."
     }
   ],
   "link": {
@@ -20,10 +17,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
-    "alt": "Real Estate solution",
-    "width": "481",
-    "height": "588"
+    "src": "/images/service/real-estate-app-development/intro.webp",
+    "alt": ""
   },
-  "imageClass": ""
+  "imageClass": "rounded10 box-shadow"
 }

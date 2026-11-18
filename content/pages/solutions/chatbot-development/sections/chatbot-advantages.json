@@ -1,0 +1,38 @@
+{
+  "sectionClass": "padding-6030 bg-light chatbot-adv",
+  "text": "Advantages of chatbot development",
+  "heading": "The chatbot-advantage we deliver as a chatbot development company",
+  "text2": "Chatbots can help your business deliver proactive customer service that is driven by cognitive intelligence.",
+  "items": [
+    {
+      "icon": "svg-55e960",
+      "title": "Reduce manual errors",
+      "text": "Chatbots do not make mistakes. You can count on them to deliver accurate responses to customers every single time."
+    },
+    {
+      "icon": "svg-55e960",
+      "title": "Round-the-clock availability",
+      "text": "Working hours, recesses, holidays, sick leaves — chatbots have no such downtimes that could affect productivity."
+    },
+    {
+      "icon": "svg-55e960",
+      "title": "High-volume handling",
+      "text": "A single chatbot can handle up to a dozen or hundred queries simultaneously without any impact on response rates or accuracy."
+    },
+    {
+      "icon": "svg-55e960",
+      "title": "Reduce response times",
+      "text": "Chatbots think at the speed of thought. They fetch information from databases directly making them super-efficient at instant responses to queries."
+    },
+    {
+      "icon": "svg-55e960",
+      "title": "Enhance productivity",
+      "text": "Customer FAQs are important. But, your employees have to focus on other priorities as well. A chatbot can share the load without affecting quality."
+    },
+    {
+      "icon": "svg-55e960",
+      "title": "Provide customer convenience",
+      "text": "Modern-day customers are impatient and need instant answers. Chatbots can provide contextually correct responses that lead to better customer convenience."
+    }
+  ]
+}

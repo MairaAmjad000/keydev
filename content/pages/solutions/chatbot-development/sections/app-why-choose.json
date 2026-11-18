@@ -1,0 +1,49 @@
+{
+  "rowClass": "row justify-content-center",
+  "sectionClass": "padding-6030 bg-white",
+  "text": "Why KeyDevs Technologies?",
+  "heading": "8 reasons why you should rely on us for chatbot development",
+  "text2": "KeyDevs Technologies is a chatbot development company that is driven by the passion to create solutions that solve problems for our customers.",
+  "items": [
+    {
+      "icon": "svg-b5d570",
+      "title": "Dedicated resources",
+      "text": "Although we believe in the power of multi-tasking, when it comes to chatbot app development we ensure that each project has its own dedicated resource."
+    },
+    {
+      "icon": "svg-b0eeee",
+      "title": "Intuitive interface",
+      "text": "Chatbots are conversational interfaces. They initiate and upkeep conversations. We design interfaces that are intuitive to keep those conversations going."
+    },
+    {
+      "icon": "svg-a48e94",
+      "title": "Natural language processing",
+      "text": "The chatbots we build speak like humans. We bake in natural language processing to give the chatbots that unique touch and feel."
+    },
+    {
+      "icon": "svg-dbf726",
+      "title": "Reporting & analytics",
+      "text": "Get to know what kind of questions & conversations customers are having with your chatbot with comprehensive reporting and analytics."
+    },
+    {
+      "icon": "svg-ca22ce",
+      "title": "Time-bound deliverables",
+      "text": "We take pride in being one of those companies which can deliver completed projects as per agreed timelines. We have dedicated project managers who get things done proactively."
+    },
+    {
+      "icon": "svg-c42477",
+      "title": "Cost Efficient Solutions",
+      "text": "Quality should not always come with a high price. As a renowned chatbot development company, we ensure that our services are priced aptly for all range of features and businesses usability."
+    },
+    {
+      "icon": "svg-af8eb6",
+      "title": "NDA Compliance",
+      "text": "All data, know-how and information about chatbot app development you share with us during the engagement will not be shared with third parties. We sign a non-disclosure agreement to put that in writing."
+    },
+    {
+      "icon": "svg-fe6fb4",
+      "title": "Safe and Secure",
+      "text": "KeyDevs Technologies follows all security measures as laid down by GDPR to keep user data secure. We also have adopted encryption to ensure safety from cyber security threats."
+    }
+  ]
+}

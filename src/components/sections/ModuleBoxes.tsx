@@ -14,7 +14,7 @@ export function ModuleBoxes({ data }: { data: ModuleBoxesContent }) {
           {data.items.map((item, i) => (
             <Fragment key={i}>
               {i > 0 && ' '}
-              <div className="col-lg-4 col-md-6 col-sm-12 col-12 mb-30">
+              <div className={data.columnClass ?? 'col-lg-4 col-md-6 col-sm-12 col-12 mb-30'}>
                 <div className="game-what-we-offer-box rounded10">
                   <div className="game-what-we-offer-icon">
                     <Icon name={item.icon} />

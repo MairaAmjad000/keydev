@@ -1,0 +1,36 @@
+{
+  "sectionClass": "similar-app-main",
+  "heading": "How an instant messaging app build personal bonding",
+  "paragraphs": [
+    {
+      "html": "Social media messaging is too noisy. Instant messaging is too limited in features. Our client felt the need to build an instant messaging app that had the personalized feel of a social media app and the feature-richness of a full-stack communication app. They asked and we delivered."
+    },
+    {
+      "html": "KeyDevs Technologies provided an instant messaging app development for real-time communication. The app allowed users to search and add friends, send and receive multimedia files, create personalized one-to-one chats or group chats, customize chat backgrounds and much more."
+    }
+  ],
+  "link": {
+    "href": "/contact",
+    "text": "Build Your Messaging App Now",
+    "className": "btn-custome btn btn-lg waves-effect waves-light"
+  },
+  "images": {
+    "first": {
+      "src": "/images/service/chat-instant-messaging-app-development/similar-1.png",
+      "alt": ""
+    },
+    "second": {
+      "src": "/images/service/chat-instant-messaging-app-development/similar-2.png",
+      "alt": ""
+    },
+    "mobile": {
+      "src": "/images/service/chat-instant-messaging-app-development/similar-mobile.png",
+      "alt": ""
+    }
+  },
+  "spacerAfter": "padding-60-00 d-none d-lg-block",
+  "backgroundImage": {
+    "src": "/images/service/chat-instant-messaging-app-development/fitness-bg.jpg",
+    "alt": "mobile chat application development"
+  }
+}

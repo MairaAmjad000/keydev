@@ -1,0 +1,164 @@
+{
+  "sectionClass": "padding-60 bg-white ins-msg-how-build-main",
+  "text": "How we Build it?",
+  "heading": "Technology Stack Behind Taxi App Development",
+  "idPrefix": "taxi-app-development",
+  "tabs": [
+    {
+      "id": "Application",
+      "title": "Application",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/swift.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/fabric.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/java.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/google-analytics.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "payment-gateway",
+      "title": "Payment Gateway",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/stripe.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/Paypal.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/braintree.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "backend",
+      "title": "Backend",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/service/taxi-app-development/img-8.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/taxi-app-development/img-9.svg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "database",
+      "title": "Database & Server",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/amazon-rds.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-ec2.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/aws-s3.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/AWS-API-Gateway.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/taxi-app-development/img-14.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/socket-io.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/taxi-app-development/img-16.svg",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/service/taxi-app-development/img-17.svg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "sms-email",
+      "title": "SMS & E-mail",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/twillo.png",
+            "alt": ""
+          }
+        },
+        {
+          "image": {
+            "src": "/images/technologies/Aws-ses.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "map-and-navigation",
+      "title": "Map & Navigation",
+      "icons": [
+        {
+          "image": {
+            "src": "/images/technologies/googlemap.png",
+            "alt": ""
+          }
+        }
+      ]
+    }
+  ]
+}

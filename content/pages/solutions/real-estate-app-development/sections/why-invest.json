@@ -1,37 +1,41 @@
 {
+  "sectionClass": "padding-6030 bg-light why-you-invest-main invest-erp-main",
+  "containerClass": "container mt-md-5",
+  "columnClass": "col-lg-4 col-md-6 col-sm-6 col-12 mb-30",
+  "heightClass": "m-height-130",
   "text": "Why should you invest?",
   "heading": "Why Choose Us",
-  "text2": "KeyDevs Technologies builds custom digital products for businesses around the world. Here is what makes us a dependable development partner.",
+  "text2": "KeyDevs Technologies has been winning recognition from all around the world as a mobile app development company that builds custom solutions for various industries. Know in detail the qualities that makes us unique.",
   "items": [
     {
       "icon": "svg-1af174",
       "title": "Custom Solutions",
-      "text": "Every project is treated as new, with its own requirements, design and user experience."
+      "text": "Every real estate mobile app we build is treated like a new project with its own specific requirements, design theme and user experience. Rest assured, your app will not look like something that is already existing on the market."
     },
     {
       "icon": "svg-f4e772",
       "title": "Rapid Development",
-      "text": "A streamlined, organised process gets your product to market faster."
+      "text": "Gain faster entry to market, win leads faster and close them easier. We have a streamlined and organized process of mobile app development that helps rapid release in app stores."
     },
     {
       "icon": "svg-6433f5",
       "title": "Interactive Design",
-      "text": "Thoughtful design makes the product easy and enjoyable to use."
+      "text": "Design speaks volumes, especially for a real estate mobile app, design is the cornerstone of user experience. We ensure that your real estate app has the right design elements that will make it user interactive."
     },
     {
       "icon": "svg-1c23b7",
       "title": "Adopt Agile Methodology",
-      "text": "Dedicated project managers and scrum masters keep every milestone on track."
+      "text": "KeyDevs Technologies takes pride in following the Agile project management methodology. We have dedicated project manager and scrum masters who ensure that the project marches forward in full swing to achieve all milestones."
     },
     {
       "icon": "svg-e5b76e",
       "title": "Cost Efficient Solutions",
-      "text": "Quality should not carry a high price; our services are priced for businesses of every size."
+      "text": "Quality should not always come with a high price. As a Real Estate Mobile App Development Company, we ensure that our services are priced aptly for all range of businesses."
     },
     {
       "icon": "svg-46a4c6",
       "title": "On-Time Delivery",
-      "text": "We put real emphasis on delivering projects on schedule."
+      "text": "The market does not wait for anything or anyone. We know that better than anyone else. That is why we put greater emphasis on delivering projects on time, without any delay."
     }
   ]
 }

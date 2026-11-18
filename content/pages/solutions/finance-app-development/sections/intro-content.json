@@ -1,17 +1,14 @@
 {
-  "heading": "A White Label Finance App, Built on Security",
+  "heading": "Spearheading the convergence of finance and technology",
   "paragraphs": [
     {
-      "html": "Customers expect to manage money from their phone, safely and instantly. Trust is the foundation of every finance product."
+      "html": "There has been a time in history when banking, finance and insurance has undergone a sea change. Technology has transformed all these services into digital offerings with an economic edge to them. In the proces, a new breed of technology that converges both finance and technology has come into existence - FinTech. FinTech enables everybody — from households that want to build corpus for their retirement to CFOs that want to revamp the financial operations of their businesses — a novel way of functioning."
     },
     {
-      "html": "We build apps with encryption, biometric login, KYC and fraud checks, along with payments, wallets and spending insights."
+      "html": "KeyDevs Technologies has been dabbling with FinTech for quite sometime now. We were fascinated by its ability to bring financial inclusion to all equally. As a digital corporation, KeyDevs Technologies believes that banks, insurers, financial institutions and customers can partake in the benefits of financial transformation. We are here to enable that transformation."
     },
     {
-      "html": "The platform can be adapted to banks, digital wallets, lending, investing or payment startups."
-    },
-    {
-      "html": "Questions about compliance or integrations? An expert from our team will help."
+      "html": "KeyDevs Technologies builds finance apps that can simplify mobile banking, integrate digital wallets into eCommerce stores, bring insurers and claimants together and do much more."
     }
   ],
   "link": {
@@ -20,10 +17,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
-    "alt": "Banking and Finance solution",
-    "width": "481",
-    "height": "588"
+    "src": "/images/service/finance-app-development/intro.webp",
+    "alt": ""
   },
-  "imageClass": ""
+  "imageClass": "rounded10 box-shadow"
 }

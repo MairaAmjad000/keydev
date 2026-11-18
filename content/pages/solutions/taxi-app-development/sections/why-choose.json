@@ -1,6 +1,7 @@
 {
   "sectionClass": "padding-60 web-why-choose-us-inner car-wash-advantage-main bg-light",
   "heightClass": "m-height-130",
+  "rowClass": "row align-items-center",
   "text": "Why should you invest?",
   "heading": "The Advantages of our Taxi App Development",
   "paragraphs": [],

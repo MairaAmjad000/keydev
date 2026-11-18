@@ -1,0 +1,40 @@
+{
+  "sectionClass": "padding-60 key-features-main bg-light",
+  "text": "Key Features",
+  "heading": "Plan & Execute your Travel App Development",
+  "text2": "Features designed to make lives easier for travelers, travel operators and aggregators.",
+  "items": [
+    {
+      "icon": "svg-1efc3c",
+      "title": "Interactive Scheduling"
+    },
+    {
+      "icon": "svg-3bacf3",
+      "title": "Reviews and Recommendations"
+    },
+    {
+      "icon": "svg-3d60fa",
+      "title": "GEO Location"
+    },
+    {
+      "icon": "svg-5bfe4e",
+      "title": "In-App Purchases"
+    },
+    {
+      "icon": "svg-9672d4",
+      "title": "Push Notifications"
+    },
+    {
+      "icon": "svg-ccaea0",
+      "title": "API Integration"
+    },
+    {
+      "icon": "svg-af575b",
+      "title": "Social Media Integration"
+    },
+    {
+      "icon": "svg-f84d38",
+      "title": "Comprehensive Reporting"
+    }
+  ]
+}

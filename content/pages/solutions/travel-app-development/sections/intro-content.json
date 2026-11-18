@@ -1,17 +1,14 @@
 {
-  "heading": "A White Label Travel App, Ready to Take Off",
+  "heading": "Modernize travel experience with a mobile app",
   "paragraphs": [
     {
-      "html": "Today’s travellers expect to search, compare and book in a few taps, and get help on the move."
+      "html": "We travel for the experience — to experience the thrill of visiting a new place, culture and food. Until the last decade, travel magazines and tour operators helped with going to places. But, it was a cumbersome process. Enjoying a good trip was like winning a jackpot. Travel mobile apps have rewritten the laws of the game. They make travel planning, booking and even navigating during the travel a hassle-free affair."
     },
     {
-      "html": "We build traveller and partner apps with search, itineraries, secure payments, reviews and notifications, all under your brand."
+      "html": "KeyDevs Technologies is a travel app development company that caters to its client needs to build high-tech mobile apps within the shortest time possible. We build mobile apps for booking flights, planning tours, exploring new destinations and also explore destinations virtually with 3D visuals."
     },
     {
-      "html": "Inventory from hotels, airlines and tour operators can be connected through APIs or managed directly."
-    },
-    {
-      "html": "Questions? An expert from our team will help plan scope and integrations."
+      "html": "What are you waiting for? Grow with the explosive growth of the travel and tourism industry. Let your business take flight with our travel app development services."
     }
   ],
   "link": {
@@ -20,10 +17,8 @@
     "className": "btn btn-custome waves-effect waves-light"
   },
   "image": {
-    "src": "/images/solutions/taxi-app-development/intro-taxi-app.webp",
-    "alt": "Travel and Tourism solution",
-    "width": "481",
-    "height": "588"
+    "src": "/images/service/travel-app-development/intro.webp",
+    "alt": ""
   },
-  "imageClass": ""
+  "imageClass": "rounded10 box-shadow"
 }

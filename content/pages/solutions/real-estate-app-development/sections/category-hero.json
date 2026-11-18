@@ -1,25 +1,23 @@
 {
   "image": {
-    "src": "/images/solutions/taxi-app-development/banner-taxi-app-development.webp",
-    "alt": "Real Estate development",
+    "src": "/images/service/real-estate-app-development/banner.webp",
+    "alt": "real estate app development",
     "width": "1920",
-    "height": "780"
+    "height": "800"
   },
   "sideImage": {
-    "src": "/images/solutions/taxi-app-development/hero-taxi-app.webp",
-    "alt": "Real Estate app",
-    "width": "540",
-    "height": "617"
+    "src": "/images/service/real-estate-app-development/hero-side.webp",
+    "alt": "real estate app developer"
   },
-  "sideImageClass": "bannerfixedimagewidth landscape",
-  "headingClass": "text-uppercase f-40",
-  "heading": "Real Estate App Development Company",
-  "text": "Property search has moved to the phone. Launch your own white label real estate app that lets buyers find homes, agents manage listings and leads, and you run the whole marketplace from one admin panel.",
+  "sideImageClass": "bannerfixedimagewidth",
+  "headingClass": "",
+  "heading": "Constructing the Future of Real Estate App Development",
+  "text": "We still need brick and mortar to build buildings. But, we no longer have to take the analog way to find properties and real estate. A real estate app can simplify the task of real estate trading, purchasing or even managing. KeyDevs Technologies can help you with you building and deploying a real estate mobile app.",
   "links": [
     {
       "href": "/contact",
-      "className": "btn waves-effect waves-light btn-custome mb-3",
-      "text": "Get a Quote Now"
+      "text": "Get an Estimate",
+      "className": "btn waves-effect waves-light btn-custome mb-3"
     }
   ],
   "breadcrumbs": [

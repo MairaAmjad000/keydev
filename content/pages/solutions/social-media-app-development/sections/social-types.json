@@ -1,0 +1,140 @@
+{
+  "sectionClass": "padding-6030 bg-white solution-we-offer-main invest-erp-main",
+  "text": "Types of apps",
+  "heading": "Types of Social Media App We Develop",
+  "text2": "Like people with varying interests and passions, social media apps are also various kinds and themes. The good news is, we can help you build any time of social media app.",
+  "items": [
+    {
+      "title": "Social Networks",
+      "text": "Social networks made up of virtual communities where people follow each, form groups and engage in real-time communication to exchange ideas, pursue professional connections, share, entertainment or even take up social causes.",
+      "logos": [
+        {
+          "src": "/images/social-media/facebook.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/linked-in.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/twitter.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/instagram.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "Media sharing networks",
+      "text": "A unique platform for artists, creative professionals and even amateurs to share their works of art to the general public. Such a media sharing network will give users an opportunity to gain publicity or monetize their work socially.",
+      "logos": [
+        {
+          "src": "/images/social-media/snapchat.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/youtube.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/pinterest.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/9gag.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "Online Dating Network",
+      "text": "Romance can be found anywhere, especially online. The millennial generation leans onto mobile networks to find the right person who will take their personal life forward. Build an online dating network just for that.",
+      "logos": [
+        {
+          "src": "/images/social-media/tinder.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/okc.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/okcupid.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/happen.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "Meetups and Event",
+      "text": "Build a dedicated mobile app that uses GPS positioning of users to connect with like-minded individuals. The app can allow uses to create local meetups and events that will bring together people for a cause.",
+      "logos": [
+        {
+          "src": "/images/social-media/meetup.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/eventbrite.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/nextdoor.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/nearify.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "Consumer Review and Network",
+      "text": "One of two customers check online reviews before buying a product. A social media app that crowdsources consumer reviews can be quite a winner in the networking space. Build that right with our social networking app development expertise.",
+      "logos": [
+        {
+          "src": "/images/social-media/zomato.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/trip-advisor.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/yelp.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/trustpilot.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "Discussion Forum",
+      "text": "Create a platform for healthy online discussions, debates and talks with the power of networking. Users can create separate rooms based on interests, geographies, members and other demographics.",
+      "logos": [
+        {
+          "src": "/images/social-media/quora.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/reddit.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/digg.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/social-media/voat.png",
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

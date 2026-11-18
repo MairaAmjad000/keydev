@@ -1,0 +1,40 @@
+{
+  "sectionClass": "padding-60 key-features-main bg-light",
+  "text": "Features",
+  "heading": "Highlight features for builders, brokers and buyers",
+  "text2": "Pick from the many standard features that we offer in real estate app development. Turn your real estate business into a paperless one with our experience with our workflows-based mobile app development",
+  "items": [
+    {
+      "icon": "svg-71c97d",
+      "title": "Nearby Facilities"
+    },
+    {
+      "icon": "svg-b0f7ca",
+      "title": "3D Property View"
+    },
+    {
+      "icon": "svg-5900e9",
+      "title": "Payments"
+    },
+    {
+      "icon": "svg-cb0ccb",
+      "title": "Search filters"
+    },
+    {
+      "icon": "svg-df1e5b",
+      "title": "Push Notifications"
+    },
+    {
+      "icon": "svg-110131",
+      "title": "Listings + photos"
+    },
+    {
+      "icon": "svg-995f7a",
+      "title": "Maps"
+    },
+    {
+      "icon": "svg-89e40f",
+      "title": "Live Chat"
+    }
+  ]
+}

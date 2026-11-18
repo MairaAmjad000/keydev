@@ -1,0 +1,28 @@
+{
+  "sectionClass": "padding-60 bg-white fitness-app-main",
+  "text": "Target audience",
+  "heading": "Who can benefit the most from our fitness app development",
+  "text2": "Everyone who has it in them to train and mentor others to lead a healthy lifestyle can benefit from our health and fitness app development expertise.",
+  "image": {
+    "src": "/images/fitness/right-choice-fitness-app.webp",
+    "alt": ""
+  },
+  "items": [
+    {
+      "icon": "svg-ca717d",
+      "title": "Fitness Coach"
+    },
+    {
+      "icon": "svg-440dc3",
+      "title": "Yoga Instructors"
+    },
+    {
+      "icon": "svg-d22b05",
+      "title": "Gym Owner"
+    },
+    {
+      "icon": "svg-c403f9",
+      "title": "Dietician"
+    }
+  ]
+}

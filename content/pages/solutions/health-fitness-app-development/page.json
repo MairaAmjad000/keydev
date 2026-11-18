@@ -8,16 +8,17 @@
     "categoryHero",
     "brandLogos",
     "introContent",
+    "keyFeatures",
     "featureTabs",
-    "whyChoose",
-    "technologies",
-    "idealBusiness",
-    "faq",
+    "similarApp",
+    "fitnessAudience",
+    "whyInvest",
+    "techStackTabs",
     "solutionCta",
     "otherSolutions",
-    "whyInvest",
     "testimonials",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }

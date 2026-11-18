@@ -8,16 +8,14 @@
     "categoryHero",
     "brandLogos",
     "introContent",
-    "featureTabs",
-    "whyChoose",
-    "technologies",
-    "idealBusiness",
-    "faq",
-    "solutionCta",
-    "otherSolutions",
-    "whyInvest",
+    "chatbotAdvantages",
+    "chatbotPlatforms",
+    "industryTabs",
+    "appWhyChoose",
+    "portfolio",
     "testimonials",
     "featuredIn",
+    "technologies",
     "blog"
   ]
 }
