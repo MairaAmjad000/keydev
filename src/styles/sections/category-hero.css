@@ -6,7 +6,7 @@
 .innerbanner h1 { font-size:45px }
 .innerbanner h1.f-40 { font-size:38px }
 .innerbanner p { font-size:18px }
-.innerbanner .tenc-intro-main__wrapper a { font-size:14px;box-shadow:none!important;text-transform:none;font-weight:500;background:#008080!important;border:1px solid #008080 }
+.innerbanner .tenc-intro-main__wrapper a { font-size:14px;box-shadow:none!important;text-transform:none;font-weight:500;color:#fff!important;background:#008080!important;border:1px solid #008080 }
 .innerbanner .tenc-intro-main__wrapper a:focus, .innerbanner .tenc-intro-main__wrapper a:hover { background-color:transparent!important;color:#fff;border:1px solid #fff }
 .innerbanner .submitbar { padding:0 94px;justify-content:space-between }
 .innerbannerform { background-color:rgba(32,33,34,.8);padding:35px 25px;border:1px solid #008080;border-radius:5px }
