@@ -4,8 +4,14 @@
 .guestmebg { background-color:#ff0a00; }
 .idtrackbg { background-color:#349943; }
 .claireabellabg { background-color:#e42ba1; }
+.fantasyabg { background-color:#092240; }
 .chatagrambg { background-color:#ec7575; }
 .similar-app-slider { position:relative; }
+/* Cross-fade between slides (React slider, no slick). The active slide stays in the flow and gives the
+   slider its height; the others sit on top of it, invisible, and fade in when they become active. */
+.similar-app-slider .similar-slide { position:absolute;top:0;left:0;width:100%;opacity:0;visibility:hidden;pointer-events:none;transition:opacity 1s ease,visibility 0s linear 1s; }
+.similar-app-slider .similar-slide.is-active { position:relative;opacity:1;visibility:visible;pointer-events:auto;z-index:1;transition:opacity 1s ease,visibility 0s; }
+@media (prefers-reduced-motion:reduce) { .similar-app-slider .similar-slide,.similar-app-slider .similar-slide.is-active { transition:none; } }
 .similar-app-option3-main { position:relative; }
 .similar-app-option3-main .bg-light { -webkit-box-shadow:0 5px 6px 0 rgba(0,0,0,.15);-moz-box-shadow:0 5px 6px 0 rgba(0,0,0,.15);box-shadow:0 5px 6px 0 rgba(0,0,0,.15); }
 .similar-app-option3-main .content-box { min-height:830px;padding:30px 50px 30px 30px;max-width:600px;width:100%; }

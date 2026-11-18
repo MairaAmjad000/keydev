@@ -43,20 +43,6 @@ $(document).ready(function () {
       $(this).siblings('.service-we-offer-web-inner').slideToggle();
     });
   }
-  /* Similar-app case-study slider (social / media & entertainment solution pages) */
-  if ($('.similar-app-slider').length && !$('.similar-app-slider').hasClass('slick-initialized')) {
-    $('.similar-app-slider').slick({
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      autoplay: true,
-      speed: 1000,
-      dots: true,
-      autoplaySpeed: 2000,
-      arrows: false,
-      fade: true,
-      touchMove: false,
-      pauseOnHover: false,
-      adaptiveHeight: true
-    });
-  }
+  /* The similar-app case-study slider (social / media & entertainment / fantasy sports pages) is a React
+     component now (SimilarAppSlider.tsx); it does not use slick. */
 });

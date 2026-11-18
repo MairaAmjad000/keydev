@@ -1,17 +1,42 @@
-import { Fragment } from "react";
+"use client";
+
+import { Fragment, useEffect, useState } from "react";
 import type { SimilarAppSliderContent } from "@/types";
+
+/** Time each slide stays on screen, in ms (the cross-fade itself takes 1s, see similar-app-slider.css). */
+const SLIDE_INTERVAL = 4000;
 
 /**
  * Case-study slider: one slide per app, coloured panel with two overlapping phone screens on the
- * left, logo + text + feature ticks on the right. Slides, dots and autoplay come from slick
- * (initialised in public/scripts/solution-page.js).
+ * left, logo + text + feature ticks on the right.
+ *
+ * It is a plain React component (cross-fade, dots on the right, autoplay) and does NOT depend on
+ * jQuery / slick or on any script finishing loading, so it also works when a CDN is slow or blocked.
+ * The markup and class names are the same as before, so the existing styles still apply.
  */
 export function SimilarAppSlider({ data }: { data: SimilarAppSliderContent }) {
+  const count = data.items.length;
+  const [active, setActive] = useState(0);
+
+  // Autoplay. The timer restarts whenever the slide changes, so clicking a dot gives a full interval.
+  useEffect(() => {
+    if (count < 2) return;
+    if (window.matchMedia?.("(prefers-reduced-motion: reduce)").matches) return;
+    const id = window.setTimeout(() => setActive((a) => (a + 1) % count), SLIDE_INTERVAL);
+    return () => window.clearTimeout(id);
+  }, [active, count]);
+
   return (
     <div className="similar-app-slider">
       {data.items.map((item, i) => (
-        <div key={i}>
-          <div className="padding-00-60 bg-white similar-app-option3-main">
+        <div
+          key={i}
+          className={`similar-slide${i === active ? " is-active" : ""}`}
+          aria-hidden={i === active ? undefined : true}
+        >
+          <div
+            className={`${data.mainClass ?? "padding-00-60 bg-white"} similar-app-option3-main`}
+          >
             <div className="bg-light">
               <div className="container-fluid p-0">
                 <div className="row m-0">
@@ -76,6 +101,22 @@ export function SimilarAppSlider({ data }: { data: SimilarAppSliderContent }) {
           </div>
         </div>
       ))}
+
+      {count > 1 && (
+        <ul className="slick-dots" role="tablist">
+          {data.items.map((item, i) => (
+            <li key={i} className={i === active ? "slick-active" : undefined} role="presentation">
+              <button
+                type="button"
+                role="tab"
+                aria-selected={i === active}
+                aria-label={`Show ${item.name}`}
+                onClick={() => setActive(i)}
+              />
+            </li>
+          ))}
+        </ul>
+      )}
     </div>
   );
 }

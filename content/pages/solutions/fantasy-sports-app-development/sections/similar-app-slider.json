@@ -1,0 +1,36 @@
+{
+  "mainClass": "bg-white",
+  "checkIcon": {
+    "src": "/images/ui/check-orange.png",
+    "alt": "sports app development company"
+  },
+  "items": [
+    {
+      "backgroundClass": "fantasyabg",
+      "logo": {
+        "src": "/images/similar-slider/fantasyji/logo.jpg",
+        "alt": "fantasy sports app development company"
+      },
+      "name": "Fantasyji",
+      "subtitle": "Fantasy Cricket: A Game of Skill",
+      "paragraphs": [
+        { "html": "An app that lets users play an addictive game of cricket by assembling their own fantasy team of super cricketers." },
+        { "html": "The fun in sport is savored when you are a part of it. Cricket is great to watch, but the best when it is played. The experience hits the zenith when you can play it with your team of hand picked favorites and legends from all existing cricket teams." },
+        { "html": "This was the idea behind Fantasyji fantasy sports app. Fantasyji conjures world of fantasy cricket for users with multiple forms of cricket matches. Users can form their own cricket teams in forms like Select 11, Daily matches, and auctions." },
+        { "html": "Fantasyji has become a rage on the fantasy sports circles owing to its unique features that include:" }
+      ],
+      "features": [
+        "Real-time match selection",
+        "Player auction and snake drafts",
+        "Fantasy team selection",
+        "Content participation",
+        "Multiple team drafting methods"
+      ],
+      "images": {
+        "first": { "src": "/images/similar-slider/fantasyji/screen-1.webp", "alt": "fantasy sports app" },
+        "second": { "src": "/images/similar-slider/fantasyji/screen-2.webp", "alt": "fantasy sports app" },
+        "mobile": { "src": "/images/similar-slider/fantasyji/mobile.webp", "alt": "fantasy sports app developers" }
+      }
+    }
+  ]
+}

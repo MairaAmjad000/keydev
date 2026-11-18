@@ -1581,6 +1581,8 @@ export interface SimilarAppContent {
 
 /** Slider of case studies (app name, text, feature ticks, two overlapping phone screens on a coloured panel). */
 export interface SimilarAppSliderContent {
+  /** Classes of each slide's wrapper (default "padding-00-60 bg-white"). */
+  mainClass?: string;
   /** Tick picture shown before each feature. */
   checkIcon: CmsImage;
   items: Array<{
