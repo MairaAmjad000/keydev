@@ -1,0 +1,92 @@
+{
+  "sectionClass": "padding-60 bg-light ins-msg-solution-main",
+  "text": "Key features",
+  "heading": "Custom Instant Messaging App Solutions Features",
+  "text2": "Instant messaging can take any form. Whichever form you want to use, we will help you get it.",
+  "items": [
+    {
+      "title": "Social Integrations",
+      "icon": "svg-5bbf08",
+      "image": {
+        "src": "/images/service/chat-instant-messaging-app-development/feature-1.png",
+        "alt": "If you have a messaging app idea, get in touch us we help get the best development cost of your messaging app."
+      },
+      "text": "Build a chat app that can integrated into your social handles. Add more life to your website or support portal with a real-time chat app that shows online presence indicators, typing status, timestamp, multimedia sharing and much more. Users can also log into the chat app using their social media logins sparing them from the need to remember usernames and passwords."
+    },
+    {
+      "title": "Contact Syncing",
+      "icon": "svg-336d60",
+      "image": {
+        "src": "/images/service/chat-instant-messaging-app-development/feature-2.png",
+        "alt": "Are you looking for a custom mobile chat app development company to build an instant messaging app? Get in touch with us for the robust and most affordable solution."
+      },
+      "text": "Sync contacts from your address book, email or SIM card without any trouble. The contacts will be carried forward with names, display pictures and statuses as set by the contacts. No manual editing is required since the contacts are synced via cloud. Contacts added to phonebook or email can also be automatically synced in the instant messaging app."
+    },
+    {
+      "title": "Group Chat",
+      "icon": "svg-5b6dc1",
+      "image": {
+        "src": "/images/service/chat-instant-messaging-app-development/feature-3.png",
+        "alt": "KeyDevs Technologies specialises in providing robust and secure chatting app development solutions that improve your communication efficiently. Get in touch to request a quote."
+      },
+      "text": "Add more members to a chat to create a group chat. Assign a name to the group chat complete with text, special characters and emojis. Group chat admins can add or remove users at their discretion. All group members can send messages, audio clippings, video recordings, real-time location, and also respond inline to other group member’s conversations."
+    },
+    {
+      "title": "Location",
+      "icon": "svg-0ccbd6",
+      "image": {
+        "src": "/images/service/chat-instant-messaging-app-development/feature-4.png",
+        "alt": "chat app development"
+      },
+      "text": "Instant messaging is not just about sending and receiving text messages. Take your user’s messaging experience to the next level with features like real-time location sharing. The instant messaging app solutions will be integrated with GPS and navigation APIs that fetches the user device’s real-time location for real-time sharing."
+    },
+    {
+      "title": "Multimedia and File Sharing",
+      "icon": "svg-f49273",
+      "image": {
+        "src": "/images/service/chat-instant-messaging-app-development/feature-5.png",
+        "alt": "instant messaging app"
+      },
+      "text": "Sharing multimedia content in the form of images, video, audio and documents is what makes instant messaging a powerful communication medium. Your instant messaging app needs that power to make users into productive professionals. KeyDevs Technologies has built instant messengers with multimedia and file sharing features for a diverse range of industries.",
+      "moreText": [
+        "Be it official usage or social usage, we can help build the right instant message app for you."
+      ]
+    },
+    {
+      "title": "Voice Calling",
+      "icon": "svg-e1505d",
+      "image": {
+        "src": "/images/service/chat-instant-messaging-app-development/feature-6.png",
+        "alt": "instant messaging solutions"
+      },
+      "text": "Connect remote teams and individuals to one another with voice calling. Users can place voice calls from the app with internet as the communication medium. The app is also capable of call holding, call recording, call conferencing and many other telephony features.",
+      "moreText": [
+        "Want to turn your instant messaging app into a carry-anywhere telephone? KeyDevs Technologies can help."
+      ]
+    },
+    {
+      "title": "Video Calling",
+      "icon": "svg-3dd6f5",
+      "image": {
+        "src": "/images/service/chat-instant-messaging-app-development/feature-7.png",
+        "alt": "instant messaging app development"
+      },
+      "text": "Catch up with your friends, families and teams with face-to-face video calling. It is simple, secure and easy-to-setup and does not require you have to any extra hardware or software. All it takes is a tap on the app interface to connect visually, real-time with your contacts.",
+      "moreText": [
+        "Build bonds or enhance productivity with a custom-built instant messaging app."
+      ]
+    },
+    {
+      "title": "Push Notifications",
+      "icon": "svg-a6254f",
+      "image": {
+        "src": "/images/service/chat-instant-messaging-app-development/feature-8.png",
+        "alt": "how to build a messaging app"
+      },
+      "text": "Be in the know of incoming messages, missed voice/video calls, files received and much more. Your instant messaging app can be integrated with a push notification feature that will allow users to preview notifications without going into the app.",
+      "moreText": [
+        "Make sure your users see what their notifications even with a locked screen. Push notifications can prove to be useful for that."
+      ]
+    }
+  ]
+}
