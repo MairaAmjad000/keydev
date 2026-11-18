@@ -1,5 +1,15 @@
 /* Solution page behaviour: FAQ list, feature tabs "Show All" button and mobile head toggle. */
 $(document).ready(function () {
+  /* Tab pickers (.tab_wrapper): start the champ tab plugin once per block.
+     Needed by the messaging features section (phone + feature list) and the framework tabs. */
+  if ($.fn.champ) {
+    $('.tab_wrapper').each(function () {
+      if ($(this).data('champ-ready')) return;
+      $(this).data('champ-ready', true);
+      $(this).champ();
+    });
+  }
+
   /* FAQ list: one answer open at a time */
   if ($('.faq-list-wrap').length) {
     $('.faq-list-title a').on('click', function (e) {
