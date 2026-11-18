@@ -1,8 +1,8 @@
 /* Rules for the industry solution pages (key features, solution cards, fitness blocks) ported from the source HTML. */
 .key-features-box {min-height:210px;padding:30px 15px 20px;text-align:center;border:2px solid #ecedee;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out;position:relative;overflow:hidden}
 .key-features-box:before {content:"";display:block;width:55px;height:55px;display:block;position:absolute;bottom:-27px;left:-27px;background-color:rgba(236,115,35,.05);border-radius:100%}
-.key-features-icon {width:90px;height:90px;background-color:#eef2f3;border-radius:100%;margin:0 auto 25px;position:relative}
-.key-features-icon svg {width:60px;height:60px;position:absolute;right:-10px;bottom:5px}
+.key-features-icon {width:90px;height:90px;background-color:#eef2f3;border-radius:100%;margin:0 auto 25px;position:relative;display:flex;align-items:center;justify-content:center}
+.key-features-icon svg,.key-features-icon img {width:60px;height:60px;position:static;display:block;margin:0;flex:0 0 auto}
 .key-features-icon svg circle,.key-features-icon svg ellipse,.key-features-icon svg path,.key-features-icon svg polygon,.key-features-icon svg rect {fill:#008080}
 .key-features-box h4 {font-size:16px;font-weight:500;margin-bottom:0;min-height:38px;display:flex;justify-content:center;align-items:center}
 .key-features-box:hover {border:2px solid #008080}
@@ -38,3 +38,13 @@
 
 /* Not present in the source HTML's embedded styles (the full-bleed picture comes from the site stylesheet); added so the background fills the block. */
 .similar-app-main .imgbg {position:absolute;left:0;top:0;width:100%;height:100%;object-fit:cover}
+
+/* Solution offer cards (desktop): the text panel now takes part in the layout, so the card grows with
+   its text instead of overflowing and overlapping the cards around it. The panel overlaps the picture
+   by whatever the column is too narrow for (picture 268px + panel 370px). */
+@media (min-width:992px) {
+  .solution-we-offer-box {display:flex;align-items:center;min-height:150px}
+  .solution-we-offer-image {flex:0 0 268px;width:268px;z-index:0}
+  .solution-we-offer-image img {width:100%;display:block}
+  .solution-we-offer-content {position:relative;right:auto;top:auto;transform:none;flex:0 0 370px;width:370px;max-width:370px;margin-left:calc(100% - 638px);z-index:1}
+}

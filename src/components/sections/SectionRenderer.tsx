@@ -40,6 +40,7 @@ import { IdealBusiness } from './IdealBusiness';
 import { SolutionCta } from './SolutionCta';
 import { OtherSolutions } from './OtherSolutions';
 import { SimilarApp } from './SimilarApp';
+import { SimilarAppSlider } from './SimilarAppSlider';
 import { KeyFeatureTabs } from './KeyFeatureTabs';
 import { CaseStudy } from './CaseStudy';
 import { ChatbotAdvantages } from './ChatbotAdvantages';
@@ -126,6 +127,7 @@ function renderSection(block: SectionBlock, forms: FormsContent) {
     case 'solutionCta': return <SolutionCta data={block.data} />;
     case 'otherSolutions': return <OtherSolutions data={block.data} />;
     case 'similarApp': return <SimilarApp data={block.data} />;
+    case 'similarAppSlider': return <SimilarAppSlider data={block.data} />;
     case 'keyFeatureTabs': return <KeyFeatureTabs data={block.data} />;
     case 'caseStudy': return <CaseStudy data={block.data} />;
     case 'chatbotAdvantages': return <ChatbotAdvantages data={block.data} />;

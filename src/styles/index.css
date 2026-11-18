@@ -24,6 +24,7 @@
 @import './sections/industry-extras.css';
 @import './sections/social-extras.css';
 @import './sections/other-extras.css';
+@import './sections/similar-app-slider.css';
 
 /* Layout chrome */
 @import './layout/header.css';

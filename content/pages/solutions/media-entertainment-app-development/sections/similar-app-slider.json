@@ -1,0 +1,163 @@
+{
+  "checkIcon": {
+    "src": "/images/ui/check-orange.png",
+    "alt": ""
+  },
+  "items": [
+    {
+      "backgroundClass": "claireabellabg",
+      "logo": {
+        "src": "/images/similar-slider/claireabella/logo.png",
+        "alt": "entertainment mobile app development"
+      },
+      "name": "ClaireaBella",
+      "subtitle": "Personalized Emoji App",
+      "paragraphs": [
+        {
+          "html": "Claireabella is an interesting app that allows to create their own custom emoji app based on the Pakistan's renowned character Mr Bella and Claireabella. The app allows used to create custom emojis by combining the various physical traits of Mr Bella and Claireabella like face, body, hair, ski color, expressions, headwear, outfits and much more."
+        },
+        {
+          "html": "It garnered attention as it was unique a unique experience compared to default emoticons and also owing to the popularity of Mr. Bella and Clairebella. Given the number of app downloads from popular app stores, it was proven that Clairebella was a runaway success."
+        }
+      ],
+      "features": [
+        "Custom emoji creation",
+        "Emoticons for texting",
+        "Multiple customization",
+        "Social sharing",
+        "Print emojis",
+        "iPhone and Android app",
+        "Real"
+      ],
+      "images": {
+        "first": {
+          "src": "/images/similar-slider/claireabella/screen-1.png",
+          "alt": "media and entertainment app development"
+        },
+        "second": {
+          "src": "/images/similar-slider/claireabella/screen-2.png",
+          "alt": "music streaming mobile app development company"
+        },
+        "mobile": {
+          "src": "/images/similar-slider/claireabella/mobile.png",
+          "alt": "best mobile app company in Pakistan"
+        }
+      }
+    },
+    {
+      "backgroundClass": "guestmebg",
+      "logo": {
+        "src": "/images/similar-slider/guestme/logo.png",
+        "alt": "web app developers Pakistan"
+      },
+      "name": "Guest Me",
+      "subtitle": "Chat with your favourite creators with built in live chat",
+      "paragraphs": [
+        {
+          "html": "A social live video streaming mobile app that helps anyone to become an artist to the global stage. Live streaming of events, personal life, travel — almost everything is the new rage. Guest Me is one such live streaming app that combines the best of social networking and live video streaming. It allows users to create their own personal live videos while broadcasting it to the world at large receiving instant reactions, comments and shares."
+        },
+        {
+          "html": "Not just life streaming, Guest me can do a whole lot of other stuff as well."
+        }
+      ],
+      "features": [
+        "Viewers commenting system",
+        "Broadcaster responses",
+        "Group chat or one to one chat",
+        "Video channel subscription",
+        "In-app purchases",
+        "Social media integrations"
+      ],
+      "images": {
+        "first": {
+          "src": "/images/similar-slider/guestme/screen-1.png",
+          "alt": "mobile app company"
+        },
+        "second": {
+          "src": "/images/similar-slider/guestme/screen-2.png",
+          "alt": "media and entertainment solutions"
+        },
+        "mobile": {
+          "src": "/images/similar-slider/guestme/mobile.png",
+          "alt": "entertainment app development"
+        }
+      }
+    },
+    {
+      "backgroundClass": "strongmindedbg",
+      "logo": {
+        "src": "/images/similar-slider/strongminded/logo.jpg",
+        "alt": "entertainment app development company"
+      },
+      "name": "Strong Minded",
+      "subtitle": "murder-mystery events and games all over the World",
+      "paragraphs": [
+        {
+          "html": "An expertly curated list of motivational music tracks. The app has a collection of tracks ranging from success, wisdom, well-being, entrepreneurship, fitness and much more. The app turns creates albums of similar tracks and topic that helps users to listen on loop."
+        },
+        {
+          "html": "Users can also create custom playlists of their own, create favorites within the app for future listening. The app was well-received amidst gym goers, music lovers and everyone else who wanted a dose of motivation in their lives."
+        }
+      ],
+      "features": [
+        "Theme-based music tracks",
+        "Playlist creation",
+        "Favorite playlist",
+        "Admin controlled categories"
+      ],
+      "images": {
+        "first": {
+          "src": "/images/similar-slider/strongminded/screen-1.png",
+          "alt": "entertainment mobile app development"
+        },
+        "second": {
+          "src": "/images/similar-slider/strongminded/screen-2.png",
+          "alt": "media and entertainment app development"
+        },
+        "mobile": {
+          "src": "/images/similar-slider/strongminded/mobile.png",
+          "alt": "music streaming mobile app development company"
+        }
+      }
+    },
+    {
+      "backgroundClass": "idtrackbg",
+      "logo": {
+        "src": "/images/similar-slider/idtrack/logo.jpg",
+        "alt": "best mobile app company in Pakistan"
+      },
+      "name": "ID Track",
+      "subtitle": "Entertainment App",
+      "paragraphs": [
+        {
+          "html": "An app that knits together a community of music lovers, enabling them to find, share and enjoy underrated music. The app gives its users a platform to find the track name, artist and album by uploading an image. Other members in the community comment on the post helping the post creator to know more about the particular music track. The end result is that music tracks that do not come to the world’s ears due to other dominant playlists get their deserved attention."
+        },
+        {
+          "html": "The app is bolted with features that creates a social ecosystem for music lovers, event goers and music festival participants."
+        }
+      ],
+      "features": [
+        "Post creation",
+        "image /video upload",
+        "Commenting system",
+        "Likes, favorites or reactions",
+        "Music track suggestions",
+        "Rich media responses"
+      ],
+      "images": {
+        "first": {
+          "src": "/images/similar-slider/idtrack/screen-1.png",
+          "alt": "web app developers Pakistan"
+        },
+        "second": {
+          "src": "/images/similar-slider/idtrack/screen-2.png",
+          "alt": "mobile app company"
+        },
+        "mobile": {
+          "src": "/images/similar-slider/idtrack/mobile.png",
+          "alt": "media and entertainment solutions"
+        }
+      }
+    }
+  ]
+}

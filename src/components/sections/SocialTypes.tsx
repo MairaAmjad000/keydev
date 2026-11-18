@@ -2,7 +2,7 @@ import { Fragment } from "react";
 import type { SocialTypesContent } from "@/types";
 import { SectionTitle } from "./shared/SectionTitle";
 
-/** Cards listing a kind of app: a strip of platform logos over a title and text. */
+/** Cards listing a kind of app: an empty teal-underlined header band over a title and text (no images). */
 export function SocialTypes({ data }: { data: SocialTypesContent }) {
   return (
     <section
@@ -23,19 +23,8 @@ export function SocialTypes({ data }: { data: SocialTypesContent }) {
               {i > 0 && " "}
               <div className="col-lg-4 col-md-6 col-sm-12 col-12 mb-30">
                 <div className="types-of-social-media-box rounded10 box-shadow">
-                  <div className="types-of-social-media-platform">
-                    <ul>
-                      {item.logos.map((logo, j) => (
-                        <li key={j}>
-                          <img
-                            className="lazy"
-                            data-src={logo.src}
-                            alt={logo.alt}
-                          />
-                        </li>
-                      ))}
-                    </ul>
-                  </div>{" "}
+                  {/* Empty header band (no logos), as designed. */}
+                  <div className="types-of-social-media-platform" />{" "}
                   <div className="types-of-social-media-content">
                     <h3>{item.title}</h3>{" "}
                     <p dangerouslySetInnerHTML={{ __html: item.text }} />

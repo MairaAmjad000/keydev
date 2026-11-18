@@ -15,3 +15,6 @@
 .types-of-social-media-content h3 {font-size:18px;font-weight:600}
 .types-of-social-media-content p:last-child {margin-bottom:0}
 .types-of-social-media-box:hover {border:1px solid #008080}
+
+/* Social types cards: header band without logos */
+.types-of-social-media-platform {min-height:58px}

@@ -1579,6 +1579,22 @@ export interface SimilarAppContent {
   images: { first: CmsImage; second: CmsImage; /** Shown on small screens instead of the pair. */ mobile: CmsImage };
 }
 
+/** Slider of case studies (app name, text, feature ticks, two overlapping phone screens on a coloured panel). */
+export interface SimilarAppSliderContent {
+  /** Tick picture shown before each feature. */
+  checkIcon: CmsImage;
+  items: Array<{
+    /** CSS class that sets the colour of the left panel (e.g. "idtrackbg"). */
+    backgroundClass: string;
+    logo: CmsImage;
+    name: string;
+    subtitle: string;
+    paragraphs: Array<{ html: string }>;
+    features: string[];
+    images: { first: CmsImage; second: CmsImage; /** Shown on small screens instead of the pair. */ mobile: CmsImage };
+  }>;
+}
+
 /** "How it works" snake of step boxes under a callout bar (solution pages). */
 export interface WorkflowProcessContent {
   sectionClass: string;

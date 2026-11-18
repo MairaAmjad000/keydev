@@ -5,7 +5,7 @@ import type {
   LocationsContent, CategoryHeroContent, IntroContentContent, ServiceOfferingsContent, FeatureListContent,
   AdvantageGridContent, FrameworkTabsContent, WhyChooseContent, FaqContent, FeaturedInContent,
   OfferCardsContent, ImageCardsContent, CompareBenefitsContent, SprintProcessContent, TechStackTabsContent,
-  WhyChooseImageContent, FeatureTabsContent, IdealBusinessContent, SolutionCtaContent, OtherSolutionsContent, KeyFeatureTabsContent, CaseStudyContent, ChatbotAdvantagesContent, ChatbotPlatformsContent, SocialTypesContent, MessagingFeaturesContent, MessagingPanelsContent, KeyFeaturesContent, SolutionOffersContent, FitnessAudienceContent, SimilarAppContent, WorkflowProcessContent,
+  WhyChooseImageContent, FeatureTabsContent, IdealBusinessContent, SolutionCtaContent, OtherSolutionsContent, KeyFeatureTabsContent, CaseStudyContent, ChatbotAdvantagesContent, ChatbotPlatformsContent, SocialTypesContent, MessagingFeaturesContent, MessagingPanelsContent, KeyFeaturesContent, SolutionOffersContent, FitnessAudienceContent, SimilarAppContent, SimilarAppSliderContent, WorkflowProcessContent,
   WhyInvestContent, PortfolioShowcaseContent, BlogListContent,
   ContactFormContent, ContactInfoContent, ContactMapContent,
   StatsCountersContent, LeadershipContent, MissionVisionContent, CoreValuesContent, HistoryTimelineContent,
@@ -65,6 +65,7 @@ export interface SectionDataMap {
   solutionCta: SolutionCtaContent;
   otherSolutions: OtherSolutionsContent;
   similarApp: SimilarAppContent;
+  similarAppSlider: SimilarAppSliderContent;
   keyFeatureTabs: KeyFeatureTabsContent;
   caseStudy: CaseStudyContent;
   chatbotAdvantages: ChatbotAdvantagesContent;

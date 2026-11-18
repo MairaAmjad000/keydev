@@ -46,3 +46,10 @@
 .other-demand-app-box a:hover h5 {
   color: #fff;
 }
+
+/* Icon fills its 71px tile (the inline SVGs carry only a viewBox, so they need an explicit size). */
+.other-demand-app-icon svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}

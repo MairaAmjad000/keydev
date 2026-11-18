@@ -1,0 +1,157 @@
+{
+  "checkIcon": {
+    "src": "/images/ui/check-orange.png",
+    "alt": ""
+  },
+  "items": [
+    {
+      "backgroundClass": "idtrackbg",
+      "logo": {
+        "src": "/images/similar-slider/idtrack/logo.jpg",
+        "alt": "ID Track logo"
+      },
+      "name": "ID Track",
+      "subtitle": "Entertainment App",
+      "paragraphs": [
+        {
+          "html": "An app that knits together a community of music lovers, enabling them to find, share and enjoy underrated music. The app gives its users a platform to find the track name, artist and album by uploading an image. Other members in the community comment on the post helping the post creator to know more about the particular music track. The end result is that music tracks that do not come to the world’s ears due to other dominant playlists get their deserved attention."
+        },
+        {
+          "html": "The app is bolted with features that creates a social ecosystem for music lovers, event goers and music festival participants."
+        }
+      ],
+      "features": [
+        "Post creation",
+        "image /video upload",
+        "Commenting system",
+        "Likes, favorites or reactions",
+        "Music track suggestions",
+        "Rich media responses"
+      ],
+      "images": {
+        "first": {
+          "src": "/images/similar-slider/idtrack/screen-1.png",
+          "alt": "ID Track app screen"
+        },
+        "second": {
+          "src": "/images/similar-slider/idtrack/screen-2.png",
+          "alt": "ID Track app screen"
+        },
+        "mobile": {
+          "src": "/images/similar-slider/idtrack/mobile.png",
+          "alt": "ID Track app screens"
+        }
+      }
+    },
+    {
+      "backgroundClass": "guestmebg",
+      "logo": {
+        "src": "/images/similar-slider/guestme/logo.png",
+        "alt": "Guest Me logo"
+      },
+      "name": "Guest Me",
+      "subtitle": "Chat with your favourite creators with built in live chat",
+      "paragraphs": [
+        {
+          "html": "A social live video streaming mobile app that helps anyone to become an artist to the global stage. Live streaming of events, personal life, travel — almost everything is the new rage. Guest Me is one such live streaming app that combines the best of social networking and live video streaming. It allows users to create their own personal live videos while broadcasting it to the world at large receiving instant reactions, comments and shares."
+        },
+        {
+          "html": "Not just life streaming, Guest me can do a whole lot of other stuff as well."
+        }
+      ],
+      "features": [
+        "Viewers commenting system",
+        "Broadcaster responses",
+        "Group chat or one to one chat",
+        "Video channel subscription",
+        "In-app purchases",
+        "Social media integrations"
+      ],
+      "images": {
+        "first": {
+          "src": "/images/similar-slider/guestme/screen-1.png",
+          "alt": "Guest Me app screen"
+        },
+        "second": {
+          "src": "/images/similar-slider/guestme/screen-2.png",
+          "alt": "Guest Me app screen"
+        },
+        "mobile": {
+          "src": "/images/similar-slider/guestme/mobile.png",
+          "alt": "Guest Me app screens"
+        }
+      }
+    },
+    {
+      "backgroundClass": "awaybackbg",
+      "logo": {
+        "src": "/images/similar-slider/awayback/logo.jpg",
+        "alt": "social media app development company"
+      },
+      "name": "Awayback",
+      "subtitle": "Augmented Personal Memories",
+      "paragraphs": [
+        {
+          "html": "Awayback is an immersive way of creating personal memories at physical locations. It enables users to create personal stories using Augmented reality in the backdrop of physical locations where they have been to. The immersive stories can be shared as images or animations to phone contacts or social media connections. Users can also set the memory as private or public for specific locations. Other users with whom the memory has been shared can see it only when they reach the actual location."
+        },
+        {
+          "html": "The radical app idea comes with features like:"
+        }
+      ],
+      "features": [
+        "Augmented reality animation",
+        "Location pins",
+        "Social sharing",
+        "Commenting system",
+        "Seen status",
+        "Privacy settings"
+      ],
+      "images": {
+        "first": {
+          "src": "/images/similar-slider/awayback/screen-1.png",
+          "alt": "social media app developers"
+        },
+        "second": {
+          "src": "/images/similar-slider/awayback/screen-2.png",
+          "alt": "social app development"
+        },
+        "mobile": {
+          "src": "/images/similar-slider/awayback/mobile.png",
+          "alt": "social media company"
+        }
+      }
+    },
+    {
+      "backgroundClass": "chatagrambg",
+      "logo": {
+        "src": "/images/similar-slider/chatagram/logo.jpg",
+        "alt": "social media application development"
+      },
+      "name": "Chatagram",
+      "subtitle": "Chat with your favourite creators with built in live chat",
+      "paragraphs": [
+        {
+          "html": "Social media messaging is too noisy. Instant messaging is too limited in features. Our client felt the need to build an instant messaging app that had the personalized feel of a social media app and the feature-richness of a full-stack communication app. They asked and we delivered."
+        },
+        {
+          "html": "KeyDevs Technologies build a instant messaging app for real-time communication. The app allowed users to search and add friends, send and receive multimedia files, create personalized one-to-one chats or group chats, customize chat backgrounds and much more."
+        }
+      ],
+      "features": [],
+      "images": {
+        "first": {
+          "src": "/images/similar-slider/chatagram/screen-1.png",
+          "alt": "social networking web app development services"
+        },
+        "second": {
+          "src": "/images/similar-slider/chatagram/screen-2.png",
+          "alt": "android social networking app development"
+        },
+        "mobile": {
+          "src": "/images/similar-slider/chatagram/mobile.png",
+          "alt": "mobile app development social media"
+        }
+      }
+    }
+  ]
+}
