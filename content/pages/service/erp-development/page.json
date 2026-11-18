@@ -6,12 +6,12 @@
   },
   "sections": [
     "categoryHero",
+    "brandLogos",
     "introContent",
     "offerBoxes",
     "moduleBoxes",
     "whyInvest",
     "techStackTabs",
-    "brandLogos",
     "testimonials",
     "featuredIn",
     "technologies",
