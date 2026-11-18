@@ -1018,3 +1018,15 @@
   .pjax-content p {font-size: 12px;line-height: 18px;}
   .pjax-content {position: relative;min-height: inherit; padding: 30px 15px;}
 }
+
+/* ---- Final estimate form: two-column layout, paperclip icon, store-link fields, font ---- */
+/* store links are only needed when the visitor picked the existing-app path (shown by estimate-page.js) */
+.estimate_contact .old_app_link { display: none; }
+/* solid Font Awesome weight, otherwise the regular font is used and the paperclip is an empty box */
+.Attchment_file_form .input-append .btn--primary { font-weight: 900; }
+/* the form text uses the system sans-serif, as in the design */
+.estimate_contact .form-control,
+.estimate_contact .form-group label,
+.estimate_contact .custome_btn {
+  font-family: Arial, Helvetica, sans-serif;
+}

@@ -21,6 +21,9 @@ $(document).ready(function () {
     void t.offsetWidth;
     t.classList.add('in', 'show');
     cur = id;
+    if (id === 'final-form') {
+      $('.old_app_link').toggle(hist.indexOf('step-old_app_ios_android') > -1);
+    }
     var top = document.getElementById('estimate').getBoundingClientRect().top + window.pageYOffset - 120;
     if (window.pageYOffset > top) window.scrollTo(0, top);
   }
