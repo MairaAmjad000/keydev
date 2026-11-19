@@ -320,3 +320,8 @@ h1, h2, h3, h4, h5, h6, p, li, a {
   #estimate_form .Attchment_file_form .input-append { padding: 0; }
   #estimate_form .Attchment_file_form .input-append .btn--primary { right: 0; }
 }
+
+/* ---- Estimate wizard: breathing room between the fixed header and each step heading ---- */
+@media (max-width: 1024px) {
+  #estimate .estimate_title { padding-top: 24px; }
+}
