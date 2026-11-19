@@ -269,3 +269,23 @@ h1, h2, h3, h4, h5, h6, p, li, a {
 .fa.start-loader {
   display: none;
 }
+
+/* ---- Mobile/tablet header: compact logo, menu + call icons centred on it ---- */
+@media (max-width: 1024px) {
+  .navbar-header { padding: 8px 0; }
+  .navbar-header > a { width: 170px; max-width: 60vw; padding: 0; }
+  .navbar-header > a > img { width: 100%; height: auto; display: block; margin: 0 auto; }
+  .cd-nav-trigger { top: 14px; }
+  header #estimate-mobile-btn { top: 19px; }
+}
+
+/* ---- Messaging "Key features" picker: on mobile the accordion fills the card ---- */
+@media (max-width: 767px) {
+  .ins-msg-content-wrap { padding: 20px 15px; }
+  .ins-msg-content-wrap .contentrow { display: block !important; }
+  .ins-msg-content-wrap .contentrow > img { display: none !important; }
+  .ins-msg-content-wrap .tab_content_wrap { width: 100%; }
+  .ins-msg-content-wrap .accordian_header { margin-left: 0; }
+  .ins-msg-content-wrap .tab_content { margin-left: 0; }
+  .ins-msg-content-wrap .tab_inner_content p { overflow-wrap: break-word; }
+}
