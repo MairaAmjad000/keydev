@@ -1,4 +1,3 @@
-
 function initializeApp() {
 function isOnScreen(e) {
     if (0 != e.length) {
@@ -67,9 +66,14 @@ $(".lazybg").length && $(".lazybg").lazy(),
                     }
                 ),
             $(".sub-menu > li").length &&
-                $(".sub-menu > li").hover(function () {
-                    $(this).toggleClass("active");
-                }),
+                $(".sub-menu > li").hover(
+                    function () {
+                        $(this).addClass("active");
+                    },
+                    function () {
+                        $(this).removeClass("active");
+                    }
+                ),
             $(".megamenu").accessibleMegaMenu(),
             setTimeout(function () {
                 $("body").removeClass("init");
@@ -112,6 +116,30 @@ $(".lazybg").length && $(".lazybg").lazy(),
                         threshold: 0,
                     });
                 });
+    }),
+    $(document).ready(function () {
+        /* Nav state reset. Switching DevTools responsive mode (or any fast resize) can swallow mouseenter/mouseleave and
+           leave hover classes or inline styles from the old layout stuck on the nav until a reload. Whenever the
+           viewport settles, or the window regains focus, return the nav to its clean state. */
+        var $nav = $(".main-navbar-wrap");
+        $nav.find("[style]").each(function () {
+            $(this).attr("data-orig-style", $(this).attr("style"));
+        });
+        function resetNav() {
+            $(".megamenumain, .sub-menu > li").removeClass("active");
+            $nav.removeClass("fullwidth");
+            $nav.find("*").each(function () {
+                var orig = $(this).attr("data-orig-style");
+                if (orig !== undefined) { $(this).attr("style", orig); }
+                else if (this.hasAttribute("style")) { $(this).removeAttr("style"); }
+            });
+        }
+        var resizeTimer;
+        $(window).on("resize", function () {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(resetNav, 150);
+        });
+        $(window).on("focus pageshow", resetNav);
     }),
     $(document).ready(function () {
         // Set header background color based on scroll position
@@ -412,4 +440,3 @@ $(".lazybg").length && $(".lazybg").lazy(),
     });
 }
 initializeApp();
-

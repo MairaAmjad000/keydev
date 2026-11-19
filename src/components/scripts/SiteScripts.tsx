@@ -34,7 +34,7 @@ const SCRIPTS = [
  * Bump this whenever a file in public/scripts changes. Local scripts keep stable names and used to be cached for a
  * day, so browsers kept running an old copy (e.g. the one that reloaded the page on every portfolio filter click).
  */
-const SCRIPT_VERSION = '2026-11-19-1';
+const SCRIPT_VERSION = '2026-11-19-2';
 
 const withVersion = (src: string) => (src.startsWith('/') ? `${src}?v=${SCRIPT_VERSION}` : src);
 
