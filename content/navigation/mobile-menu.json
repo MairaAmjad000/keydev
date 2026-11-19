@@ -105,16 +105,16 @@
     },
     {
       "link": {
-        "href": "/service/ar-app-development",
+        "href": "/service/ios-game-development",
         "className": "",
-        "text": "AR App Development"
+        "text": "iOS Game Development"
       }
     },
     {
       "link": {
-        "href": "/service/vr-app-development",
+        "href": "/service/android-game-development",
         "className": "",
-        "text": "VR App Development"
+        "text": "Android Game Development"
       }
     }
   ],

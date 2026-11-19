@@ -289,3 +289,34 @@ h1, h2, h3, h4, h5, h6, p, li, a {
   .ins-msg-content-wrap .tab_content { margin-left: 0; }
   .ins-msg-content-wrap .tab_inner_content p { overflow-wrap: break-word; }
 }
+
+/* ---- Estimate wizard on phones: option tiles stay clear of the fixed "Get Quote" tab ---- */
+@media (max-width: 575px) {
+  #estimate .estimate_tabs .nav-tabs { margin-right: 34px; margin-left: 0; justify-content: center; }
+  #estimate .estimate_tabs .nav-tabs > li { padding: 4px; }
+  #estimate .estimate_tabs .nav-tabs > li > a,
+  #estimate .estimate_box { width: 84px; height: 92px; }
+}
+
+/* ---- Estimate final form on phones: stay inside the screen and clear of the "Get Quote" tab ---- */
+@media (max-width: 575px) {
+  #final-form { width: auto; max-width: 100%; margin-right: 34px; margin-left: 0; }
+  #final-form .estimate_title,
+  #final-form p { padding-right: 0; }
+  #estimate_form .form-group { padding-left: 0; padding-right: 0; }
+}
+
+@media (max-width: 767px) {
+  section#estimate { display: block; width: 100%; max-width: 100%; float: none; }
+  section#estimate .pjax-content { display: block; width: 100%; max-width: 100%; }
+  #estimate_form .input-append, #estimate_form .Attchment_file_form { max-width: 100%; }
+  #estimate_form .iti, #estimate_form .intl-tel-input { width: 100%; }
+}
+
+@media (max-width: 575px) {
+  #estimate_form .Attchment_file_form, #estimate_form .Attchment_file_form .input-append { margin-left: 0; margin-right: 0; width: 100%; }
+}
+@media (max-width: 575px) {
+  #estimate_form .Attchment_file_form .input-append { padding: 0; }
+  #estimate_form .Attchment_file_form .input-append .btn--primary { right: 0; }
+}
