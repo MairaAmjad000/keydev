@@ -44,6 +44,9 @@ export function buildBlogCategoryPage(
           pageSize: template.pageSize,
           loadMoreText: template.loadMoreText,
           emptyText: template.emptyText,
+          emptyTitle: template.emptyTitle,
+          emptyButton: template.emptyButton,
+          emptyCategoriesTitle: template.emptyCategoriesTitle,
           items: blogList.items
             .filter((item) => item.category.text === category.text)
             .map((item) => ({ ...item, buttonText: template.buttonText })),

@@ -9,6 +9,7 @@ import { link } from '@/lib/utils/markup';
 export function BlogList({ data }: { data: BlogListContent }) {
   const { sidebar } = data;
   const hasMore = data.items.length > data.pageSize;
+  const otherCategories = data.items.length === 0 ? sidebar.categories.items.filter((c) => !c.active).slice(0, 8) : [];
   return (
     <section id="blog">
       <div className="container">
@@ -59,7 +60,36 @@ export function BlogList({ data }: { data: BlogListContent }) {
                 </div>
               ))}
             </div>
-            {data.items.length === 0 && data.emptyText && <p className="blog-list-empty">{data.emptyText}</p>}
+            {data.items.length === 0 && (data.emptyText || data.emptyTitle) && (
+              <div className="blog-list-empty box-shadow rounded10 bg-white" role="status">
+                <div className="blog-list-empty-icon" aria-hidden="true">
+                  <svg viewBox="0 0 64 64" width="44" height="44" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M38 6H16a4 4 0 0 0-4 4v44a4 4 0 0 0 4 4h32a4 4 0 0 0 4-4V20L38 6z" />
+                    <path d="M38 6v14h14" />
+                    <path d="M22 32h20M22 40h12" />
+                  </svg>
+                </div>
+                {data.emptyTitle && <h2 className="blog-list-empty-title">{data.emptyTitle}</h2>}
+                {data.emptyText && <p className="blog-list-empty-text">{data.emptyText}</p>}
+                {data.emptyButton && (
+                  <a className="btn btn-custome waves-effect waves-light blog-list-empty-btn" {...link(data.emptyButton.href)}>
+                    {data.emptyButton.text}
+                  </a>
+                )}
+                {otherCategories.length > 0 && (
+                  <div className="blog-list-empty-cats">
+                    {data.emptyCategoriesTitle && <span className="blog-list-empty-cats-title">{data.emptyCategoriesTitle}</span>}
+                    <ul>
+                      {otherCategories.map((c, i) => (
+                        <li key={i}>
+                          <a {...link(c.href)}>{c.text}</a>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+              </div>
+            )}
             {hasMore && (
               <div className="container mt-4">
                 <div className="title">

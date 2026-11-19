@@ -47,8 +47,13 @@ $(document).ready(function () {
     $container.isotope({ filter: filterValue });
   }
 
-  $('.portfolio-listing-box .portfolio-listing-icon').on('click', function () {
+  $('.portfolio-listing-box .portfolio-listing-icon').on('click', function (e) {
+    /* a filter tab is never a navigation: no default action, no bubbling to site-wide link/anchor handlers */
+    e.preventDefault();
+    e.stopPropagation();
     var filterValue = $(this).attr('data-filter');
+    window.__keydevHashOnly = true;
+    setTimeout(function () { window.__keydevHashOnly = false; }, 300);
     /* replaceState updates the URL without firing hashchange, so the list is filtered exactly once */
     var newHash = '#filter=' + encodeURIComponent(filterValue);
     if (window.history && history.replaceState) {

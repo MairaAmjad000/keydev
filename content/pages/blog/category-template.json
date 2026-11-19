@@ -23,5 +23,8 @@
   "pageSize": 6,
   "loadMoreText": "Load More",
   "buttonText": "Explore More",
-  "emptyText": "No articles in this category yet. Please check back soon."
+  "emptyTitle": "No articles here yet",
+  "emptyText": "We haven't published anything in this category yet. Please check back soon, or explore our other topics.",
+  "emptyButton": { "text": "View all articles", "href": "/blog" },
+  "emptyCategoriesTitle": "Browse other categories"
 }

@@ -30,14 +30,22 @@ const SCRIPTS = [
   'https://cdn.jsdelivr.net/npm/sweetalert2@11.4.0/dist/sweetalert2.min.js',
 ] as const;
 
+/**
+ * Bump this whenever a file in public/scripts changes. Local scripts keep stable names and used to be cached for a
+ * day, so browsers kept running an old copy (e.g. the one that reloaded the page on every portfolio filter click).
+ */
+const SCRIPT_VERSION = '2026-11-19-1';
+
+const withVersion = (src: string) => (src.startsWith('/') ? `${src}?v=${SCRIPT_VERSION}` : src);
+
 function loadScript(src: string): Promise<void> {
   return new Promise((resolve) => {
     const script = document.createElement('script');
-    script.src = src;
+    script.src = withVersion(src);
     script.async = false;
     script.onload = () => resolve();
     script.onerror = () => {
-      console.error(`[SiteScripts] failed to load ${src}`);
+      console.error(`[SiteScripts] failed to load ${script.src}`);
       resolve(); // one blocked CDN must not stop the rest of the page
     };
     document.body.appendChild(script);

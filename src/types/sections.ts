@@ -1106,6 +1106,12 @@ export interface BlogListContent {
   loadMoreText: string;
   /** Shown when there are no articles (e.g. a category without posts). */
   emptyText?: string;
+  /** Heading of the empty-state card (omitted = no heading). */
+  emptyTitle?: string;
+  /** Button under the empty-state text, e.g. back to all articles (omitted = no button). */
+  emptyButton?: { text: string; href: string };
+  /** Label above the links to the other categories in the empty-state card (omitted = no label). */
+  emptyCategoriesTitle?: string;
   items: BlogListItem[];
   sidebar: {
     social: { title: string; items: Array<{ href: string; /** Font Awesome classes, e.g. "fab fa-twitter" */ iconClass: string }> };
@@ -1423,6 +1429,9 @@ export interface BlogCategoryTemplate {
   loadMoreText: string;
   buttonText: string;
   emptyText: string;
+  emptyTitle?: string;
+  emptyButton?: { text: string; href: string };
+  emptyCategoriesTitle?: string;
 }
 
 // ---------------------------------------------------------------------------------------------
