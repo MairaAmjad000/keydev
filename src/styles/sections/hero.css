@@ -711,6 +711,22 @@
      padding: 40px 0 110px;
      background-color: transparent
   }
+  /* Portfolio-style banners: let the text block size the banner (image sits behind it) so the heading never touches the navbar */
+  .innerbanner.height668 .video {
+     position: absolute;
+     inset: 0;
+     min-height: 100%;
+     max-height: none
+  }
+  .innerbanner.height668 .video img {
+     height: 100%;
+     min-height: 100%
+  }
+  .innerbanner.height668 .tenc-intro-main__wrapper {
+     position: relative;
+     height: auto;
+     padding: 70px 0 110px
+  }
   .banner-2 .banner-main__wrapper {
      padding: 50px 0 110px
   }
