@@ -16,28 +16,53 @@ $(document).ready(function () {
 
   var $filterButtonGroup = $('.portfolio-listing-section .d-flex');
   var $container = $('.isotop');
+  var currentFilter = getHashFilter() || '*';
+
+  function markCurrent(filterValue) {
+    $filterButtonGroup.find('.current').removeClass('current');
+    $filterButtonGroup
+      .find('.portfolio-listing-icon')
+      .filter(function () { return $(this).attr('data-filter') === filterValue; })
+      .parent('.portfolio-listing-box')
+      .addClass('current');
+  }
+
+  /* Initialise Isotope ONCE, already filtered, with no fade/scale animation, so nothing flashes or disappears. */
+  $container.isotope({
+    itemSelector: '.section',
+    filter: currentFilter,
+    transitionDuration: 0,
+    hiddenStyle: { opacity: 0 },
+    visibleStyle: { opacity: 1 }
+  });
+  markCurrent(currentFilter);
+
+  /* Re-layout (not re-init) once images have loaded, since they change the row heights. */
+  $container.imagesLoaded(function () { $container.isotope('layout'); });
+
+  function applyFilter(filterValue) {
+    if (filterValue === currentFilter) return;
+    currentFilter = filterValue;
+    markCurrent(filterValue);
+    $container.isotope({ filter: filterValue });
+  }
 
   $('.portfolio-listing-box .portfolio-listing-icon').on('click', function () {
     var filterValue = $(this).attr('data-filter');
-    location.hash = 'filter=' + encodeURIComponent(filterValue);
-    $container.isotope({ filter: filterValue });
+    /* replaceState updates the URL without firing hashchange, so the list is filtered exactly once */
+    var newHash = '#filter=' + encodeURIComponent(filterValue);
+    if (window.history && history.replaceState) {
+      history.replaceState(history.state, '', location.pathname + location.search + newHash);
+    } else {
+      location.hash = newHash;
+    }
+    applyFilter(filterValue);
   });
 
-  var isIsotopeInit = false;
-  function onHashchange() {
-    var hashFilter = getHashFilter();
-    if (!hashFilter && isIsotopeInit) return;
-    isIsotopeInit = true;
-    $container.imagesLoaded(function () {
-      $container.isotope({ itemSelector: '.section', filter: hashFilter || '*' });
-      if (hashFilter) {
-        $filterButtonGroup.find('.current').removeClass('current');
-        $filterButtonGroup.find('[data-filter="' + hashFilter + '"]').parent('.portfolio-listing-box').addClass('current');
-      }
-    });
-  }
-  $(window).on('hashchange', onHashchange);
-  onHashchange();
+  /* back/forward buttons or a manually edited #filter=... */
+  $(window).on('hashchange', function () {
+    applyFilter(getHashFilter() || '*');
+  });
 
   var ee = new EventEmitter();
   if ($.smartscroll) {

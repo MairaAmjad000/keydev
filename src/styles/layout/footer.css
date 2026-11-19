@@ -1168,3 +1168,20 @@
    z-index: 999 !important;
 }
 
+
+/* Reveal footer: the footer is fixed behind the page and uncovered as the page scrolls away (the "curtain" animation).
+   That only works while the whole footer fits in the window under the sticky header. On short windows (small laptops,
+   zoomed browsers) its top edge, the headings, would stay hidden under the header, so there the footer sits in the
+   normal page flow instead and can be scrolled into view in full. Taller windows keep the animation untouched. */
+@media (min-width:1200px) and (max-width:1440px) and (max-height:700px),
+       (min-width:1441px) and (max-width:1600px) and (max-height:730px),
+       (min-width:1601px) and (max-height:920px) {
+  main {
+     margin-bottom: 0
+  }
+  .footer-main {
+     position: relative;
+     height: auto;
+     z-index: inherit
+  }
+}
