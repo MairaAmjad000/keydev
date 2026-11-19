@@ -75,27 +75,31 @@
 
 .work_rating {
    background: #fbfcfc;
-   padding: 22.5px 10px;
+   flex: 1 1 auto;
+   align-self: stretch;
+   padding: 0 20px;
    display: flex;
    align-items: center;
-   justify-content: space-between;
+   justify-content: flex-end;
    border-left: 1px solid #dddfe1;
    transition: all .3s ease
 }
 
-.work_rating img {
-   width: 50px;
-   margin-right: 10px
-}
-
 .rating_text {
-   text-align: center
+   text-align: right
 }
 
 .rating_text p {
    font-size: 16px;
    font-weight: 700;
+   color: #555;
    margin: 0 0 3px
+}
+
+.rating_text .fa-star {
+   color: #008080;
+   font-size: 15px;
+   margin-left: 2px
 }
 
 .rating_text strong {
@@ -154,17 +158,13 @@
 }
 
 @media (max-width:767px) {
-  .work_rating img {
-     width: 40px;
-     margin-right: 5px
-  }
   .work_logo {
      width: auto;
      height: 95px
   }
   .work_rating {
-     padding: 0 5px;
-     width: 150px;
+     padding: 0 10px;
+     min-width: 140px;
      height: 95px
   }
   .rating_text {

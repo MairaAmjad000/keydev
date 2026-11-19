@@ -83,24 +83,9 @@ export function ScheduleCall({ data, forms }: { data: ScheduleCallContent; forms
                             width={item.link.image.width}
                             height={item.link.image.height}
                           />
-                          {' '}
-                          <img
-                            className="top_rating_img lazy"
-                            data-src={item.link.topRatingImg.src}
-                            alt={item.link.topRatingImg.alt}
-                            width={item.link.topRatingImg.width}
-                          />
                         </div>
                         {' '}
                         <div className="work_rating">
-                          <img
-                            className="lazy"
-                            data-src={item.link.image2.src}
-                            alt={item.link.image2.alt}
-                            width={item.link.image2.width}
-                            height={item.link.image2.height}
-                          />
-                          {' '}
                           <div className="rating_text">
                             <p dangerouslySetInnerHTML={{ __html: item.link.text }} />
                             {' '}
@@ -135,14 +120,6 @@ export function ScheduleCall({ data, forms }: { data: ScheduleCallContent; forms
                     </div>
                     {' '}
                     <div className="work_rating">
-                      <img
-                        className="lazy"
-                        data-src={data.link.image2.src}
-                        alt={data.link.image2.alt}
-                        width={data.link.image2.width}
-                        height={data.link.image2.height}
-                      />
-                      {' '}
                       <div className="rating_text">
                         <p dangerouslySetInnerHTML={{ __html: data.link.text }} />
                         {' '}
