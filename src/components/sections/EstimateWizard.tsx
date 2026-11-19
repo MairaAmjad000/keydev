@@ -162,7 +162,7 @@ function FinalForm({
             <form
               encType="multipart/form-data"
               id="estimate_form"
-              className="bv-form row"
+              className="bv-form"
               action={form.action}
               method="POST"
             >

@@ -2311,7 +2311,7 @@
       "attachment": "Add Attachment",
       "androidLink": "Android Play Store Link",
       "iosLink": "Apple App Store Link",
-      "additional": "Description"
+      "additional": "Short description of the project requirement"
     },
     "successTitle": "Success!",
     "errorTitle": "Oops...",

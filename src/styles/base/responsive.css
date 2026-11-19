@@ -1,0 +1,271 @@
+/*
+ * Responsive fixes (loaded after every section/layout sheet so these win on equal specificity).
+ * Covers every viewport from 320px phones to 1920px+ desktops.
+ */
+
+/* ---- Global safety nets ---- */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+iframe,
+embed,
+object {
+  max-width: 100%;
+}
+table {
+  max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6, p, li, a {
+  overflow-wrap: break-word;
+}
+
+/* ---- Client logo strip (portfolio, category and service pages) ---- */
+.client-logo {
+  flex-wrap: wrap;
+}
+.client-logo li img {
+  max-width: 100%;
+  height: auto;
+}
+@media (max-width: 767px) {
+  .client-logo {
+    justify-content: center !important;
+  }
+  .client-logo li {
+    width: 33.333%;
+    border-right: none;
+    padding: 10px;
+  }
+}
+
+/* ---- Who we are: leadership portrait (was a fixed 380px circle) ---- */
+.about-leadership-image {
+  max-width: 100%;
+}
+.about-leadership-image img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+@media (max-width: 1199px) {
+  .about-leadership-image {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 380px;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+  }
+}
+@media (max-width: 991px) {
+  .about-leadership-image {
+    margin-bottom: 50px !important;
+  }
+}
+@media (max-width: 575px) {
+  .about-leadership-image {
+    width: 100%;
+    max-width: 320px;
+  }
+  .about-leadership-image img {
+    max-height: 100%;
+  }
+}
+
+/* ---- Category page: numbered offering titles ---- */
+.what-we-offer-main-listing-title {
+  max-width: 100%;
+}
+.what-we-offer-main-listing-title h2 {
+  min-width: 0;
+}
+@media (max-width: 575px) {
+  .what-we-offer-main-listing-title .number {
+    font-size: 56px;
+    line-height: 44px;
+    margin-right: 10px;
+  }
+  .what-we-offer-main-listing-title .number span {
+    font-size: 26px;
+    line-height: 22px;
+  }
+  .what-we-offer-main-listing-title h2 {
+    font-size: 22px;
+    line-height: 1.25;
+  }
+}
+
+/* ---- Solution pages: "similar app" block ---- */
+@media (max-width: 575px) {
+  .similar-app-content-wrap {
+    padding: 30px 15px;
+  }
+  .similar-app-content {
+    max-width: 100%;
+  }
+}
+
+/* ---- Decorative pseudo-elements on the leadership blocks must not widen the page ---- */
+.about-leadership-section {
+  overflow-x: hidden;
+  overflow-x: clip;
+}
+
+/* ---- Buttons: long labels wrap instead of pushing the page wider ---- */
+@media (max-width: 575px) {
+  .btn-custome,
+  .btn {
+    white-space: normal;
+    max-width: 100%;
+  }
+}
+
+/* ---- Portfolio preview boxes: flex centering instead of table layout (tables grow to fit wide content) ---- */
+.portfolio-preview-box.section {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.portfolio-preview-box.section > div {
+  display: block;
+  flex: 1 1 100%;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.portfolio-preview-main-logo-text {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+.portfolio-preview-main-logo-text .appname,
+.portfolio-preview-main-logo-text .moreaboutapp {
+  overflow-wrap: anywhere;
+}
+
+/* ---- Home: "What Sets Us Apart" value cards (4 / 2 / 1 columns, equal height, nothing clipped) ---- */
+.Feature-slider {
+  flex-wrap: wrap;
+  overflow: visible !important;
+}
+.Feature-slider > .item {
+  flex: 0 0 25%;
+  max-width: 25%;
+  margin-bottom: 30px;
+  display: flex;
+}
+.Feature-slider > .item > .why-choose-box {
+  width: 100%;
+  height: 100%;
+}
+@media (max-width: 991px) {
+  .Feature-slider > .item {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+  .why-choose-box {
+    min-height: 0;
+  }
+}
+@media (max-width: 575px) {
+  .Feature-slider > .item {
+    flex-basis: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+/* ---- Industry cards: equal heights per row, no fixed minimum on small screens ---- */
+.row > [class*="col"] > .solutions-box {
+  height: calc(100% - 30px);
+}
+@media (max-width: 575px) {
+  .solutions-box {
+    min-height: 0;
+  }
+}
+
+/* ---- Inner page banners: clear the 94px fixed header on phones/tablets ---- */
+@media (max-width: 991px) {
+  .innerbanner .tenc-intro-main__wrapper {
+    padding-top: 90px;
+  }
+}
+
+/* ---- Category page: framework tabs. framework-tabs.css loads after hero.css and re-applied a 55% column on small screens ---- */
+@media (max-width: 991px) {
+  .web-app-sev-lang-collapse .right-col {
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+  .web-app-sev-lang-collapse .content_wrapper {
+    max-width: 100%;
+  }
+  .web-app-sev-lang-collapse .accordian_header {
+    max-width: 100%;
+  }
+}
+
+/* ---- Solution pages: CTA banner icon scales down on small screens ---- */
+@media (max-width: 767px) {
+  .real-time-app-icon {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .real-time-app-icon svg {
+    width: 140px;
+    height: auto;
+    max-height: 160px;
+  }
+  .real-time-app-content-box {
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center !important;
+  }
+}
+
+/* ---- Banner text stays clear of the fixed "Get Quote" tab on phones ---- */
+@media (max-width: 767px) {
+  .tenc-intro-main__wrapper > .container {
+    padding-right: 46px;
+  }
+}
+
+/* ---- Technologies logo grids: logos were stretched to the full column width on phones/tablets ---- */
+@media (max-width: 991px) {
+  .technology-box li {
+    min-height: 170px;
+    padding: 20px;
+  }
+  .technology-box li img {
+    width: auto;
+    max-width: 100%;
+    max-height: 130px;
+    object-fit: contain;
+  }
+}
+@media (max-width: 575px) {
+  .technology-box > li {
+    flex: 0 0 50%;
+    max-width: 50%;
+    min-height: 140px;
+    padding: 15px;
+  }
+  .technology-box li img {
+    max-height: 90px;
+  }
+}
+
+/* ---- Estimate wizard: submit-button spinner is hidden until a submit is in progress (matches the original template) ---- */
+.fa.start-loader {
+  display: none;
+}

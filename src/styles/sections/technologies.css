@@ -2,6 +2,7 @@
    border: none;
    width: 100%;
    display: flex;
+   flex-wrap: wrap;
    align-items: center;
    justify-content: center;
    margin-bottom: 50px
@@ -24,6 +25,11 @@
 
 #technologies_tabs li:last-child {
    border-right: 0
+}
+
+.technologies_icons {
+   flex-wrap: wrap;
+   justify-content: center
 }
 
 .technologies_icons li {
@@ -148,8 +154,12 @@
 }
 
 @media (max-width:767px) {
+  #technologies_tabs {
+     margin-bottom: 30px
+  }
   #technologies_tabs li {
-     margin: 5px 0
+     margin: 5px 0;
+     text-align: center
   }
   .technologies_icons li {
      width: 80px;

@@ -96,5 +96,8 @@
 @import './layout/cookie-alert.css';
 @import './layout/hire-sticky-bar.css';
 
+/* Responsive fixes: must come after every sheet above */
+@import './base/responsive.css';
+
 /* Font Awesome (self-hosted fonts); must stay last */
 @import './vendor/fontawesome-embedded.css';
