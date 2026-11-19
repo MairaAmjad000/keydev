@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6, p, li, a {
 
 /* ---- Client logo strip (portfolio, category and service pages) ---- */
 .client-logo {
-  flex-wrap: wrap;
+  flex-wrap: nowrap; /* one row on desktop/tablet: each logo is width:100% and shrinks equally; wrapping would stack them */
 }
 .client-logo li img {
   max-width: 100%;
@@ -39,6 +39,7 @@ h1, h2, h3, h4, h5, h6, p, li, a {
 }
 @media (max-width: 767px) {
   .client-logo {
+    flex-wrap: wrap; /* phones: three logos per row (li width below) */
     justify-content: center !important;
   }
   .client-logo li {
